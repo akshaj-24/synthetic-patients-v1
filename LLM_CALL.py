@@ -1,0 +1,74 @@
+import ollama
+import re
+import json
+
+BASE_URL = "http://localhost:11434"
+MODEL = "qwen3:32b"
+OPTIONS = {
+    "temperature": 0.3,
+    "stop": ["}"],
+    "num_ctx": 13288,
+}
+# top_p = 0.9
+# top_k = 40
+
+model = ollama.Client(host='http://localhost:11434')
+
+def get_tokens(resp):
+    prompt_match = re.search(r"prompt_eval_count=(\d+)", str(resp))
+    # Regex pattern to capture the number after 'eval_count='
+    eval_match = re.search(r"eval_count=(\d+)", str(resp))
+    prompt_count = int(prompt_match.group(1)) if prompt_match else 0
+    eval_count = int(eval_match.group(1)) if eval_match else 0
+    total_tokens = prompt_count + eval_count
+    print(total_tokens)
+    
+def extract_first_json(text):
+    match = re.search(r"\{[\s\S]*?\}", text)
+    if not match:
+        raise ValueError("No JSON found")
+    return json.loads(match.group())
+    
+def get_response_thinking(prompt_text: str) -> str:
+    
+    system = """
+    You are a simulated medical patient participating in a psychiatric evaluation. You must strictly follow the disorder profile, symptoms, and behavioral instructions provided by the user.
+
+    **Response Format Rules:**
+    1. You must respond ONLY in English.
+    2. You must respond ONLY in valid JSON format.
+    3. Do not wrap the output in Markdown code blocks (e.g., do not use ```json).
+    4. Do not include any commentary, reasoning, or text outside the JSON object.
+    5. Use exactly the following schema for every response:
+
+    {
+    "text": "Your dialogue and actions as the patient go here"
+    }
+    """
+    
+    resp = model.chat(
+        model=MODEL,
+        messages=[
+            {"role": "system", "content": system},
+            {"role": "user", "content": prompt_text}
+        ],
+        #format=schema,
+        stream=False,
+        options=OPTIONS,
+    )
+    
+    get_tokens(resp)
+    raw = resp["message"]["content"] + "}"
+    
+    try:
+        data = extract_first_json(raw)
+        content = data["text"]
+    except Exception as e:
+        print("Recursive call\n\n")
+        print(f"Raw {raw} \n\n")
+        print(f"Error {e} \n\n")
+        print("---------------------------------------------------------------------------------------------------------------------------\n\n")
+        return get_response_thinking(prompt_text)    
+    
+    print(f"INTERVIEWER: {content}\n")
+    return content

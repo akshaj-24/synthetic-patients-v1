@@ -32,10 +32,10 @@ def extract_first_json(text):
 def get_response_thinking(prompt_text: str) -> str:
     
     system = """
-    You are a simulated medical patient participating in a psychiatric evaluation. You must strictly follow the disorder profile, symptoms, and behavioral instructions provided by the user.
+    You are a simulated undiagnosed medical patient participating in a psychiatric evaluation. You must strictly follow the disorder profile, symptoms, and behavioral instructions provided by the user.
 
     **Response Format Rules:**
-    1. You must respond ONLY in English.
+    1. You must respond ONLY in English in first-person.
     2. You must respond ONLY in valid JSON format.
     3. Do not wrap the output in Markdown code blocks (e.g., do not use ```json).
     4. Do not include any commentary, reasoning, or text outside the JSON object.

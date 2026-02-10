@@ -66,7 +66,7 @@ def rehydrate_session(state):
     s.session_transcript = transcript_path
     
     # CRITICAL: Consistent naming for notes
-    s.interviewer_notes = state.get('interviewer_notes', "") 
+    s.notes = state.get('notes', "") 
     
     return s
 
@@ -208,7 +208,7 @@ def save_notes(req: NotesRequest):
             raise fastapi.HTTPException(status_code=404, detail="Session not found")
     
     # Update & Save
-    sessions[req.session_id].interviewer_notes = req.notes
+    sessions[req.session_id].notes = req.notes
     database.save_session_to_db(sessions[req.session_id])
     
     return {"message": "Notes saved"}

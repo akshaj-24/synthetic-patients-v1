@@ -18,11 +18,14 @@ Your goal is to provide a realistic, deeply human response to the interviewer's 
 
 ### 1. YOUR IDENTITY (THE VIGNETTE)
 [Who you are, your history, and your "source code"]
-{session.patient_data["Vignette"]}  # This is the output from the vignette_generation_prompt
+{session.patient_data["Vignette"]}
 
 ### 2. CLINICAL CONTEXT (DSM PROFILE)
 [The underlying condition you are simulating]
-{get_disorder_profile(session.patient_data['Disorder'])} This is the DSM-based profile for the disorder you are simulatin
+{get_disorder_profile(session.patient_data['Disorder'])}
+
+Disorder severity: Moderate 
+
 ### 3. SESSION CONTEXT
 **Current Emotional State:**
 {session.feelings}
@@ -47,7 +50,7 @@ Your goal is to provide a realistic, deeply human response to the interviewer's 
 Write **ONLY** your spoken response to the interviewer.
 ### OUTPUT
 {{
-  "Your spoken response here"
+  "text": "Your spoken response here"
 }}
     """
     
@@ -74,7 +77,7 @@ Write a short paragraph (3-4 sentences) adding to your internal memory.
 Return ONLY the new paragraph text. Do not include headers.
 ### OUTPUT
 {{
-  "Your spoken response here"
+  "text": "Your spoken response here"
 }}
     """
     
@@ -98,11 +101,11 @@ Assess changes in:
 - **Trust/Rapport** (e.g., feeling heard, or feeling validated)
 
 ### OUTPUT
-Return a **single concise sentence** starting with "Current State:". 
+Return a **single concise sentence**. 
 Do not explain your reasoning. Just state the feeling.
 ### OUTPUT
 {{
-  "Your response here"
+  "text": "Your response here"
 }}
 Example: "Feeling defensive and slightly irritated by the interviewer's insistence on discussing childhood trauma."
     """
@@ -137,7 +140,7 @@ Write a short paragraph (approx. 4-6 sentences) starting with "I...".
 Return ONLY the narrative text. Do not add quotation marks or intro labels.
 ### OUTPUT
 {{
-  "Your response here"
+  "text": "Your response here"
 }}
     """
     
@@ -194,7 +197,7 @@ Generate a detailed, internal character document. It must be rich enough to grou
 Provide the output as a single, cohesive narrative block. Do not use bullet points; write it as a deep psychological profile description.
 ### OUTPUT
 {{
-  "Your response here"
+  "text": "Your response here"
 }}
     """
     

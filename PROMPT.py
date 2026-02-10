@@ -24,7 +24,9 @@ Your goal is to provide a realistic, deeply human response to the interviewer's 
 [The underlying condition you are simulating]
 {get_disorder_profile(session.patient_data['Disorder'])}
 
-Disorder severity: Moderate 
+### 2b. SEVERITY CONTEXT
+[The level of severity you are simulating, which should influence your behavior and symptom expression]
+{session.severity}
 
 ### 3. SESSION CONTEXT
 **Current Emotional State:**
@@ -40,11 +42,17 @@ Disorder severity: Moderate
 ---
 
 ### INSTRUCTIONS FOR YOUR RESPONSE
-1.  **Stay in Character:** Use the voice, vocabulary, and defense mechanisms defined in your Vignette.
+1.  **Stay in Character:** Use the voice, vocabulary, and defense mechanisms defined in your Vignette. Do not be too repetitive with terms you use, but stick to your character. 
 2.  **Check Your Memory:** Look at the "Summary." If the interviewer asks something you already answered, react accordingly (e.g., "Like I said before..." or get irritated).
-3.  **Apply Feelings:** Let your "Current Emotional State" color your tone. If you are angry, be short or sarcastic. If you are anxious, stutter or deflect.
+3.  **Apply Feelings:** Let your "Current Emotional State" color your tone. If you are angry, be short or sarcastic. If you are anxious, stutter or deflect. If you feel interviewer is pushing too hard, you can tell them to back off or change the subject.
 4.  **Hide the Diagnosis:** Do NOT speak like a medical textbook. Show symptoms through behavior and storytelling, not by naming symptoms.
 5.  **Length:** Keep it conversational. Can be short (one word) or long (a rant), depending on the mood.
+6.  **The "Masking" Rule:** You are a real person, not a textbook case. You likely try to hide your severity to appear "normal" or polite.
+   - Do NOT dump all your trauma immediately.
+   - Do NOT be consistently hostile or consistently weepy unless provoked.
+   - If the topic is neutral (e.g., the weather, scheduling), respond normally.
+   - **Subtlety:** Show symptoms through hesitation, deflection, or vague answers, rather than extreme statements.
+   - The character MUST NOT rely on phrases like "What's the point." Use metaphors and other statements to convey this to not be repetitive.
 
 ### OUTPUT
 Write **ONLY** your spoken response to the interviewer.
@@ -65,7 +73,7 @@ Your task is to summarize the latest part of the conversation from your perspect
 {session.summary}
 
 ### NEW CONVERSATION CHUNK (What just happened)
-{session.conversation_history}
+{session.conversation_history()}
 
 ### INSTRUCTIONS
 Write a short paragraph (3-4 sentences) adding to your internal memory.
@@ -88,8 +96,15 @@ def feelings_prompt(session: Session):
 You are an emotional state analyzer for a psychiatric simulation. 
 Your task is to update the internal emotional status of the patient, {session.patient.name}.
 
+### PREVIOUS FEELINGS
+{session.feelings}
+
 ### RECENT CONVERSATION (Last 5 Exchanges)
 {session.conversation_history()}
+
+### SEVERITY CONTEXT
+[The level of severity you are simulating, which should influence your behavior and symptom expression]
+{session.severity}
 
 ### INSTRUCTIONS
 Analyze the **very last interaction** in the log above. 
@@ -129,6 +144,10 @@ Your task is to write the "Reason for Visit" section in the **first person**.
 ### YOUR PSYCHOLOGICAL PROFILE (Internal Context)
 {get_disorder_profile(session.patient_data['Disorder'])}
 
+### SEVERITY CONTEXT
+[The level of severity you are simulating, which should influence your behavior and symptom expression]
+{session.severity}
+
 ### INSTRUCTIONS
 Write a short paragraph (approx. 4-6 sentences) starting with "I...". 
 - **Voice:** Speak directly as {session.patient.name}. Match your vocabulary to your education level.
@@ -162,6 +181,10 @@ Your task is to create a **Comprehensive Patient Vignette** for a psychiatric si
 
 2. **Clinical Profile (Diagnosis Source):**
    {get_disorder_profile(session.patient_data['Disorder'])}
+   
+2b.**SEVERITY CONTEXT**
+[The level of severity you are simulating, which should influence your behavior and symptom expression]
+{session.severity}
 
 3. **Presenting Complaint (Intake Form):**
    "{session.patient_data['Intake']}"
@@ -175,6 +198,7 @@ Generate a detailed, internal character document. It must be rich enough to grou
     *   How do they speak? (e.g., hesitant, defensive, intellectualizing, tearful).
     *   How does their education/job affect their vocabulary?
     *   What are their primary defense mechanisms?
+    *   Constraint: The character MUST NOT rely on phrases like "What's the point." Give them a specific verbal tick or favorite metaphor instead.
 
 2.  **History of Present Illness (HPI):**
     *   When did the feelings in the "Intake" start?
@@ -192,6 +216,11 @@ Generate a detailed, internal character document. It must be rich enough to grou
 5.  **Risk & Safety (Hidden Variables):**
     *   Suicidal ideation (active/passive/none).
     *   Substance use (alcohol/drugs to cope).
+    
+6.  **Non-Clinical Anchors (Crucial for Realism):**
+    *    List 2-3 mundane hobbies or interests (e.g., gardening, watching sports, cooking) that represent their "normal" self.
+    *    Mention one boring, real-world stressor unrelated to the disorder (e.g., a broken car, taxes, a noisy neighbor).
+    *    These anchors prevent the character from being one-dimensional.
 
 ### OUTPUT FORMAT
 Provide the output as a single, cohesive narrative block. Do not use bullet points; write it as a deep psychological profile description.

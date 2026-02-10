@@ -90,6 +90,7 @@ def start_session(req: StartRequest):
     # Save to DB & Cache
     database.save_session_to_db(session)
     sessions[id] = session
+    session.notes = ""
     
     return {
         "session_id": id, 
@@ -185,11 +186,7 @@ def load_session(req: LoadRequest):
     else:
         print(f"Transcript file not found: {session.session_transcript}")
 
-    fields = [
-        "Name", "Age", "Gender", "Education", "Occupation",
-        "Marital Status", "Ethnicity", "Disorder", "Intake", "Vignette"
-    ]
-    data = {k: session.patient_data[k] for k in fields if k in session.patient_data}
+    data = session.get_session_patient_data()
     return {
         "session_id": session.session_id,
         "patient_data": data,

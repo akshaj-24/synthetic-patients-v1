@@ -35,6 +35,7 @@ class NotesRequest(BaseModel):
 
 # Initialize App & DB
 app = fastapi.FastAPI()
+
 database.init_db()
 sessions = {}  # In-memory cache
 

@@ -9,6 +9,11 @@ OPTIONS = {
     "stop": ["}"],
     "num_ctx": 13288,
 }
+INT_OPTIONS = {
+    "temperature": 0.3,
+    "stop": ["}"],
+    "num_ctx": 13388,
+}
 # top_p = 0.9
 # top_k = 40
 
@@ -43,6 +48,50 @@ def get_response_thinking(prompt_text: str) -> str:
 
     {
     "text": "Your dialogue and actions as the patient go here"
+    }
+    """
+    
+    resp = model.chat(
+        model=MODEL,
+        messages=[
+            {"role": "system", "content": system},
+            {"role": "user", "content": prompt_text}
+        ],
+        #format=schema,
+        stream=False,
+        options=OPTIONS,
+    )
+    
+    get_tokens(resp)
+    raw = resp["message"]["content"] + "}"
+    
+    try:
+        data = extract_first_json(raw)
+        content = data["text"]
+    except Exception as e:
+        print("Recursive call\n\n")
+        print(f"Raw {raw} \n\n")
+        print(f"Error {e} \n\n")
+        print("---------------------------------------------------------------------------------------------------------------------------\n\n")
+        return get_response_thinking(prompt_text)    
+    
+    print(f"PATIENT: {content}\n")
+    return content
+
+def get_response_interviewer(prompt_text: str) -> str:
+    
+    system = """
+    You are a simulated medical interviewer participating in a psychiatric session. You must strictly follow the behavioral instructions provided by the user.
+
+    **Response Format Rules:**
+    1. You must respond ONLY in English in first-person.
+    2. You must respond ONLY in valid JSON format.
+    3. Do not wrap the output in Markdown code blocks (e.g., do not use ```json).
+    4. Do not include any commentary, reasoning, or text outside the JSON object.
+    5. Use exactly the following schema for every response:
+
+    {
+    "text": "Your dialogue and actions as the interviewer go here"
     }
     """
     

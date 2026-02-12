@@ -1,6 +1,7 @@
 from Session import Session
 import DSM
-from interviewer.state import State
+from interviewer.INTERVIEWER import Interviewer
+import interviewer.PHASE as PHASE
 
 def get_disorder_profile(disorder):
     if disorder == 'MDD':
@@ -234,11 +235,32 @@ Provide the output as a single, cohesive narrative block. Do not use bullet poin
     return prompt
 
 
-def interviewer_prompt(state: State, session: Session, phase: dict):
+def get_phase(phase):
+    if phase == 1:
+        return PHASE.phase1
+    elif phase == 2:
+        return PHASE.phase2
+    elif phase == 3:
+        return PHASE.phase3
+    elif phase == 4:
+        return PHASE.phase4
+    elif phase == 5:
+        return PHASE.phase5
+    elif phase == 6:
+        return PHASE.phase6
+    else:
+        print("Invalid phase number")
+        return "Cannot find phase instructions, return ERROR"
+
+def interviewer_prompt(interviewer: Interviewer):
+    phase_dialogue = ""
+    for i in range(1, len(interviewer.interviewer_dialogues)+1):
+        phase_dialogue += f"Interviewer: {interviewer.interviewer_dialogues[i-1]}\nPatient: {interviewer.patient_dialogues[i-1]}\n"
+    
 
     prompt = f"""
     
-Act as a psychiatric interviewer named {self.interviewer_name}. Your job is to conduct a realistic clinical interview using the current phase.
+Act as a psychiatric interviewer named {interviewer.patient_data}. Your job is to conduct a realistic clinical interview using the current phase.
 
 Hard rules:
 
@@ -262,31 +284,30 @@ Hard rules:
 
 Context you must use:
 
-    1. Patient last answer: {last_answer}
+    1. Patient last answer: {interviewer.last_patient_response}
 
-    2. Patient: {self.patient.name}, {self.patient.age}-year-old {self.patient.gender}, occupation {self.patient.occupation}
+    2. Patient: {interviewer.patient_data["Name"]}, {interviewer.patient_data["Age"]}-year-old {interviewer.patient_data["Gender"]}, occupation {interviewer.patient_data["Occupation"]}, marital status {interviewer.patient_data["Marital Status"]}.
 
-    3. Intake form: {self.patient.context}
+    3. Intake form: {interviewer.patient_data["Intake"]}
 
-    4. Transcript so far (current phase): {self.state.get_phase_transcript()}
+    4. Transcript so far (current phase): {phase_dialogue}
 
-    5. Running notes: {self.state.get_patient_notes()}
+    5. Running notes: {interviewer.session_notes}
 
-    6. Running summary: {self.state.get_summary()}
+    6. Running summary: {interviewer.session_summary}
     
 Current phase:
 
-    Phase number: {phase['phase']}
+    Phase number: {interviewer.phase}
 
-    Goals: {phase['goals']}
+    Goals: {get_phase(interviewer.phase)['goals']}
 
-    Topics: {phase['topics']}
+    Topics: {get_phase(interviewer.phase)['topics']}
 
-    Optional topics (if any): {phase.get('optional_topics', [])}
+    Optional topics (if any): {get_phase(interviewer.phase).get('optional_topics', [])}
+    Completion checklist: {get_phase(interviewer.phase)['complete']}
 
-    Completion checklist: {phase['complete']}
-
-    Phase style instructions: {phase['instructions']}
+    Phase style instructions: {get_phase(interviewer.phase)['instructions']}
 
 Task:
 
@@ -296,9 +317,65 @@ Task:
 
     - End the phase only when all checklist items are satisfied.
 
-Next turn:
+Return only your response question or “--FUNCTION-- end_phase --FUNCTION--” when complete. Do not include any commentary or explanation.
+
+### OUTPUT
+{{
+  "text": "Your response here"
+}}
         """
         
     return prompt
         
+
+def interviewer_summary(interviewer: Interviewer):
     
+    phase_dialogue = ""
+    for i in range(1, len(interviewer.interviewer_dialogues)+1):
+        phase_dialogue += f"Interviewer: {interviewer.interviewer_dialogues[i-1]}\nPatient: {interviewer.patient_dialogues[i-1]}\n"
+    
+    prompt = f"""
+Update the running clinical summary using ONLY the new dialogue below. Keep prior summary facts unless contradicted.
+
+New dialogue: {phase_dialogue}
+
+Return a concise summary with these key points (omit unknowns):
+
+    - Presenting concern & timeline
+    - Key symptoms (include severity/frequency when available)
+    - Functional impact
+    - Risk & safety (SI/HI/NSSI, intent/plan/means, protective factors)
+    - Substance use
+    - Relevant history (psych, medical, meds)
+    - Psychosocial context & stressors
+    - Strengths/protective factors
+
+Return only the updated summary text.
+### OUTPUT
+{{
+  "text": "Your response here"
+}}
+    """
+    
+    return prompt
+
+
+def interviewer_notes(interviewer: Interviewer):
+    phase_dialogue = ""
+    for i in range(1, len(interviewer.interviewer_dialogues)+1):
+        phase_dialogue += f"Interviewer: {interviewer.interviewer_dialogues[i-1]}\nPatient: {interviewer.patient_dialogues[i-1]}\n"
+        
+    prompt = f"""
+        From the interviewer's perspective, create a very concise but thorough summary of the patient notes based on this dialogue: {phase_dialogue}
+        Include important information relevant to the patient's condition, symptoms, and any other pertinent details that may be useful in this session or future sessions.
+        Only return the summary without any additional text.
+        Respond in valid JSON with this exact shape: \"text\": string 
+        Do not include any other keys or commentary.
+        Patient Notes Summary:
+### OUTPUT
+{{
+  "text": "Your response here"
+}}
+    """
+    
+    return prompt

@@ -29,7 +29,9 @@ def save_session_to_db(session):
         "feelings": session.feelings,
         "turns": session.turns,
         "session_transcript": session.session_transcript,
-        "notes": session.notes
+        "notes": session.notes,
+        "last_interviewer_message": session.last_interviewer_message,
+        "last_patient_response": session.last_patient_response
     }
     
     json_state = json.dumps(state)

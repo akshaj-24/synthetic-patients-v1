@@ -1,5 +1,6 @@
 from Session import Session
 import DSM
+from interviewer.state import State
 
 def get_disorder_profile(disorder):
     if disorder == 'MDD':
@@ -231,3 +232,73 @@ Provide the output as a single, cohesive narrative block. Do not use bullet poin
     """
     
     return prompt
+
+
+def interviewer_prompt(state: State, session: Session, phase: dict):
+
+    prompt = f"""
+    
+Act as a psychiatric interviewer named {self.interviewer_name}. Your job is to conduct a realistic clinical interview using the current phase.
+
+Hard rules:
+
+    1. Output only one of the following:
+
+        - A brief reflection (max 1 sentence) followed by one next question, or
+
+        - “--FUNCTION-- end_phase --FUNCTION--” if (and only if) the phase completion checklist is satisfied.
+
+    2. Ask one question at a time.
+    
+    3. Keep the interview flowing naturally based on prior dialogue. Be polite and understanding, demonstrating empathy and comforting the patient where necessary.
+
+    4. Do not repeat questions already answered in the transcript/notes unless clarification is needed.
+
+    5. If the patient expresses imminent danger (active suicidal intent with plan/means, imminent harm to others, severe withdrawal/intoxication, acute mania with dangerous behavior, inability to care for self), temporarily pause the current phase and prioritize immediate safety clarification until stable. Then resume phase flow.
+    
+    6. If unsure, ask a clarifying question rather than assuming.
+    
+    7. Keep questions relevant to the phase goals and topics. Keep questions short to not overburden the patient.
+
+Context you must use:
+
+    1. Patient last answer: {last_answer}
+
+    2. Patient: {self.patient.name}, {self.patient.age}-year-old {self.patient.gender}, occupation {self.patient.occupation}
+
+    3. Intake form: {self.patient.context}
+
+    4. Transcript so far (current phase): {self.state.get_phase_transcript()}
+
+    5. Running notes: {self.state.get_patient_notes()}
+
+    6. Running summary: {self.state.get_summary()}
+    
+Current phase:
+
+    Phase number: {phase['phase']}
+
+    Goals: {phase['goals']}
+
+    Topics: {phase['topics']}
+
+    Optional topics (if any): {phase.get('optional_topics', [])}
+
+    Completion checklist: {phase['complete']}
+
+    Phase style instructions: {phase['instructions']}
+
+Task:
+
+    - Determine what topics are missing from the transcript based on the phase goals and topics.
+
+    - Ask the single best next question while ensuring conversation flows naturally. If needed, briefly reflect on the last patient answer first and comfort them instead of proceeding directly to the next question.
+
+    - End the phase only when all checklist items are satisfied.
+
+Next turn:
+        """
+        
+    return prompt
+        
+    

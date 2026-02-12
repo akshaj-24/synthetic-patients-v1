@@ -46,6 +46,8 @@ class Session:
         self.session_id = None # Generate unique ID for each session]
         self.notes = "" # Interviewer notes, updated manually by interviewer, not used in LLM prompts but saved in DB for reference
         self.severity = None
+        self.last_interviewer_message = ""
+        self.last_patient_response = ""
     
     def get_session_patient_data(self):
         fields = [

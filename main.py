@@ -2,12 +2,11 @@ import pandas
 import fastapi
 import uuid
 import json
-import os  # <--- ADDED
+import os 
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
 
-# Import your modules
 import PROMPT
 import LLM_CALL
 from Session import Session
@@ -58,6 +57,8 @@ def rehydrate_session(state):
     s.summary = state.get('summary', "")
     s.feelings = state.get('feelings', "")
     s.turns = state.get('turns', 0)
+    s.last_interviewer_message = state.get('last_interviewer_message', "")
+    s.last_patient_response = state.get('last_patient_response', "")
     
     # CRITICAL: Handle missing transcript path or generate default
     transcript_path = state.get('session_transcript', "")

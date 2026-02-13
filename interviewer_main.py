@@ -5,6 +5,7 @@ from fastapi.testclient import TestClient
 import json
 import PROMPT
 import LLM_CALL
+from interviewer.INTERVIEWER import Interviewer
 
 
 def transcript(disorder):
@@ -17,6 +18,7 @@ def transcript(disorder):
 
     interviewer = INTERVIEWER.Interviewer(session_id)
     interviewer.patient_data = patient_data
+    interviewer.name = interviewer.generate_name()
     
     
     while True:
@@ -52,8 +54,8 @@ def transcript(disorder):
         interviewer.interviewer_dialogues.append(response)
         
         # get answer from LLM CALL
-        answer_resp = client.post("/api/chat", json={"session_id": session_id, "message": response}).json()
-        answer = answer_resp["response"]
+        answer = client.post("/api/chat", json={"session_id": session_id, "message": response}).json()
+        
         interviewer.patient_dialogues.append(answer)
         
 def loop():

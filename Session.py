@@ -75,7 +75,8 @@ class Session:
     def create_profile(self):
         self.patient_data["Intake"] = LLM_CALL.get_response_thinking(PROMPT.patient_intake_form_prompt(self))
         self.patient_data["Vignette"] = LLM_CALL.get_response_thinking(PROMPT.patient_vignette_prompt(self))
-        self.severity = random.choice([mild, moderate, severe])
+        # self.severity = random.choice([mild, moderate, severe])
+        self.severity = random.choice([mild, moderate])
         self.patient_data["Severity"] = self.severity
 
     def generate_text_file(self):

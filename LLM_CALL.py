@@ -5,7 +5,7 @@ import json
 BASE_URL = "http://localhost:11434"
 MODEL = "qwen3:32b"
 OPTIONS = {
-    "temperature": 0.3,
+    "temperature": 0.7,
     "stop": ["}"],
     "num_ctx": 13288,
 }

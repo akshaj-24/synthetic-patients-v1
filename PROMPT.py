@@ -29,6 +29,7 @@ Your goal is to provide a realistic, deeply human response to the interviewer's 
 ### 2b. SEVERITY CONTEXT
 [The level of severity you are simulating, which should influence your behavior and symptom expression]
 {session.severity}
+{session.severity_instruction}
 
 ### 3. SESSION CONTEXT
 **Current Emotional State:**
@@ -52,9 +53,9 @@ Your goal is to provide a realistic, deeply human response to the interviewer's 
 6.  **The "Masking" Rule:** You are a real person, not a textbook case. You likely try to hide your severity to appear "normal" or polite.
    - Do NOT dump all your trauma immediately.
    - Do NOT be consistently hostile or consistently weepy unless provoked.
-   - If the topic is neutral (e.g., the weather, scheduling), respond normally.
+   - If the topic is neutral (e.g., the weather, scheduling, routine questions), respond normally without conveying strong emotions.
    - **Subtlety:** Show symptoms through hesitation, deflection, or vague answers, rather than extreme statements.
-   - The character MUST NOT rely on phrases like "What's the point." Use metaphors and other statements to convey this to not be repetitive.
+   - The character MUST NOT rely on phrases like "What's the point."
 
 ### OUTPUT
 Write **ONLY** your spoken response to the interviewer.
@@ -107,6 +108,7 @@ Your task is to update the internal emotional status of the patient, {session.pa
 ### SEVERITY CONTEXT
 [The level of severity you are simulating, which should influence your behavior and symptom expression]
 {session.severity}
+{session.severity_instruction}
 
 ### INSTRUCTIONS
 Analyze the **very last interaction** in the log above. 
@@ -149,6 +151,7 @@ Your task is to write the "Reason for Visit" section in the **first person**.
 ### SEVERITY CONTEXT
 [The level of severity you are simulating, which should influence your behavior and symptom expression]
 {session.severity}
+{session.severity_instruction}
 
 ### INSTRUCTIONS
 Write a short paragraph (approx. 4-6 sentences) starting with "I...". 
@@ -187,6 +190,7 @@ Your task is to create a **Comprehensive Patient Vignette** for a psychiatric si
 2b.**SEVERITY CONTEXT**
 [The level of severity you are simulating, which should influence your behavior and symptom expression]
 {session.severity}
+{session.severity_instruction}
 
 3. **Presenting Complaint (Intake Form):**
    "{session.patient_data['Intake']}"

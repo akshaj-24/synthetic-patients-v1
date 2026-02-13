@@ -46,6 +46,7 @@ class Session:
         self.session_id = None # Generate unique ID for each session]
         self.notes = "" # Interviewer notes, updated manually by interviewer, not used in LLM prompts but saved in DB for reference
         self.severity = None
+        self.severity_instruction = None
         self.last_interviewer_message = ""
         self.last_patient_response = ""
     
@@ -76,7 +77,11 @@ class Session:
         self.patient_data["Intake"] = LLM_CALL.get_response_thinking(PROMPT.patient_intake_form_prompt(self))
         self.patient_data["Vignette"] = LLM_CALL.get_response_thinking(PROMPT.patient_vignette_prompt(self))
         # self.severity = random.choice([mild, moderate, severe])
-        self.severity = random.choice([mild, moderate])
+        self.severity_instruction = random.choice([mild, moderate])
+        if self.severity_instruction == mild:
+            self.severity = "Mild"
+        elif self.severity_instruction == moderate:
+            self.severity = "Moderate"
         self.patient_data["Severity"] = self.severity
 
     def generate_text_file(self):

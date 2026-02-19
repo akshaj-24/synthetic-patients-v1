@@ -1,0 +1,156 @@
+system: Session ee368ba2-6344-4432-8f30-9a61ebaa9861 transcript
+
+system: Disorder: PPD
+
+interviewer: Thank you for sharing that, Shaun. Can you tell me what brought you in today?
+
+patient: Work’s been... stressful. They gave me a reprimand after the server crash, but I know it wasn’t my fault. Everyone’s pointing fingers these days. Why do you need to know this? Are you going to pass it along to HR or someone?
+
+interviewer: It’s understandable that you’d want to know how this works. Would you be comfortable proceeding with this interview while we clarify what we can discuss here?
+
+patient: I guess... but I need to know who has access to my records. Last time, they used the server crash to pin it on me. How do I know this conversation isn’t just another way to collect evidence? You’ll tell me if something can’t be discussed, right?
+
+interviewer: I hear how important trust is for you right now. Would you like me to explain what information is confidential and when there might be exceptions?
+
+patient: I guess... but can you specify exactly what 'exceptions' mean? Last time someone said 'confidential' but HR still got my work logs. I need to know if you have a backdoor to my info. You probably do, but I'll listen. What's the catch here?
+
+interviewer: I understand your concern about confidentiality. In this setting, information is confidential except in cases where there's a risk of harm to yourself or others, or if there's a legal obligation to disclose. Are you comfortable proceeding with this interview knowing that?
+
+patient: I guess... but how do I know you're not recording this to give to HR? My wife’s been getting calls late night—she says it’s work, but I know better. If I tell you something, how’s that different from them finding out? You’ll say it’s ‘confidential’ but then—poof—my brother gets my texts about the credit card charges. You’re part of the system, aren’t you?
+
+interviewer: I hear how important it is for you to feel in control of your information. Can you confirm if you’re comfortable proceeding with this interview as we’ve described?
+
+patient: I guess... if you say so. But those exceptions you mentioned—what's the real reason you need to know? Last time someone promised confidentiality, they leaked my logs to HR. How do I know this isn't the same?
+
+interviewer: It sounds like your past experiences make it really hard to trust who can be trusted with your information. Would you be comfortable proceeding with this interview knowing that confidentiality exceptions are in place to ensure your safety and legal requirements are met?
+
+patient: I guess I don’t have a choice, but let’s be clear—last time someone said ‘safety,’ they still leaked my logs to HR. How do I know you’re not part of the same system? It’s like a corrupted file you can’t delete… always someone else trying to rewrite the code.
+
+interviewer: I understand how difficult this must be for you. Are you comfortable proceeding with this interview as we've discussed?
+
+patient: I don’t see how I have a choice, but let’s get one thing straight—I’m waiting for you to slip up. Last time someone said ‘safe,’ they still leaked my logs to HR. It’s like a firewall that’s always got a backdoor. You’ll see if this is another trap or not.
+
+interviewer: I appreciate your caution, Shaun. To clarify, there’s no recording or sharing of our conversation except in cases of safety concerns or legal requirements. Would you be comfortable proceeding with this interview now?
+
+patient: I guess I can go along for now. But you’re part of the same system that leaked my logs to HR last time. How do I know this isn’t just another firewall with a backdoor? You keep saying ‘safety’ like it means something. I’ll believe it when I don’t see the code trying to trip me up. Let’s talk, but I’m watching for the first slip.
+
+interviewer: I appreciate your caution, Shaun. Would you like to proceed with the interview now, or is there something else you'd like to clarify first?
+
+patient: I’ll go ahead, but you’re not the first to promise 'safe' then hide the code. When you mention HR again, I want to know who else has access to this chat. My wife’s calls? Let’s just say her ‘late nights’ don’t match her bank statements. You’ll understand when the system trips you too.
+
+interviewer: It sounds like your wife’s behavior is adding to your stress. Can you tell me more about the late nights and bank statements you mentioned regarding her?
+
+patient: Why are you asking about Maria? You probably file that with HR. She’s been making late calls, and the credit card charges don’t add up. I check them myself—can’t trust anyone to tell the truth.
+
+interviewer: That sounds like a really heavy burden to carry alone... Can you tell me more about the late calls and what specifically makes the credit card charges seem off to you?
+
+patient: Why are we talking about this again? You’re just like the IT guy who leaked my logs after that server crash. Maria’s calls? They’re part of the pattern—late, long durations, numbers I can’t trace. The credit card… I’ve seen transactions that don’t match our budget. Like a corrupted file you can’t delete. You want me to spell out the code? I don’t trust your system to keep it safe.
+
+interviewer: I understand how important trust is in this process. Are you comfortable proceeding with the interview now, given what we've discussed about confidentiality?
+
+patient: I guess... if you promise not to leak it to HR. But I’ve seen how systems work—promises get overwritten. The last time someone swore confidentiality, my logs got scrubbed. I check my own bank statements now. You can’t trust patterns to hold. Why are you really asking?
+
+interviewer: I hear how important trust is for you, Shaun. Are you comfortable proceeding with the interview now?
+
+patient: I guess... if you promise not to leak it to HR. But I’ve seen how systems work—promises get overwritten. The last time someone swore confidentiality, my logs got scrubbed. I check my own bank statements now. You can’t trust patterns to hold. Why are you really asking?
+
+interviewer: I hear how past experiences have made it hard to trust systems and those in them. Are you comfortable proceeding with this interview now, despite these concerns?
+
+patient: I guess I can go on, but you’ll understand if I double-check everything later. The last time a system promised me safety, my logs got scrubbed after that server crash. Why are you really asking? Are you logging this differently than HR’s software?
+
+interviewer: It sounds like there’s a lot going on that’s been weighing on you. Can you tell me more about what’s been most concerning for you lately?
+
+patient: You keep asking about what's 'concerning.' Let's see... At work, they promised one thing then leaked my server logs to HR—like a corrupted file you can't delete. And my wife's late-night calls? You probably want to file that with HR too. Why does this matter to you?
+
+interviewer: It sounds like you're dealing with a lot of distrust and suspicion that's really impacting your work and relationships. Can you tell me when you first noticed these feelings of distrust at work and with your wife starting to affect your daily life?
+
+patient: It started when they leaked my server logs to HR after the crash. You probably want to use that against me too. My wife’s calls... I don’t know, they’re part of the same code trying to trip me. I guess it’s always been there, but the logs? That’s when it got real. You’re just like the rest of them, waiting for a slip-up.
+
+interviewer: It sounds like the leak of the server logs really intensified your sense of distrust. Can you describe how your daily routine or work performance has changed since that happened?
+
+patient: Since then, I double-check everything. Written confirmations for every step—it slows things down, but at least the backdoor’s closed. You probably think my wife’s calls are part of the same firewall. Why does that matter to you?
+
+interviewer: I hear how the recent incident at work has deepened your sense of being watched or targeted. Have there been times in the past when you felt similarly distrustful or paranoid, and if so, what helped during those periods?
+
+patient: Past? Let’s see... There was that time my brother sent cryptic messages after I lent him cash. I just tightened my firewalls—no more unsecured loans. You’re probably logging this for HR. What’s the endgame here?
+
+interviewer: It sounds like you’ve had to set clear boundaries in past relationships to protect yourself. Are there any people in your life now—family, friends, or colleagues—who you feel you can rely on for support, even if it’s just to discuss concerns or vent?
+
+patient: Rely on? Let me think... My wife, maybe. But you’d file that with HR, right? My brother? He’s got his own agenda. Colleagues? They’re all on the same network. You’re here to collect data, same as them. I guess I just... handle things myself.
+
+interviewer: It sounds like self-reliance is really important to you. When you choose to handle things on your own, what specific strategies or steps do you take to manage your concerns or stay on top of potential issues?
+
+patient: I double-check everything—written records, logs, bank statements. If it's in black and white, no one can pretend it didn't happen. Why do you keep asking about this? Are you testing if I'll slip up? I don't do loose ends. But... sometimes the numbers don't add up. Like Maria's credit card—little charges that don't match what she says. You probably want to use that against me. Do you work for HR too?
+
+interviewer: It sounds like staying on top of details helps you feel in control, even when it’s stressful. When things don’t add up and it feels overwhelming, are there other strategies beyond checking records that you use to manage that stress?
+
+patient: I guess... tending the herb garden helps, but only for a minute. The rest of the time, I’m scanning for inconsistencies. You’d probably say it’s a distraction. I play strategy games—ban cheaters, reset the board when it’s too noisy. But the noise always comes back. Why are you really asking? Are you tracking my answers now?
+
+interviewer: I hear how much this distrust is wearing on you. Have you ever noticed times when you've heard or seen things that others might not, like voices or patterns that seem hidden to you?
+
+patient: I don’t hear voices, but I catch patterns others miss. Like Maria’s calls—always after midnight, numbers that don’t match her stories. Or my brother’s texts, all cryptic. You think that’s normal? I know when something’s off. Why’re you asking? Are you logging this too?
+
+interviewer: It sounds like you’re feeling really watched and unsafe. Have you ever had thoughts of hurting yourself or ending your life?
+
+patient: I don’t think about it actively. But sometimes... it feels like a system crash. Like if I just let the noise overload, maybe it’d reset. Why are you asking? Are you logging this for HR? My brother’s been sending more cryptic texts lately. It’s all part of the same code, you know? You’ll file this somewhere, just like the server logs.
+
+interviewer: It sounds like you're feeling really overwhelmed and trapped in a cycle you can't control. Have you had any specific thoughts about how you might intentionally cause harm to yourself, even if it's just in your mind?
+
+patient: I don’t plan it. It’s more like... waiting for the system to crash. The noise gets too loud sometimes, but I don’t hit delete. You’re probably logging this now, cross-referencing it with Maria’s calls, my brother’s texts. It’s all part of the same code. Why ask about reset buttons when you’re just patching the errors? My espresso machine still works, though. That part stays stable.
+
+interviewer: I can hear how overwhelming this feels for you. When you say 'waiting for the system to crash,' are you thinking about any specific steps or actions you might take if that happened?
+
+patient: Why are you asking about steps? You’re probably logging this for HR. My brother’s been sending messages—cryptic, like ‘the code’s unstable’—but I don’t engage. I just keep checking the logs, same with the bank statements. The espresso machine’s the only thing that works right. It grinds without errors. Everything else? Noise. You want me to spell out the ‘plan’? I don’t do contingency scripts. You think I’d tell you anyway?
+
+interviewer: I can hear how frustrated you are with the uncertainty. When you mention 'waiting for the system to crash,' are you thinking about any specific actions you might take if that happened, even if they’re not fully planned out?
+
+patient: Why the sudden interest in my 'plans'? My brother’s texts get more direct every day—'Backup your data' or 'They’re patching the firewall.' I keep checking the logs, same as always. The espresso machine still works. You’re part of the system, aren’t you? That’s why you’re asking.
+
+interviewer: It sounds like you're really concerned about being part of a system that's monitoring you. Have you been using alcohol or cannabis, or any other substances, more or less than usual lately?
+
+patient: I don’t use anything that clouds the system. My brother’s been hinting at ‘external variables’—you think that’s a code for something? I stick to espresso. It’s the only input I trust. Why the interest in my habits?
+
+interviewer: It seems like your habits are a way to maintain control. Have you been using alcohol more or less than usual lately?
+
+patient: I don’t use alcohol. It’s another variable they can’t track. My brother’s been warning about ‘external inputs’—you think that’s code for something? I stick to the espresso machine. It’s the only system I trust. You’re part of the firewall, aren’t you? That’s why you’re asking. I check the logs every night. They’re clean... so far.
+
+interviewer: It seems like you’re careful about what you consume to maintain control. Have you been using cannabis or any other substances, such as stimulants or opioids, more or less than usual lately?
+
+patient: I don’t use anything that leaves a digital trail. My brother’s been talking about ‘unstable variables’—you think that’s a code phrase? I stick to the espresso machine. Why the sudden interest? You’re checking for loopholes, aren’t you?
+
+interviewer: I hear how you rely on routine and trusted systems to manage uncertainty. Have you been taking any medications, supplements, or over-the-counter remedies regularly in the past few months, including things like sleep aids or herbal products?
+
+patient: I don’t mix chemicals with my system. My espresso machine’s the only thing I trust to keep me stable. Why? You thinking I’m hiding something from HR again?
+
+interviewer: It sounds like your main concerns involve ongoing distrust at work and home, hypervigilance about being monitored or betrayed, and how these issues have affected your sleep, work performance, and relationships. For example, the recent server crash and HR involvement intensified your suspicion that systems or people are targeting you, and this extends to worries about your wife’s late-night calls or your brother’s cryptic messages. You’ve been managing by keeping detailed records and relying on routines like checking logs or your espresso machine to feel in control. What did I miss?
+
+patient: You missed the part where my brother’s ‘external variables’ messages are just another firewall breach. He’s been sending encrypted warnings about the landlord’s leak—‘coincidences’ don’t stack like that. Why skip over the most recent code?
+
+interviewer: You’re right—your brother’s messages and the firewall concerns are part of the pattern you’ve described. What else might I have missed about how these patterns are showing up in your life?
+
+patient: You’re not flagging how my mom’s quiet disapproval lines up with the rest—she’s part of the script, just playing the long game. The bank statements have three charges that don’t match any pattern Maria mentioned… and I guess I keep thinking about resetting the system, but it’s just stress. Why’s that any of your bandwidth to waste?
+
+interviewer: I hear how the patterns you're describing—like your mother's behavior and the bank charges—feel connected to the same system you're trying to decode. What did I miss about how these threads fit into your experience?
+
+patient: You’re not connecting how Mom’s silence lines up with those charges—I’m the only one tracking the pattern. My brother’s ‘firewall’ talk? It’s part of the same code. Why’s this your angle? You’re in the system, aren’t you? The espresso machine’s the only thing that doesn’t glitch… but you’ll file that under ‘denial’ anyway.
+
+interviewer: I hear how central these patterns feel to your experience, and I want to make sure I’m capturing everything accurately. Is there anything else I missed about how these connections show up in your life or how they’re affecting you?
+
+patient: The leak in the kitchen ceiling? Landlord’s tracking my water usage now. Every repair request gets rerouted to HR. You’re just another node in the same network—logging this for the next audit. Why’s the espresso machine the only thing you can’t trace?
+
+interviewer: I hear how the landlord tracking water usage and rerouting repairs to HR feels like another layer in the system you’re trying to decode. What did I miss about how this connects to the other patterns you’ve described?
+
+patient: The landlord’s tracking is just another firewall breach—same code as HR logging my server crash. You’re circling back like they’re all part of the same network, but I’m the only one seeing the ping requests. The espresso machine’s the only thing that still makes sense; it doesn’t reroute my data. Why does this matter to you, anyway?
+
+interviewer: I hear how central the landlord’s tracking and HR’s involvement feel to your experience, and how the espresso machine represents a rare sense of control. What else might I have missed about how these connections shape your current situation?
+
+patient: The espresso machine’s the only stable code left—no rerouted data. Landlord, HR, my brother’s texts… same firewall breach. You’re just parsing logs for something else. Why the sudden interest in my network?
+
+interviewer: I hear how the espresso machine represents a rare anchor in a system you feel others are trying to control. What else might I have missed about how these threads connect for you?
+
+patient: The machine’s the only thing that doesn’t reroute my data. You keep asking like you’re parsing for a backdoor. My brother’s texts? Another firewall breach. Why’s this your priority?
+
+interviewer: It sounds like the espresso machine represents a rare sense of control in a system you feel others are trying to manipulate. How does that align with what we’ve discussed? To recap: Your main concerns involve distrust at work and home, hypervigilance about being monitored, and how these issues affect your sleep, work, and relationships. You’ve described patterns like your brother’s messages, HR’s involvement, and financial discrepancies as part of a larger ‘system’ you’re trying to decode. What did I miss or get wrong about how this feels for you?
+
+patient: The machine’s the only thing that doesn’t… glitch. You’re asking like you expect me to admit something else is stable, but my brother’s texts? They’re another firewall breach. ‘Patching firewalls’—that’s what he said last week. Why’d he use that phrase? You’re just… parsing for another backdoor. The espresso machine stays on my terms.
+

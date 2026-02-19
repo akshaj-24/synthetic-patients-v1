@@ -1,0 +1,96 @@
+system: Session b1e67cfb-4e85-49cb-b510-acea1c2ce092 transcript
+
+system: Disorder: GAD
+
+interviewer: Hi John, my name is Ashley Thompson, and I'll be speaking with you today. Can you confirm if you're comfortable proceeding with this interview?
+
+patient: Yes, of course. Thank you for the opportunity. I mean, it’s not every day you get to... chat about these things, you know? Just, uh, keep in mind I’ve had a bit of a rough sleep lately—construction noise, you understand. But I’m managing, really.
+
+interviewer: That sounds tough. Do you have any questions about how today’s interview will proceed?
+
+patient: No, I think you’ve covered everything. The only thing… well, the construction noise last night made it hard to catch up on sleep. I’ve got a presentation to prep for work today, so I’m running on fumes, if you know what I mean. I guess my head’s been a bit foggy since yesterday—just one of those days, you know?
+
+interviewer: It sounds like the pressure you're under is really taking a toll on both your work and personal life. Can you tell me a bit about when you first noticed these feelings starting to affect you?
+
+patient: It’s hard to pinpoint exactly, but I guess... when the company started pushing digital sales two years ago, things got more intense. I kept second-guessing every email, every follow-up—like maybe if I just prepared harder, I could... you know, stay ahead. Then there was that presentation last fall. My hands were shaking so bad, I spilled my coffee mid-sentence. I told myself it was just stress, right? Everyone’s got off days. But the headaches? They don’t lie. Still, I’d rather fix a spreadsheet than talk about it, if you catch my drift.
+
+interviewer: It sounds like the headaches are a significant part of how you experience this stress. Can you tell me how often they occur and what they feel like?
+
+patient: To be honest, they’ve been pretty much a weekly thing for the past year—sometimes worse. Feels like... a vice around my temples, you know? Tightens when I’m on a call or staring at spreadsheets too long. I just power through, though. It’s not like they’re... disabling. I’ve learned to live with the pressure, you might say. Though the construction noise doesn’t help. But it’s temporary, right? You focus on the task at hand, and—well, work keeps you busy enough to forget about it.
+
+interviewer: It sounds like you're managing through a lot, but I'm curious—what are your hopes or goals for coming in today?
+
+patient: I guess... I just want to figure out how to not feel so overwhelmed all the time, you know? It’s not like the job is *that* different, but the way things are changing—it’s just... a lot to adjust to. I don’t want it to eat into the rest of my life, especially with Mei and the kid relying on me. And the headaches, they’re... persistent. I’m sure it’s just stress, but maybe there’s a way to... untangle it? I mean, I’ve always handled stress. This feels like more than that, but I’m not sure how to explain it.
+
+interviewer: It sounds like this has been a growing challenge over time, especially with changes at work. Can you tell me how these feelings and symptoms have changed or progressed since you first noticed them two years ago?
+
+patient: It’s... like the stress got a louder volume, you know? Two years ago, I could still push through the meetings, even if my head felt like a vice. Now, the headaches don’t even ask—they just show up, and the construction outside? It’s like my brain’s background noise turned into a jackhammer. I guess I just... adapt, right? But lately, even adapting feels like running on a treadmill. The kid’s applying to universities soon, and I keep second-guessing every decision, like if I mess up her future, it’ll prove I’m failing at everything.
+
+interviewer: It sounds like the stress has been building up over time. Have you experienced similar periods of stress or anxiety in the past, and if so, what helped you manage them?
+
+patient: In the past, I just... buried myself in work, you know? If I stayed late or prepped extra, it quieted the noise for a while. But this time? The usual tricks feel like adding band-aids to a broken leg. I guess I’m learning that ‘pushing through’ isn’t... infinite. The headaches don’t care how many to-do lists I make.
+
+interviewer: It sounds like your usual strategies aren't providing the same relief they once did. Have you ever sought professional help or tried specific strategies when you felt this overwhelmed in the past?
+
+patient: Honestly, I’ve never... you know, actually *gone* to someone like this before. My dad always said things like that were a weakness, so I just... kept grinding it out. But this time, the usual grind isn’t cutting it. I’m not even sure where to start with... talking about it. But if it means not feeling like a live wire all the time, maybe it’s worth trying?
+
+interviewer: I can see how the stress has been building up for you. Have you had any thoughts about harming yourself or ending your life in the past few weeks?
+
+patient: No, not really. I mean, there’ve been... moments where I feel like I’m a burden, but I guess that’s just stress, right? I can’t afford to think like that with the kid’s future and everything. It’s easier to focus on what I *can* control, even if it’s just... the herb garden or the to-do lists.
+
+interviewer: It sounds like you're carrying a lot of responsibility for your family's well-being. Have you noticed any changes in your sleep patterns lately—like sleeping less than usual or feeling unusually energetic despite fatigue?
+
+patient: To be honest, sleep’s been... fragmented, you know? The construction outside doesn’t help—I’ll lie awake counting their drills, then wake up stiff, like my neck’s holding a weight. I try to push through, but the deadlines and... everything else, it’s hard to shake. The doc says it’s stress, but I guess that’s just part of the job these days.
+
+interviewer: I hear how the construction noise and work pressures have been making it hard to rest. Have you noticed any changes in your alcohol or cannabis use recently, or do you use any other substances to cope with stress?
+
+patient: To be honest, I’ve had a glass of whiskey now and then—just to... unclench, you know? Not that I’m counting or anything. It’s not like I’m relying on it, though. Just... helps the noise outside fade a bit. No, nothing else. I guess that’s just part of the job, keeping up appearances and all.
+
+interviewer: I hear how the whiskey helps you manage the noise and tension. Have you used any other substances, like cannabis or stimulants, to cope with stress recently?
+
+patient: No, nothing else—just the whiskey, you know? I mean, even that’s... not really a habit or anything. It’s more like a... stopgap, if that makes sense. The job, the noise, the kid’s exams... there’s just no bandwidth for anything else. I’d rather focus on the herb garden, actually. Keeps me grounded. To be honest, I don’t even finish the bottle. Most of it just... sits there, watching me, you know?
+
+interviewer: It sounds like the whiskey is more of an occasional crutch than a regular habit. Have you felt more energized or needed less sleep lately, even when you're exhausted?
+
+patient: No, not really. I still feel... drained, like my batteries just don’t last as long. The whiskey helps me *feel* like I can push through, but it’s not like I’m buzzing or anything. I just... keep going, you know? The garden’s the only thing that feels like it grounds me when everything else is fraying.
+
+interviewer: It sounds like the whiskey is more of an occasional crutch than a regular habit. Have you felt the need to sleep less than usual or had a sense of increased energy or restlessness that doesn’t match your usual patterns?
+
+patient: Restless? Maybe. I wake up stiff, like my muscles are... bracing for something, you know? But it’s not like I’m bouncing with energy. Just... wired tight. The garden helps, though. Even bending over the herbs feels like it loosens something.
+
+interviewer: It sounds like your body is holding a lot of tension. Have you noticed any changes in your thinking, like hearing voices, seeing things others don't, or having strong beliefs that feel unusual or hard to shake?
+
+patient: No, nothing like that. I don’t hear voices or see things. My mind just feels... foggy sometimes, like it’s stuck on repeat. The garden helps, though. Tending to the herbs grounds me, you know? Keeps me from spiraling too much. But yeah, the sleep’s been rough. Construction drills don’t help—my thoughts just race harder when I’m trying to unwind.
+
+interviewer: It sounds like the garden is a meaningful anchor for you. Are you currently taking any medications or supplements, including over-the-counter ones, to manage your symptoms or other health concerns?
+
+patient: No prescriptions, just the basics—ibuprofen for the headaches when they get bad. And maybe a glass of whiskey sometimes, you know... to unwind. Nothing heavy. I try not to rely on anything. It’s just... part of the job, keeping things in check.
+
+interviewer: It sounds like your stress started building about two years ago with changes at work and has grown louder since then, especially with the construction noise and your child’s upcoming university applications. We’ve talked about how overworking and trying to control everything might be keeping this going, even though your gardening and focus on family are strengths. What did I miss or get wrong about how things are going for you?
+
+patient: You hit the main things—work changes, the noise, the kid’s apps. The garden’s more than grounding... it’s the only part of me not fraying, I guess. The rest? Just stress. I’m not great at... letting go of it, you know?
+
+interviewer: It sounds like your stress has been building for two years, fueled by work changes, construction noise, and your child’s university prep, with your garden as a rare anchor. You’re carrying a lot—constant worry, physical tension, and that freeze-up during the client meeting really stuck out. What did I miss or get wrong about how this has been unfolding for you?
+
+patient: You got the main threads—work, noise, the garden. Maybe you missed how my sister’s health stuff weighs on me, but I guess that’s just more stress. The rest? It’s the usual grind. I’m not great at... letting go of it, you know?
+
+interviewer: I appreciate you bringing up your sister's health—it's important to include that in our understanding. What else have I missed or gotten wrong about your experience so far?
+
+patient: I guess you didn’t miss much... the sister’s health is just another thing I push down, like the rest. The headaches? They’re there, but I handle it. A drink now and then helps, but it’s not a big deal. The main thing’s keeping the garden alive, you know? It’s... just stress.
+
+interviewer: It sounds like your stress has been building over two years, shaped by work changes, construction noise, your sister’s health, and your child’s future, with physical tension and headaches as ongoing signals. You’ve managed by focusing on controllable tasks like gardening, but it’s clear this weight is taking a toll. What did I miss or get wrong about how this has been unfolding for you?
+
+patient: I think you got the big picture right—work changes, noise, the garden being an anchor... yeah. What’s maybe not as clear is how little things amplify it all. Like, the construction isn’t just noise; it’s this constant... *snap* in my neck when I hear the drills. And I guess the whiskey at night? It’s not really a habit, just... a way to unclench for 10 minutes. But you’re not wrong. It’s all tangled. I just hate how it makes me feel like a walking to-do list that’s one mistake away from collapsing. You know?
+
+interviewer: I hear how the physical tension from stress and the whiskey as a temporary relief fit into this tangled web you're describing. What would you like to prioritize first in untangling this—exploring coping strategies, discussing therapy options, or something else?
+
+patient: I think... maybe start with the things I can actually control? Like, if there’s a way to... I don’t know, untangle the sleep part first. The garden helps, but if I could get even an hour more rest without the noise... it might make the rest of it easier to handle. You know? The whiskey’s just a Band-Aid, but the neck pain? Feels like it’s anchoring the rest of the weight.
+
+interviewer: I hear how the neck pain and sleep disruption feel central to your stress cycle. If we focus on strategies to untangle this, would you prefer to explore non-medication approaches first, like sleep hygiene or stress-reduction techniques, or would you like to discuss other options?
+
+patient: Non-medication... sounds good, yeah. I mean, if there’s a way to adjust the sleep part without... adding anything else to the to-do list, that’d help. The garden’s the only thing that’s worked so far, so maybe building on that? But honestly, I’m not sure where to start. You know, with the noise and everything. It’s just... one more thing to ‘fix’ without knowing if it’ll even make a difference.
+
+interviewer: It sounds like you’re feeling stuck between wanting to address the sleep and tension without adding more tasks, while also doubting whether anything will help. What did I miss or get wrong about how this feels for you?
+
+patient: You’re not wrong about the stuck part. It’s like... the garden’s the one thing that feels like I’m not just reacting, but even that’s a stretch sometimes. Like, I’m out there planting herbs, but half my brain’s still on the client meeting I botched last week or the sister’s scans. You know? It’s not just the noise or the whiskey—it’s this... quiet fear that I’m holding it all together by the roots, and one tug might snap everything. But yeah, maybe sleep’s the first step. If I could just stop waking up with this... static in my neck, maybe the rest would untangle. Maybe.
+

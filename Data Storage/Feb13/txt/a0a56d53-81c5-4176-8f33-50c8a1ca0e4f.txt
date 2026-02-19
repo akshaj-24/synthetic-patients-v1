@@ -1,0 +1,144 @@
+system: Session a0a56d53-81c5-4176-8f33-50c8a1ca0e4f transcript
+
+system: Disorder: GAD
+
+interviewer: It sounds like you've been carrying a lot on your shoulders lately. Would you be comfortable proceeding with this interview?
+
+patient: I guess so... I mean, I’ve been dealing with a lot lately. You know how it is when you can’t stop thinking about every little thing. My mom’s health isn’t great, and I just... I can’t seem to get a full night’s sleep anymore. But, uh, I’ll try to answer whatever you need.
+
+interviewer: It sounds like you're carrying a lot right now. Would you be okay with us starting the interview now, or would you prefer a moment to collect yourself first?
+
+patient: I guess I’m ready... I just... you know, my mind keeps going to the worst-case scenarios. Like, what if I can’t even focus because I’m too tired? But I’ll try. I’ll try to answer straight.
+
+interviewer: I appreciate you trying your best under these circumstances. Can you tell me if you understand the purpose of this interview and how it will proceed?
+
+patient: I guess the idea is to... talk through things, figure out what’s going on? Like, you ask questions and I answer? But my head’s all over the place, honestly. You know how it is when you haven’t slept straight in weeks—your thoughts just... scatter. I’ll try not to ramble, though. Coffee helps me focus, but I haven’t had any today.
+
+interviewer: It sounds like you've been feeling really stressed and worried about a lot of different things. Can you tell me more about what's been most concerning for you right now?
+
+patient: It’s... everything, really. My mom’s health is the big one—cancer’s a scary word, you know? But then there’s the sink, the bills, even stupid stuff like remembering to turn off the fridge light. I’ll lie awake thinking about it all, then oversleep and feel like I’m behind before the day even starts. My hands get all twitchy when I try to focus, like they’re waiting for something bad to happen. And don’t get me started on work... I keep waiting for the other shoe to drop, but I guess that’s just me, always overreacting.
+
+interviewer: That sounds really overwhelming to carry all that weight. When did you first start noticing these feelings of stress and worry?
+
+patient: I guess it’s always been there, you know? Like, even as a kid, I’d stress over little things—homework, messing up chores. But after the warehouse job… it got worse. Layoffs hit, and I started thinking, *What if I can’t pay rent? What if Mom needs me and I’m not there?* Now? It’s just… static. Nonstop. I’ll lie awake at 3 a.m. wondering if the fridge light’s on, even after checking it. My hands get shaky, but I tell myself it’s ‘nothing.’ It’s not nothing, though. It’s everything.
+
+interviewer: That sounds incredibly exhausting to carry that much weight constantly. How has this been affecting your ability to take care of yourself or manage daily tasks lately?
+
+patient: I guess... it’s like trying to hold water in your hands. You focus on one thing, and another slips away. I’ll start laundry, but my mind’s already on the rent due next week. Or I’ll try to fix Lila’s pot, but my hands shake so bad I drop the screwdriver. Sleep? I’m up every two hours, checking my phone for news—cancer updates, job boards... You know? I tell myself I’m ‘managing,’ but half the time I just stare at walls, too tired to even care.
+
+interviewer: It sounds like the weight of everything is making it hard to hold things together. What would you most hope to achieve through this evaluation or treatment?
+
+patient: I guess... I want the static to quiet down enough to actually *do* things. Like, fix the sink without my hands shaking so bad I can’t hold the wrench. Or sleep through the night without checking my phone every two hours. Not because I’m ‘broken’—just... tired of fighting against everything all the time. You know? Even if it’s just... less *all the time*.
+
+interviewer: It sounds like you’re longing for a sense of control and relief from this constant mental noise... What have you tried so far to manage these feelings or the static you mentioned?
+
+patient: I guess... I try to stay busy. Fixing stuff around the house—like, I’ve been working on that sink for weeks, even though I can’t afford it. It’s just... something to do with my hands. And Lila, my plant, I water her every morning. It sounds stupid, but it’s the one thing that feels... normal. I take OTC sleep stuff sometimes, but I don’t even think about it anymore. It’s just... there. You know? Like the static. It doesn’t help, really. It just... numbs it for a bit.
+
+interviewer: It sounds like staying busy with tasks like the sink and caring for Lila gives you a sense of normalcy... Are there other strategies you’ve tried that either help or make things harder for you?
+
+patient: I guess I’ll try... watching sports nonstop sometimes. Like, just let the play-by-play noise fill the quiet. But it’s weird—it makes my hands twitchier, like I’m waiting for something to crash. And I make these... lists. For groceries, for bills, even for fixing the sink. But if I mess up the order or forget a step, I get stuck replaying it in my head. It’s like trying to win a game where the rules change every day. You know?
+
+interviewer: It sounds like this stress has been building up for a while. Have you experienced similar episodes of anxiety or stress in the past, and if so, what tended to help?
+
+patient: I guess... before this job at the warehouse, I used to, uh, obsess over little things too. Like, I’d check the fridge light every night even after checking it five times. It kinda helped, I guess? But not really. My hands still shook when I tried to sleep. Maybe it’s always been there, you know? The warehouse was just... worse. Now with Mom’s health, it’s like the volume’s up louder. I can’t even fake-chill anymore. Coffee’s all I got left.
+
+interviewer: It sounds like your mother’s health is adding a lot of pressure to what you're already managing. Who have you found yourself turning to for support during these tough times?
+
+patient: I guess... I just call Mom a lot. Like, twice a day. Even though it’s driving me crazy, you know? She needs me, but it’s like... there’s this part of me that’s, uh, resentful? Not sure. I just... force myself to listen. Helps? I dunno. When I hang up, my hands shake. So I fix things. Like, I’ve been trying to fix that sink even though I can’t afford it. Keeps me from thinking. Or maybe it’s just another thing to worry about. Either way, it’s better than... talking to people. Friends? I don’t even have time to explain why I cancel plans. They just... disappear, I guess.
+
+interviewer: It sounds like trying to fix things gives you a sense of control even when it’s stressful. Can you tell me more about how that helps you manage when everything else feels overwhelming?
+
+patient: I guess... when I’m fixing the sink or watering Lila, it’s like I’m doing *something* instead of just... lying there counting the minutes until my hands stop shaking. The sink? At least I can see progress, even if it’s just tightening a damn bolt. But yeah, it’s another thing to mess up, I know. I just... can’t let my mind go there. Coffee helps? Maybe. But it’s better than talking about it, you know? Most days.
+
+interviewer: It sounds like fixing things gives you a way to ground yourself when everything else feels overwhelming. Were these kinds of hands-on tasks something you relied on during the checking behaviors you mentioned earlier, or is this a newer pattern?
+
+patient: I guess... the fixing stuff is newer, honestly. Before, it was more about checking—like the fridge light or counting steps to the mailbox. But lately, it’s like I need to *do* something physical to keep from... I don’t know, unraveling? The sink? That’s my thing now. Even if it’s broken, working on it makes me feel like I’m not just waiting for something bad to happen. You know? It’s weird, though—sometimes I think it’s helping, other times it’s just another thing to screw up.
+
+interviewer: I want to check in about your safety. Have you had any thoughts about ending your life in the past few weeks?
+
+patient: No. I mean... I guess I’ve thought about not waking up so exhausted? Not exactly what you’re asking, but... my head’s just always on high alert. Coffee’s the only thing that keeps me from collapsing. The sink? At least I can fix that. You know?
+
+interviewer: That sounds really tough... Have you had any thoughts about ending your life in the past few weeks?
+
+patient: No. I mean... I’ve had bad weeks before. Like, I messed up with some sleep pills once, but that was just a dumb mistake. I’m trying to keep going. It’s just... everything feels like it’s piling up. The sink, Mom’s treatments, bills—sometimes I can’t sleep and my hands shake so bad I can’t even tighten a screw. But I don’t think about ending it. That’s not in the plan.
+
+interviewer: It sounds like the weight of everything is really affecting your physical health. Have you noticed any changes in your energy levels or need for sleep lately, even small ones?
+
+patient: Yeah, I’m... I’m always tired, you know? Like, even after sleeping—though I don’t really sleep much. Just kind of... rest in shifts. Two hours here, three there. And my hands shake when I try to fix things, like the sink. It’s frustrating. I guess it’s all the stress? Mom’s treatments, bills... It’s a lot. But I’m managing. Most of the time.
+
+interviewer: It sounds like the stress is really taking a toll on your body... Have you been using alcohol to cope with the stress or sleep issues?
+
+patient: Not really. I mean... maybe a beer once in a while, but that’s about it. I don’t want to mess with anything that could complicate things, you know? Just... trying to stay on top of everything else.
+
+interviewer: It sounds like you're cautious about substances that might interfere with your responsibilities. Have you used any other substances, like cannabis, stimulants, or opioids, to cope with stress or sleep issues?
+
+patient: No, nothing else. I—I guess I learned my lesson with the sleep stuff. You know, that one bad week where I just... messed up. But I don’t need anything else. Just... trying to keep my head above water. The sink’s taking forever to fix, but at least it’s something I can actually control. Lila’s doing okay, I think.
+
+interviewer: It sounds like you're managing without substances for now... Have you noticed any periods where you feel unusually energetic or need very little sleep, even when you're tired?
+
+patient: Nope. Not really. I guess when I can’t sleep, I just... keep going at stuff. Like, I’ll fix that sink until 3 a.m. even if my hands are shaking. But it’s not energy—it’s just the anxiety, you know? My brain won’t shut off, so I stay up doing things to prove I can still *do* something. But I’m still wrecked the next day. It’s not like I feel good or anything. Just... can’t stop moving until I collapse.
+
+interviewer: I want to make sure I have a complete picture... Are you currently taking any medications or supplements, including over-the-counter ones like sleep aids or pain relievers?
+
+patient: I’ve had a few sleep aids, you know… the OTC stuff. It was a bad week, nothing major. I don’t take them anymore—too much static anyway. My hands still shake sometimes, but I’m careful. Maybe some ibuprofen for the neck pain, but that’s it. I guess I’m used to managing on my own.
+
+interviewer: It sounds like your sleep patterns are closely tied to your anxiety... Have you ever experienced periods where you felt unusually energetic or had racing thoughts, even when you were physically tired?
+
+patient: I guess... I’m always keyed up. Like, even when I’m exhausted, my hands won’t stop shaking. I’ve been focusing on fixing that sink—keeps me busy, you know? But it’s just... more static.
+
+interviewer: It sounds like the physical restlessness is really impacting your daily tasks... Have you noticed any changes where you might hear voices, see things others don't, or have thoughts that feel strange or paranoid?
+
+patient: No, not really... I mean, sometimes I feel like I’m losing it with all the static, but it’s just... you know, the usual. Like, I fix the sink and then think maybe I missed a step, but that’s it. Not voices or nothing. Why, you think I need to check that?
+
+interviewer: It sounds like you're relying on tangible tasks to ground yourself... Are you currently taking any medications or supplements, including over-the-counter ones like sleep aids or pain relievers?
+
+patient: No, just the ibuprofen for my neck sometimes. I’ve been trying to avoid meds, you know? Fixing that sink keeps me busy. Why, are you thinking I need something else?
+
+interviewer: Based on our conversation, it sounds like your anxiety has been building for years, with recent stressors like your mother’s health and job loss worsening symptoms like sleep trouble, shaking hands, and racing thoughts. You’ve been using hands-on tasks to cope, but it’s leaving you exhausted and struggling to focus. What did I miss or get wrong about how things are going for you?
+
+patient: I guess you got the static part right… but maybe you missed how much I’m… I don’t know, *irritated* about everything? Like, my friends bail on plans last-minute ’cause I’m short with them, but I blame it on ‘prior commitments’ instead of just admitting I’m a mess. And the sink—fixing it isn’t just a distraction. It’s this… stupid hope that if I can get that damn thing working, maybe *I’ll* work too. You didn’t mention how I still wait for my soccer team to turn things around. Like, maybe they winning would fix *everything*. You know?
+
+interviewer: It sounds like your irritability and the hope tied to fixing the sink or your soccer team are important pieces of how anxiety feels right now. What else might I have missed about how these patterns are showing up in your life?
+
+patient: I guess... there’s the thing where I can’t even watch a whole movie without checking the news again. My hands—[rubs arms]—they’re always twitchy, like they’re waiting for something to break. And I keep telling myself if the team wins their next game, maybe things’ll turn. It’s stupid, but it’s all I’ve got. Friends? I cancel a lot, but it’s not really them. Just... can’t handle the unpredictability, you know?
+
+interviewer: It sounds like tying your hope to the soccer team and struggling with unpredictability are really weighing on you. Let me recap: Your anxiety has been building over years, worsened by your mother's health and job loss, leading to sleep issues, shaking hands, and racing thoughts. You’ve been using hands-on tasks and hoping for external fixes to regain control, but it’s leaving you exhausted and isolated. What did I miss about how this has been impacting your life?
+
+patient: I guess... there’s that time I messed up with the sleep pills, but I just write it off as a bad week. The sink thing? It’s not even about the money—it’s like if I can’t fix that, what else am I failing at? And my hands... they shake so bad sometimes I drop the wrench. I cancel on friends, but it’s not them, it’s just... too much noise. You know?
+
+interviewer: It sounds like the sleep pill incident, the sink as a symbol of self-worth, and your hands’ physical reactions are all part of this larger pattern of feeling out of control. What else might I have missed about how these pieces connect for you?
+
+patient: I guess... there’s this thing where even when I fix the sink or check the news one less time, it’s like the relief only lasts till the next thing pops up. My hands shake more when I’m trying to focus, like they’re mocking me. And with Mom’s treatments... I keep thinking if I’d just been better at something, maybe none of this would be happening. It’s stupid, right? Like, how any of this is my fault.
+
+interviewer: It sounds like the temporary relief you get from fixing the sink or reducing news-checking is quickly overshadowed by new anxieties, and the physical symptoms like shaking hands feel like a cruel reminder of your struggle to stay in control. Let me try to summarize what we’ve covered so far: Your anxiety has been building for years, worsened by your mother’s health, job loss, and financial strain. You cope by focusing on tangible tasks (e.g., repairs) and tying hope to external outcomes (e.g., your soccer team), but these efforts leave you exhausted, isolated, and trapped in a cycle of self-blame. What did I miss or get wrong about how all this is playing out for you?
+
+patient: I guess... there’s how my dad’s voice still creeps in, even when I do something right. Like fixing the sink, but I’m already thinking it’ll leak tomorrow. And money? I can’t even plan a grocery trip without spiraling. It’s like I can’t trust myself to handle anything, even the small stuff. You know?
+
+interviewer: It sounds like your father’s critical voice and the struggle to trust your own abilities, even in small tasks, are adding to the weight of everything else you’re carrying. Let me try to bring this all together: Over the past few years, your anxiety has grown more intense, especially with your mother’s health issues and financial stress, leading to sleep problems, shaky hands, and a cycle of self-doubt where even small successes feel fragile. You’ve been trying to hold things together through hands-on tasks and external hope, but it’s leaving you exhausted and isolated. What did I miss or get wrong about how all of this is shaping your experience right now?
+
+patient: I guess... there’s how my hands feel like they’re always waiting for a mistake. Like, I’ll be watering Lila and my fingers just... twitch. And I can’t even look at bills without my chest tightening. It’s not just the big stuff—it’s all the little things that should be safe, but I’m already dreading them falling apart. You know?
+
+interviewer: It sounds like the physical sensations in your hands and the dread around everyday tasks are adding a layer of urgency to your anxiety. Let me bring this all together: Your anxiety has been intensifying over years, worsened by your mother’s health, financial strain, and job loss, leading to sleep issues, shaky hands, and a cycle of self-doubt. You cope by focusing on tangible tasks and external hope, but it leaves you exhausted and isolated. What did I miss or get wrong about how these pieces fit together for you?
+
+patient: I guess... you didn’t mention how I’m still holding out for that soccer game in March. Like, if they win, maybe everything else stops feeling so... staticky. But yeah, the hands shaking when I try to fix the sink? That’s all there. And Lila—my plant—she’s the only thing that doesn’t feel like it’s going to crumble. You know? It’s stupid, but... I water her every day. Even if I forget to sleep.
+
+interviewer: It sounds like the soccer game represents a fragile hope for relief, while Lila becomes a quiet anchor in the chaos. Let me try to bring this together: Your anxiety has been fueled by years of stress, worsened by your mother’s health and job loss, leading to sleep issues, shaky hands, and cycles of self-doubt. You cope by fixing things (sink, plant care) and tying hope to external outcomes (soccer team), but these efforts leave you exhausted and isolated. What did I miss or get wrong about how these pieces fit for you?
+
+patient: I guess... you didn’t mention how I’m always over-explaining stuff, like when I fix the sink—I’ll talk myself through every screw as if saying it out loud keeps me from messing up. And yeah, the hands still shake, but it’s the tiredness that’s worse. Feels like my brain’s running at 100 mph even after zero sleep. You know? And... maybe I’m being a jerk to my mom sometimes? Don’t get me wrong, I’d do anything for her, but... I hate that she needs me right now. It’s stupid.
+
+interviewer: It sounds like the over-explaining and guilt around your mom are adding to the weight you're carrying. Let me bring this all together: Your anxiety has been fueled by years of stress, worsened by your mother’s health and job loss, leading to sleep issues, shaky hands, and cycles of self-doubt. You cope by fixing things (sink, plant care) and tying hope to external outcomes (soccer team), but these efforts leave you exhausted and isolated. What did I miss or get wrong about how these pieces fit for you?
+
+patient: I guess... you didn’t mention how I cancel plans with friends last-minute, even when I don’t have to. It’s easier than explaining I’m just... stuck. And the sleep pills—wasn’t a big deal, just a bad week. But yeah, the rest’s about right. I guess.
+
+interviewer: It sounds like canceling plans and the sleep pill incident are part of how you manage overwhelm, even if it feels like a step back. What would you like to explore next in terms of support or strategies to help with the things we’ve discussed?
+
+patient: I guess... I don’t even know where to start. Maybe figuring out how to stop the brain from racing at 2 a.m.? Or learning how to not cancel on people without feeling like a jerk about it. But honestly? I just want to not feel like my hands are going to crumble every time I try to hold onto something. You know?
+
+interviewer: It sounds like your brain racing at night and the physical sensations in your hands are some of the most urgent parts of this pattern to address. If I were to frame this as: lifelong anxiety tendencies (predisposing), worsened by job loss and your mother’s illness (precipitating), kept going by cycles of self-criticism and rigid coping (perpetuating), but with strengths like your focus on small anchors (Lila, sink repairs) (protective)—would that align with how you see it, or is there something missing?
+
+patient: I guess... that’s about right. You nailed the parts about the sink and Lila—those are the only things that feel solid. But maybe you didn’t mention how my brain just... never stops. Even when I’m fixing the sink, I’m already worrying about the next thing that’ll break. The hands shaking? That’s just my body reminding me I’m still here. You know? It’s the static, always the static. But yeah, the rest checks out.
+
+interviewer: It sounds like the constant mental noise and physical reminders of your anxiety are central to what you’re navigating. If we were to focus on one area first—like developing strategies for the racing thoughts at night or building ways to manage the physical sensations—where would you like to start?
+
+patient: I guess the racing thoughts at night... they’re like static that won’t turn off. Even when I’m trying to fix the sink, my brain’s already ahead on bills or Mom’s tests. You know?
+

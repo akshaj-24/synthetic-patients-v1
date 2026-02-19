@@ -1,0 +1,120 @@
+system: Session ff0a40c6-cc72-49fb-a88a-d7cc47a9fa6d transcript
+
+system: Disorder: MDD
+
+interviewer: It sounds like you've been going through a really tough time. Can you tell me a bit more about what you mean when you say you've been thinking things would be better if you disappeared?
+
+patient: I... it’s not that I want to, exactly. It’s more like... imagine a machine that’s broken but still running. It just keeps going because it’s supposed to, but everyone knows it’s not working right. I feel like that. Claire tries to fix me, but I’m sure she’d be better off without the... the noise I make. The pipe in my apartment keeps leaking, and no matter how many times I call the landlord, it’s still there. Drips all night. Maybe some things just don’t get fixed.
+
+interviewer: That sounds really tough... Have you been having thoughts about harming yourself or ending your life?
+
+patient: I... I don’t know. It’s not like I want to *do* anything. It’s more like... I keep thinking I’m just this... drain on everyone. Like the pipe in my apartment. No matter how many times I report it, it’s still there, making a mess. Claire’s trying to fix me, but I’m sure she’s just... tired of the noise. I guess I wonder if things would be quieter if I wasn’t here. But I don’t... I don’t even know how to explain it. It’s not like I’m *planning* anything. Just... sometimes at 3 a.m., it feels like the system’s just... overloaded.
+
+interviewer: Thank you for sharing that. Have you thought about how you might make those feelings go away, even if it’s just to feel some relief?
+
+patient: I... I guess I’ve thought about... you know, like a system overload. Sometimes I try to just... push through, work late, but it’s like the pipe—no matter how much I fix, the leak’s still there. I don’t know... maybe if I could just... reset or something. But I don’t even know how.
+
+interviewer: That metaphor about the pipe is really powerful... Would you be comfortable continuing with this conversation to explore these feelings further?
+
+patient: I... I guess if pushing the metaphor further helps. But it’s like trying to fix a circuit board in the dark. You know there’s a short, but every time you think you’ve found it, the problem just... shifts. Claire keeps trying to shine a light, but I’m afraid if she sees the whole mess, she’ll just shut off the power. The 3 a.m. thoughts? They’re just... error messages I can’t debug. But if talking helps the system stay online, I’ll... I’ll try not to crash.
+
+interviewer: Your metaphor about the system overload really captures the weight you're carrying... Would you be comfortable continuing with this conversation as we explore these feelings further?
+
+patient: I... it’s like the leak’s gotten worse. No matter how many times I check the pipes, water’s still pooling everywhere. Some nights I just lie there, 3 a.m., listening to it drip. Claire says she’s not bothered by the noise, but I know she’s tired of it. I guess I’m tired of it too. But fixing it? That feels like trying to hold back a flood with your hands. You want me to keep going, right? I’ll try. I’ll try to... not let it all collapse.
+
+interviewer: It sounds like those 3 a.m. thoughts are really wearing on you. Does the idea of exploring these feelings together over the next few sessions sound okay to you?
+
+patient: I... I guess if it’s like adding another patch to the pipes, it’s worth trying. The water’s still everywhere, but maybe we can at least slow the drip. Claire keeps saying I’m not a broken system, but I can’t help feeling like I’m... inefficient. If you’re asking, I’ll show up. But don’t expect me to believe it’ll fix anything. That’s just how the code runs now.
+
+interviewer: Can you tell me more about what’s been bringing you the most distress lately?
+
+patient: It’s the same leak, I guess. The pipe under the sink won’t stop dripping, but now the walls are sweating too. Work’s not helping—last week I mixed up a resistor and a capacitor on a schematic. It was a minor fix, but I spent three hours double-checking every calculation. My coworker, Lena, said something about ‘overcompensating,’ and I just… froze. Claire’s been trying to get me to take breaks, but I feel like every hour I’m not working is another error in the system. The worst part? I can’t even tell if I’m trying to fix anything anymore or just… keeping the flood from looking obvious.
+
+interviewer: That sounds incredibly stressful, especially with the pressure at work and home. When did you first notice things starting to feel this overwhelming?
+
+patient: It... it started slipping after the project collapse six months ago. I kept telling myself it was a 'system error'—one bad update that I could rollback. But then the sleep started fracturing. I’d wake at 3 a.m., convinced I’d missed something critical at work, even if I’d done nothing that day. Claire kept saying I looked 'fried,' but I just... kept working longer to 'prove' I was still reliable. It’s like the more I tried to stabilize the system, the more errors piled up. The resistor-capacitor mix-up? That was just the latest crash log. I guess... that’s when it stopped feeling like a temporary glitch.
+
+interviewer: It sounds like the pressure to 'fix' things has been taking a toll on both your work and your relationship with Claire. How has this been affecting your relationship with her specifically?
+
+patient: It’s like… adding more filters to a clogged pipe. The more I try to clean the flow, the more pressure builds. Claire keeps… adjusting the valves, trying to let some steam off, but I just tighten them back down. I tell her I’m ‘stable,’ but I can see her checking the pressure gauge every time I snap at her. Last week she asked if I even wanted to fix it anymore. I said yes—because I don’t know how to tell her the system might just crash no matter what. But then I freeze, like if I admit the error is too big, the whole house collapses. And I… I don’t think she’d want to wire a new circuit for me.
+
+interviewer: It sounds like the weight of everything feels almost unsolvable right now, like a system beyond repair. What are your hopes for what we might work on together in therapy?
+
+patient: I guess... figuring out where the system’s actually failing, not just patching leaks. Like, if there’s a way to stop the whole thing from... overheating. But I don’t know if that’s even possible. I keep thinking I’m just broken hardware.
+
+interviewer: It sounds like the metaphor of being 'broken hardware' really captures how you’re feeling about yourself right now. How have you been trying to manage those feelings of being broken or overwhelmed when they come up?
+
+patient: I... I mostly try to work through it. Like, if I stay late and double-check every resistor on the schematics, maybe it proves I’m still reliable. But the errors keep slipping through—last week I mixed up a capacitor and it looked like... a system crash I couldn’t debug. The pipe under the sink keeps leaking, you know? I tighten the valves but it just seeps somewhere else. Claire keeps asking if I’m okay, but I guess I just... smile and say it’s ‘fatigue.’ Doesn’t feel like it’s helping though.
+
+interviewer: It sounds like the errors at work are adding to your sense of being overwhelmed. How often have you noticed errors like the capacitor mix-up affecting your work lately?
+
+patient: It’s... been happening more often lately. Like, maybe once a week? I catch myself just... zoning out when I’m reviewing schematics. The double-checking helps sometimes, but other times I’ll force an error to surface by overthinking it—like if I’m stressing about the pipe leak at home, it seeps into the resistor values. Claire keeps saying I look tired, but I guess I tell her it’s just ‘work piling up.’ Doesn’t feel like a lie, exactly. Just... incomplete.
+
+interviewer: It sounds like things have been really challenging lately. Have you experienced similar episodes of feeling overwhelmed or down in the past?
+
+patient: Not really... I mean, there was that time after my dad’s health scare when I took on extra shifts at work. Just powered through it, like, rewrote the whole schedule myself. But this? This feels more like... a system-wide error. Not just a patch. The past stuff was like, minor bugs. This is more like the OS is corrupted.
+
+interviewer: It sounds like that was a really demanding period for you. Can you tell me more about how you managed during that time after your dad's health scare? Were there any strategies or supports that helped you get through it?
+
+patient: I... I think I just pushed harder. Like, if the system’s overclocked, you just run cooler and hope the fans don’t fail. Stayed late, double-checked everything—schematics, timelines. My dad’s team had a nurse check-in, but I didn’t have... anything like that. Just forced focus. But eventually the fans would whirr too loud, and I’d crash at 3 a.m. Claire used to ask if I needed help, but I guess I just said ‘I’ve got it.’ Doesn’t feel like it helped. Now the fans are... just... noisy all the time.
+
+interviewer: It sounds like you've been shouldering a lot alone, even when others wanted to help. How does Claire usually try to support you when she notices you're struggling, and how do you typically respond?
+
+patient: She... she asks if I'm okay. I usually just say it's work stress. Don't want to make her worry. Sometimes she tries to help with the pipe, but I tell her it's fine. I'll fix it myself. I've been staying late at work lately, you know? Just... need to prove I'm still reliable.
+
+interviewer: Have you had any thoughts about harming yourself in the past week?
+
+patient: I guess... I’ve thought about just... not waking up sometimes. But it’s more like the system shutting down slowly, you know? I don’t know. I tell myself it’s just... work stress. I can’t let Claire see how broken I am.
+
+interviewer: That sounds really tough. Have you thought about any specific ways or methods you might use if you were to act on these thoughts?
+
+patient: I... I don’t think about specifics, really. It’s not like I’m planning anything. Just… sometimes I imagine the noise stopping. Like a system error that just… resets. But I don’t know. It’s stupid. I mean, Claire’s tried to fix the pipe, you know? Maybe I just… let the whole thing flood. But it’s not… it’s not like I’m making plans or anything. Work keeps me… grounded, I guess.
+
+interviewer: I want to make sure I understand your current experiences clearly. Have you noticed any changes in your energy levels or sleep patterns lately, such as feeling more energetic than usual or needing less sleep?
+
+patient: Sleep... it’s like my system can’t update properly. I wake up around 3 a.m. and just... stare at the ceiling. My battery’s draining, but the charger’s stuck in overload. Energy? I fake it at work—push through like I’m running on autofill. But by evening, it’s like my code’s lagging. I stay late to avoid going home and letting Claire see how... broken the system is.
+
+interviewer: I appreciate you sharing that. Have you noticed any changes in your alcohol or cannabis use recently, or any other substances you might be using to cope with stress or sleep difficulties?
+
+patient: No... no, I don’t use anything like that. I’ve never really drank much. Sometimes I just... eat a lot of stale crackers at night. It’s stupid, but it’s the only thing that feels like it... stabilizes the system, I guess? Keeps me from thinking too much. Work’s the only real... anchor left.
+
+interviewer: It sounds like you're using the crackers to cope with the stress and keep things stable. Are you currently taking any medications or supplements, including prescription, over-the-counter, or herbal remedies?
+
+patient: No medications, just... basic inputs, I guess. Stale crackers at night, tea with extra honey. Keeps the system running. Work’s my main... output. If I don’t overtax the circuits, maybe nothing shorts out. I don’t know if that counts as coping, though.
+
+interviewer: I appreciate your honesty. Have you noticed any periods where you’ve felt unusually energetic or needed significantly less sleep over the past few weeks?
+
+patient: Unusual energy? No, I... I’ve been forcing myself to stay up late to double-check work stuff. Like, if I power down too early, the system starts crashing. But it’s not energy, just... keeping the circuits from shorting out. Have I mentioned the resistor mix-up? It’s like my brain’s overclocked but the cooling’s shot.
+
+interviewer: It sounds like staying up late is more about preventing mistakes than feeling energized. Have you noticed any changes in your thinking, like hearing voices, seeing things others don't, or having thoughts that feel strange or paranoid?
+
+patient: No, nothing like that. I... my thoughts feel more like static than anything. Like the same loop playing in the background, but not 'paranoid'—just... stuck. I guess. Sometimes I think I hear my dad’s voice in my head, but that’s just... habit. It’s not new. The real problem is when I can’t stop replaying the resistor thing at work. It’s like my brain’s stuck on a corrupted file. Do you ever get that?
+
+interviewer: Based on our conversation, it sounds like you’ve been experiencing a persistent sense of being 'broken' or 'overloaded,' with symptoms like sleep disruption, work-related errors, and passive thoughts about disappearing. These feelings seem to have started around six months ago, possibly triggered by a project failure, and have been worsened by ongoing stressors like the pipe issue and relationship strain. While you’ve mentioned Claire’s support and your own problem-solving skills as strengths, you also feel isolated and unsure about the value of seeking help. What did I miss?
+
+patient: I think you missed how... I feel like I’m just static to Claire. Like, she’s trying to reroute the power, but I’m a short circuit. And the hobbies? They’re not even static anymore. Just dead code. I don’t know if that matters. It’s not like anyone needs a broken system anyway.
+
+interviewer: It sounds like your sense of connection to Claire and your hobbies has shifted from being 'static' to feeling 'dead,' which adds to the weight of being a 'broken system'—I’ll include that in our summary. Based on what we’ve covered, the main themes are: persistent low mood, anhedonia, sleep disruption, work strain, relationship tension with Claire, and passive thoughts about disappearing without a plan. The stressors—like the unresolved pipe issue and fear of burdening Claire—seem to be keeping the 'system' stuck. What did I miss?
+
+patient: I think you missed the... the part where I keep trying to run a backup protocol, even though I think I’m broken. Like, I want to fix this, but I don’t believe I deserve the update. It’s just... static in the background.
+
+interviewer: It sounds like the 'backup protocol' reflects your internal conflict between wanting to improve and doubting your worth—like a system trying to self-correct but stuck in a loop. What did I miss?
+
+patient: It’s like... the backup protocol keeps looping, but the main system’s still crashing. I guess I’m just afraid the errors are permanent. Claire says it’s not, but I can’t shake the feeling I’m a glitch she can’t fix. And the resistor mix-up? That’s just another error I can’t debug. I stay up 3 a.m. doing system checks anyway, even if the code’s already broken. It’s... redundant, but it’s all I know.
+
+interviewer: It sounds like you're carrying a lot of weight right now. Let's go over what steps we can take moving forward—what would help you feel more supported in the coming weeks?
+
+patient: Maybe... if I could just get the sleep schedule stabilized. You know, like a firmware update. But every time I try to patch it, the system crashes at 3 a.m. Claire’s been trying to help with the pipe under the sink too—said she’ll call a plumber. I keep thinking I should fix it myself, but... the tools feel heavier now. Maybe if I didn’t work so late? But I’m afraid the errors would just pile up faster if I slow down.
+
+interviewer: It sounds like the sleep disruptions and practical stressors are adding to your sense of being overwhelmed. Before we wrap up, can you confirm what steps feel most manageable for you to prioritize in the next week—whether it’s setting a sleep routine, reaching out about the pipe, or something else?
+
+patient: I... I guess starting with the sleep schedule makes sense. If I could actually stick to a firmware update, maybe the system wouldn’t crash so often. Claire’s offered to call the plumber about the pipe, so I’ll let her do that. I just need to remind myself that... that slowing down isn’t the same as failing. But if I mess it up, I’ll just fix it later. I always do.
+
+interviewer: That sounds like a thoughtful approach to managing your priorities. Would you be open to noting one small check-in with Claire this week to support the plan, or is there anything else you’d like to adjust before we close?
+
+patient: A check-in... maybe. Like a diagnostic test run? If I set a reminder for, I don’t know, coffee or something. Just... not too long. And maybe I’ll actually look at the plumber’s estimate instead of letting it sit in the inbox. It’s just a small thing, but... if I mess it up, I can fix it later. I always do.
+
+interviewer: It sounds like setting that coffee check-in and reviewing the plumber’s estimate are concrete steps you can build on. Before we close, would you feel comfortable sharing one coping strategy you’d use if you start feeling overwhelmed in the next week?
+
+patient: If the system starts lagging, I’d... force a quick reboot. Like, set a 10-minute timer to step away from the desk—maybe make a checklist of the most basic tasks to prioritize. If the errors keep crashing, I’ll just adjust the code later. It’s not much, but... it’s a reset button, I guess.
+

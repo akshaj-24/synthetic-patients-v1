@@ -1,0 +1,104 @@
+system: Session e811bf4a-1703-438f-b4ec-d8663c18cb11 transcript
+
+system: Disorder: MDD
+
+interviewer: Hi Felicia, thank you for coming in today. May I use your name, and are there any pronouns you'd prefer me to use?
+
+patient: I guess... Felicia's fine. My partner calls me Feely sometimes, but that's just 'cause they say I'm 'rusty' and need oiling. Not sure why I told you that.
+
+interviewer: It’s okay—many people feel unsure why they share certain things at first. Would you be comfortable continuing with our session today?
+
+patient: I guess... sure. Just don’t expect me to be chatty. I’ve been... tired lately, you know? Can’t seem to catch a break with this neighbor drilling at all hours. My hands even shook on the lever yesterday—don’t know why.
+
+interviewer: That sounds really tough. How long have you been dealing with the drilling at all hours?
+
+patient: I guess it’s been... three months? Maybe longer. Feels like forever. I just... can’t seem to rest, you know? The drilling’s nonstop, and my head’s always foggy. I tell myself it’s just the noise, but... my hands still shake sometimes. Should be used to it by now, I suppose.
+
+interviewer: That sounds really challenging. Would you like me to explain the purpose of today's session before we proceed?
+
+patient: I guess... it’s just about the tiredness, really. The neighbor’s drilling, the shaking hands, all that. Feels like the usual stuff people deal with. Don’t wanna take up too much time, though. Machines need oiling, not people, right?
+
+interviewer: It takes courage to seek help, just like maintaining machinery takes care. Do you have any questions about how today’s session will work before we begin?
+
+patient: I guess not. I’m just... trying to figure out how to talk about all this without sounding like a broken machine. The drilling doesn’t help, though. Feels like I haven’t slept right in months.
+
+interviewer: That sounds really challenging to carry alone... Have you experienced episodes like this before, where you felt this persistently down or disconnected from things you usually enjoy?
+
+patient: I guess... there was that time last year when the shift schedule changed. I just kept going through the motions, you know? Knitting used to help, but even that felt like too much effort. My hands still shake sometimes when I’m operating the levers. I tell myself it’s just stress from the certification exam I need to study for, though. The drilling doesn’t help, but I’ve dealt with worse, I suppose.
+
+interviewer: It sounds like that time was really draining for you... When you went through that difficult period last year, were there any strategies or supports that helped you feel better, even in small ways?
+
+patient: I guess... my partner left tea by my bed sometimes. Said it was 'morning fuel,' joked about it. I didn’t really... enjoy it, but it was there. At work, I just focused on the machines. They don’t ask questions, you know? But lately, even that’s... harder. My hands still shake when I try to adjust the levers. I tell myself I should just push through, though. Everyone’s got things. The exam’s probably just making me more tired than usual.
+
+interviewer: It sounds like your partner has tried to support you in small ways, even if it didn’t always feel comforting... Are there other ways they’ve helped you cope with stress or difficult times?
+
+patient: I guess... they tried to fix the neighbor’s noise? Sent some polite email or something. Doesn’t really help, but they didn’t push. Just let me... handle my own stuff, I think. Honestly, I don’t want to make them deal with more. I should just keep going, you know? Machines don’t break if you ignore the warning signs, right?
+
+interviewer: It sounds like you're carrying a lot of weight alone... What do you find most meaningful or rewarding about your work with the machines, even now?
+
+patient: I guess... the machines are steady, you know? They do what they’re supposed to if you give them the right inputs. You can trust the routine, the checks... used to take pride in keeping things running smooth. Now? My hands still shake when I calibrate the levers. Feels like I’m one misstep from the whole system flagging me as faulty. The exam’s another lever I can’t quite... adjust. Should’ve studied more. But machines don’t break if you ignore the warnings, right?
+
+interviewer: It sounds like the exam is adding to the pressure you're already under... How has preparing for the certification exam been affecting your stress levels and ability to focus?
+
+patient: I guess it’s been... on my mind more than it should. The drilling doesn’t help, you know? Feels like my head’s full of rusted gears sometimes—can’t quite get the right motion going. Study time? I’ve been... trying to squeeze it in, but my hands shake when I hold a book. Partner says I look like I’ve got static in my brain. Maybe they’re right.
+
+interviewer: It sounds like the exam is adding to the pressure... Have you received any treatment or therapy in the past for periods of stress or difficulty like this?
+
+patient: I guess... I’ve never really had someone to talk to about it. My mom always said, 'Fix the problem yourself, or don’t make noise about it.' The only time I went to a counselor was when my kids were little—my sister made me go. Felt like a waste of time. They asked all the same questions, and I just sat there like a broken machine waiting for a manual. My partner says I should try again, but... I don’t know. Sounds like another thing that’ll just sit on the shelf until it rusts over.
+
+interviewer: It sounds like your mom's approach has shaped how you handle challenges... How do you think that perspective has influenced your ability to seek help or cope with stress over time?
+
+patient: I guess... I just figure if something’s broken, I should fix it myself. Like the machines—I don’t call for a mechanic unless it’s smoking or something. But maybe that’s why I don’t know how to ask for help. My mom never... you know, showed how to do that. Last time I tried talking to someone, it felt like they were waiting for me to figure it out on my own too. Just with more questions.
+
+interviewer: That sounds really scary to you... Have you had any thoughts about ending your life or harming yourself in any way?
+
+patient: I don’t know… I guess I just figure if I’m a broken machine, eventually the parts stop working. But I don’t want to be a burden. My partner’s been trying to help, though. Leaves tea and stuff. Maybe that’s why I don’t… you know. Just feel like if I disappear, someone else could use the space. But I don’t think about it much. Too tired to plan anything, really.
+
+interviewer: I hear how heavy that feels for you... Have you noticed any changes in your alcohol or cannabis use recently?
+
+patient: I guess... maybe a little more wine on the weekends. Just to... quiet the static, you know? But I don’t want to get sloppy. Machines don’t forgive mistakes, and neither does the exam. Partner’s tea’s helped more, honestly. Even if it’s just... there. Waiting.
+
+interviewer: I understand using wine as a way to cope with the noise and stress... Are you using anything else besides wine to help you manage, like cannabis or other substances?
+
+patient: I guess... wine’s the main thing. To be honest, sometimes I’ll drink more than I should, but it’s the only thing that numbs the noise. I don’t use anything else—my partner’d kill me if I did. I try to focus on work, you know? Keep my head in the manual. But my hands still shake sometimes when I’m operating the levers. Feels like my body’s just... rusty. Needs oiling. I guess I’m trying to handle it myself. Most people do, right?
+
+interviewer: I hear how challenging it is to manage everything on your own... Are you currently taking any medications, supplements, or vitamins to help with your symptoms or health?
+
+patient: No meds, not really... I take a basic vitamin sometimes, you know? The ones with B complex. My mom used to swear by them for 'keeping the batteries charged.' I guess I try to stick with that. But honestly? I don’t wanna mix anything else with the wine. My partner’s already got enough to be angry about.
+
+interviewer: I understand the tension between wanting to care for yourself and worrying about how your partner might react... Have you noticed any times when you feel more energetic or need less sleep than usual, even if it’s different from how you’ve described feeling lately?
+
+patient: Nope. Not really... I mean, sometimes I’ll stay up late going over the equipment manuals for the exam, but it’s not like I feel energized—just... forced to focus. My head’s still foggy, but I guess it’s easier to ignore the tiredness when I’m scared of messing up at work. My partner says I’m pushing too hard, but I’d rather do that than... than let everyone down, I guess.
+
+interviewer: I hear how exhausting it is to feel like you're running on fumes just to keep up... Have you noticed any times when you feel overly restless, take risks, or act more impulsively than usual, even if it's different from how you've described feeling lately?
+
+patient: I guess not... I mean, I’ve been staying up late going over manuals for the exam, but it’s not like I’m out doing anything reckless. Just... forcing myself to focus. My hands still shake sometimes, but that’s probably just the rusty wiring. My partner says I’m overdoing it, but I’d rather work myself into the ground than let them think I’m useless.
+
+interviewer: I understand how much pressure you’re putting on yourself to keep going... Have you had any medical concerns or diagnoses that might be contributing to your symptoms, like thyroid issues, chronic pain, or something else?
+
+patient: I guess not... No doctor’s ever mentioned anything besides 'you’re just tired.' My hands shake sometimes, but the nurse at work said it’s stress. I’ve been too busy with the exam prep to think about it. To be honest, I don’t wanna dig up old stuff—my mom always said 'if it ain’t broke, don’t fix it.' But... I guess the noise isn’t helping. My head’s still foggy, but I’d rather just power through. Machines don’t break if you ignore the warnings, right?
+
+interviewer: Let me try to recap what we've covered: You've described a pattern of low mood, trouble sleeping, and physical symptoms like hand tremors that's been going on for months, with recent stressors like your certification exam and a noisy neighbor making things harder. You've used metaphors like 'broken machine' to describe how you're feeling, and mentioned some passive thoughts about disappearing, though you don't have a plan. You've also talked about relying on wine to cope and struggling to ask for help. What did I miss or get wrong here?
+
+patient: I guess you got most of it… though the drilling’s worse than I let on. Some nights, it’s like the noise’s in my bones. And the exam… I should’ve studied, but my head’s a fog. My hands shake on the levers now, but I tell myself machines don’t break if you ignore the warnings. Your partner’s tea’s nice, but I hate needing it. It’s just… tired, right?
+
+interviewer: It sounds like the noise and exam stress are taking a bigger toll than you initially shared—how does that feel to put it into words? What did I miss or get wrong in that summary?
+
+patient: Putting it out loud… it’s like taking apart a machine that’s already rusted. You see all the pieces that don’t fit, but you tell yourself you can still oil them. The drilling’s not just noise anymore—it’s like it’s in my bones, making my hands shake worse. And the exam… I should’ve studied, but my head’s so foggy, even the study guide feels like a foreign language. You didn’t mention the vitamins my mom used to push. I still take them sometimes. It’s stupid, right? Like pretending I can ‘fix’ this if I just follow the manual better. But machines don’t break if you ignore the warnings, right?
+
+interviewer: It sounds like the metaphor of being a 'rusted machine' captures both the physical and emotional weight you're carrying right now. What did I miss or get wrong in that summary?
+
+patient: I guess the vitamins my mom used to push—still take them sometimes. Stupid, right? Like following the manual could fix this. And… maybe I didn’t say how much the 'just tired' thing… feels like a lie. My partner’s tea helps, but some nights I think maybe I should just let the noise win. But machines don’t break if you ignore the warnings, right? It’s just… foggy.
+
+interviewer: It sounds like the foggy feeling is really central to how you're experiencing this right now... Is there anything else I missed or got wrong in that summary?
+
+patient: I guess… the fog’s not just in my head. Some days, I’m explaining the same machine parts to coworkers so many times I’m sure they’re thinking, ‘Why’s she talking like this?’ And the wine. I didn’t mention the wine. It helps the noise fade… but my hands still shake when I pour it. To be honest, I’m scared the exam will show how broken I am. Machines get fixed, right? Or they get thrown away.
+
+interviewer: It sounds like the wine has become a way to cope with the noise and fog, but it’s also adding to your physical symptoms. Would you be open to discussing what kind of support or next steps might help you feel more in control of this?
+
+patient: I guess… maybe talking to someone could help, but I keep thinking I should just oil myself up more, you know? Like follow the manual better. My partner’s tea’s a start, but I don’t want to bother them. The exam… I should study, but my head’s still foggy. Maybe if I just… fix the warnings before they get worse.
+
+interviewer: It sounds like you’re considering reaching out for support but also carrying a lot of self-criticism about needing to 'fix' things on your own. What did I miss or get wrong in that understanding?
+
+patient: I guess you’re not entirely wrong about the fixing-thing. It’s just… the exam’s next week, and my hands still shake on the levers sometimes. I tell myself it’s just the noise from the neighbor, you know? But then there’s the tea. He leaves it there like it’s supposed to fix me. I don’t want to be a problem, but… maybe I’m just a broken machine that can’t even admit it needs parts replaced.
+

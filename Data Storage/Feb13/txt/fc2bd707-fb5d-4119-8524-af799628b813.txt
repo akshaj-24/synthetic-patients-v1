@@ -1,0 +1,96 @@
+system: Session fc2bd707-fb5d-4119-8524-af799628b813 transcript
+
+system: Disorder: MDD
+
+interviewer: Hello, Daniel. My name is Billy Harrington, and I’ll be speaking with you today. To start, would you like to share your preferred pronouns, or is ‘he’ comfortable for us to use? Once we settle on that, I’ll briefly explain what we’ll cover today and check if you’re ready to proceed. How does that sound?
+
+patient: Yeah, 'he' is fine. Let's get this over with—I've got a meeting at 10 that I've already half-forgotten about.
+
+interviewer: I can see you're eager to move forward. To make sure we're aligned, today's session will involve discussing your current concerns to help us understand how best to support you. Would that be okay with you?
+
+patient: Yeah, sure. I mean, if it’s going to help me keep my head above water at work… I’ve been running on fumes lately. My brain feels like a car with a dead battery sometimes—just… nothing. But I’ll talk if it’ll make the meeting go faster.
+
+interviewer: I can hear how much you're juggling right now. Before we begin, do you have any immediate questions about what we'll cover today or how this works?
+
+patient: Nope, just hope this doesn't take too long. Got that meeting... even though I can't remember what it's about. Let's just get to it.
+
+interviewer: It sounds like this has been a really challenging few months for you. Can you tell me if there was a specific event or change that coincided with when these feelings started?
+
+patient: It’s… hard to pin down one thing. My ex and I divorce six months ago, and that didn’t exactly help. But it’s more like a bunch of small things piling up—sleep’s been shot, and I’m missing deadlines at work. My brain still feels like that dead battery car, you know? Just… stuck.
+
+interviewer: That sounds really tough—carrying all that weight alone. Can you tell me when you first started noticing these changes in your sleep or energy levels?
+
+patient: It started... maybe around the time things with my ex fell apart. I’d lie awake staring at the ceiling, you know? My brain just wouldn’t shut off. At first I told myself it was stress, but then even when I did sleep, I’d wake up exhausted, like my battery was dead but I still had to pretend to run on fumes. Work suffered—missed a few deadlines, had to start drinking coffee at my desk just to function. I kept thinking maybe if I just pushed harder, I could... catch up.
+
+interviewer: It sounds like pushing harder at work became a way to cope with feeling stuck. Can you tell me about any changes in your eating habits or daily routines during this time?
+
+patient: Eating’s been... inconsistent. Some days I forget to eat until I’m lightheaded, other days I just grab whatever’s easy—sandwiches, coffee. It’s not like I’m starving myself, but I feel like my body’s on a glitchy loop. I’ll drink a cup of coffee at my desk and think, ‘Okay, this is how adults survive,’ then realize I haven’t moved all morning. The wine at night? That’s just... unwinding. Not a habit I’m proud of, but it muting the static sometimes.
+
+interviewer: It sounds like the wine at night is a way to cope with the static in your mind. Have you noticed how the alcohol affects your mood or sleep afterward?
+
+patient: It helps me drift off, I guess. The next morning, though... my head's got this dull ache, like I traded one problem for another. I tell myself it's just a coping mechanism, you know? My body's not exactly thanking me for it, but it's one less thing to fix for now.
+
+interviewer: It sounds like you're balancing short-term relief with the physical toll it takes. Have you tried other ways to manage the stress or these feelings besides the wine at night?
+
+patient: I’ve tried… going for runs? But my body feels like it’s on a timer—start strong, then crash hard. Coffee’s just… part of the routine now. There’s the texts from my daughter sometimes, you know? She’ll send a random meme or something. I’ll save them, but I tell myself it’s just noise. Like, ‘Oh, here’s another thing to distract me from actually fixing anything.’
+
+interviewer: It sounds like your daughter's messages mean something to you even if they feel like noise. How do you usually feel when you see her texts?
+
+patient: It’s like... a glitch in the static. You see the screen light up, and for a second, it’s like the engine sputters but doesn’t start. I let myself read it, then file it under ‘noise’ so I don’t have to unpack why it matters. Can’t afford to let hope in—too fragile, you know?
+
+interviewer: It sounds like this period has been really challenging for you. Have you experienced similar episodes of low mood or difficulty functioning in the past?
+
+patient: Honestly, I've had rough patches before—work stress, the usual stuff. But this feels... heavier. Like the battery's dead and the jumper cables aren't even there. I just keep pushing through, but lately, even that's a chore. (Pauses, then with a forced chuckle) Guess I'm not getting any younger, you know?
+
+interviewer: That sounds really heavy compared to past stressors. Have you experienced episodes like this before, where the usual ways of coping didn't seem to help?
+
+patient: No, nothing like this. Past stuff... you know, work crunch time or a bad day. You power through, fix the problem, move on. This? It’s like the engine’s seized, and I’m just... turning the key, waiting for it to catch. (Pauses, rubs temple) I can’t even tell if I’m trying to 'fix' it anymore. Feels like the tools are all rusted.
+
+interviewer: That sounds like a really heavy burden to carry... Who have you leaned on for support during times like this, if anyone?
+
+patient: Honestly? Not as much as I should. My mom... she’s well-meaning, but I don’t want to hear the ‘I told you so’ vibe she’s got about marriage. And work? My team’s been... polite. I don’t want to drag anyone down. (Sighs, looks away) My daughter sends these little texts sometimes. She doesn’t know it means anything—just... those moments feel like static in a bad signal. You try to ignore it because it’s not reliable enough to count on.
+
+interviewer: It sounds like those small moments with your daughter mean something to you, even if it's hard to let yourself count on them... Would you say those connections, however brief, still matter to you in some way?
+
+patient: They... they matter, I guess. It’s just, you know, like catching a flicker of light in a storm. You hold onto it, but you don’t want to count on it because the clouds always roll back in. The coffee, her laugh—it’s the only thing that feels real sometimes. (Pauses, avoids eye contact) But I’d rather not sound like some soap opera dad who needs validation. It’s just... it’s just not easy to let myself want it.
+
+interviewer: It seems those moments with your daughter are a fragile but meaningful anchor for you... When you do have time with her, what helps you stay present or savor those moments, even if just a little?
+
+patient: I... I try to focus on the little things, like her laugh or whatever we’re doing at the moment. If we’re working on my bike, I’ll lock in on that—adjusting the carburetor or whatever. It’s grounding, I guess. But it’s hard not to let my head drift. (Sighs, rubs the back of his neck) Coffee helps, I suppose. Keeps me from floating off. (Forced chuckle) Doesn’t last, though. The clouds always roll back in.
+
+interviewer: It sounds like you're feeling really overwhelmed lately. Have you had any thoughts about ending your life in the past few weeks?
+
+patient: No, not really. I mean... I’ve had nights where the wine helps me just *stop thinking*, you know? But even that’s not... dramatic. It’s more like my brain short-circuits. The only thing that keeps me from total shutdown is knowing my daughter texts me at 9 PM about her math homework. Even if I don’t reply, it’s... proof I’m still in the game.
+
+interviewer: It sounds like the wine helps you cope with the stress, even if it’s not a perfect solution. How often have you been drinking, and how much typically?
+
+patient: Most evenings, maybe a glass or two. Not enough to notice, just... muting the static. Like hitting a reset button on the noise in my head. Doesn’t fix anything, but it stops the TV from blaring. Though I’d probably need a sobriety calendar if my coffee habit had the same staying power.
+
+interviewer: Besides the wine in the evenings, have you been using any other substances like cannabis, prescription medications, or stimulants to manage stress or sleep?
+
+patient: No, just the wine and coffee. Though my coffee might be a stimulant... but it's not helping. Feels like I'm just stirring the same static. Maybe I need a stronger reset button, but I haven't found it yet.
+
+interviewer: It sounds like the wine and coffee are part of your routine for managing stress. Are you currently taking any medications or supplements, including things like vitamins or over-the-counter drugs?
+
+patient: No meds, just the coffee. Though I guess that’s technically a supplement? My doctor once said I was part of a clinical trial for caffeine addiction. But hey, it’s not like I’m on a pill for everything. Some problems need... more creative fixes.
+
+interviewer: It sounds like your coffee habit is a big part of your routine, even if it's not helping much. Have you noticed any periods where you feel unusually energetic or need very little sleep, even when you're stressed?
+
+patient: No, not really. My coffee’s more like a placebo at this point—keeps me from collapsing at my desk, but I’m still running on empty most days. When stress ramps up, I just... sink deeper. Like a car with a dead battery that’s also stuck in quicksand. You try cranking the key, but all you get is the sound of failure.
+
+interviewer: It sounds like your energy levels are consistently low right now. Have you noticed any experiences where you hear voices, see things others don't, or have strong beliefs that might seem unusual to others?
+
+patient: No, nothing like that. My brain’s just… stuck in neutral, like a car with a dead battery. I don’t have time for weird thoughts—just the usual ones about how I’m screwing everything up. Maybe the wine helps mute that noise, but even that’s… inconsistent these days.
+
+interviewer: It sounds like the thoughts about failing at things are really weighing on you. Have you had any recent medical issues or been diagnosed with conditions like thyroid problems, sleep apnea, or chronic pain that might be affecting your energy or mood?
+
+patient: No, nothing official. My doc ran some basic stuff a while back—blood work, thyroid checks—and everything was ‘normal.’ Which, you know, maybe I’m just a human stress ball. The sleep thing? That’s my personal hobby. Can’t say I’ve mastered it yet.
+
+interviewer: Let me try to summarize what I've heard so far: You've been feeling persistently low for about six months after your divorce, with trouble sleeping through the night, fatigue impacting your work as a salesperson, and using alcohol to mute intrusive thoughts about failure. Your daughter's texts feel like a fragile emotional anchor, but you've been isolating otherwise. I'm wondering if I captured the key pieces here—what did I miss?
+
+patient: You caught the big picture, but maybe missed the quiet stuff—like how I’ve been secretly picking up the slack for my ex’s work tasks, just to feel like I’m fixing something. And my mom calls every Sunday, and her ‘I’m worried about you’ feels like another thing I’m failing at. I just… keep telling her I’m ‘fine,’ even when I’m not.
+
+interviewer: It sounds like the weight of your mom’s expectations and trying to fix things at work are adding to your already heavy load. Let me try again: Your persistent low mood, insomnia, and fatigue started around your divorce six months ago. You’ve been secretly taking on your ex’s work tasks to feel in control, while downplaying your struggles with your mom and others. The only consistent emotional support is your daughter’s texts, which you fear might fade. What did I miss or get wrong here?
+
+patient: You got the gist, I guess. The coffee and that old bike project are the only things that make the days feel... less flat. But I’m not some tragic hero or whatever—just trying not to crash. The rest? Yeah, I’m still figuring out how to stop pretending I’ve got this under control.
+

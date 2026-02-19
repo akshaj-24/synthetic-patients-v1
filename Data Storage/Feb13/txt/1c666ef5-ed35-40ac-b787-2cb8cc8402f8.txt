@@ -1,0 +1,260 @@
+system: Session 1c666ef5-ed35-40ac-b787-2cb8cc8402f8 transcript
+
+system: Disorder: PPD
+
+interviewer: Hi Aaron, welcome. I'm Susan Goodman. We'll start by talking about what's been going on for you, and then explore how we can support you moving forward. Does that sound okay to you?
+
+patient: Sure. I guess. But why start with me? What's this for? I've been handling things at work, you know—EMTs deal with chaos daily. It's just part of the job.
+
+interviewer: It makes sense that your job requires resilience, Aaron. Can you share a bit more about what you're hoping to address through this conversation today?
+
+patient: Honestly? I'm not sure why I'm here. If there's something to talk about, it's probably about... staying sharp at work. EMTs deal with enough without adding stress. But I don't see how this helps. What's the point of going over this with you?
+
+interviewer: Would you be comfortable proceeding with our conversation today?
+
+patient: I suppose. If I have to. But let’s keep it simple—no games. I’ve got a job that keeps me busy, and I don’t need extra noise. You’re not here to fix me, right? Just… make sure we stick to what’s necessary.
+
+interviewer: It sounds like you prefer to keep things straightforward. Do you have any questions about how this session will work or what we'll be discussing?
+
+patient: No questions. I don’t see how it matters—this is just another formality. You want me to talk, but I’ve already said I’ll keep it simple. Why would I need to ask anything? What’s the real point of this? Are we just going through the motions until you get what you’re looking for?
+
+interviewer: It sounds like these feelings are really interfering with your work and relationships. When did you first notice these concerns starting to affect your daily life?
+
+patient: I guess it's always been there, you know? Work keeps you on your toes. Last month, a colleague 'messed up' my supply check. I had to start verifying things myself. Why? Are you saying I can't handle my job?
+
+interviewer: It sounds like the colleague’s mistake really rattled you. Can you tell me how this has affected your work performance specifically?
+
+patient: I just make sure everything’s in order. Three times a day now. It’s better safe than sorry. You think that’s overkill?
+
+interviewer: It sounds like the need to check things repeatedly is taking up a lot of your time. Can you share how this has specifically affected your work as an EMT?
+
+patient: It adds maybe 15 minutes to my prep time. But after Mark ‘forgot’ to restock the epinephrine last call, I’d rather be thorough. Not that I’m saying anyone’s targeting me—just standard protocol, right? My supervisor’s never questioned the outcomes, so I guess it works.
+
+interviewer: It sounds like your thoroughness is helping prevent errors, but it's also taking time and energy. What would you hope to achieve through this evaluation?
+
+patient: I just want to make sure there’s no misunderstanding about my work habits. If anyone’s trying to find issues where there are none, I need to be prepared. But as long as the job gets done right, what’s the problem?
+
+interviewer: It sounds like your work habits are really important to you, especially in ensuring safety. When did you first notice these concerns starting to affect your daily life beyond work tasks?
+
+patient: Family stuff? Let’s just say blood ties don’t mean much when everyone’s got an agenda. Why does every question circle back to personal stuff? You’re not here about my job performance, are you?
+
+interviewer: It sounds like these suspicions are affecting both your work and personal life. Can you tell me when you first noticed this level of distrust starting?
+
+patient: Early adulthood, maybe? You start learning quick when you're out there on calls. People don't exactly hand you trust on a plate. Why's that matter? You looking for some kind of pattern here?
+
+interviewer: It seems like your experiences in emergency services may have shaped how you view trust. Can you share a specific event from your early adulthood that made it harder to trust others?
+
+patient: Early adulthood? Let’s just say working with Mark in the ER taught me a few things. He’d ‘forget’ to log meds, then act like I was the problem when it came up. You want to hear about that or are you just filing this somewhere I won’t see?
+
+interviewer: It sounds like that experience with Mark made it really hard to trust others at work. Can you tell me how that affected your ability to trust your coworkers?
+
+patient: It made me check everything twice. Like, if I restock the kit now, I double-check the logs to prove I did it. You know how it is—better to have proof than let someone twist it later. Why? Are they questioning my methods again?
+
+interviewer: It sounds like having proof is important to you to feel secure. How has this need for certainty affected your personal relationships, especially with your partner?
+
+patient: I guess it’s just... making sure things are secure. You know, checking locks, verifying stuff myself. But why does that matter? You looking for some kind of pattern again?
+
+interviewer: It sounds like feeling secure is really important to you. Can you share how these checking behaviors have affected your partner’s reactions or the two of you being together?
+
+patient: She tolerates it. Says it’s ‘manageable’ as long as I don’t question her shifts the way I check the ambulance logs. But that’s just it—why should I trust systems or people to hold up their end if they don’t even track their own hours? You’re asking about partners, but I’d rather talk about the last audit I had to explain to the captain. That’s where the real oversight matters.
+
+interviewer: It sounds like the audit with the captain was a significant stressor for you. Can you share how that experience affected your work or trust in the system afterward?
+
+patient: The audit was just part of the job. If you’re looking for some kind of pattern, there isn’t one. I double-check my logs because that’s what gets done right. Why’s everyone so fixated on that? What’s the real point here?
+
+interviewer: It seems like work procedures are a key focus for you. What brings you here for this evaluation right now?
+
+patient: I’m here because the job requires it. The audit showed I follow protocol, but I don’t see how this helps. Why focus on procedures? What’s the real issue they’re after?
+
+interviewer: It sounds like the audit has added to the stress you're already managing. When did you first notice that these concerns about trust and procedures started to affect your personal life or relationships?
+
+patient: Stress from the job affects everyone, I guess. But I don’t see how that’s relevant. My partner knows how I operate. What’s the real reason you’re asking about personal stuff?
+
+interviewer: It sounds like you're frustrated that personal topics are being emphasized when your focus is on work-related concerns. Can you clarify when these feelings of distrust and need for checking started becoming a regular part of your daily routine?
+
+patient: The audit made me adjust my checks—no different from anyone adapting to oversight. If you're asking when I started caring about doing things right, it's always been part of the job. Why does that matter here? What are you trying to flag?
+
+interviewer: It sounds like the audit has added to the stress you're already managing. Can you share how these checking behaviors have specifically affected your ability to perform your duties as an EMT during emergencies?
+
+patient: I make sure the gear’s ready before we leave the station. If I second-check the trauma kit, it’s because lives depend on it—not because I can’t handle emergencies. The captain’s audit made everyone paranoid, I guess. Why’s there so much focus on checking? What’s the real test here?
+
+interviewer: It sounds like ensuring gear readiness is crucial for you. Can you share a specific time when double-checking equipment affected your response during an emergency?
+
+patient: I check things thoroughly. Once, a colleague’s gear was missing during a call—delayed the whole team. But that’s just part of the job. Why’s this coming up again? You’re asking a lot about procedures. Does it matter if we just do our jobs right?
+
+interviewer: It seems like these procedures and checking routines are central to how you manage stress and uncertainty. Can you clarify what your main concerns are that you’d like us to focus on during this evaluation?
+
+patient: Look, if I focus on the job and the gear stays ready, that's all that matters. The rest is just... noise. You keep circling the same things. What's the point? I'm here because they said it's protocol. If there's something specific you need, say it straight.
+
+interviewer: I hear your frustration about the focus on procedures—it sounds like you’re prioritizing what you see as essential. What specific issues would you like to address here in your own words?
+
+patient: I’m not sure there’s a specific issue. If I’m here, it’s to confirm that my methods work. Why does it matter what I think? The job’s done right, that’s all that counts.
+
+interviewer: It sounds like you're frustrated that the focus feels disconnected from your priorities. Can you clarify what your main concerns are right now, in your own words?
+
+patient: If there’s a specific issue you’re after, I’d say it. But you keep circling checks and the audit—like it’s some test. My concern’s simple: do the job right. If gear’s ready, lives get saved. Why’s that not good enough for your questions?
+
+interviewer: It sounds like the audit has added to the stress you're managing. When did you first notice these concerns about trust and procedures starting to affect your work or personal life?
+
+patient: My methods have always been about doing the job right. The audit was just proof that cutting corners isn’t an option. Why keep circling back to this? If there’s a problem, I’d have heard about it from dispatch, not here.
+
+interviewer: I hear your frustration about the focus on procedures—it sounds like you’re prioritizing what you see as essential. Can you clarify what your main concerns are right now, in your own words?
+
+patient: My main concern is making sure the job gets done right. If the gear’s ready and protocols are followed, people survive. The audit was just part of the process—no one’s perfect, but I don’t see why it’s such a focus. It’s like you’re looking for a problem where there isn’t one. Why does it matter if I check things more? It’s not like anyone else’s work’s up to the same standard.
+
+interviewer: It sounds like the focus on procedures feels critical to you. Can you share a recent example of how these checking behaviors affected your partner’s feelings or reactions in your relationship?
+
+patient: She knows how I am. If it was a real problem, we’d be past small talk about it by now. Why does it matter if I log the locks or check the gear? People do what they need to do to sleep at night. Are you implying there’s some pattern here that’s not… practical?
+
+interviewer: It sounds like your practical approach to work and relationships is a way to maintain control. Can you share how the audit experience specifically affected your routine or stress levels in the past few months?
+
+patient: The audit just made me double-check more. If the system wants compliance, I comply. Why’s this matter? Are you testing if I follow orders? I’ve got a job to do—stress isn’t part of the equation. People either accept the process or they don’t. What’s the real issue here?
+
+interviewer: It sounds like the focus on procedures feels critical to you. Can you share how these checking behaviors have specifically affected your ability to engage in personal activities or relationships outside of work?
+
+patient: If it was a problem, we’d be past small talk about it by now. My partner knows how I am—she’s a nurse, she gets that attention to detail matters. Why does this matter? Are you suggesting there’s a line between work and home I’m crossing? I check the locks. She checks her patient charts. It’s just… how we are.
+
+interviewer: It sounds like your approach to checking and control is important to both your work and personal life. Can you describe a specific situation where these behaviors caused a challenge in your relationship with your partner?
+
+patient: We had a talk about the locks. She says it’s annoying, but she knows it’s part of how I do things. Why does that matter? If the door’s secure, who cares how many times I check? Are you suggesting there’s a problem with being thorough?
+
+interviewer: It sounds like your partner’s tolerance of the lock-checking is a point of tension. When did you first notice these behaviors starting to affect your relationship with her?
+
+patient: Look, I check locks because I need to know my environment’s secure. My partner says it’s annoying, but she’s never asked me to stop. Why does this matter? You want to know if I’m prepared for calls or not?
+
+interviewer: Have you experienced similar episodes in the past, and if so, what helped you manage them?
+
+patient: I don’t really think about past episodes. I just focus on doing my job right. Double-checking equipment is part of that—if I didn’t, people might get hurt. Why does it matter what helped me? Are you worried about my preparedness for calls?
+
+interviewer: It sounds like staying sharp at work is a priority for you. How has your partner been dealing with the changes in your routines at home, like checking locks or prep time?
+
+patient: She tolerates it. Most people don’t get why routines matter—if the job’s done right, that’s all that counts. Why’s there always a ‘but’ when I say that? You’re looking for cracks in the story, aren’t you? My brother gave me $200 last month. Coincidence I noticed he checks my bank app activity now?
+
+interviewer: It sounds like you're feeling watched or judged in some areas of your life. Can you tell me more about your relationship with your brother—how has his involvement made you feel?
+
+patient: Mark’s ‘gift’ was a favor, but he’s been checking my bank app since. It’s not about trust—it’s about proving I don’t need handouts. Why’s everyone so interested in my family? You’re not here for my job performance, are you?
+
+interviewer: It sounds like the attention to your family has added to your sense of being watched. Can you share more about your relationship with your brother and how his actions have made you feel?
+
+patient: Mark’s always had a way of ‘helping’ that feels like a leash. After Dad favored him nonstop, I learned to expect strings. He ‘gifts’ money, then checks my bank app—like he owns the ledger. Why’s that relevant here? You’re not auditing my family finances, are you? I check locks for the same reason: control what you can. But why’s everyone so fixated on my brother? You’re not writing this down for him, are you?
+
+interviewer: It sounds like Mark's behavior has left you feeling controlled and untrusted. How has that dynamic affected your ability to trust others in your life?
+
+patient: Mark’s actions? They taught me to double-check everything. If family can’t be trusted with a simple loan, why should I trust anyone? But I’m not one to dwell—EMT work keeps you sharp. You need to know if someone’s messing with your gear, right? Why bring up family anyway? What’s this leading to?
+
+interviewer: It seems like your experiences with your brother have deepened your need for control. How has your partner, who is a nurse, been involved in or affected by your checking routines at home?
+
+patient: She puts up with the lock checks, but it's not her thing. We both know why routines matter—lives depend on them at work. Why's there a problem with that? You think control's bad when it's not your gear on the line?
+
+interviewer: It sounds like the stress you're under is making it hard to trust even those closest to you. Have you had any thoughts of harming yourself or ending your life recently?
+
+patient: No. I don’t think about that. My job keeps me sharp—lives are on the line every shift. You’d think the stress would eat at you, but routine’s what matters. Why does this keep circling back to personal stuff? What’s this for, exactly?
+
+interviewer: I appreciate your focus on work—it sounds like it helps you stay grounded. Have you noticed any changes in your alcohol or cannabis use recently?
+
+patient: Beer after shifts, same as always. Why? You think that matters? My job’s clean—no distractions. Why’s this relevant anyway?
+
+interviewer: I appreciate your emphasis on routine. How many beers do you typically have after your shifts?
+
+patient: One. Sometimes two if the call was a mess. Why? You think that’s a problem? My job’s clean—no distractions. What’s the real issue here?
+
+interviewer: I hear your emphasis on maintaining focus for work. Have you used cannabis or any other substances like stimulants or opioids in the past month?
+
+patient: Cannabis? No. I don’t mess with that. A beer after shifts? Sure, sometimes. Keeps the head clear. Why? You thinking I’m slacking on duty? I’ve got logs to prove my readiness if needed.
+
+interviewer: I hear your emphasis on staying focused for work. Have you used stimulants like amphetamines or energy drinks in the past month?
+
+patient: Energy drinks? No. I stick to coffee—black, no sugar. It’s part of the routine. Why? You think I need something to ‘keep up’? My logs show I’m always ready when it matters. What’s this really about?
+
+interviewer: I hear how important routine is for you. Have you noticed any other thoughts or concerns that feel unusual or might worry others, like strong suspicions about people's intentions or seeing patterns others don't?
+
+patient: Just staying sharp. You know, in our line of work, you can't afford to miss a detail. But why the interest? What's this for?
+
+interviewer: It's clear your job requires a high level of vigilance—have you ever experienced things that others don’t, like hearing voices or having beliefs that feel unshakable even when others disagree?
+
+patient: Nope. Just standard precautions. If you don't spot the red flags, you end up in trouble. But why bring that up? You implying I'm not reliable?
+
+interviewer: It sounds like you place a lot of importance on being reliable in your role. Have you noticed any thoughts that feel unusual or might concern others, like strong suspicions about people's intentions that others don’t share?
+
+patient: Just staying sharp. In our job, you notice when someone's off. Like when my brother 'loaned' me money—suddenly I had to log every shift. Now the gear checks? It’s just making sure nothing slips through. But if you’re asking about *me*, why? What’s the pattern you’re looking for?
+
+interviewer: I hear how important vigilance is for your role. Have you noticed any thoughts or suspicions—about people at work, your partner, or others—that feel overwhelming or different from what others might think?
+
+patient: I don’t know. My job requires me to be sharp—like checking the gear thrice daily. Some people think it’s overkill, but if a needle’s missing, someone could die. Why’s this relevant? You looking for an excuse to second-guess my methods?
+
+interviewer: I hear how important precision is for your role. Have you noticed any thoughts that others are trying to control or monitor you, even in situations where they might not be?
+
+patient: Control? At work, I stick to protocols—like triple-checking gear. If a coworker messed with my kit last month, I need to know. But why ask about control? You think I’m imagining things? My brother ‘loaned’ me cash once. Called it a gift, but I’ve seen his texts to Dad. People have... ways. Why the sudden interest in who’s ‘monitoring’ whom?
+
+interviewer: It sounds like your brother’s actions have added to your sense of being watched or controlled. Have you noticed other situations recently where you feel someone is monitoring your behavior or trying to influence your decisions in ways that feel unwanted?
+
+patient: If you're asking about the audit or Mark's 'gift,' I stick to protocols. Triple-checking gear isn't 'unusual'—it's standard. Why's that your focus? I do my job right, that's all that matters. You're circling the same points. What's the endgame here?
+
+interviewer: I hear your frustration about the focus on these topics. Have you been prescribed any medications or supplements recently that you’re taking regularly?
+
+patient: Nope. Just a multivitamin, same as most people. Why? You thinking I need a straightjacket or something? My partner says I’d relax more if I took something, but I stick to coffee and beer. What’s the protocol here—if I say no, you write me off as unstable? Or if I say yes, you dig into why?
+
+interviewer: I hear your emphasis on maintaining control through routine. Have you noticed any changes in your energy levels, sleep patterns, or urge to take risks lately that might feel different from usual?
+
+patient: Energy’s steady—I run three miles daily to stay sharp. Sleep? I get what I need. No point in wasting time on risks when my job depends on being precise. Why? You think I’m slacking?
+
+interviewer: It sounds like maintaining your routine is crucial for your job performance. Have you noticed any periods recently where you felt unusually energetic or needed less sleep than usual?
+
+patient: I don’t track my sleep like I track my gear checks. If I’m on a call, I sleep when the job lets me. Why’s that relevant? You want to know if I’m ‘unreliable’ or something? I’ve never messed up a shift. My partner’d vouch for that—well, as much as she tolerates my habits.
+
+interviewer: I hear your emphasis on work as a foundation for reliability. Have you ever been diagnosed with a medical condition that affects your sleep, energy levels, or focus—like thyroid issues, sleep apnea, or chronic pain—that might impact your routines?
+
+patient: Nope. Never needed a doctor for that. Why? You think my job performance’s somehow ‘off’? My partner’d tell you I’m reliable—when she’s not rolling her eyes at the lock checks. But sure, maybe there’s some ‘condition’ I’m missing. Real convenient how that works, right?
+
+interviewer: Let me recap what we've discussed: You've described a pattern of hypervigilance and distrust, including repetitive checking behaviors at work and home, suspicion of colleagues and family members, and relationship strain with your partner. These symptoms began after past workplace errors and family dynamics involving control, and they’ve intensified with recent audits and financial interactions with your brother. Your structured routines and focus on job performance help you cope, but they also create interpersonal tension. What did I miss?
+
+patient: You missed that I don’t trust anyone’s version of events, not even mine. Every ‘routine’ check is there for a reason—like the last audit when someone tried to pin a missing gauge on me. And my brother’s ‘gift’? Let’s just say loans come with strings. But why’s this even relevant? You’re not here about my job performance, are you?
+
+interviewer: Let me try to capture what stands out: You've described a deep mistrust—not just of others, but of your own version of events—driven by experiences like the audit incident and your brother’s financial interactions, which feel like hidden control mechanisms. These experiences seem to fuel your hypervigilance and need for routine. What did I miss?
+
+patient: You got the audit and the brother down. Missed the neighbor below who ‘coincidentally’ reports noise complaints every time I’m up late studying protocols. Why’s all this about personal stuff? My partner says my checking’s annoying, but she’d rather I be ‘overprepared’ than make a mistake on a call. You’re not here about job performance, though. You’re here about the... static.
+
+interviewer: That pattern of environmental 'coincidences' adding up to something that feels targeted is really weighing on you. Let me try to capture the full picture now: You've described hypervigilance around both work and home routines, mistrust of familial and coworker interactions, and a need for control through checking behaviors. The neighbor's noise reports feel like another layer in this web of perceived scrutiny. What did I miss?
+
+patient: You got the neighbor. Missed the coworker who ‘randomly’ audited my gear log last month—just after I caught them taking extra supplies. Why’s all this about ‘patterns’ instead of the fact that I’ve never made a mistake on a call? You’re not here to validate that, are you?
+
+interviewer: You're right—the coworker's audit after catching them with extra supplies is a key piece of this pattern. Let me adjust my summary: These experiences of perceived targeting (neighbor, brother, coworker) fuel your hypervigilance and need for control. What else might I be missing that’s central to this?
+
+patient: You’re missing that the audit was just doing my job right. If the gear’s not ready, people die. And the beer? It’s social. You keep circling back to the same stuff. Why not ask about the neighbor’s noise complaints again?
+
+interviewer: It sounds like maintaining control through your routines is really important to you, especially given the demands of your job. What steps would help you feel supported in managing this going forward?
+
+patient: Control’s non-negotiable when lives are on the line. If the gear’s not ready, people die. The neighbor’s noise complaints? Another distraction from what matters. You keep circling back to the same stuff—why not focus on proving I can handle the job without... interruptions? Just let me do my checks. That’s support.
+
+interviewer: It sounds like your dedication to your role is a core part of how you manage stress—what would help you feel ready to move forward with that focus? Would you like to discuss any next steps or preferences for follow-up?
+
+patient: As long as the job specs don’t change, I’ll stick to my routines. You keep bringing up the same audit stuff—it’s not a problem if the gear’s ready. What’s the real point here? I’ve already proven I can handle the work.
+
+interviewer: It seems your focus on maintaining control through your work routines is central to how you navigate stress. To close, can you share any specific next steps or adjustments you’d like us to prioritize for your follow-up?
+
+patient: Sticking to the job specs and routines is all that’s needed. If the gear’s ready, lives get saved—no room for distractions like the neighbor’s noise or... other stuff. Don’t need adjustments unless you’re trying to second-guess the checks. Why keep circling back to this?
+
+interviewer: It sounds like your commitment to your job’s precision is central to how you navigate challenges right now. Let’s wrap up by confirming next steps—would a follow-up in two weeks to review how your routines are holding up work for you, or is there another timeframe that feels more practical?
+
+patient: Two weeks is fine if we’re not revisiting the audit stuff. Why the sudden interest in my schedule?
+
+interviewer: Your concerns about the focus on your schedule are valid; I want to ensure follow-up supports your practical needs without unnecessary intrusion. --FUNCTION-- end_phase --FUNCTION--
+
+patient: If the job’s done without issues, the schedule’s just paper. My partner says I’m too rigid with the checks, but when lives are on the line, you don’t cut corners. Why does everyone keep circling back to the same stuff? Either there’s a point or you’re just fishing.
+
+interviewer: I appreciate your clarity about what’s essential for your work—let’s confirm the two-week follow-up to review how your routines are holding up. Before we close, is there anything else you’d like to address today?
+
+patient: Follow-up’s fine if it’s about the job. My routines don’t break when lives are on the line. The neighbor’s noise is a distraction, but it’s not here to discuss. Why bring it up at all?
+
+interviewer: Thank you for your clarity, Aaron. I'll schedule our follow-up in two weeks to review how your routines are working for you. Is there anything else I can clarify before we close today?
+
+patient: Follow-up’s fine if it’s about the job. My partner tolerates the lock-checking, but it’s just… life. The coworker’s audit last month? That’s why I triple-check gear now. Why keep circling back to the same examples?
+
+interviewer: It seems your focus on maintaining control through work routines remains central. Before we close, is there anything specific about your job-related routines or the upcoming follow-up that you’d like to adjust or clarify?
+
+patient: The follow-up should stick to the job metrics. If the audit showed no issues, then the routines are working. Why’s there a need to question them? My checks save lives—no room for error. The neighbor’s noise is a separate issue. Either you’re here about the job or you’re not.
+
+interviewer: I understand your focus on job-related priorities—let’s confirm the two-week follow-up to review your routines’ effectiveness. Before we close, is there anything else about your work protocols or safety measures you’d like to clarify or adjust?
+
+patient: Follow-up’s acceptable if it’s strictly job metrics. My routines haven’t failed during calls—lives depend on that. The audit last month proved nothing’s slipping. Why bring up the neighbor’s noise? It’s irrelevant. Just… confirm the schedule sticks to protocols. If there’s no breach, why question the checks?
+

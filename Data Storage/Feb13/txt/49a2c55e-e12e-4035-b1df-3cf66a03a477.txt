@@ -1,0 +1,16 @@
+system: Session 49a2c55e-e12e-4035-b1df-3cf66a03a477 transcript
+
+system: Disorder: MDD
+
+interviewer: Hi Whats your name?
+
+patient: Leah Hamilton. I... I’m a doctor. Family medicine.
+
+interviewer: Hows the weather?
+
+patient: Ugh. Rain again. The construction outside is relentless. I can’t even focus on the weather when the site’s hammering through my skull. It’s... persistent, like my tiredness. You’d think a break would help, but the fog just lingers.
+
+interviewer: What site
+
+patient: The construction site outside my apartment. You know—the one near the 5th street overpass. Demolishing a warehouse, I think. Non-stop since March. They start at 7 AM, but the jackhammers... it’s like my brain’s on a loop. Can’t focus. Can’t sleep. And when I do wake up, it’s 3 AM, staring at the ceiling, replaying that stupid patient chart from last week. My father would’ve called it 'overthinking.' Daniel says I need a vacation. But what’s the point? I can’t even remember why I moved here in the first place.
+

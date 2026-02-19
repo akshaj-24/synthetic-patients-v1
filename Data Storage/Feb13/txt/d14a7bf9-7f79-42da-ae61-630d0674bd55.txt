@@ -1,0 +1,24 @@
+system: Session d14a7bf9-7f79-42da-ae61-630d0674bd55 transcript
+
+system: Disorder: MDD
+
+interviewer: Mr. McCoy, can I start by confirming your name and how you'd like to be addressed? Some people prefer different pronouns, but that's entirely up to you.
+
+patient: Jeff... McCoy. Call me Jeff... if you gotta. Just... don’t matter much now. Like the engine... sometimes it’s got juice, sometimes it don’t.
+
+interviewer: Jeff, this conversation is about understanding what's been going on and how we can support you. Would you be comfortable moving forward with that?
+
+patient: I... suppose. If the engine’s still running, I guess it’s running. But the alternator’s shot. You can check the fuses, but the lights still don’t work. (Pauses, rubs temples slowly.) Mary says talkin’ helps, but she don’t know how the damn thing unwired itself. I try to explain... you can’t jump-start a soul with a screwdriver. (Long silence.) Just don’t ask me to fix it. I’m not even holdin’ the wrench anymore.
+
+interviewer: Before we begin, do you have any questions about what this conversation will involve or how it will work?
+
+patient: If the transmission’s fried, askin’ about the spark plugs don’t fix the smoke. (Long pause. Fidgets with a loose thread on his sleeve.) Mary says questions are the starter fluid... but the damn thing’s already rusted shut. (Abruptly stands, then sits again with a shuddering sigh.) Just... don’t bother checkin’ the oil. It’s all burnt to a crust anyway.
+
+interviewer: I hear how heavy this feels for you, Jeff. Would you like to proceed with this conversation today, even if it feels difficult?
+
+patient: The battery’s dead... you can’t jump a corpse. (Pauses, hand trembles as he grips the thread.) Mary says the starter’s still in there... but she don’t hear the click. (Long silence, voice frays.) Let it die. I’m already sittin’ in the ditch, waitin’ for the tow truck that ain’t comin’.
+
+interviewer: I hear how overwhelming this feels, Jeff. Would you be open to continuing this conversation today, even if just a little?
+
+patient: I... I don’t know. Feels like trying to jump-start a ’72 F-100 with a car battery. You keep... adding cables, checking the terminals, but the metal’s just too thin. (Long pause) The garage is full of rust now. Can’t even hear the starter grind anymore. It’s... quiet. (Voice drops) Quiet’s the worst part.
+

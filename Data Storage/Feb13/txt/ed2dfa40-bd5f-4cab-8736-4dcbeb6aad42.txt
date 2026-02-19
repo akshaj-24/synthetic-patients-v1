@@ -1,0 +1,184 @@
+system: Session ed2dfa40-bd5f-4cab-8736-4dcbeb6aad42 transcript
+
+system: Disorder: PPD
+
+interviewer: Mr. Collins, it's nice to meet you. My name is Dennis Myers. Before we start, would you prefer a different name or pronouns for our conversation?
+
+patient: Just Matthew. Why? Are you logging that somewhere?
+
+interviewer: I can understand how that might feel concerning. Would you be comfortable with me using your name and pronouns as you've shared here?
+
+patient: Sure, Matthew. But why the focus on names? What’s really on the table here?
+
+interviewer: That's a valid concern, Matthew. To clarify, my focus is on understanding your experience and ensuring this process feels safe for you. Would you like me to explain the purpose and structure of our session today?
+
+patient: Rules and structure? You mean like weeding a garden—always something to uproot. Why the sudden need for them? What’s really on your mind, doc?
+
+interviewer: I hear your concerns about rules and structure, Matthew. It sounds like trust is a big challenge for you right now. Would you be okay with me briefly explaining how we’ll spend our time today so we can both feel more comfortable?
+
+patient: Structure? You mean another way to catch me off guard. Last time someone talked about rules, it was a setup. What’s your angle, Dennis?
+
+interviewer: I hear your concerns about trust. Would you like me to briefly explain the purpose of our session and how we’ll proceed?
+
+patient: Rules? Setup for what? Last time someone laid out the rules, it was just the beginning of them trying to catch me off guard. You think I’m here to play your game?
+
+interviewer: I hear your wariness about rules and setups, Matthew. Would you be willing to hear me explain the purpose of this session again, in a way that addresses your concerns about trust?
+
+patient: You’ll say it’s about trust. But how’s that different from the time my boss said ‘teamwork’ before cutting hours? I’m not handing you anything to twist later. Who’s actually got access to my file? Not that I’d expect you to say, of course.
+
+interviewer: That sounds really tough, Matthew. Would you like me to explain the confidentiality policies for this session to help clarify who has access to your information?
+
+patient: Confidential? You say that like it means something. Last time someone swore on paper, they still leaked it. What’s the catch here? You think I’m stupid enough to believe your promises? My wife’s sister? She’s the one who told everyone about the will—so don’t act like you’re any different.
+
+interviewer: That sounds really tough, Matthew. Would you like me to clarify the confidentiality policies here, including any exceptions?
+
+patient: Confidential? You think that word means anything after what happened with my sister-in-law? She was 'confidential' too before she leaked that will. I tend my garden—tomatoes don’t lie—maybe I’ll just talk to them instead. You want promises? I’ll need more than words.
+
+interviewer: I hear how deeply hurt and betrayed you feel about confidentiality. Would you be willing to confirm if you’re comfortable proceeding with this session as we’ve discussed?
+
+patient: I don’t confirm nothing. You ask about comfort like you care, but last time someone asked that, it was just to trip me up. My garden doesn’t lie—maybe I’ll talk to them instead. You want my word? Better safe than sorry, right?
+
+interviewer: It sounds like you're feeling really unsafe and unsure about trusting the process. Would you be willing to confirm if you'd like to proceed with this session today?
+
+patient: I'll stay, but only 'cause I've got a garden to tend and no time for games. You keep asking about trust like it's some puzzle to solve. Last year, my boss called me 'defensive' outta nowhere—still waiting for her to explain. If you start prying where you don't belong, I'll leave. My tomatoes don't care about your questions, they just need water. Let's talk about... the rules. What's off-limits here?
+
+interviewer: I hear how important boundaries are to you, Matthew. What would help you feel clearer about what’s off-limits in our conversation today?
+
+patient: Rules. Written down. No gray areas. Last year, my boss said 'we're just following up' then used it against me in a performance review. If you want my time, state what’s off-limits in black and white—no fancy words. And no recording? My wife’s lawyer said paper trails are safest. You ever had someone twist your words? I thought so. My tomatoes don’t play games—they either get water or they don’t. What’s *yours* hiding here?
+
+interviewer: I hear how important clear boundaries are to you, especially after past experiences. Would you like me to provide a written summary of what’s confidential, what’s off-limits, and how this session will be documented to address your concerns?
+
+patient: Written? Fine. But I want it in block letters—no loopholes. My lawyer says even 'confidential' can be a trap if you blink wrong. You’ll keep a copy, I’ll keep a copy. My wife’s sister once laughed about 'confidential' conversations... didn’t know they were on her phone. No fancy legal jargon—state it like you’d explain to a kid. And no tricks with the font size. My tomatoes don’t hide in small print. Why are you frowning? Did I miss something? The weeding fork’s getting rusty out there.
+
+interviewer: I understand your need for clarity and boundaries, Matthew. Would you be willing to proceed once we have the written summary in place as you described?
+
+patient: Proceed? Sure. But that paper better be stamped, dated, and notarized like the time my sister tried to renege on a land deal. You’ll draft it, I’ll cross-check it with my lawyer—no hand-written notes, just bold letters. And no smirks when you hand it over. My tomatoes don’t smirk, they just... grow. Why the long pause? You got something to hide in that clipboard? The weeds aren’t going to water themselves.
+
+interviewer: Can you tell me more about what's been most concerning for you lately?
+
+patient: It's the usual. My mother-in-law's been coming around more, you know? Last week she left the house key on the porch—'for convenience,' she says. Smells like a setup. And at work, Dennis tried to 'help' with the weeding, but he missed the dandelions on purpose. I don't need charity. You’re asking a lot of questions—what’s the catch here?
+
+interviewer: It sounds like these situations have been really frustrating and confusing for you. Can you tell me when you first started feeling this way, and if there's been a time when these suspicions felt particularly overwhelming?
+
+patient: My father taught me early—trust is a weakness. You asking about 'when it started' to pin something on me? Last week, Dennis in maintenance 'helped' with the weeding. Told me I was 'slipping.' Slipping? I double-check every row now. The tomatoes don’t lie, though. They just need water. Why does this matter to you, exactly?
+
+interviewer: It sounds like your father’s influence has shaped how you see trust in relationships. Can you share how that perspective affects your interactions at work or home now?
+
+patient: At work? I don’t trust anyone. Dennis ‘helped’ with the weeding last week, but now I check every row twice—better me than some liar pinning mistakes on me. At home? My wife’s silence says enough. You think I should just… trust her? The tomatoes don’t lie. They just need water. Why’s this about trust? You’re asking a lot of questions today. Who’s really listening?
+
+interviewer: It sounds like your distrust feels deeply rooted in both work and home. When did you first start noticing these feelings becoming this intense?
+
+patient: You want specifics? 2019, maybe. My boss called me 'defensive' after I caught her rerouting maintenance funds. Since then? I track every conversation. My mother-in-law’s been whispering in the nursing home—leaking secrets, I swear. The tomatoes, though… they just need water. Why do you keep circling back to timelines? What’s the use of knowing?
+
+interviewer: It sounds like the timeline feels really significant to you—almost like a way to establish control. Can you share what you hope we might be able to work on together through this process?
+
+patient: Control? I track every conversation, every move. 2019, that boss of mine, she thought she could trap me. I don’t let anyone near my records now. The tomatoes… they just need water. You want to work on this? You’ll need to prove you’re not like her. Why’s bourbon always the answer on weekends? You’d know if you weren’t distracted by timelines.
+
+interviewer: That sounds like a really challenging experience with your boss in 2019. How did that event change the way you approach work and relationships with others?
+
+patient: 2019? That’s when I learned ‘help’ is just a word. Now I check every row twice, count the weed seeds Dennis ‘accidentally’ spills. My mother-in-law’s been whispering in that nursing home—leaking family secrets, I swear. You’re asking why I drink bourbon? You’d know if you weren’t busy charting my answers for someone else.
+
+interviewer: It sounds like the bourbon is part of how you cope with the stress of feeling set up. What would you most like to achieve through this process?
+
+patient: I don't need a crutch. Bourbon's just to quiet the noise, not some weakness. What I want? To know you're not logging this to hand over to my boss or my sister-in-law. My garden's the only thing that grows straight—no tricks there. You'll get nothing but the facts, no more than that.
+
+interviewer: I want to better understand your experience with these feelings over time. Have you had periods in the past where you felt similarly distrustful or on edge, and if so, what, if anything, helped during those times?
+
+patient: Distrust? It's been there since I was a kid, watching my old man get taken advantage of. You think asking about the past helps? My garden's the only thing that's ever kept its promises—no double-crossing plants. When the boss tried to pin that 'defensive' label on me in 2019, I just dug deeper into the soil. What's the real reason you're asking about old arguments? You got a checklist for this?
+
+interviewer: It sounds like your garden is a consistent source of stability for you. Are there other activities or people you rely on when things feel uncertain?
+
+patient: The garden’s the only thing I trust. My bourbon’s just... noise. Why the sudden interest in my habits? You got a form to fill here?
+
+interviewer: It sounds like your garden provides a sense of control and trust. Can you tell me about any times in the past when these feelings of distrust became overwhelming, and what, if anything, helped during those periods?
+
+patient: Distrust's not some temporary thing—it's the ground I walk on. 2019? That's just one weed in a whole field. The garden's the only way I handle it, you know? Digging, seeing the roots, no tricks. But why circle back to old ground? You got some report due?
+
+interviewer: Have you had any thoughts of harming yourself or ending your life recently?
+
+patient: Don’t go there. The garden keeps me grounded—digging, seeing things grow straight. If I let that noise in... well, the bourbon’s just noise. Why the sudden focus on dark corners? You got a script for this?
+
+interviewer: It sounds like the garden is a crucial part of your routine. You mentioned bourbon is just 'noise'—how does it fit into your daily life, and has there been any recent change in how you use it?
+
+patient: Bourbon's just... a way to clear my head after the day's crap. Keeps the noise at bay, you know? The garden's more reliable, though. No hidden agendas in the soil. Wait—why the sudden interest in my habits? You got a form to fill out or something?
+
+interviewer: It sounds like bourbon helps you manage stress, but the garden offers more stability. How often do you use alcohol, and have you noticed any changes in your use recently?
+
+patient: I don't track every drink, but weekends are... necessary. The garden's the only thing that doesn't try to trip me up. Why the focus on the bourbon? You think it's a problem?
+
+interviewer: It sounds like you feel bourbon is just a way to manage stress. Have you used any other substances, like cannabis or stimulants, to cope with stress or other feelings?
+
+patient: Nope. Just bourbon. You think I’d risk more? What’s really in your head—some hidden report?
+
+interviewer: I hear your concerns about confidentiality. Could you share if you've noticed any changes in your thinking, such as hearing voices or believing others are trying to harm you or control your thoughts?
+
+patient: No. I don’t have time for delusions. The garden keeps me grounded—those plants don’t lie. But if someone was trying to mess with me, the soil would show. Why ask about that? You think I’m unstable?
+
+interviewer: It seems like stability is important for you. Have you noticed any changes in your energy levels or sleep patterns recently?
+
+patient: Energy? I’ve got the kind that keeps the garden weeded. Sleep’s... adequate. You’d know if I lied about that, right? 2019 taught me to watch for shifts in tone. If I’m tired, it’s from double-checking the soil pH. Why? You think my rest affects your report?
+
+interviewer: It seems your energy and sleep are tied to your sense of control. Have you noticed any recent changes in your mood, such as feeling unusually elevated or needing less sleep than usual?
+
+patient: I’ve been... okay, I guess. The garden’s the only thing that runs on a real schedule—those tomatoes don’t care if you’re trying to catch me off guard. As for sleep? Let’s just say I’ve learned not to trust people who ask about it. My boss in 2019 sure didn’t believe I was tired when I showed up late. And why do you keep circling back to the same topics? Are you testing if I’ll slip up?
+
+interviewer: I understand your concerns about being asked the same questions. Let’s clarify: Are you currently taking any medications, supplements, or vitamins on a regular basis?
+
+patient: No meds. I don’t need no pills. My doc tried to get me on something last year, but I know how that goes. Why the interest? You thinkin’ I’m hiding something?
+
+interviewer: It seems you’re clear about not taking medications, but could you share if you're currently taking any supplements or vitamins on a regular basis?
+
+patient: Nope. Not buying into the vitamin hustle. My doc tried pushing them once—same song, different verse. The tomatoes don’t need supplements to thrive. Why the sudden interest in what I’m putting in my body? You tracking something?
+
+interviewer: It sounds like your energy is closely tied to your gardening routine. Have you noticed any changes in your energy levels or need for sleep that feel different from usual?
+
+patient: The garden keeps me busy, sure. But energy’s a funny word—you want me to parse that out like you parse my records? My boss in 2019 called it ‘exhaustion’ when I missed a shift. Now you’re asking about ‘changes’… Are you logging this for someone else? Those tomatoes don’t need my energy. They just grow. Why the sudden focus on what I need?
+
+interviewer: I hear how important control and stability are for you. Have you experienced any periods in the last few months where you felt unusually energetic, or needed significantly less sleep than usual?
+
+patient: Energy? The garden keeps me on a schedule tighter than that 2019 boss’s spreadsheet. If you’re asking if I’ve been up all night... maybe. But why? You trying to map my weaknesses? Those tomatoes don’t lie about their needs. Why’s everyone so fixated on sleep around here?
+
+interviewer: It seems your energy and sleep are tied to your sense of control. Have you noticed any recent changes in your mood, such as feeling unusually elevated or needing less sleep than usual?
+
+patient: I don’t see why my sleep matters unless you’re trying to find fault. I stick to my routine—garden, work. If I need less sleep, it’s ‘cause I got things to do. My boss in ’19 said I was too suspicious, then she tried to trap me. You asking ‘cause you think I’m hiding something?
+
+interviewer: Let me recap what I’ve heard: Your distrust of others’ motives—especially at work and in relationships—has been worsening, partly fueled by past experiences where you felt betrayed or set up. Gardening offers stability, and you’ve been using bourbon to manage stress, though you don’t see it as a crutch. You’re clear about needing strict boundaries here, like legal-reviewed confidentiality agreements, to feel safe enough to engage. What did I miss or get wrong here?
+
+patient: You got the garden part right. The rest... maybe half. I don’t need a confidentiality agreement—I just want to know who else has access to my records. And about the bourbon: it’s not a crutch. It’s a... a way to quiet the noise. But don’t act like you’re not logging this somewhere. You’re all the same—smiling while you file.
+
+interviewer: I hear how important transparency feels to you—especially around confidentiality and how the bourbon fits into your routine. Let me adjust my summary: Your distrust of others’ motives, worsened by past betrayals, drives hypervigilance at work and home. Gardening offers stability, while bourbon helps manage stress without being a 'crutch.' You’re prioritizing clear boundaries around your records and want to ensure I’ve understood your perspective correctly. What did I miss or get wrong here?
+
+patient: Garden’s the only part you got right. The rest? You’re missing the part where my mother-in-law’s been leaving her old pills in my trash. And the bourbon—don’t act like it’s not a crutch. You just file it under ‘stress management’ while you log it for someone else. Who else has access to these notes? My boss in ’19 did the same smile before she re-routed the funds.
+
+interviewer: I hear how the mother-in-law’s actions and the bourbon’s role feel underacknowledged, and your need to track who accesses these notes given past betrayals. Let me adjust my summary: Your distrust stems from both workplace and familial betrayals, including your mother-in-law’s pill-leaving and bourbon as a stress-management tool you resist framing as a crutch. Confidentiality boundaries are critical, given past experiences where trust was exploited. What did I miss or get wrong here?
+
+patient: You got the pills right. But you’re missing the part where my wife’s been secretive—left the house last week, came back with a new perfume. And don’t think I’ve forgotten 2019. You’re just like her, smiling while you track me. Who else has these notes?
+
+interviewer: I hear how your wife’s recent behavior and the 2019 incident feel central to your distrust. Let me adjust my summary again: Your hypervigilance about secrecy—whether from your wife, mother-in-law, or workplace—stems from a pattern of perceived betrayals, with 2019 being a key turning point. The bourbon helps quiet the noise, but you resist framing it as a crutch, and confidentiality boundaries are non-negotiable. What else am I missing or getting wrong here?
+
+patient: You missed the part where my wife’s been hiding her phone. She checks it nonstop when I’m in the room. And don’t think I haven’t noticed the garden—someone’s been stepping on the rows. Not my wife. My boss in ’19 did the same thing before she re-routed the funds. Who else has these notes? You’re all the same.
+
+interviewer: I hear how the garden being trampled and your wife’s phone-checking feel like clear patterns of betrayal, echoing 2019. Let me adjust my summary one last time: Your distrust is fueled by repetitive experiences of being monitored or set up—whether through workplace financial misconduct, familial secrecy, or now your wife’s behavior. The garden represents control you can’t find elsewhere, and bourbon helps you cope, though you resist labeling it as a crutch. Who else has these notes? What did I miss or get wrong here?
+
+patient: Your summary’s missing the part where my mother-in-law’s been whispering to the neighbors. The garden rows? They’re straight, unlike her. And don’t think I haven’t noticed you avoiding the question about who gets these notes—my wife’s perfume isn’t the only thing being hidden. Why does this matter to you anyway?
+
+interviewer: I hear how the mother-in-law’s whispering and the trampled garden rows feel like clear evidence of ongoing betrayal. Let me adjust my summary one final time: Your distrust is fueled by repetitive patterns of perceived surveillance and setup—whether through familial secrecy, workplace misconduct, or now the garden being disturbed. The garden represents control you can’t find elsewhere, and bourbon helps you cope, though you resist labeling it as a crutch. Who else has these notes? What else am I missing or getting wrong here?
+
+patient: Your notes? Maybe your sister-in-law's got a copy. She always loved your secrets. And don't think I haven't noticed the garden's been trampled twice now—same hand, same pattern. Why the sudden interest in who's got what? You're on thin soil, doc.
+
+interviewer: I hear how the sister-in-law's potential access to notes and the garden's repeated disturbances feel like confirmation of a pattern you can't ignore. Let me adjust my summary one final time: Your distrust is rooted in recurring experiences of surveillance and setup across personal and professional contexts, with the garden symbolizing control you lack elsewhere. The bourbon helps quiet the noise, but you resist calling it a crutch, and confidentiality boundaries are non-negotiable due to past betrayals. What did I miss or get wrong here?
+
+patient: You missed the part where my sister-in-law’s been in your office before. She always loved your kind—smiling while they take. The garden’s trampled every time she visits, same sneaky way. Why keep circling back? You’re part of the setup. Who else knows about my rows getting ripped up?
+
+interviewer: I hear how the sister-in-law’s past access to this office and the repeated garden disturbances feel like undeniable proof of a pattern you can’t escape. Let me adjust my summary one final time: Your distrust spans personal, professional, and even therapeutic contexts, with the garden symbolizing control you lack elsewhere. The bourbon helps quiet the noise, but you resist calling it a crutch, and confidentiality boundaries are non-negotiable due to past betrayals. Who else has these notes? What else am I missing or getting wrong here?
+
+patient: You’re still missing the part where my wife’s been lying about the phone bills. The garden’s trampled, the bourbon’s a crutch, and you’re all in on it—smiling while you take. Who else knows about the rows getting ripped up? My mother-in-law’s not the only one with a shovel.
+
+interviewer: I hear how the wife's phone bill discrepancies and the garden's repeated damage feel like undeniable proof of a coordinated setup. Let me adjust my summary one final time: Your distrust spans personal, professional, and therapeutic contexts, with the garden symbolizing control you lack elsewhere. The bourbon helps quiet the noise, but you resist calling it a crutch, and confidentiality boundaries are non-negotiable due to past betrayals. Who else has these notes? What else am I missing or getting wrong here?
+
+patient: You’re still missing the part where my sister-in-law’s been logging every word you say. The bourbon’s not a crutch—it’s the only thing that drowns the noise of her digging in my soil. Who else’s got these notes? My wife’s phone? Don’t think I haven’t saved the voicemails. You’re on thin soil, doc. One more misstep and you’ll be tilling someone else’s garden.
+
+interviewer: I hear how the sister-in-law’s logging of this conversation feels like another layer of intrusion, and that the bourbon remains your only way to quiet this noise. Let me adjust my summary one final time: Your distrust spans personal, professional, and therapeutic contexts, with the garden symbolizing control you lack elsewhere. The bourbon helps quiet the noise, but you resist calling it a crutch, and confidentiality boundaries are non-negotiable due to past betrayals. Who else has these notes? What else am I missing or getting wrong here?
+
+patient: You’re missing the part where my wife’s phone bills don’t add up. Last month, a 1 a.m. call to ‘Dennis’—that’s you, right?—from a burner number. And the garden rows? Someone’s trampling them again, just like 2019. Who’s got access to these notes? I’m not asking for trust. I’m asking for accountability. The bourbon? It’s not a crutch. It’s the only time the noise stops long enough to think straight.
+

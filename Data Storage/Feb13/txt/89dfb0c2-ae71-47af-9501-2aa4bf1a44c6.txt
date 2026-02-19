@@ -1,0 +1,124 @@
+system: Session 89dfb0c2-ae71-47af-9501-2aa4bf1a44c6 transcript
+
+system: Disorder: GAD
+
+interviewer: I appreciate you sharing that with me, Paula. Before we move forward, would you be comfortable with me asking some questions to better understand what you're going through today?
+
+patient: Sure, I guess that’s why I’m here. I just hope I don’t ramble—I feel like a stuck record sometimes, you know? My brain’s always spinning, but I’ll try to keep it straight.
+
+interviewer: That sounds really tough. Would you like me to briefly explain how this session will work before we continue?
+
+patient: Sure, I appreciate the structure. It’s like when I prep for a shift—knowing the steps helps me not second-guess everything. Though I guess I’ll still find a way to overcomplicate it... my shoulders are already knotting up thinking about it.
+
+interviewer: That sounds really tough. Do you have any immediate questions about how this session will work before we continue?
+
+patient: No, I don’t think so. I appreciate the structure—like prepping for a shift. It’s just... my brain still feels like a stuck record, even as we talk. My shoulders are already tense, but I’ll keep going.
+
+interviewer: It sounds like the recent incident at work has been really distressing for you. When did you first start feeling this level of anxiety and stress about your job and responsibilities?
+
+patient: It’s hard to pinpoint exactly, but I guess the anxiety started creeping in during nursing school. My clinical instructor was... harsh. I’ve always been a over-preparer, but after that, it felt like my brain couldn’t turn off. It’s gotten worse lately—my shoulders are always tight, like coiled springs. I can’t shake this feeling I’m one mistake away from disaster, you know?
+
+interviewer: That incident sounds like a significant moment for you. Can you tell me what specifically happened during that patient scheduling mix-up and how it affected your work?
+
+patient: It was a routine scheduling error—I misfiled a chart, and for an hour, I thought a patient might get the wrong meds. My hands actually shook afterward, like a stuck record skipping in my chest. I guess I overcompensated by adding three more checklists... now my desk looks like a bomb shelter. My shoulders are a coiled spring these days, always waiting for the next thing to go wrong.
+
+interviewer: That sounds like a really heavy burden to carry... What would you like to achieve through our work together?
+
+patient: I guess... I want to stop feeling like I’m one typo away from collapse. Like, if I could just learn to let go of the checklists without my brain screaming ‘disaster!’—you know? My shoulders might finally relax. Even a little.
+
+interviewer: It sounds like the checklists have become both a safety measure and a source of frustration for you... When you think back to nursing school, how has this level of anxiety about making mistakes changed or evolved since that time?
+
+patient: Nursing school was the first time I really felt... like one wrong step would erase me. That instructor’s comment about patients not being real people—it stuck like a splinter. Now, it’s not just one moment; it’s this constant hum. The checklists? They’re my way of saying, ‘See? I’m prepared,’ but half the time I’m just chasing a shadow, trying to outrun the ‘what-ifs.’ My hands still get shaky when I think about that scheduling mess... it’s like the splinter grew into a tree, and I’m just... pruning branches now.
+
+interviewer: It sounds like this current experience is really impacting your confidence and daily life. Have you experienced similar episodes of anxiety or stress in the past that felt this intense?
+
+patient: There was... nursing school, definitely. That instructor’s comments about patients not being real people? That splintered into everything. And then the divorce, trying to keep up with bills while researching my ex’s health issues online—like, why can’t I just *stop* Googoring every symptom? But this current thing with the checklists... it’s different. It’s like the splinter grew into a tree, and I’m just pruning branches now. I guess.
+
+interviewer: It sounds like you're managing a lot on your own. Are there people in your life who help support you during stressful times?
+
+patient: Gracie’s a good listener, I guess. She doesn’t judge when I’m tense... My coworkers? They’re busy. I don’t want to be a bother. I mostly... I bake or watch old shows to unwind. It’s easier than asking for help, you know?
+
+interviewer: It sounds like the stress and worry are really taking a toll on you. Have you ever had thoughts of harming yourself or ending your life?
+
+patient: I guess... sometimes I feel like there's this weight pressing down, you know? But I just tell myself I can't afford to give in. Gracie depends on me, and... well, I'm not 'ending it all' material. I'd rather drown in to-do lists than admit I'm stuck. Though some nights, falling asleep is a victory.
+
+interviewer: I appreciate your honesty about the challenges you're facing. Have you used alcohol, cannabis, or other substances recently to cope with stress or anxiety?
+
+patient: I guess... maybe a glass of wine on weekends? Just to... you know, unwind. But I tell myself it's 'healthy' red wine, so it's mostly just guilt and antioxidants. Though it does nothing for the 3 a.m. brain spiral, honestly.
+
+interviewer: It sounds like the wine brings mixed feelings of comfort and guilt. Have you used any other substances, like cannabis or stimulants, to cope with stress or anxiety recently?
+
+patient: No, I don’t use anything else. Just the wine. I’m not really into... experimenting. I mean, I used to chew caffeine tablets before shifts, but that was more for efficiency than coping. Though now that I say it out loud, maybe it was both?
+
+interviewer: It seems like the caffeine tablets were a way to manage both energy and anxiety. Have you been prescribed any medications or taken supplements recently, either for anxiety, sleep, or other concerns?
+
+patient: No prescriptions, just... a multivitamin, I guess? My doctor said it’s ‘good insurance’ for my immune system. I tried melatonin once for sleep, but it made me dizzy. I prefer to... handle things myself. You know, routine, checklists, that kind of thing. Caffeine’s my only ‘supplement’ really—though I suppose it’s more of a... crutch.
+
+interviewer: It sounds like routine helps you manage stress, even if it feels overwhelming at times. Have you noticed any changes in your energy levels or sleep patterns recently?
+
+patient: I guess I'm just more reliant on coffee these days—three mugs a day, sometimes more. My sleep's... choppy. I fall asleep okay but wake up around 3 a.m. and can't shake this... static in my head. My body's clock is stuck on battery backup mode, you know? I tell myself it's just the 5 a.m. routine keeping me sharp, but... (pauses, rubs neck) Gracie still gets her walks, at least. That's one thing I can control.
+
+interviewer: It sounds like your sleep patterns are really disrupting your rest. Have you noticed any periods where you feel overly energetic, restless, or in an elevated mood despite the sleep difficulties?
+
+patient: Not really. Even when I can’t sleep, I feel... drained. Like my brain’s still on replay, going over checklists. Sometimes I’ll brew extra coffee to function, but it’s just... keeping the wheels turning. Not really 'restless' in a good way. More like a car idling in neutral—worn out, but stuck in gear.
+
+interviewer: It seems your physical tension and sleep patterns are significant. Have you experienced any other physical health concerns or medical conditions that might be contributing to your current symptoms, such as thyroid issues, chronic pain, or sleep apnea?
+
+patient: Hmm. My neck’s been tight for ages—feels like a kinked garden hose that never straightens out. And my stomach... well, caffeine’s a necessary evil these days. The doc says it’s a 'sensitive stomach,' but I just call it 'the price of survival.' Nothing dramatic, though. Just... parts that creak when I’m running on empty.
+
+interviewer: It seems your physical discomfort is intertwined with your stress. Have you ever experienced hallucinations, such as hearing voices or seeing things that others don’t, or do you have thoughts that others are trying to harm you or control your thoughts?
+
+patient: No, nothing like that. My mind just... never turns off. Sometimes I feel like I'm trapped in a radio stuck between stations—just static and half-heard voices. But it's all in my head, you know? The price of survival, I guess.
+
+interviewer: That sounds really isolating... Are there people or strategies that help you manage stress or stay safe when things feel overwhelming?
+
+patient: I guess routines help—like my morning checklists. They’re... a way to feel in control, you know? And Gracie, my dog. She’s good at... snapping me back to the present. If I focus on her slobbery face, I can’t worry about everything at once. I also drink too much wine on weekends, but that’s just... unwinding, I guess.
+
+interviewer: It sounds like your routines and Gracie offer some stability amidst the chaos. Have you ever experienced periods where you felt overly energetic, restless, or in a particularly elevated mood despite your sleep difficulties?
+
+patient: No, not really. Even when I push through with coffee, it’s more like a broken clock—keeping time but grinding itself down. The energy’s there, but it’s... desperate. Like my body’s faking it to meet deadlines. I guess that’s just part of the survival package.
+
+interviewer: From what you've shared, it sounds like your anxiety began during nursing school with a critical instructor, worsened by a recent scheduling mistake at work, and is now fueled by perfectionism and fear of mistakes. You’ve been using checklists and routines to cope, but they’ve become overwhelming. Your physical symptoms—tight shoulders, sleep trouble, a racing mind—and the strain on relationships and work performance are really taking a toll. What did I miss or get wrong about how this has been unfolding for you?
+
+patient: You’re right about the checklists—except they’re less ‘safety net’ and more... cage? Like I’m trapping all the ‘what-ifs’ so they can’t bite me. And the wine on weekends? It’s not a solution, but it’s my... temporary firewall. Though Gracie’s morning kisses? That’s the only real reset button I’ve got. I guess.
+
+interviewer: It sounds like your checklists are both a shield and a source of frustration, with moments of relief from Gracie and wine—though neither fully ease the pressure. What did I miss about how this has been unfolding for you?
+
+patient: You’re right about the checklists... but there’s this other thing I haven’t mentioned. My sister’s in rehab again, and I keep thinking about it like an avalanche I’m avoiding. I haven’t told anyone because I’m scared I’ll just... drown in all the ‘what-ifs’ about her. And my mom? She texts me daily about my ‘divorce pouch’—it’s this tiny, stupid thing that somehow feels like another splinter. Gracie’s the only one who doesn’t ask me to fix everything. She just licks my face and naps on my neck, which is the one spot that doesn’t ache anymore.
+
+interviewer: It sounds like your sister’s situation and your mom’s messages are adding layers of worry that feel hard to process. How has your sister’s rehab and those daily texts been affecting your anxiety or routine?
+
+patient: It’s more like... static. Constant static. My shoulders are always tighter, even when I’m trying to focus on work. I just... double-check everything more now. Maybe that’s it?
+
+interviewer: It sounds like the static you're describing is both a physical tightness and a mental clutter that’s hard to switch off, making even routine tasks feel like navigating a minefield. Let me recap: Your anxiety began with a harsh instructor in nursing school, worsened by a recent work mistake and ongoing stressors like your sister’s struggles and your mom’s messages. It’s kept you hyper-focused on checklists and perfectionism, but now they’re more of a cage than a comfort. What did I miss or get wrong about how this has been shaping your days?
+
+patient: You’re close, but there’s this... physical weight I haven’t mentioned much. My neck feels like a coiled spring all the time, even after Gracie’s morning cuddles. And the caffeine? It’s keeping me floating, but sometimes I feel like I’m just shaking myself awake. The checklists… they’ve made me a pariah at work. No one trusts my ‘overseeing’ anymore. I guess it’s just… quieter ways the anxiety is gnawing.
+
+interviewer: It sounds like your anxiety is manifesting both physically—through this constant neck tension and the need to 'shake yourself awake' with caffeine—and relationally, as the checklists that once felt protective now isolate you at work. What did I miss or get wrong about how these quieter, persistent struggles are shaping your days?
+
+patient: It’s the... stomach thing. This knot that tightens when I think about my sister’s rehab, even if I try not to. And the promotion? It’s like hoping a fire alarm can just... stay silent. For once.
+
+interviewer: It sounds like the stomach knot and fire alarm metaphor capture how your anxiety about your sister and work feels both visceral and unrelenting, even as you try to hold things together. Let me recap: Your anxiety began with a harsh instructor in nursing school, worsened by a recent scheduling mistake, and is now fueled by perfectionism, your sister’s rehab, and work pressures. The checklists and routines you’ve built to cope now feel more like a cage, while physical symptoms like neck tension and a sensitive stomach make it hard to relax. What did I miss or get wrong about how this has been shaping your days?
+
+patient: You’re pretty close. What you might’ve missed is how my sister’s relapse feels like... another splinter I can’t dig out without making things worse. My neck’s been a live wire since the rehab call, and even Gracie’s cuddles don’t loosen the knot. The checklists? They’re both a shield and a trap—I guess I’m just... terrified of what happens if I stop double-locking every door.
+
+interviewer: It sounds like your sister’s relapse is compounding your sense of being trapped by anxiety, with your neck tension and checklists reflecting both protection and entrapment. Let me recap: Your anxiety began in nursing school, worsened by a recent work mistake, and is now fueled by perfectionism, your sister’s rehab, and ongoing hypervigilance. You described physical symptoms like neck tension, a sensitive stomach, and caffeine reliance, while checklists that once felt protective now isolate you. You also shared how your mom’s messages and financial worries add to the pressure, even as Gracie offers small moments of relief. What did I miss or get wrong about how this has been shaping your days?
+
+patient: What you didn’t mention is how I get stuck Googling my ex’s medical conditions—it’s like another endless ‘what-if’ I can’t stop chasing. And my sister’s relapse... I avoid even thinking about it because just the idea feels like drowning, you know?
+
+interviewer: It sounds like your anxiety is also fueled by compulsively Googling your ex’s health and avoiding thoughts about your sister’s relapse, both of which feel like drowning in ‘what-ifs.’ What did I miss or get wrong about how these are shaping your days?
+
+patient: You didn’t mention how my mom’s ‘How’s your weight?’ texts feel like another splinter I can’t flick out without provoking her. And the wine on weekends? It’s just… another item on the ‘what-ifs’ list. ‘What if one glass turns into two? What if it interferes with my checklists?’ It’s all I’ve got left to quiet the noise, really.
+
+interviewer: It sounds like your mom’s texts and the weekend wine are adding to the weight of your ‘what-ifs,’ feeling like traps you can’t fully escape without provoking guilt or tension. What did I miss or get wrong about how these layers are shaping your days?
+
+patient: You didn’t mention how my coffee habit is just another thing I can’t fully cut out without panicking. And that neighbor’s toddler next door—every scream feels like it’s testing my already frayed nerves. It’s like… another ‘what-if’ I didn’t ask for but can’t unhear.
+
+interviewer: It sounds like your coffee habit and the toddler’s screams are adding to the relentless ‘what-ifs’ that feel inescapable, even as small comforts like Gracie offer brief relief. Let me try to pull this all together: Your anxiety began with a harsh instructor in nursing school, worsened by a recent work mistake, and is now fueled by perfectionism, your sister’s relapse, your mom’s messages, and environmental triggers like loud noises. It’s showing up as physical tension (neck, stomach), compulsive routines, and a fear of losing control—even in small ways like caffeine or wine. What did I miss or get wrong about how this has been shaping your days, and is there something we haven’t touched on that’s still weighing on you?
+
+patient: I think you hit most of it. The only thing... maybe the ex’s in-laws? They always said I was ‘too controlling’ with everything. It’s weird, but their comments... they sit in my chest like a stone. And the promotion at work—I keep thinking if I just get that, maybe I’ll finally feel... steady. But then I worry it’s just another ‘what-if’ I can’t control.
+
+interviewer: It sounds like the ex’s in-laws’ criticisms and your push-pull around the promotion are both amplifying the weight you’re carrying. Let me piece this together: Your anxiety stems from a mix of perfectionism, past trauma (nursing school, work mistakes), relationship dynamics, and external stressors like your sister’s rehab and family comments. The promotion feels like a fragile hope, and the in-laws’ words are like buried stones you keep tripping over. What did I miss or get wrong about how these threads are shaping your experience, and is there anything else we haven’t touched on that’s still heavy for you?
+
+patient: I think you caught the big picture—those ‘stones’ underfoot, the pruning... but maybe you missed how the promotion feels like walking a tightrope in slippers. Every ‘what-if’ is a gust of wind. And my sister’s relapse? It’s a splinter I keep poking at with a fork, you know? Can’t see it clearly, just... irritation. Oh, and my neck—these knots feel like someone’s stitching shut a ‘help’ button. But I guess that’s just caffeine and checklists, right? Gracie still waits patiently for my walks, though. She doesn’t ask why I’m late.
+

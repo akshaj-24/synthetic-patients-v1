@@ -1,0 +1,196 @@
+system: Session 1aff6af5-314f-44c1-9b2f-3b38c3333292 transcript
+
+system: Disorder: MDD
+
+interviewer: Ms. Thomas, I just want to confirm that you're comfortable proceeding with this interview today?
+
+patient: Yes, I guess so. Just... been a long week at work, but I’ll try to get through it. (Pauses, tightens grip on coffee cup.) I’m not great at all this talking stuff, but I’ll answer what I can.
+
+interviewer: It sounds like you're feeling a bit out of your comfort zone with this process, and that's okay. Is there anything you’d like to clarify about what we’ll be discussing today before we start?
+
+patient: Honestly, I’m not sure how much there is to talk about. (Squeezes coffee cup, avoiding eye contact.) Work’s been... chaotic. Deadlines piling up, and I just want to get through the session without making a mess of things. (Short laugh.) You know how it is—better to focus on fixing problems than dwelling on... everything else.
+
+interviewer: It sounds like work is taking up a lot of mental space for you right now. Would you like me to briefly explain how these sessions typically work?
+
+patient: I guess... it’s just talking, right? (Tightens grip on coffee cup, avoiding eye contact.) I’m not really good at processes like that. Work’s been so overwhelming lately—deadlines, case files piling up—I just want to get through the motions without messing up. (Forces a small, uncertain smile.) You’ll tell me if I’m doing it wrong?
+
+interviewer: That sounds challenging. Would you like me to briefly explain how these sessions typically work?
+
+patient: I guess it’s whatever you need to do to get through the paperwork. (Squeezes coffee cup, gaze fixed on the table.) Honestly, I just want to make sure I don’t say something that sounds... worse than it is. Work’s been so chaotic, you know? Deadlines, errors—I’ll just focus on answering straight and keep it simple.
+
+interviewer: It’s okay to take this step by step. Just to make sure we’re on the same page—would you like a brief explanation of how these sessions typically work before we continue?
+
+patient: I guess... if you need to, but I’ve just got so much on my plate at work. You know how it is—files piling up, deadlines breathing down your neck... I should probably just power through this like I do everything else. (Fidgets with coffee cup lid) Honestly, I’m probably overcomplicating things. It’s just... hard to focus, if that’s what you’re asking.
+
+interviewer: That sounds really tough to manage. Would you like me to briefly explain the purpose and structure of these sessions before we continue?
+
+patient: I suppose... if you think it’s necessary. But I’ll be honest, I’m not great at this whole ‘talking about myself’ thing. Might as well get it over with. (Fidgets with coffee cup, avoiding eye contact)
+
+interviewer: That sounds really tough to manage. These sessions are typically structured as a time to talk about what's on your mind in a safe and supportive way. Does that sound like a good fit for you today?
+
+patient: I... I guess that’s the plan, yeah. As long as we don’t get stuck in the ‘feelings’ weeds for too long. I’m better with facts, timelines—things you can hold onto. (Squeezes coffee cup, then forces a small laugh) Not that I’m great at holding onto anything these days. My mind’s just... static half the time. Like trying to thread a needle while someone keeps yanking the string. But if this is how it goes, I’ll play along. For now.
+
+interviewer: It sounds like these persistent feelings have been affecting your work and personal life in significant ways. When did you first start noticing this overwhelming sadness and emptiness?
+
+patient: It... it started creeping in after David left, I guess. Two years ago. I kept telling myself it was just grief, you know? But the sleeplessness didn’t ease up. I’d lie awake counting cracks in the ceiling, feeling like my brain was stuck in neutral. The quilting... it used to be my thing, but now it just looked like 'meaningless tasks' I couldn’t even finish. (Squeezes coffee cup) But maybe that’s just me being dramatic. Work kept me busy, at least. Until the case numbers started blurring together.
+
+interviewer: It sounds like the weight of these changes has been really heavy to carry... What are you hoping to achieve or change through working together?
+
+patient: I’m not sure there’s a ‘hope’ exactly... more like trying to stop the ground from shifting under me. If I could just... function without feeling like I’m one missed deadline away from unraveling. (Squeezes coffee cup, avoiding eye contact) My mom needs me, and I can’t keep pretending this ‘mental fog’ is just fatigue. But I guess I’m scared that even if I wanted to ‘change’ something, it’s already too late. (Forces a small, bitter laugh) You don’t get a do-over for being the reason someone leaves.
+
+interviewer: It sounds like you're carrying a lot of pressure to keep things together—especially with your mom counting on you. Have you noticed any recent events or changes that might have made things feel more difficult for you lately?
+
+patient: It’s... work’s been a minefield lately. I messed up a case file—numbers mixed up—and now I’m second-guessing everything. My mom’s doctor appointments are piling up, so I’m driving her more, but I feel like I’m barely keeping my head above water. The neighbor’s music at night? It’s just... another thing I can’t fix. I guess I’m used to shouldering stuff, though. It’s just... a rough patch.
+
+interviewer: It sounds like these recent stressors have added to the weight you're carrying... Could you share how these challenges have affected your ability to manage either your work responsibilities or personal routines over the past month?
+
+patient: At work, I’m... I keep second-guessing every detail now. After mixing up those case numbers, I’ve been double-checking everything, which just makes me more exhausted. By noon, my brain feels like it’s stuck in quicksand. As for routines... quilting? It’s just a pointless task now. I start a block, then realize I don’t even care if it’s finished. The only reason I still get out of bed some days is my mom’s appointments. Even then, I’ll catch myself staring at the ceiling at 3 a.m., wondering if I’ll mess up something else tomorrow. It’s... a rough patch.
+
+interviewer: It sounds like the exhaustion and self-doubt are compounding everything for you... What have you been doing, if anything, to manage or cope with these feelings of being overwhelmed?
+
+patient: Honestly, I don’t really... I guess I just keep making lists. If I stay busy, it feels like I’m not completely failing at something. The coffee helps, but most days it’s just... this fog. I’ll force myself to walk through the motions—drive my mom to appointments, check emails twice— but by afternoon, I’m stuck in this loop of thinking I’m going to mess up again. At night, I’ll... count the cracks in the ceiling until I pass out. It’s not much, but it’s all I can manage without falling apart. I’ve always been the office worrywart, I suppose.
+
+interviewer: Have you experienced episodes like this in the past?
+
+patient: Episodes? I... I don’t know if I’d call them that. Before David left, I was always the ‘reliable one’—you know, the office worrywart who stayed late to fix mistakes. But this feels different. It’s like the ground’s been pulled out, and I’m just... trying not to let anyone see how unsteady I am. I guess the truth is, I’ve never felt like this before. Even when my mom was sick growing up, I could still... function. Now, it’s like functioning is a luxury I can’t afford.
+
+interviewer: It sounds like this experience is unlike anything you've faced before, even during your mother's illness. Have you ever had episodes where you felt this unsteady or overwhelmed in the past?
+
+patient: No... not like this. I’ve had busy seasons at work, you know? Crunch times where I’d pull overtime to cover for others. But even then, I could compartmentalize. This feels like walking on a tightrope with no net. I’ll get through it, though. I always do. (Pauses, fingers tapping the coffee cup lid.) Maybe I’m just... more fragile now. (Soft, bitter laugh.) Or maybe the office worrywart finally broke.
+
+interviewer: It sounds like this is a new kind of challenge for you. Have you ever experienced periods in the past where you felt similarly overwhelmed or unsteady, even if it didn’t feel like an 'episode' at the time?
+
+patient: I guess... there was the time my mom got really sick. I was juggling her care and work, but even then, I felt like I could handle it. This time, it’s different. The fog just won’t lift, and even small things—like mixing up those case numbers—feel like proof I’m falling apart. I don’t know. Maybe I was just better at pretending before.
+
+interviewer: It sounds like you were able to cope better before, even under stress. What do you think helped you manage that situation?
+
+patient: I think... back then, I had a purpose. Taking care of my mom, it gave me something to focus on. Now, even that feels like going through the motions. Like I’m just... keeping the lights on, but the fog’s still here. I don’t know why it won’t lift this time.
+
+interviewer: That sounds really tough... It must be challenging to feel like even your usual routines are just going through the motions. Who or what has been most helpful to you in managing these feelings lately?
+
+patient: Honestly... it’s just the routine of caring for my mom. It’s the only thing that feels like I’m still... you know, pulling my weight. But even that’s been harder lately. The neighbor’s music at night doesn’t help—keeps me up, and I’m too tired to focus. I tell myself I’ll just push through, but the fog... it’s like quicksand. (Squeezes coffee cup, voice softens.) I don’t even know if that makes sense.
+
+interviewer: That sounds incredibly draining... How has the neighbor's music and resulting sleep disruption affected your ability to manage daily tasks or responsibilities?
+
+patient: It’s just... I wake up so drained, and by the time I get to work, my head’s all fog. I mixed up those case numbers, and it felt like another failure. Even my mom’s routine—I second-guess everything now. The music... it’s just another thing I can’t control.
+
+interviewer: It sounds like you're carrying a lot right now. Have you been having thoughts about ending your life in the past week?
+
+patient: No... not like that. I don’t even want to be a burden, you know? It’s just... some days I wonder if anyone’d notice if I just disappeared. But I don’t think about it much. I’m just tired. That’s all.
+
+interviewer: It sounds like the weight of everything is taking a toll, and those thoughts of disappearing come up in moments of exhaustion. How often do those thoughts appear for you—daily, occasionally, or only in certain situations?
+
+patient: It’s... it’s hard to pin down. Some days it’s there, a shadow in the background. Not every day, but enough that I notice it. Mostly when I’m... when I’m too tired to even care about the noise next door anymore. But I’ve always been the office worrywart, right? It’s just a rough patch.
+
+interviewer: It sounds like these thoughts feel more like a lingering presence than a fixed plan. Have you ever considered or made any specific plans about how you might disappear or not be here anymore?
+
+patient: No... no specific plan. It’s not like that. I just... sometimes the noise next door keeps me up, and I lie there thinking, what’s the point of even fighting anymore? But I don’t know. It’s not like I’d ever act on it. I’m just... tired. That’s all.
+
+interviewer: It’s understandable to feel overwhelmed by the weight of everything. Have you noticed any changes in your alcohol, cannabis, or other substance use recently, including things like coffee or over-the-counter medications?
+
+patient: Coffee... I’ve been drinking more of it, I guess. Not really for the taste, just to feel like I’m functioning. But it’s not like I’m addicted or anything. I’ve always been the one needing three cups before noon, right? The... the noise next door doesn’t help, so I mix in some tea sometimes. Just to calm the nerves.
+
+interviewer: I see. You've increased your coffee to help with functioning and use tea to calm nerves. Have you noticed any changes in your alcohol or cannabis use recently?
+
+patient: No, nothing like that. I don’t drink or use anything else... just coffee and tea. The doctor said to watch the caffeine, but I can’t seem to help it. The noise next door makes my nerves worse, though. Sometimes I wonder if the tea’s even working anymore.
+
+interviewer: It sounds like the caffeine and tea are part of your routine for managing energy and anxiety. Are you currently taking any prescription medications or supplements for your mood, sleep, or other symptoms?
+
+patient: No prescriptions, not really. The doctor mentioned something about sleep aids once, but I... I didn’t want to go there. Maybe a multivitamin sometimes? I can’t even remember consistently taking those. It’s just... hard to focus on anything besides the noise next door and the exhaustion. You know how it is.
+
+interviewer: It’s understandable to feel weighed down by caffeine and noise. Have you noticed any periods where you feel more energized than usual, even with little sleep, or have thoughts that race so fast it’s hard to keep up?
+
+patient: No, it’s more like the opposite. I don’t rest at all, and even when I try, the noise… it’s just constant. I guess I’m more irritable, but that’s probably just me being the office worrywart again.
+
+interviewer: It sounds like irritability and sleeplessness are really wearing on you. Have you noticed any changes in your thinking, like hearing voices, seeing things, or having thoughts that feel unusual or paranoid lately?
+
+patient: No, nothing like that. It’s more like… my mind won’t stop running, you know? Even when I try to rest, it’s just work errors replaying, or the neighbor’s music making me… I don’t know. Edgy? I guess I’m overthinking things, but it’s all just noise, really.
+
+interviewer: It sounds like your mind is constantly active, even when you're trying to rest. Have you noticed any periods where you feel more energetic or have thoughts that race so fast it’s hard to keep up?
+
+patient: No, it’s the opposite. I don’t rest at all, and even when I try, the noise… it’s just constant. I guess I’m more irritable, but that’s probably just me being the office worrywart again.
+
+interviewer: So, to recap what we’ve covered: Over the past two years since your separation, you’ve experienced persistent sadness, difficulty sleeping, and a loss of interest in activities like quilting. These symptoms have worsened recently with work stress, caregiving responsibilities, and environmental disturbances like your neighbor’s music. You’ve been managing with routines but feel increasingly overwhelmed and fatigued. What did I miss or need to adjust here?
+
+patient: You... you didn’t mention the part where I feel like I’m failing at everything I touch. Like the case file mix-up wasn’t just a mistake—it’s proof I’m unraveling. And the neighbor’s music? It’s not just noise. It’s like they’re drilling through the walls to remind me I can’t even control my own head anymore. But… maybe that’s just me being the worrywart.
+
+interviewer: That sounds really heavy to carry. Let me make sure I include how the sense of failure and neighbor's noise are contributing to your stress. What else would you like me to know before we move to next steps?
+
+patient: I… I don’t want to sound dramatic, but some nights I just think, what’s the point of keeping up the act? But then I remember my mom depends on me, so I… I force myself to get up. It’s probably just exhaustion. And the tea I’m drinking—maybe that’s messing with my head more than the noise. But… you already know the worst parts, don’t you?
+
+interviewer: That sounds really heavy to carry. Let me outline a tentative understanding of what’s contributing to your distress—does this align with your experience?
+
+patient: I guess... it’s not that simple. Work’s a mess, deadlines are piling up, and the fog—well, who doesn’t feel overwhelmed sometimes? The coffee’s keeping me afloat, but... (squeezes cup) ...the noise next door doesn’t help. It’s just... another thing to stress over, I suppose.
+
+interviewer: That sounds like a lot to manage with so many stressors piling up. Let me outline how these factors might be interacting—does this make sense to you, or would you like to adjust anything before we plan next steps?
+
+patient: I guess... that’s how it feels. The music at night? It’s like they’re drilling into my skull. And work... I just wish I could keep up without... without mixing things up. But who doesn’t have off days? (Fidgets with coffee lid) It’s just... everything’s static now.
+
+interviewer: That sounds like a lot to carry with the noise and work pressure adding to the static. What did I miss about how these stressors are affecting you?
+
+patient: I guess... there’s the guilt. Like, if I could just *focus* longer, maybe David wouldn’t have left. Or my mom wouldn’t need me to babysit everything. (Pauses, fingers drumming the coffee cup) But the music at night? It’s like they’re mocking the parts of me that already feel... broken. I tell myself it’s ‘just noise,’ but maybe that’s another way I’m failing to fix things.
+
+interviewer: That sounds like a heavy burden to carry... Let me make sure I include the sense of failure as part of what we’ve covered. What else would you like me to know before we discuss next steps?
+
+patient: I guess... I don’t sleep much. Just count cracks in the ceiling until dawn. But who does? And I messed up case numbers recently—embarrassing, but... it happens, I suppose. (Fidgets with lid) Sometimes I wonder if... it’s all just temporary. That’s all.
+
+interviewer: That sounds like a lot to carry with the noise and work pressure adding to the static. Let me outline a tentative understanding of how these factors might be interacting—does this align with your experience, or would you like to adjust anything before we plan next steps?
+
+patient: I guess... you’ve got the static part right. The music at night? It’s like they’re amplifying the fog in my head. I stay up counting cracks, then force myself to work until my hands shake. (Squeezes cup) The coffee and tea keep me ‘functional,’ but... sometimes I wonder if Mom notices I’m just going through the motions. Like I’m the reason she’s still alive, and if I... if I stop trying, everything’ll make sense again. (Forces a dry laugh) But who doesn’t feel that way about their parents, right?
+
+interviewer: That sounds like a heavy weight to carry, balancing so much while feeling like you're failing at it all. Have you been considering any specific plans or thoughts about harming yourself, even if just for a moment?
+
+patient: I... I don’t know. Sometimes I think about how I’m just dragging things out, you know? Like, maybe if I stopped trying so hard, everything would just... settle. But that’s stupid. I have responsibilities. My mom needs me. It’s just... tiredness. That’s all.
+
+interviewer: That sounds like a heavy weight to carry, balancing so much while feeling like you're failing at it all. Let me recap: Over the past two years since your separation, you've experienced persistent sadness, sleep disruption, and a loss of joy in activities like quilting. Recent stressors—work errors, caregiving for your mom, and the neighbor's noise—have amplified a sense of fatigue and failure. There’s also mentioned passive thoughts about 'settling' things, though you emphasize your responsibilities keep you going. What did I miss or need to adjust here?
+
+patient: I think you got the basics, but maybe... the fog isn’t just about work or the noise. It’s like I’m standing in a room where half the walls are missing, and every time I try to focus, something else falls through. My mom needs me, and I can’t afford to let that go. It’s just... the usual, I suppose.
+
+interviewer: That metaphor of missing walls and things falling through feels really central to what you're describing. Before we plan next steps, is there anything else about how this 'fog' is showing up in your daily life that we haven’t touched on yet?
+
+patient: I guess... it’s the little things, too. Like, I’ll start making tea and forget I did it halfway, then panic I’ll overflow the kettle. Or I’ll get stuck choosing laundry detergent—like it matters—but it feels like decoding a law book. I tell myself it’s just fatigue, right? But when even brushing my teeth feels like a negotiation, you start to wonder if you’re just... breaking down slowly. (Fingers tighten around the coffee cup, then a forced chuckle.) Sorry, I’m being dramatic. It’s just... tiring, being tired all the time.
+
+interviewer: That metaphor of breaking down slowly while managing the little things feels central to what you're describing. Let me outline a brief model: Longstanding grief from your separation, work stress, caregiving demands, and environmental noise may be interacting with fatigue and self-criticism, creating a cycle where even routine tasks feel overwhelming. What did I miss or need to adjust here?
+
+patient: I think you’ve got the structure right, but maybe... the self-criticism is sharper than it seems. Like, I’ll wake up thinking I should just *vanish* so everyone else can breathe easier. (Forces a laugh, fingers digging into the coffee cup.) But that’s just... tiredness, right? And the work mistake—I mixed up case numbers. It’s stupid, but it feels like proof I’m falling apart. (Pauses, then softer.) The noise next door doesn’t help. It’s like they’re mocking the parts of me that already feel broken.
+
+interviewer: That metaphor of self-criticism sharpening into thoughts of vanishing feels important to clarify—have these thoughts ever felt more than just tiredness, or do they still feel like a passing idea when you're overwhelmed?
+
+patient: It’s... like static in the background, you know? When the neighbor’s music is loud, or I’m stuck at work, those thoughts just... hum there. They don’t go away completely, but I tell myself they’ll fade if I keep moving. (Squeezes coffee cup.) It’s just fatigue. I have to be, well, *something* reliable for Mom. Right?
+
+interviewer: That metaphor of static and fatigue feels central to how you're managing these stressors. Before we plan next steps, is there anything else about how this 'static' interacts with your responsibilities or self-care that we haven’t touched on yet?
+
+patient: I guess... the noise next door doesn’t help. It’s like static with a soundtrack, you know? I’ll be trying to focus on case files and suddenly my head feels like a radio tuned to the wrong frequency. I catch myself staring at the same paragraph for hours. And Mom—when I’m with her, I used to enjoy the routine, but now even folding her laundry feels like... I don’t know. A test I’m failing. I tell myself it’s just fatigue, but the errors at work... they’re not like me. I’m usually meticulous. Maybe that’s it—everything feels off, like the parts of me that used to hold things together are just... static now.
+
+interviewer: That metaphor of static with a soundtrack feels central to how you're managing these stressors. Before we plan next steps, would you prefer to explore therapy options, consider adjustments at work, or address something else that feels most pressing right now?
+
+patient: I’m not sure. Therapy... feels like it might help, but what if it’s just more of the same static? I keep thinking about the case files I messed up, the way the neighbor’s music makes my head throb. Maybe adjusting work would be better? But if I ask for accommodations, does that make me a burden? I guess... I’d need to see which thread I can pull without unraveling everything else.
+
+interviewer: That sounds like a lot of uncertainty to navigate while trying to hold things together. Let me check: We’ve covered your concerns about therapy potentially feeling unhelpful, the work errors as proof of failing, the neighbor’s noise as a trigger, and your fear of being a burden if you request accommodations. Is there anything else you’d want added to this summary before we decide on next steps?
+
+patient: I think... that’s most of it. There’s this... guilt about my mom, like if I’m not perfect in caring for her, something else will go wrong. But I don’t know if that’s new. I guess the coffee’s helping me sit here, but it’s just another bandage. Maybe that’s all—just... static with more static.
+
+interviewer: That sounds like the guilt around caregiving for your mom is adding to the pressure you're already under. Is this sense of guilt a new development, or has it always been part of how you've experienced stress in this role?
+
+patient: I... I’ve always felt responsible for Mom, I guess. But now it’s like the weight’s heavier. Before, even with her illness, there was a routine—something I could control. Now, every small mistake at work, every time I mix up case numbers... it feels like proof I’m failing her too. I don’t know if it’s new. Just... sharper. Like the noise next door, but in my chest.
+
+interviewer: I want to make sure you have support during this. Have you considered who you could reach out to if you're feeling overwhelmed, or would you like me to share some crisis resources with you?
+
+patient: I guess... my mom’s the only one I can think of. But even that feels like adding weight to her plate. As for resources—maybe? I’ve never needed them before. I just... manage. Coffee, routines, folding laundry until it numbs. If things get worse, I’ll figure it out. I always do.
+
+interviewer: It takes strength to keep managing through this, even when it feels heavy. Would you like to go over what the next steps might look like, and how we can support that?
+
+patient: I... I guess I’m just trying to keep the basics in place, you know? The coffee helps me function most days, but even that feels like a temporary fix. Work’s... it’s a structure, I suppose. If I can just hold that together, maybe the rest will follow. But the noise next door? It’s like a constant reminder that some things don’t let up. I’m not sure what else to do except... keep going, I suppose. One task at a time.
+
+interviewer: It sounds like maintaining structure is a big part of how you’re managing right now. Would you like to go over what specific next steps or support might help make that process a bit easier for you?
+
+patient: Structure’s... it’s all I have left, really. If I can just keep the work deadlines met and the coffee strong enough, maybe the rest of it won’t collapse. But the noise next door? It’s like they’re testing how little I can tolerate. I’ve thought about earplugs, but what’s the point? I’m already half-asleep by noon most days. Maybe... maybe organizing my tasks better? But even that feels like one more thing to fail at.
+
+interviewer: It takes courage to hold things together under so much pressure. Let's clarify what next steps feel most within reach for you—what's one thing you can try this week to support yourself?
+
+patient: Maybe... I can try using earplugs at night? Even if they don’t work, it feels like something I *should* try. But honestly? I’ll probably forget to pack them again. Or the noise will just... turn into something else I failed at. Maybe I’ll start with that. And... maybe force myself to take a real lunch break? The kind where I don’t check my phone. I don’t know. It sounds ridiculous, but it’s all I can think of without it feeling like a lie.
+
+interviewer: It takes courage to take these small steps, even when they feel uncertain. Would you like to go over a simple safety plan, including warning signs and contacts, to support you if things feel overwhelming?
+
+patient: A safety plan... I’m not sure. If I start missing more deadlines or can’t get out of bed? Maybe. But I usually just... push through. My sister, maybe? If it’s bad. Or the therapist. But honestly, I’d probably just drink more coffee. If the neighbor’s music stops at midnight instead of 2 a.m., that’d help more than any plan, honestly.
+

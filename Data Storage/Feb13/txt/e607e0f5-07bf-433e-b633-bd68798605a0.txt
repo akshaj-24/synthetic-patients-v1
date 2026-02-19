@@ -1,0 +1,112 @@
+system: Session e607e0f5-07bf-433e-b633-bd68798605a0 transcript
+
+system: Disorder: MDD
+
+interviewer: Hi Mark, thanks for coming in today. Can you confirm you're comfortable proceeding with our interview now?
+
+patient: Yeah, I’m comfortable. To be honest, I’ve just been… tired lately. Work’s been a bit of a grind with all the equipment calibration. You know how it is—sometimes the machines act up, and you have to troubleshoot until you find the right settings. I guess I’m just used to keeping going, even when it’s rough.
+
+interviewer: It sounds like work has been really draining for you lately. Before we begin, do you have any questions about how this session will work or what we’ll be discussing today?
+
+patient: No, I think you’ve covered what’s needed. I guess I’m just… used to keeping things running smoothly, even when the system’s under strain. Like, if a machine’s output drops, you troubleshoot step by step. I’ve been trying to do that for myself lately. It’s just… taking longer than usual to calibrate, if that makes sense.
+
+interviewer: Can you tell me more about what’s been troubling you lately?
+
+patient: I guess… the past few months have felt like trying to recalibrate a machine with missing parts. You adjust one setting, and another goes off. Work’s been… I don’t know, heavier? Like, the same tasks take twice as long, and I keep second-guessing every step. To be honest, the real strain isn’t the work itself—it’s the… the way things at home have been. My wife’s been… upset. She cried last week. I didn’t know how to respond, so I just fixed the coffee maker for her. It was a small thing, but it felt like the only thing I could do right.
+
+interviewer: It sounds like these challenges have been building up over time. Can you tell me when exactly these feelings began and if there was anything that might have triggered them?
+
+patient: It started... maybe six months ago? Around when they put me on overtime at work. The hours just kept eating into my days, and I guess my wife's job was slowing down too. We didn't say it out loud, but... the bills kept coming. Then there was that calibration error I missed at work. It wasn't a huge mistake, but it felt like a crack in the system. Like, if I can't even keep the basics running, what's the point of trying?
+
+interviewer: It sounds like the stress from work and financial pressures has been really heavy to carry. What are you most hoping to work on or change through coming in for help?
+
+patient: I guess... I want to figure out how to stop feeling so stuck. Like, my workflow’s been inefficient, and I keep making small mistakes. If I could just recalibrate, maybe things would... function better. And, um, be more present for my wife without draining her.
+
+interviewer: It sounds like the strain of work and relationship challenges have been central to how you're feeling. Can you share more about how your sleep patterns have changed since this began?
+
+patient: I guess... it’s been a bit of a cycle. I wake up in the middle of the night, you know? The neighbor’s leaf blower starts randomly, and I can’t get back to sleep. I try to realign my tools in my head—like, mentally recalibrating everything so it ‘works’ again. But by morning, I’m just... drained. My wife notices I’m more irritable, I think. I fake that I’m okay, but it’s hard to... function efficiently.
+
+interviewer: It sounds like the strain at work and with your wife is really weighing on you. Have you experienced episodes like this before, where you felt this overwhelmed or disconnected?
+
+patient: Not exactly... I mean, I’ve had busy periods before, but this feels different. Like... the system’s never failed like this. I usually just recalibrate and keep going. Now it’s... persistent. I guess I didn’t realize how much I was running on fumes until the fumes ran out.
+
+interviewer: It sounds like your usual strategies aren't providing the same relief they once did. Can you tell me about any times in the past when you felt overwhelmed like this, and what helped you get through it?
+
+patient: I guess... in the past, when work got hectic, I’d just tinker with the machines longer. Like, stay late to ‘overhaul’ things until they worked. It gave me a sense of control. But lately... even that feels like a broken circuit. I try arriving early now to avoid peak stress, but it’s like the system’s just... slower. The small wins used to help, but they don’t last. I don’t know. Maybe I’m just... due for a full system update or something.
+
+interviewer: It sounds like your usual coping strategies are losing their effectiveness, which must be frustrating. Have you experienced episodes in the past where you felt similarly overwhelmed, or is this the first time you've noticed such persistent difficulty?
+
+patient: I guess... this is the first time it’s felt like a full system failure. Before, I could just do a quick diagnostic, adjust a few parameters, and keep running. But this time... the error messages don’t go away. The calibration mistake at work—it wasn’t just a glitch. It felt like a warning light that won’t turn off. I don’t know if I’ve always been like this and just ignored it, but now... the battery’s definitely draining faster than it charges.
+
+interviewer: It sounds like the feeling of your energy depleting faster than it can recharge is really impacting your sense of stability. Can you share how this feeling of being drained affects your interactions with your wife or your work performance specifically?
+
+patient: I guess... it’s like my battery’s been draining faster, but the charger’s not keeping up. At work, I start early to avoid peak mistake hours, but even simple tasks take twice as long. I catch myself second-guessing everything—like the calibration error last month. It’s not that I’m tired, exactly... just... inefficient. With my wife, I notice things like her crying episodes, but I don’t know how to fix that part of the system. Everyone slacks sometimes, right?
+
+interviewer: It sounds like the strain in your relationship with your wife is adding to the weight you’re carrying. Can you share how you typically try to support her when she’s upset, or how you’d ideally like to show up for her emotionally?
+
+patient: I guess... when she’s upset, I try to make sure the basics are covered. You know, hot tea, quiet space, let her know I’m here. But it feels like... troubleshooting a machine that’s already broken. I ask if she needs anything, but she just shakes her head. I want to fix it, but I don’t even know what the error code is. To be honest, I worry I’m just... making it worse by being around. So I stay on the periphery, doing small things. It’s not enough, but it’s all I can calibrate right now.
+
+interviewer: It sounds like you’re feeling frustrated about not being able to support your wife the way you’d like, even though you’re trying to be present. Have there been times in the past when you and your wife found ways to work through difficult periods together? What did that look like?
+
+patient: I guess... before all this, we’d tackle things like weekend projects together. You know, fixing the sink or reorganizing the garage. It felt like... systematic troubleshooting. But those things seem so trivial now. I worry if I even suggest something like that, it just adds noise to the system. To be honest, I’m not sure what ‘working through’ looks like anymore. It’s like the manual’s missing pages.
+
+interviewer: That sounds like a frustrating gap in your usual problem-solving approach. Have there been times in the past when you felt similarly overwhelmed but found ways to navigate it, even if it took longer or felt less systematic?
+
+patient: In the past, I’d just... work longer hours or adjust my schedule. But now even those workarounds feel like they’re running on an outdated system. It’s like trying to use a deprecated protocol—everything’s compatible, but it’s just... slower, and I can tell it’s not sustainable. I guess I’m just waiting for the system to throw an error I can actually debug.
+
+interviewer: It sounds like the sense of stagnation and inefficiency is really isolating for you. Have there been any particularly challenging or traumatic experiences in your life that you feel have impacted how you cope with stress or manage your relationships?
+
+patient: I guess... my dad was always strict about efficiency. He’d say things like 'Fix it faster, not better.' It stuck with me, you know? I still catch myself thinking my worth is tied to output. But that’s... work stuff. To be honest, the hardest part now is not feeling like I can even be a stable 'system' for my wife. If I could just... stop malfunctioning long enough to support her, maybe things would recalibrate. But it’s like both of us are running on deprecated software.
+
+interviewer: It sounds like your father's emphasis on efficiency has left a lasting imprint on how you view yourself and your role in relationships. How do you think that focus on output and performance might be influencing the way you approach challenges with your wife or at work now?
+
+patient: I guess... I just see things as systems that need fixing. If something's not working, you troubleshoot. My dad always said 'fix it faster,' but now I'm stuck recalibrating the same problem and it's like... the machine's just worn out. The calibration error—I should've caught it, but maybe the parts were already degraded. It's not really about efficiency anymore, it's more like... everything's past its expiration date.
+
+interviewer: It sounds like you're feeling overwhelmed and disconnected. Have you been having thoughts of harming yourself?
+
+patient: I guess... sometimes I wonder what it’s like to just stop trying. But I tell myself it’s just... work burnout. I mean, even machines need maintenance, right? I haven’t... I haven’t really thought about it past that. It’s easier to focus on small fixes, you know? Like, if I can just realign the tools or memorize specs, maybe everything else will recalibrate too.
+
+interviewer: It sounds like you're trying to cope by focusing on small fixes—have you ever had a specific plan or method in mind for how you would 'stop trying'?
+
+patient: I don’t think I’ve ever… really mapped it out. It’s more like if I just stop checking the system, maybe it’ll… reset on its own. But I don’t even know if that makes sense. I mean, the coffee maker still needs cleaning, right?
+
+interviewer: I hear how overwhelming this feels, like a system needing reset. Have you considered any specific methods or steps you might take to 'stop checking the system' if things don't improve?
+
+patient: I guess... it’s more like if the machine just powers down. No real method, just... stopping the checks. But I don’t think I’d actually follow through. Maybe if I could get a full night’s sleep, things might reboot? But the coffee maker still needs cleaning, so...
+
+interviewer: From what you've shared, it sounds like the main concerns are feeling down and disconnected for months, trouble sleeping, exhaustion affecting your work and relationship, and worries about making mistakes or failing your wife. The stress from work demands and financial pressures seem to have worsened things, and the recent strain in your marriage feels like a turning point. Does that capture what's been going on for you, or is there something I missed?
+
+patient: Yeah, that’s… that’s pretty much it. The leaf blower at night doesn’t help—keeps me up, so the 'system' never reboots. I guess I just keep trying to tweak the settings, you know? Like if I clean the coffee maker or realign the tools, maybe the rest will… follow. But my wife’s smile used to be a signal that things were working, now it’s just… static. I don’t want to overload the circuit.
+
+interviewer: It sounds like you're using these metaphors to describe feeling like a system in need of repair, where small fixes aren't resolving bigger patterns of exhaustion and strain. What did I miss about how these 'system' struggles connect to what's been hardest for you lately?
+
+patient: The calibration error... it’s just one more thing that feels like a symptom, not the disease. I guess what’s hardest is that even when I try to stay ahead of it all—arriving early, double-checking everything—the noise, like that leaf blower at 2 AM, keeps resetting my clock. My wife’s been quiet a lot lately, but I don’t know if it’s because of me or... other things. I just keep thinking if I could fix one thing, maybe the rest would follow. But the tools I have now don’t seem to fit the problem.
+
+interviewer: It sounds like you've been feeling like a system in need of constant recalibration, with work stress, sleep disruption from external noises, and marital strain creating a loop of exhaustion and self-criticism. Your history of valuing efficiency and tying self-worth to output may be contributing, while your wife's emotional distance and the recent calibration error feel like urgent 'error messages' you can't resolve alone. What did I miss about how these patterns connect for you?
+
+patient: I guess... the leaf blower isn’t just noise. It’s like the system keeps rebooting when I can’t afford downtime. I stay early to avoid mistakes, but even when I double-check, the numbers feel off. My wife’s been quiet, but I don’t know if it’s me or the... other stuff. I just keep thinking if I could just recalibrate one thing, but the tools I have now—none of them fit. I’m afraid I’m just... wearing out the system.
+
+interviewer: It sounds like your experience has been shaped by a combination of work demands, sleep disruption, and marital strain creating a cycle of exhaustion and self-criticism, with your technical problem-solving approach now feeling insufficient to address these challenges. Your father’s emphasis on efficiency may also be influencing how you perceive your current struggles. What did I miss about how these factors connect for you?
+
+patient: I think... maybe what’s missing is that the 'system' isn’t just work or sleep. It’s like... when I fail at one thing, it feels like the whole network crashes. The calibration error wasn’t just a mistake—it’s proof I’m destabilizing everything. My wife’s ‘other stuff’… I don’t know if she’s holding her breath waiting for me to snap. And my dad’s voice? It’s not just in my head anymore. It’s this… feedback loop. I try to fix one wire, but the circuit’s already fried.
+
+interviewer: It sounds like your father’s expectations and your wife’s emotional distance are now deeply woven into the 'system' you’re trying to fix, creating a cycle where self-criticism and external pressures feel inescapable. What did I miss about how these pieces connect for you?
+
+patient: I guess... my dad’s voice isn’t just about fixing things faster. It’s like he’s rewired how I see failures—like every mistake is a virus spreading to the whole system. And my wife’s silence... it’s not just quiet. It’s like she’s waiting for the next error message. I keep thinking if I could just stabilize one part, but the feedback loop... it’s my fault, isn’t it? I don’t know why I expect anything different.
+
+interviewer: It sounds like your father’s expectations and your wife’s emotional distance are creating a cycle where self-criticism feels inescapable, and even small fixes feel inadequate. What did I miss about how these patterns connect for you?
+
+patient: I guess... the loop isn’t just between me and my dad’s voice. It’s like my wife’s silence is a fuse that’s burning, but I can’t see how long it is. Every time I try to fix something—like staying late to recalibrate the equipment—it feels like using duct tape on a circuit board. The more I patch, the more the gaps show. I keep thinking if I could just... quiet the noise for once, maybe the system would stabilize. But the static’s in my head now.
+
+interviewer: It sounds like your father’s critical voice and your wife’s emotional distance have become intertwined with your work stress, creating a cycle where self-criticism and external pressures feel impossible to untangle. What did I miss about how these pieces connect for you?
+
+patient: I guess... it’s like the gears are all grinding against each other. My dad’s voice is this constant static that makes me second-guess every move, and when I mess up at work—like the calibration error—it feels like proof the whole machine’s falling apart. But then my wife’s sadness... it’s not just her crying. It’s like she’s watching the same system crash but can’t figure out how to reboot. And I don’t know if I’m helping or... making it worse. To be honest, sometimes I think if I just fix one small thing—like aligning my tools perfectly—it’ll stabilize everything. But the leaf blower at night? It’s like the universe’s way of saying ‘nope.’
+
+interviewer: It sounds like your father’s critical voice and your wife’s emotional distance have become intertwined with work stress, creating a cycle where self-criticism and external pressures feel impossible to untangle. What did I miss about how these pieces connect for you?
+
+patient: I think... the thing you might not have said is how I keep trying to ‘reset’ everything. Like, if I fix the coffee maker or align my tools just right, maybe it’ll restart the system. But the leaf blower at 2 AM? It’s like the universe won’t let me reboot. And my wife... she’s trying, I think. But when she smiles, it’s like a temporary patch—good for a second, then the static comes back. I guess I’m just waiting for the error message to stop flashing.
+
+interviewer: It sounds like your experience has been shaped by a cycle of work stress, sleep disruption, and marital strain, where your technical approach to problem-solving feels inadequate, and your father’s critical voice and your wife’s emotional distance contribute to a sense of systemic failure. What did I miss about how these patterns connect for you?
+
+patient: I guess... the coffee maker’s been acting up again. I spent 20 minutes aligning the filter just right, like maybe that’d patch the system. But then the leaf blower roars at 2 AM, and it’s all just... noise. My dad’s voice isn’t even a voice anymore—it’s like a bad wire, humming through everything. And my wife... she’s trying to troubleshoot too, but we’re both using the wrong manual.
+

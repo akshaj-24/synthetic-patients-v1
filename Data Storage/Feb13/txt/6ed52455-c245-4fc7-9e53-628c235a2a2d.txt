@@ -1,0 +1,100 @@
+system: Session 6ed52455-c245-4fc7-9e53-628c235a2a2d transcript
+
+system: Disorder: MDD
+
+interviewer: James, would you be comfortable if I start by explaining the purpose of today's session?
+
+patient: Sure. I assume it’s the standard check-in—making sure everything’s… functioning as expected? To be honest, I’ve been feeling a bit off for months, but I’ve just chalked it up to burnout. You know how it is—when you’re in medicine, you learn to power through. I guess I’m here because my wife insisted, and frankly, I don’t want to be the guy who ignores a potential system error until it’s too late.
+
+interviewer: Thank you for sharing that, James. Can we proceed with today's session as described?
+
+patient: Of course, I appreciate the structured approach. To be honest, my schedule’s been... erratic lately, but I’ll make time. My daughter’s piano recital in three weeks is my current benchmark for productivity.
+
+interviewer: Can you describe the main concerns that have been on your mind lately and what led you to seek help now?
+
+patient: To be honest, it’s this... lingering sense of being stuck in neutral. I wake up exhausted, even after hours in bed staring at the ceiling. My focus at work—it’s there, but like a fog I have to push through. My wife says I’ve been distant, but I guess I just assume she’s used to me being a grumpy shadow by now. The real push was her cutting back her job to manage things... I don’t want to be the reason she’s sacrificing her own time.
+
+interviewer: That sounds really tough to carry alone. When did you first notice this sense of being stuck, and how has it changed over time?
+
+patient: I guess the first crack was six months ago—there was a misdiagnosis I carried with me, something minor but... it gnawed at me. I started waking at 3 a.m., staring at the ceiling, wondering if my 'engine' was sputtering. At first, I told myself it was just fatigue, but the fog didn’t lift. My irritability at work... I snapped at a nurse once, called it a 'grumpy shadow.' To be honest, it’s like a dimmer switch was turned down incrementally. The joy in medicine? Gone. Now, even saving lives feels... transactional. I don’t want to overexplain. It’s just... persistent.
+
+interviewer: It sounds like this has been a gradual but significant shift for you. Has this current experience felt similar to any past periods where you felt overwhelmed or emotionally distant, and if so, what helped during those times?
+
+patient: I guess... the closest might have been the residency years, but this feels different. Back then, it was just burnout—more about sleep deprivation than this... emptiness. I tried working harder to 'outpace it' before, but this time, even that feels transactional. To be honest, the only thing that’s kept me... functional is focusing on my daughter’s recital. It’s absurd, but rehearsing that smile in the mirror gives me a purpose that doesn’t feel like pretending anymore.
+
+interviewer: It’s clear that your daughter’s recital gives you a sense of purpose that feels authentic right now. How have you been managing to focus on that as a way to cope with the emptiness you described?
+
+patient: I guess setting that date... it’s like a target to aim for. Even when I feel like I’m running on empty, knowing I have to be there for her keeps me... moving forward. Though some days, getting out of bed feels like climbing a hill. I try not to think too much about the rest—just focus on the routine. The smile practice helps, absurd as it sounds.
+
+interviewer: It's clear how important your daughter is to you as a source of purpose. Are there other people or relationships that help carry you through difficult days, even in small ways?
+
+patient: I guess... my wife keeps the household from collapsing, which is something. She’s always been pragmatic, so I don’t want to burden her with more. Sometimes the smell of her detergent helps, like a nonjudgmental witness. But honestly, I rely on routines—work, the recital prep—to avoid... drifting. Friends? We all orbit the same grind, so small talk feels transactional too. I’m not great at leaning on people. Efficient enough, I suppose.
+
+interviewer: That sounds really concerning... Have you had any thoughts of harming yourself or ending your life in the past few months?
+
+patient: I... I haven’t acted on anything, but there have been moments where I think, 'maybe vanishing would simplify things'—though I don’t mean actively. More like... wondering if not waking up would be better. But I try not to dwell on it. The recital gives me a reason to keep showing up, even if some days I barely make it out of bed. I guess I just... calculate the risks, you know? Efficient enough.
+
+interviewer: It sounds like those thoughts are really distressing even if they're not active... How often do these thoughts about not wanting to wake up come up for you, and is there a particular trigger or pattern to when they occur?
+
+patient: I guess... they pop up more when I’m awake at 3 a.m., staring at the ceiling. It’s not about wanting to wake up anymore—it’s like the brain short-circuits, and those thoughts just… linger. I try to redirect by calculating if pushing through is worth the effort. The recital keeps me from drifting too far, though. Absurd, but it’s a concrete goal. I don’t want to dwell, but… some days, even that feels like reaching.
+
+interviewer: I appreciate you sharing that coping strategy... Have you been using alcohol, cannabis, or other substances to help with sleep or energy lately?
+
+patient: No, I haven’t. I guess... I’ve always been cautious about that, given the job. Maybe a cup of coffee in the afternoon if I’m dragging, but nothing serious. To be honest, even caffeine feels like it requires more effort these days than it should.
+
+interviewer: It sounds like even small changes in your routine are taking more effort than usual... Have you been using any other substances—like nicotine, prescription medications, or something else—to manage energy or sleep, even occasionally?
+
+patient: No, nothing like that. I guess I’ve always been... hyper-aware of how medications can cloud judgment, given the work. Even OTC stuff feels like another variable to track. To be honest, just keeping up with coffee—without overdoing it—has been enough of a balancing act lately.
+
+interviewer: It sounds like you're being very deliberate about managing your health... Have you experienced any periods where you felt unusually energetic or needed significantly less sleep than usual?
+
+patient: No, not really. I’ve just... been hyper-focused on maintaining routines, I guess. Even when I’m exhausted, I force myself to stick to a schedule. It’s less about energy and more about control—like if I can structure my day precisely, I won’t notice how much I’m dragging. Though lately, even that feels like a battle.
+
+interviewer: I appreciate your openness... Have you noticed any hallucinations, delusions, or paranoid thoughts recently that feel concerning or unusual for you?
+
+patient: No, nothing like that... I guess I’d notice if there were. I’m hyper-focused on details at work these days, you know? If there was something... off, I think I’d be aware. Though to be honest, most days feel like a blur of charts and caffeine. If that’s what you mean.
+
+interviewer: It sounds like you're maintaining a careful balance with your health... Can you tell me about any medications or supplements you're currently taking, including prescription, over-the-counter, or herbal remedies?
+
+patient: I guess... just a basic multivitamin. I’ve always been cautious about medications, even OTC stuff. It’s more about... covering bases, I suppose. To be honest, even that feels like one more thing to track some days.
+
+interviewer: It sounds like you're being very intentional about avoiding substances that might interfere with your work... Have you been diagnosed with any medical conditions—like thyroid issues, sleep apnea, or chronic pain—that might be affecting your mood or energy levels?
+
+patient: I guess... my primary care doc once suggested a thyroid check after I mentioned the 3 a.m. wake-ups. But I never followed through. It’s not like I have time for that kind of thing. And sleep studies? Those are for people who actually snore or... or have obvious issues. I just have a metabolic lag, I think. My father always said if you’re not at the top, you’re tripping others up—I’ve just been trying to compensate, you know?
+
+interviewer: Let me recap what I've heard so far: Over the past six months, you've experienced a gradual decline in energy, emotional numbness, and sleep disturbances—particularly waking at 3 a.m.—which has impacted your work as a doctor and your relationship with your wife. The stress of maintaining high professional standards and feeling like a burden seems to compound things, though your daughter's piano recital has been a meaningful anchor. You've also mentioned occasional passive thoughts about things being better if you weren't around, but these haven't included active plans. Does this capture your experience accurately, or is something missing?
+
+patient: I guess that’s... accurate, mostly. The recital’s this fixed point I keep focusing on, like if I can just hold that together, everything else might not collapse. The 3 a.m. thoughts—they’re still there, but I’ve been telling myself it’s just... recalculating priorities. I don’t want to overexplain, though. It’s hard to say what’s ‘missing’ when you’re already feeling like half a person.
+
+interviewer: It sounds like the recital is a crucial lifeline for you right now—holding onto that must feel like an act of defiance against the weight you're carrying. What did I miss?
+
+patient: I guess... maybe the guilt about my wife. She’s been adjusting her job, and I keep telling myself it’s ‘gracious’ of her, like she’s choosing to help. But what if she’s just... tired of asking me to open up? I haven’t cooked a real meal in weeks, just microwave leftovers—I call it ‘efficient,’ but it feels like another way I’m letting her down. And the 3 a.m. thoughts… they’re not just about vanishing. Sometimes I wonder if everyone’d be better off if I just… did the math differently. But I don’t want to waste your time with what-ifs.
+
+interviewer: It sounds like the guilt about your wife and the 3 a.m. thoughts are really weighing on you—can you clarify if those are the main additions to our earlier summary, or is there something else I haven’t captured yet?
+
+patient: I think that’s... comprehensive. The only thing left is the meals—microwaving instead of cooking—but I guess that’s just another quiet failure in the same pattern. It’s like the 3 a.m. thoughts and the recital are the bookends... everything else fills in the gaps between them.
+
+interviewer: Thank you for the clarity. To ensure we’re aligned, I’ll summarize the key points and then ask if there’s anything we should adjust before discussing next steps. Does that work for you?
+
+patient: I think that’s... solid. The recital’s the only thing that feels like a solid plan. If I can just hold that together, the rest... well, it doesn’t matter as long as that’s there. I guess the 3 a.m. thoughts are still there, but I tell myself it’s just recalculating. Efficient, even.
+
+interviewer: It seems the recital is a crucial anchor for you. What would you like to prioritize as we discuss next steps for your care?
+
+patient: The recital—it’s the one thing that still feels like a fixed point. I’d want to make sure I can actually be present for it, you know? Maybe... focusing on small anchors, like sleep hygiene or meal prep, to avoid spiraling. I’m not sure about adding more variables, though. I’ve always handled things by... calculating risks. If I can just keep the dimmer switch steady, that’s probably enough.
+
+interviewer: It sounds like the recital is a meaningful anchor for you right now. Before we wrap up, is there anything else you'd like to discuss or clarify about next steps?
+
+patient: I guess... maybe just confirming that the current plan is enough. I’ve been relying on the same routines, but I don’t want to dismiss something that could help. It’s just... adding anything new feels like another variable to control. My wife’s detergent, the recital—those are the things that ground me, even if it sounds trivial. I’ll keep logging the 3 a.m. wake-ups, but I’m afraid asking about them just turns into another calculation. If the plan is to... steady the dimmer switch, then I’m okay with that.
+
+interviewer: It makes sense to prioritize what feels manageable for you. Before we close, is there anything else you'd like to add about how we can support the plan you're comfortable with?
+
+patient: I guess... I appreciate the space to keep things steady. My wife’s been shouldering a lot, and I don’t want to add pressure on her, but I’ll keep noting the 3 a.m. wake-ups if it helps. The recital prep is... functional. If that’s the anchor, then yes, let’s focus there. Everything else feels like background noise I can manage.
+
+interviewer: It sounds like focusing on the recital and tracking those 3 a.m. wake-ups feels like the right balance for now. Before we close, would you be open to briefly reviewing a simple plan for managing those middle-of-the-night thoughts—like a short list of steps or contacts to reach out to if they feel overwhelming?
+
+patient: I guess a checklist could work—something brief, like... a few steps to reset the thoughts. Maybe noting the time, then a grounding thing, like the detergent smell. And my wife’s number as a contact. But let’s keep it simple. Adding too many steps feels like... another variable I might botch. If it’s just a minimal plan, I can test it without overcomplicating the dimmer switch.
+
+interviewer: That’s a good start—focusing on what feels manageable for you. Would you like to write down this checklist now so we can refer to it next session? If not, we can revisit it later. For now, is there anything else you’d like to add before we close today?
+
+patient: I guess writing it down briefly now could help—just a quick note. The recital prep is what I need to focus on, though. If the checklist stays simple, I can stick to it without overcomplicating things. Thanks for not making it... more than it needs to be.
+

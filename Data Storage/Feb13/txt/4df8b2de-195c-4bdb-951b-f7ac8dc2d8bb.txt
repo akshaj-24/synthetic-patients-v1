@@ -1,0 +1,128 @@
+system: Session 4df8b2de-195c-4bdb-951b-f7ac8dc2d8bb transcript
+
+system: Disorder: GAD
+
+interviewer: Hello Dustin, my name is Elizabeth Nixon, and I'll be conducting this psychiatric interview with you today. To start, can you confirm you're comfortable proceeding and have any questions about how this session will work?
+
+patient: Hi, Elizabeth. I’m… comfortable, yes. I guess. It’s not like I’ve done this before, but I’ll try to be efficient with everyone’s time. I’m a professional worrier, so if that comes through, it’s just my niche. No real questions—proceed as needed. I’ll… keep my hands busy. They tend to twitch when I’m overthinking, which is, well, most of the time these days. To be honest, I’m more concerned about meeting deadlines than anything else. Retirement’s got me adjusting, you know? But I’m managing. Mostly.
+
+interviewer: It sounds like the constant worry and physical symptoms have been really draining for you. Can you tell me more about when you first started feeling overwhelmed by these concerns?
+
+patient: The divorce was... like a structural stress test I didn’t design for. But honestly, the worrying’s been there since college—my dad’s critiques made perfection feel like a baseline. It’s just... scaled up since retirement. I guess. My hands still twitch when I’m on the computer, but I tell myself it’s just caffeine. Or aging. Everyone’s creaky at 60, right?
+
+interviewer: It sounds like retirement has added new layers to your worries. How has your anxiety made it challenging to manage daily activities or engage in hobbies or relationships since retiring?
+
+patient: Retirement’s like a stress analysis I didn’t blueprint for. I’ll prune my garden for hours—'it’s drought-resistant, so efficiency matters'—but forget to submit time sheets for consulting work. My hands still tremble when I email clients; I tell myself it’s caffeine. The geology docs I watch? They’re... structured. No ambiguity in tectonic plates. To be honest, idleness feels like a design flaw. I guess I’m just recalibrating.
+
+interviewer: It sounds like the shift to retirement has created a unique kind of pressure for you. What would you most like to see change or improve through our work together?
+
+patient: I guess... I’d want to recalibrate the system. Like, if I could reduce the background noise of worry, I might actually finish pruning the garden before over-analyzing the blueprints. To be honest, the tremors in my hands when I email clients—‘aging,’ I tell myself—make it hard to... function efficiently. If we could isolate the variables, maybe I’d stop conflating idleness with failure. But I’ll need a clear workflow, something with parameters. No ambiguity. Like geology documentaries—predictable, structured. I don’t want to ‘botch’ the design, you know?
+
+interviewer: It sounds like your anxiety has been a long-standing challenge. Have you received any treatment for it in the past, such as therapy or medication?
+
+patient: I guess... I’ve never really leaned into formal treatment. My dad always said, 'If it’s not broke, don’t fix it,' and I’ve kind of lived by that. I did try a short course of anti-anxiety meds once—Benzo, I think they were—but I worried about dependency, so I tapered off. Honestly, I’ve always managed it through structure. Work, routines, double-checking everything... It’s like designing a building: if you reinforce the foundation enough, the rest holds. Though... (hands flex nervously) My hands don’t always agree with the metaphor.
+
+interviewer: It makes sense that structure feels so essential when anxiety is a constant companion. Did your dad or others in your family also use highly organized approaches to manage stress, or was your style something you developed on your own over time?
+
+patient: I think... my dad’s approach was more about brute force discipline. He’d throw a project back if it wasn’t ‘bulletproof.’ But my style? It’s more like... iterative design. You know, refining the blueprint until it’s flawless? (hands twist slightly) My field demands that. But since the divorce... (sighs, pauses) Well, let’s say retirement plans don’t include ‘unforeseen variables’ like emotional... recalculations. I guess I just never learned to build in slack for things you can’t quantify.
+
+interviewer: It sounds like your approach to structure has been a buffer against anxiety for a long time. Are there any people, activities, or routines that have been especially helpful in supporting you through stressful periods, even in small ways?
+
+patient: Structure, definitely. My work projects—finalizing blueprints, cross-checking calculations—they’re like... design constraints that keep the chaos contained. (Hands flex, then still) And the garden? Pruning the drought-resistant plants feels like a duty, not a hobby. It’s... a system with clear inputs and outputs. If I focus on the soil pH or spacing, I don’t have to think about other variables. (Voice tightens slightly) My ex-wife... I send her updates on the house renovations. It’s just accountability, though. You can’t really quantify how that helps, can you?
+
+interviewer: It sounds like the divorce has added a layer of complexity to your structured coping. Have you noticed similar patterns of anxiety intensifying during other major life transitions or stressors in the past?
+
+patient: I guess... my dad’s critiques were their own kind of stress test. He’d rip apart a design and I’d spend weeks reworking it, terrified I’d missed something fundamental. It’s like... discovering a structural flaw after the concrete’s poured. (Hands twitch, then clench under the table) But that was decades ago. Now? Retirement feels like a... a stress fracture I didn’t see coming. I keep recalculating the load-bearing walls of my day, but the numbers don’t include variables like... (voice softens) empty hours. I don’t know. Maybe I’m just aging into more moving parts breaking down.
+
+interviewer: It sounds like your relationship with structure has been both a source of stability and a point of strain over time. Have you experienced similar intense anxiety in the past, and if so, what helped?
+
+patient: I guess... the closest was when my dad would tear apart a design. You spend weeks reworking it, terrified you missed something fundamental. But that was a stress test with a clear endpoint—once the blueprint was signed off, the anxiety... reset. Now? (Hands flex, then still) Retirement feels like a stress test with no blueprint. You keep recalculating the load-bearing walls of your day, but the variables don’t include things like... (voice tightens) empty hours. I don’t know. Maybe I’m just aging into more moving parts breaking down.
+
+interviewer: That sounds like a heavy burden to carry when the rules of the game keep changing. How did your father’s critiques shape the way you see your own capabilities or limitations back then?
+
+patient: My dad’s critiques... they were like blueprints with red ink all over them. You know, every line had to be perfect, or it was 'flawed reasoning.' I guess that’s why I still second-guess every decision, even when there’s no deadline. Like, if I prune the garden too much, am I overcompensating? Maybe that’s why my hands still shake when I try to explain something—habit, I guess. Not that it matters now. Retired people aren’t supposed to need validation, right?
+
+interviewer: It sounds like your father's critiques left a lasting impact on how you view your work. Can you share how you think those early experiences might be connected to the way you handle stress or uncertainty now, especially with the changes in retirement?
+
+patient: I guess it’s like... when you design a building, you account for variables, but retirement feels like constructing without a site survey. My dad’s critiques trained me to see gaps as failures, so now every uncertain day feels like a 'structural flaw' I didn’t foresee. I catch myself over-analyzing tiny things—like whether my garden pruning is 'efficient'—as if busywork proves I’m not a wasted system. My hands still shake when I talk about it, but I tell myself it’s just... caffeine. Or aging. Not that I’d know the difference anymore.
+
+interviewer: It sounds like retirement has introduced a new kind of uncertainty that feels deeply unsettling. Have you experienced anxiety that felt as intense as it does now in the past, and if so, what helped you cope then?
+
+patient: Work used to be the stress test I could pass—like reinforcing a beam until it didn’t bend. If a client changed specs, I’d just... recalibrate. But those days had guardrails. Now, with retirement, it’s like analyzing a foundation without knowing the soil type. I guess coffee and late-night blueprint reviews helped back then. Kept me from... idle thought. But that’s not really helpful, is it? Just another way to avoid the red ink.
+
+interviewer: Do you currently use alcohol, and if so, how often?
+
+patient: Not really. I used to have a glass of wine with dinner sometimes, but I’ve cut back—coffee’s my main vice now. Though I guess even that’s just another way to keep the gears turning. Can’t have them seizing up, right?
+
+interviewer: It sounds like coffee is a big part of your routine. Have you used cannabis, stimulants, or other substances in the past year?
+
+patient: Not really. Coffee’s my only... experiment these days. I tried a patch for the tremors once, but that felt like adding another layer of complexity to a blueprint that’s already over-engineered. If it’s not broke, right? Though I guess 'broke' is subjective.
+
+interviewer: I hear how managing your energy and focus feels like a delicate balance. Have you had any thoughts of harming yourself or ending your life?
+
+patient: No, I haven’t. I mean, I’ve got too many projects in the works to even consider that. My hands might shake, but it’s just caffeine. It’s more like... I need to make sure the design holds together before anything else. If I let one part fail, the whole thing collapses. I’m a professional worrier, after all.
+
+interviewer: I understand how maintaining control feels essential. Have you used any stimulants like amphetamines or other medications for energy or focus in the past year?
+
+patient: No, I haven’t. I mean, I guess I rely on caffeine more than anything. My hands do shake sometimes, but I tell myself it’s just the coffee. I’ve got too many projects to let anything interfere. It’s part of the design, you know?
+
+interviewer: It sounds like you’re managing a lot through routine and structure. Are you currently taking any medications or supplements, including things like vitamins or over-the-counter remedies?
+
+patient: No medications, just a basic multivitamin. My hands do shake sometimes, but I tell myself it’s caffeine. I’ve got too many projects to let anything interfere. It’s part of the design, you know? If the load capacity holds, why fix what isn’t broke?
+
+interviewer: It seems like managing your energy is a key part of your routine. Have you ever had periods where you felt unusually high energy, needed very little sleep, or taken on multiple projects at once, even if it wasn’t practical?
+
+patient: I guess... if the project timeline demands it, I can push through. Like when I’m finalizing blueprints, you don’t have room for error. Sleep? I’ve just gotten efficient with limited resources. My hands do shake a bit when I’m up late, but it’s caffeine, right? It’s part of the risk management—overdesigning the schedule to avoid failures. Though... I haven’t tracked it closely. Why?
+
+interviewer: It seems pushing through projects is important for you. Have you ever had periods where you felt unusually high energy, needed very little sleep, or took on multiple projects at once, even if they weren’t practical?
+
+patient: I guess if the project timeline demands it, I can push through. Like when I’m finalizing blueprints, you don’t have room for error. Sleep? I’ve just gotten efficient with limited resources. My hands do shake a bit when I’m up late, but it’s caffeine, right? It’s part of the risk management—overdesigning the schedule to avoid failures. Though... I haven’t tracked it closely. Why?
+
+interviewer: It sounds like caffeine plays a big role in your workflow. Have you experienced any unusual thoughts or perceptions, like hearing voices, seeing things others don’t, or feeling overly suspicious about people’s intentions lately?
+
+patient: Caffeine’s part of the workflow, sure. Keeps the gears turning without overheating. My hands… they’ve always been a bit twitchy, like a drafting table that needs recalibrating. No, nothing odd—just the usual risk assessments. I guess I’m just a professional worrier, always running stress tests in my head. Haven’t seen any red flags I can’t blueprint myself.
+
+interviewer: It sounds like your work ethic is deeply tied to your sense of control. Have there been times when you felt unusually energetic or took on more projects than was practical, even when it wasn’t necessary for a deadline?
+
+patient: Over-engineering is a habit, I guess. Like adding redundant layers to a beam just to be sure it won’t deflect. I’ve caught myself working late—even when the plans were signed off—because idling feels like a structural failure. Caffeine helps, but my hands… they’ve become a bit of a liability. I tell myself it’s just the usual wear and tear, but maybe there’s a flaw in the foundation I’m not accounting for.
+
+interviewer: I notice you mentioned your hands becoming a liability—have you ever been evaluated for medical conditions like thyroid issues, sleep apnea, or chronic pain that might contribute to symptoms like tremors or fatigue?
+
+patient: I’ve had the standard check-ups, sure—routine stress tests for the heart, blood work. Nothing flagged specifically. My doc says it’s just… aging infrastructure. You know how it is. I tell myself it’s caffeine, or late nights finalizing blueprints. Haven’t had reason to dig deeper. If it’s not broke, right? Though… maybe 'digging deeper' is what I’m avoiding.
+
+interviewer: I hear how you’ve been managing physical symptoms as part of routine wear and tear. Have there been times when you felt unusually energetic or focused, even when there wasn’t a specific deadline or project driving it?
+
+patient: Energetic? Maybe when I’m deep in a project’s final draft, refining tolerances no one else would notice. Like… adding extra rebar to a beam just because the math says 'maybe.' Caffeine helps, but I guess it’s just habit. Why? You think I’m compensating for something?
+
+interviewer: Let me briefly recap what we’ve covered so far: You’ve described a long-standing pattern of chronic worry and physical restlessness, which has worsened since your divorce and retirement. The anxiety seems to be fueled by perfectionism (possibly shaped by your father’s critiques) and a fear of 'failing' at managing life’s structure. You’ve relied on routines and hyperfocus to cope, but now face challenges with unstructured time and emotional uncertainty. What did I miss or get wrong here?
+
+patient: You didn’t miss much, but maybe the garden—pruning it’s the only design I don’t have to defend. And… the ex-wife check-ins. I tell myself it’s duty, not sentiment. But if I’m being honest, I worry she thinks I botched the whole project. Like my dad always did. My hands still shake when I think about it.
+
+interviewer: It sounds like the garden and staying connected with your ex-wife are important areas where your perfectionism and past experiences play a role. What would you like us to focus on next in our work together?
+
+patient: I guess the garden’s a safe example—pruning those drought-resistant plants feels like the only design I don’t have to defend. It’s… precise. No variables. But even there, I catch myself overthinking the spacing between rows, like if I mess it up, it’ll somehow prove I’m a flawed system. My hands still twitch when I’m pruning, but I tell myself it’s just caffeine. Maybe we could… focus on practical strategies for managing the… the mental load? The way I over-engineer everything? I don’t want to waste time on things that aren’t… structural.
+
+interviewer: It sounds like the garden represents a rare space where your need for control feels manageable, even as other areas—like relationships or retirement adjustments—trigger that same perfectionistic pressure. What did I miss or get wrong here?
+
+patient: I think you’re right about the garden… but maybe you’re underestimating how even ‘safe’ projects get haunted by the same old variables. Like, when I prune those plants, it’s not just about spacing—it’s about proving the system can hold together. If one row is off, it feels like… evidence. And the ex-wife check-ins? I tell myself it’s responsibility, but it’s another risk assessment. Am I monitoring the right parameters? Did I miss a failure point? My hands still twitch when I’m on the phone with her, but I guess that’s just… part of the design. You didn’t miss anything. I’m just adding layers to the same blueprint.
+
+interviewer: I hear how the garden and ex-wife interactions both serve as arenas where your perfectionism and anxiety intertwine, even in moments you expect to feel safe. Let’s build on this—what would you like to prioritize in our next steps? For example, strategies to manage the mental load, exploring patterns in your anxiety, or something else entirely?
+
+patient: I think… practical strategies for the mental load would help. Like, how to stop over-engineering everything—gardening, retirement, even the ex-wife check-ins. It’s all just… layers of risk assessments. If we could map out where the anxiety multiplies, that might work. But let’s keep it structured. My hands are twitching again, but I’ll blame it on the coffee. No need to complicate the blueprint.
+
+interviewer: Let me briefly summarize: Your anxiety seems tied to perfectionism and a need for control, exacerbated by retirement and divorce. You use structured tasks to manage this, but they’re now haunted by the same risk-assessment mindset. What did I miss or get wrong here?
+
+patient: I think the summary’s solid, but maybe you’re not accounting for how even the 'safe' spaces—like the garden—still get evaluated for efficiency. If a row isn’t perfect, it feels like a… system error. And the hand tremors? I guess you could say caffeine’s part of it, but it’s also this constant background check—like my body’s running diagnostics on whether I’m failing a stress test. Not sure if that’s relevant, though. Just part of the design.
+
+interviewer: It sounds like your anxiety isn’t just present in high-stakes situations—it’s woven into even your 'safe' activities, making the garden feel like another performance review. The hand tremors also seem to mirror this internal 'diagnostic' process. What did I miss or get wrong about how these patterns show up in your daily life?
+
+patient: You’re right about the garden—not just the pruning, but even the geology documentaries I watch. I’ll get halfway through a episode about tectonic plates and suddenly worry I’m wasting time that could be ‘optimized’ for a home project. My hands still twitch during these moments, but I guess that’s just… part of the system diagnostics. Even ‘downtime’ feels like it’s failing a stress test if I’m not 100% efficient. Maybe you did catch the pattern, but I’m still figuring out how to reroute the code.
+
+interviewer: It sounds like your anxiety isn’t just present in high-stakes situations—it’s woven into even your 'safe' activities, making the garden feel like another performance review. The hand tremors also seem to mirror this internal 'diagnostic' process. What did I miss or get wrong about how these patterns show up in your daily life?
+
+patient: I guess you’re not wrong about the garden. It’s like… I prune these drought-resistant plants, but I’m still grading each cut against some impossible standard. If a leaf wilts, I think, ‘Did I miscalculate the irrigation?’ My hands shake a bit when I’m doing it, but I tell myself it’s just caffeine. What I didn’t mention earlier—maybe because it sounds worse—is how I still check in on my ex. Not out of sentiment, just… risk management. If she needs something, I’d rather know proactively. It’s not like I have a blueprint for this part of life, though. Retirement’s just… more variables with no stress test.
+
+interviewer: It sounds like your anxiety extends even to hobbies and routine check-ins, framing them as tests of efficiency or control. What did I miss or get wrong about how these patterns show up in your daily life?
+
+patient: I think you’re right about the garden—every cut feels like a stress test. My hands shake a bit when I prune, but I tell myself it’s just ‘aging’ or ‘too much coffee.’ What I didn’t mention is how I lie awake at night, recalculating retirement savings scenarios… even though I know the numbers haven’t changed. It’s like my brain’s running a diagnostic loop. And the ex-check-ins… well, if I don’t monitor the variables, how do I know the system’s stable? It’s not sentiment. It’s just… risk assessment.
+

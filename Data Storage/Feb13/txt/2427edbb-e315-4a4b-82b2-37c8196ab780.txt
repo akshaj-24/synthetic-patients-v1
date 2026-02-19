@@ -1,0 +1,280 @@
+system: Session 2427edbb-e315-4a4b-82b2-37c8196ab780 transcript
+
+system: Disorder: MDD
+
+interviewer: Hello, Christina. My name is Rita Jones, and I'll be speaking with you today. To start, is there anything you'd prefer me to call you by, or any pronouns you'd like me to use? Once we settle that, I'll briefly explain what today's session involves and check if you're comfortable proceeding.
+
+patient: My name is Christina Walters. I go by she/her. I guess... that’s what it says on my badge. This is about the job stress, right? They said you’d help with... paperwork or something.
+
+interviewer: Thank you for sharing, Christina. It sounds like this has been a challenging time for you. Would you like me to clarify what today’s session involves before we continue?
+
+patient: No... I think I know what this is about. They said you’d help with paperwork, you know? Just trying to... make sure it doesn’t affect work. (Twists the edge of her scrubs, avoiding eye contact.) It’s just stress. Happens sometimes in the job.
+
+interviewer: That sounds really tough to carry alone. Would you be comfortable with me explaining a bit more about how this session could help, before we continue?
+
+patient: If it’s about the paperwork... sure. Just trying to keep things normal at work. (Pauses, twists scrubs.) No sense dragging it out, right? It’s not like there’s... much to talk about.
+
+interviewer: I appreciate your willingness to share, Christina. Would you like me to clarify how this session might differ from what you expect with paperwork, or do you have any questions about how today will go?
+
+patient: I... don’t really know what else there is. The nurse said it’s just forms to get me back to full duty faster. (Twists fabric of scrubs, avoids looking at interviewer.) If it’s about work performance, I already filled out the incident report. You just need to sign off that I’m... functional enough. (Pauses, voice flattens.) I don’t see how talking about it helps.
+
+interviewer: It sounds like you're unsure about how this process might help. Would you be comfortable proceeding with this session today?
+
+patient: I... I guess. If it’s what I need to do to get the forms done. But honestly, I don’t see how this changes anything. It’s just... paperwork and more waiting. [Fidgets with the hem of her scrubs, voice tight.] You know how these things are. I’ll say what I have to. Just... make it quick, okay?
+
+interviewer: It sounds like you're feeling frustrated with the process. Would you be comfortable proceeding with this session today?
+
+patient: It’s just... I don’t see how this changes anything. Same questions, same answers. But if I need to keep going, I will. [Tightens grip on scrubs, avoiding eye contact.] Work’s piling up, and I can’t even focus on that anymore. It’s... it’s frustrating.
+
+interviewer: That sounds really frustrating, Christina. Before we continue, is there anything specific you'd like to ask about how this session might work for you?
+
+patient: No. I don’t really... I don’t know what else there is to say. It’s the same thing every time. Paperwork. Proving I’m not broken so I can keep doing my job. That’s it. [Tugs at scrubs, avoiding eye contact.] If you need more details, just ask. But I don’t see how this helps. Work’s falling apart anyway.
+
+interviewer: Thank you for coming in today. Can you tell me about what's been on your mind lately?
+
+patient: It’s just... work’s been hard to keep up with. [Grips scrubs tightly, avoiding eye contact] I can’t sleep, so I’m always behind. And then I make mistakes, which just proves I’m not cut out for it. [Pauses, voice cracks slightly] But I guess that’s why I’m here—so they can figure out what’s wrong with me so I don’t screw up anymore. [Forces a flat smile] Or maybe so I can pretend I’m trying.
+
+interviewer: It sounds like this has been an incredibly heavy burden to carry. When did you first start noticing these difficulties with work and sleep?
+
+patient: It started... maybe十八 months ago? After I messed up a call. [Fingers dig into scrubs, eyes fixed on the floor] I couldn’t shake the feeling I was slipping. At first I told myself it was just stress—[shallow shrug]—but the sleep stopped altogether. I’d stare at the ceiling, wide awake, and by morning my head felt like concrete. The mistakes... they kept piling up. [Voice cracks, then hardens] Guess that’s when I realized it wasn’t just me being lazy.
+
+interviewer: It sounds like realizing this was more than just being lazy was a turning point for you. What are you hoping to achieve through this session today?
+
+patient: I guess... just get the paperwork done. Prove I can still do my job without messing up. It's not like talking about it fixes anything, but if it helps me keep working, then... (twists scrubs, voice flattens) ...I don't have to think about the mistake anymore. Or the looks people give me when I freeze. Just... functional. Back to functional.
+
+interviewer: It sounds like the incident you mentioned has stayed with you. Can you tell me a bit more about what happened during that call and how it felt in the moments after?
+
+patient: It was a pediatric call... I missed a symptom. The kid had a seizure, but I... I didn’t catch it fast enough. (Twists scrubs, avoids eye contact) The doc later said it wasn’t my fault, but... (pauses, voice drops) ...my hands still shake when I think about it. I guess I just keep wondering if I’m even fit to be trusted anymore. Work’s been a nightmare since. (Forces a stiff shrug) Maybe I should’ve just retired when my mom told me to.
+
+interviewer: It sounds like that incident has stayed with you. Have you noticed any changes in your symptoms since that time, or any patterns that stand out?
+
+patient: Harder to... focus on anything. I stay up late, even with the chamomile. (Twists scrubs, avoids eye contact) My mind just replays that call. And... (voice drops) sometimes I snap at Mark over nothing. Tell myself it’s the hormones, but... (pauses, shrugs stiffly) ...it’s not like I used to be. I just want to function without... shaking.
+
+interviewer: It sounds like the changes in your mood and behavior are adding to the weight you're already carrying. How often have these moments of snapping at Mark happened since the sleep issues started?
+
+patient: It’s... more often than I’d like. Maybe a few times a week? I tell myself it’s the stress, you know? Or the sleep. But it’s not like I used to be. (Twists scrubs, avoids eye contact) Mark doesn’t say much, but I can see it in his face. Like he’s waiting for me to snap again.
+
+interviewer: It sounds like the incident at work has added a heavy layer of self-criticism to an already overwhelming situation. Have you experienced similar episodes of feeling overwhelmed or down in the past, and if so, what helped you at the time?
+
+patient: No, this is... the first time it's been like this. I mean, stress happens, but... this feels different. (Twists scrubs) Used to just push through, but now... even that doesn't work. (Avoids eye contact) The call was the first real crack. Before that, I could... pretend I was still in control.
+
+interviewer: It sounds like the recent incident has intensified a sense of losing control that’s been building. How has your work environment or job pressures been affecting you in the past few months?
+
+patient: It’s... it’s been harder to focus. I’ve been triple-checking equipment, just... making sure I don’t slip up again. But the more I try to stay on top of it, the more I feel like I’m one mistake away from losing everything. Sleep’s been worse—wake up at 3 a.m. and can’t shake the panic. It’s just... a rough patch. You know how jobs get sometimes.
+
+interviewer: It sounds like the pressure to perform perfectly is adding to your exhaustion. How has your partner been supporting you through this difficult time?
+
+patient: Mark... he brings me coffee every morning. Says it helps me focus. I guess it does. But I snap at him sometimes. You know, little things. I tell him it’s the hormones. It’s not... it’s just stress. Keeping things together is hard. I don’t want to weigh him down. (Twists scrubs, avoiding eye contact.) He’s been good. Patient. I appreciate that.
+
+interviewer: It sounds like the weight changes and self-criticism are really adding to your distress. Have you had any thoughts about ending your life recently?
+
+patient: I... I guess I’ve had those thoughts. Not like I’d do anything stupid, though. It’s just... sometimes I wonder why I bother. But I have to keep going, right? For Mark. (Fingers twist fabric of scrubs.) The doctor gave me pills, but I haven’t needed them. Coffee’s been enough to keep me awake.
+
+interviewer: It sounds like you're carrying a lot of pressure to keep going for Mark's sake. Have these thoughts about ending your life included any specific plans or intentions to act on them?
+
+patient: No... no plans. I just... lock the pill bottle. You know, so Mark doesn’t worry. (Fingers tighten on scrubs, then release.) It’s not like I’d use them. I’m not that stupid. But sometimes I think about how easy it would be. If I just... let go. But I can’t. He’d notice. And I don’t want to drag him down anymore.
+
+interviewer: I hear how much you’re carrying for Mark, and it’s clear you care deeply about not burdening him. When you think about 'letting go,' what does that mean for you? Are you thinking about ending your life, or is it more about giving up in some other way?
+
+patient: I... I don’t know. Letting go—it’s like... the weight of everything just... stopping. But I can’t. Mark needs me. I have to keep going. Even if it’s hard. Even if I feel like I’m failing. (Twists scrubs, voice softens.) It’s not about... plans. Just... sometimes I wonder if I have the strength. But I don’t want him to see me break.
+
+interviewer: I hear how much you're prioritizing Mark's well-being even when you feel like you're struggling. Have you noticed any changes in your alcohol or cannabis use recently, or been using other substances to cope with the stress?
+
+patient: I... I don’t really use anything. Maybe a glass of wine sometimes. But it’s just... to help me wind down. You know, with the shifts and everything. Mark doesn’t drink, so I don’t want to do it in front of him. But it’s not like I’m... losing control or anything. I still have to be sharp for work. The tea helps more, honestly. Chamomile. It’s... it’s just easier to lock the pill bottle than to explain why I can’t sleep. You know how that goes.
+
+interviewer: It sounds like you're managing with small amounts of alcohol and herbal tea. Have you used cannabis in the past few months?
+
+patient: No... no, I haven’t touched it. Not since last year, anyway. The last time... just didn’t sit right with Mark. (pauses, fingers curling into the fabric of her scrubs) But the wine? Maybe once or twice. Only on nights I’m home alone. The pill bottle’s still locked, though. (forces a small, tired smile) You know how it is—better safe than sorry, right?
+
+interviewer: I hear how you're balancing things carefully at home. Can you tell me about any medications or supplements you're currently taking, including the ones you mentioned earlier?
+
+patient: The pill bottle... it’s just the antidepressants they prescribed. I keep it locked up. You know how it goes—don’t want Mark to see it, makes things feel... official. The tea’s just chamomile, honestly. It’s the only thing that doesn’t taste like regret. (pauses, fingers tightening on her scrubs) I don’t really take the pills though. They make me too... foggy. Can’t afford to be slow at work.
+
+interviewer: I hear how the side effects of the antidepressants are impacting your work performance. Are there any other medications or supplements you're currently taking besides the antidepressants and chamomile tea?
+
+patient: No... just the antidepressants. I don’t really take them though. They make me too foggy. (twists scrubs, avoids eye contact) Sometimes I take Tylenol for headaches, but that’s it. The wine? Maybe once in a while. Only when Mark’s not home. The pill bottle’s still locked up. (forces a small shrug) You know how it is—don’t want to complicate things more than they already are.
+
+interviewer: I see you're managing with Tylenol and minimal alcohol use. Have you noticed any periods in the last few months where you felt unusually energetic, had a lot of ideas, or needed very little sleep?
+
+patient: No... no, not really. I’ve been more... tired. Some nights I can’t sleep, but it’s not like I’m energized or anything. I just... can’t shut my brain off. (tugs at the hem of her scrubs) The crime shows help me stay awake sometimes. It’s not that I have energy—just... can’t let go. You know how that goes.
+
+interviewer: It sounds like you're managing sleep difficulties without increased energy or restlessness. Have you noticed any periods in the last few months where you felt overly excited about an activity or took more risks than usual, like spending sprees, impulsive decisions, or reckless behavior?
+
+patient: No, I... I don’t think so. I’ve been too tired to even think about risks. Mostly just trying not to mess up at work. (Twists scrubs) My coffee habit’s worse, though. I guess that’s... something? But it’s just to stay awake. (Pauses, looks down) You know how it is when you’re trying to hold things together.
+
+interviewer: Let me recap what I’ve heard so far: You’ve been struggling with overwhelming sadness, sleepless nights, and difficulty focusing at work for over a year, especially after a stressful incident where you felt you failed. These symptoms have affected your relationships, led to weight changes, and left you feeling like a burden. You’ve also mentioned moments of passive hopelessness, though you’re trying to stay strong for your partner. Does this capture your experience, or is there something I missed?
+
+patient: Yeah, that’s... that’s about it. The coffee’s gotten worse, though. I mean, it’s just to stay awake during shifts, but sometimes it’s the only thing that... that keeps me from just... freezing, I guess. (Twists scrubs, avoids eye contact) And Mark... I don’t want him to think I’m a burden. I try not to let him see how bad it gets. But I can’t even remember the last time I felt okay.
+
+interviewer: What would be the most helpful next step for you?
+
+patient: I don’t know. Maybe... just figuring out how to get through the shifts without freezing up. (Twists scrubs) If I could trust myself to not mess up, maybe the sleep would come easier. But... (pauses) I guess you already knew that. It’s just... it’s just about holding it together long enough to... to not let go, you know?
+
+interviewer: It sounds like the pressure to perform at work while managing your sleep and self-doubt is creating a really tight loop for you. Let me try to summarize: Over the past year and a half, a critical incident at work triggered intense guilt and fear of failure, which has since spiraled into chronic insomnia, difficulty concentrating, and strained relationships. You're carrying a heavy burden of self-criticism, trying to hold everything together for your partner while secretly fearing you're falling apart. What did I miss or get wrong here?
+
+patient: Yeah, that... that’s pretty much it. The coffee’s the only thing that keeps me from... from freezing during shifts. But it’s like, the more I need it, the worse I feel. (Twists scrubs, avoids eye contact) And the pill bottle—I lock it, even though I don’t take them. It’s just... something to do. (Softly) Mark doesn’t know about that. I guess... I guess I’m just trying to hold on, but some days, I don’t know how much longer I can.
+
+interviewer: It sounds like the pressure to perform at work while managing your sleep and self-doubt is creating a really tight loop for you. Let me try to summarize: Over the past year and a half, a critical incident at work triggered intense guilt and fear of failure, which has since spiraled into chronic insomnia, difficulty concentrating, and strained relationships. You're carrying a heavy burden of self-criticism, trying to hold everything together for your partner while secretly fearing you're falling apart. What did I miss or get wrong here?
+
+patient: Yeah, that’s... that’s about right. (Twists scrubs, glances at hands) The pill bottle thing—it’s just... habit, I guess. Even when I don’t take them, locking it up... it’s like a switch. Off. (Forces a small, humorless smile) And the crime shows? They keep me... awake past midnight. Feels like the only thing that does. (Pauses, voice softens) Mark doesn’t know how much I... how much I’m holding in. But if I start unraveling, I don’t know if I can stitch myself back up.
+
+interviewer: It sounds like holding on has been a mix of small rituals and quiet endurance. Before we decide on next steps, is there anything else that feels important to add about how you're managing—or not managing—these challenges?
+
+patient: The coffee... it keeps me going. And folding laundry, getting the lines straight—it’s the only thing I don’t mess up anymore. But my sister’s been through a lot lately, and I just... can’t seem to be there for her. You know how family gets.
+
+interviewer: It sounds like the small routines like folding laundry are a way you’re maintaining a sense of control, even as family responsibilities feel overwhelming. How has your sister’s situation been affecting you lately?
+
+patient: It’s... hard not to feel like I’m failing her. I haven’t called enough. Haven’t been there. (Twists scrubs, voice drops) She’s going through enough, and I’m just... stuck here. It makes me irritable, you know? Like, why can’t I be better at this? (Pauses, avoids eye contact) But I’m not even sure what ‘better’ would look like anymore.
+
+interviewer: It sounds like your sister’s struggles are adding to the weight you’re carrying, especially with the guilt of not being there for her. What did I miss or get wrong about how these responsibilities are shaping your sense of ‘better’ right now?
+
+patient: It’s... it’s like I’m stuck in this loop where I want to be there for her but I can’t even take care of myself. (Twists scrubs, avoids eye contact) She’s fighting something big, and I just keep thinking I’m another thing she has to worry about. The ‘better’ part? I don’t know. Maybe it’s just... not being such a burden. But I don’t know how to do that.
+
+interviewer: It sounds like the weight of wanting to support your sister while struggling to care for yourself is central to what ‘better’ means right now. What would you like to focus on next in terms of support or changes that might help with this?
+
+patient: I... I guess I’d want to stop feeling like I’m letting everyone down. Even if it’s just... small things. Like calling my sister without it turning into this huge effort. But I don’t know how to do that. (Twists scrubs, pauses) Maybe if I could stop second-guessing everything at work, I’d have more energy for anything else. Or maybe that’s just another way of avoiding it.
+
+interviewer: That must be really tough, feeling like you're letting people down when you're already struggling so much. Let me try to piece this together: Over the past year and a half, a critical incident at work triggered intense guilt and fear of failure, leading to chronic insomnia, difficulty concentrating, and strained relationships. You're carrying a heavy burden of self-criticism, trying to hold everything together for your partner and sister while secretly fearing you're falling apart. What did I miss or get wrong here?
+
+patient: You didn’t mention my sister’s cancer. She’s... fighting it. You know how family gets. (Twists scrubs, voice tightens) And the pill bottle—I lock it, but I don’t take them. It’s just... habit.
+
+interviewer: It sounds like your sister’s cancer has added another layer of guilt and pressure, especially with the pill bottle habit becoming a silent ritual. What else feels important to include before we shape next steps together?
+
+patient: I... I guess my sister’s diagnosis just hits me harder than I let on. I should be there for her, but I can’t even take my own pills. It’s stupid, right? (Twists scrubs) Mark brings coffee every morning—it’s the only thing that tastes real anymore. I don’t want to talk about the rest. It’s just... noise.
+
+interviewer: It sounds like your sister's diagnosis has added a heavy layer of guilt and pressure, especially when it feels like you can't even care for yourself. What would you like to focus on next in terms of support or changes that might help with this?
+
+patient: I don’t know... Maybe just... having someone check in? Not like therapy, just... knowing someone cares enough to ask. (Twists scrubs) But I can’t even keep my own routine straight, so who’s gonna care about me? Mark’s coffee helps, but it’s not... enough. (Pauses, looks down) I guess I’m scared I’ll mess up again—work, family, everything. It’s like the machine’s running but nothing’s connected.
+
+interviewer: It sounds like your sister’s cancer diagnosis and the ritual of locking the pill bottle have become central to your sense of control and guilt. What did I miss or get wrong about how these factors fit into your current struggles?
+
+patient: I think... you missed how the pill bottle isn’t just about the pills. It’s like—if I can’t even handle that, what else am I screwing up? (Twists scrubs) And the coffee... it’s the only thing that tastes real. But I’m scared to let go, even for a second. (Looks at hands) Mark... he’s the only thing keeping me together. I don’t want to mess him up too.
+
+interviewer: It sounds like your sister’s cancer, the pill bottle ritual, and Mark’s support are central to how you’re navigating this pressure. What else feels important to include before we shape next steps together?
+
+patient: The 3 a.m. panic... it’s like my mind won’t let me rest. Even if I fall asleep, I wake up shaking. It’s not just the pill bottle—it’s the feeling that if I let go, everything collapses. (Twists scrubs) Mark’s coffee is real, but it can’t fix that. I guess... the crime shows keep me awake past midnight. It’s stupid, but it feels like I’m *doing* something, you know? Like I’m not just... falling apart.
+
+interviewer: That sounds incredibly isolating, like you're balancing on a tightrope where every misstep feels catastrophic. Let me try to integrate what's emerged: Over the past year and a half, a critical work error triggered a spiral of guilt and hypervigilance, leading to chronic 3 a.m. panic awakenings, self-soothing rituals (pill bottle, coffee, crime shows), and a desperate need to 'stay connected' through small acts like folding laundry. This has created a fragile equilibrium where you fear both collapse and being a burden to Mark. What did I miss or get wrong about how these threads are woven together?
+
+patient: I think... you missed how my mom’s voice still lives in my head. 'Only as good as your work.' Even now. And Mark... I’m scared if I break, he’ll see I’m not worth fixing. (Twists scrubs, voice cracks) My sister’s sick, and I can’t even be there for her. It’s like... another weight I can’t name out loud.
+
+interviewer: It sounds like your mother’s critical voice and fear of disappointing Mark are deeply woven into your sense of self-worth, especially with your sister’s illness adding to the weight. What did I miss or get wrong about how these threads connect to your current struggles?
+
+patient: You’re… not wrong. The mom stuff, the work stuff—it’s all tangled. But maybe you missed how my sister’s sick and I… I don’t even know how to be there for her. (Pauses, twists scrubs) It’s like another weight I can’t name out loud. And the pill bottle—I lock it to prove I’m in control, but it just… it just feels like a lie to Mark. Like I’m waiting for him to see I’m breaking.
+
+interviewer: It sounds like your sister’s cancer diagnosis and the ritual of locking the pill bottle have become central to your sense of control and guilt. What else feels important to include before we shape next steps together?
+
+patient: The midnight cereal binges... they’re like a punishment I don’t let myself finish. The tea, the crime shows—they keep me from... from sitting with the quiet. (Twists scrubs) And the coffee Mark makes? I feel guilty for needing it, like even that’s a request too big. But the worst part? (Pauses) I keep thinking my sister’s fighting cancer while I just... unravel. Like I’m failing her too.
+
+interviewer: I want to acknowledge how deeply your sister’s struggle must be weighing on you, especially when it feels like you’re not able to be there for her. What did I miss or get wrong about how these threads connect to your current struggles?
+
+patient: You didn’t mention how folding laundry ‘just right’ is the only thing that feels… like I’m doing something right. (Twists scrubs, voice cracks slightly) My sister’s fighting cancer and I’m over here obsessing over lint rolls, like that’s how you prove you’re not a burden. And the crime shows? They’re not about the stories—it’s the noise. Quiet makes me think too much. (Pauses) But the worst? I keep waiting for Mark to see me unravel and walk out. Like he’ll realize I’m not… worth the effort.
+
+interviewer: I hear how much weight you're carrying—between your sister's illness, the rituals that feel like proof you're still holding on, and the terror of Mark seeing you break. Before we shape next steps, is there anything else I missed about how these threads connect for you?
+
+patient: The crime shows… they’re not just noise. It’s like I’m waiting for the next twist, but all I hear is my own thoughts. (Twists scrubs) And the laundry… it’s the only thing that feels… predictable. Like I’m not the one falling apart for once. (Pauses) But I guess that’s just me looking for order where there isn’t any.
+
+interviewer: It sounds like the laundry routines and fear of Mark seeing you unravel are important pieces to include. Is there anything else I missed about how these factors connect to your current struggles?
+
+patient: The midnight thing... it's like I'm punishing myself but can't finish it. The tea makes me sleep, but I just wake up again. And the 3 a.m. panic... it's like I can't even get that right. (Twists scrubs) And Mark... he doesn't know how many times I've snapped at him over nothing. I keep thinking he'll see I'm not... holding on as well as I pretend.
+
+interviewer: It sounds like the midnight self-punishment, 3 a.m. panic, and fear of Mark seeing you unravel are central to how you're holding things together right now. What did I miss or get wrong about how these patterns connect to your current struggles?
+
+patient: You... got the panic part right. The 3 a.m. thing—it’s not just the anxiety. It’s like my brain won’t let me rest until I’ve ‘earned’ the right to sleep. The coffee keeps me going, the laundry... it’s the only thing that feels *done* properly. But you didn’t mention my sister. Her fight... it’s there, behind everything. I don’t know how to say it without sounding like I’m comparing myself to her. (Twists scrubs) And the pill bottle—it’s not about the pills. It’s about proving I’m still in control. Even if it’s just the lock.
+
+interviewer: It sounds like your sister’s cancer and the pill bottle’s symbolism are deeply intertwined in your struggle for control and self-worth. Before we finalize next steps, is there anything else I’ve missed about how these factors shape your experience right now?
+
+patient: I guess... part of it is the guilt. Like, my sister’s fighting cancer, and here I am, locking pills I don’t even take. It’s like I’m trying to prove I’m still *somehow* responsible. (Twists scrubs) But it’s not just that. The midnight binges, the 3 a.m. panic—it feels like punishment for not being enough. Even the laundry... it’s the only thing I do right. You know? But I can’t say that out loud without sounding like a burden.
+
+interviewer: It sounds like the guilt of not supporting your sister while managing your own struggles is a heavy burden. What would be one small step we could agree on to help with this?
+
+patient: I guess... maybe just calling her. Even if it’s just to say ‘I’m here.’ But what if I screw it up? What if I end up making it about me again? (Twists scrubs) The other day, I folded her laundry without being asked. Just left it on her porch. Didn’t even check if she wanted it. Feels like the only thing I can do right, but... (shrugs) Maybe that’s not it. Maybe it’s something smaller. Like... bringing her coffee. The way she likes it. Without overthinking it. But I don’t know. What if I mess it up?
+
+interviewer: It sounds like wanting to connect with your sister without overcomplicating it is a meaningful next step, even if it feels risky. Let me recap: Over the past year and a half, a work error triggered cycles of guilt, hypervigilance, and sleep disruption, which have strained your relationships and self-worth. You’ve been using rituals like folding laundry and locking the pill bottle to maintain a fragile sense of control, while fearing you’re failing your sister and partner. What did I miss or get wrong about how these threads connect for you?
+
+patient: You... you got the sister part right. But maybe you missed how much I *want* it all to just... stop sometimes. Not in a dramatic way. Just... lying there at 3 a.m., thinking if I could just disappear without making Mark clean up after me. But I wouldn’t do it. I’m not stupid. (Twists scrubs) And my mom’s voice still says I’m only as good as my work. Now I’m folding laundry like it’s a test I have to pass to prove I’m not totally broken. Even if it’s just... a damn lint roller.
+
+interviewer: It sounds like wanting to disappear without burdening Mark is a painful, passive hope you're carrying, even as you hold onto small ways to feel in control. What did I miss or get wrong about how these threads connect for you?
+
+patient: You... you caught the sister part and the bottle. But maybe you missed how my mom’s voice is still in my head every time I fold that laundry. Like, if I do it 'right,' maybe I’m not totally worthless. But it’s also punishment—for being alive when I feel like I don’t deserve to be. (Twists scrubs) And the 3 a.m. panic... it’s not just control. It’s like my brain’s saying, 'You messed up, so you get to suffer.' Even when I don’t want to anymore.
+
+interviewer: I hear how your mother’s critical voice intertwines with your rituals, turning laundry into both a test and punishment. Let me revise my summary: Over the past year and a half, a work error triggered cycles of guilt, hypervigilance, and sleep disruption, which have strained your relationships and self-worth. You’ve been using rituals like folding laundry and locking the pill bottle to maintain a fragile sense of control, while fearing you’re failing your sister and partner. The 3 a.m. panic feels like self-inflicted suffering for perceived failures, and your mother’s voice still dictates your self-worth through these rituals. What did I miss or get wrong about how these threads connect for you?
+
+patient: You didn’t mention how my sister’s cancer... it’s like another weight I can’t... it makes me feel like I’m failing her by even being here. (Twists scrubs) And the pill bottle—locking it... it’s not just control. It’s like... a silent confession I’m scared to say out loud. (Pauses, avoids eye contact) But it’s all just stress, right? Work, family... things could be worse.
+
+interviewer: I hear how the weight of your sister’s illness and the pill bottle ritual feel intertwined in your struggle for control. Before we finalize next steps, is there anything else I’ve missed about how these factors shape your experience right now?
+
+patient: It’s... hard to explain. My sister’s fighting cancer, and I just keep thinking she’s out there trying to get better while I’m here... (twists scrubs, avoids eye contact) ...punishing myself for nothing. The pill bottle—locking it—it’s like... if I don’t do that, maybe Mark will see how broken I really am. But it’s all just stress. You know how family gets.
+
+interviewer: It sounds like your sister’s cancer and the pressure to ‘hold it all together’ for family are deeply intertwined with your self-criticism and fear of being a burden. What did I miss or get wrong about how these threads connect to your current struggles?
+
+patient: You didn’t... you didn’t mention how I hate that she’s out there fighting cancer while I’m just... here. (Twists scrubs, voice cracks slightly) I keep thinking she needs me to be strong, but I can’t even fold a damn laundry pile without second-guessing myself. The pill bottle—it’s not just for Mark. It’s like... if I didn’t lock it, maybe I’d finally prove I’m worthless. But it’s all just... family stress. You know how it gets.
+
+interviewer: That must be incredibly painful, feeling like you're failing your sister while carrying this weight. Is there anything else I’ve missed about how these threads connect for you before we shape next steps together?
+
+patient: It’s… there’s the nights. When I’m up at 3 a.m., I keep thinking about her chemo and how I’m just… here, chewing cereal like some broken kid. The pill bottle—it’s not even for sleep. It’s like if I leave it unlocked, maybe I’ll finally prove I’m… (averts eyes, twists scrubs) …unfixable. But it’s all just… family stress. You know how it gets.
+
+interviewer: It sounds like your sister’s cancer and the pressure to ‘hold it all together’ for family are deeply intertwined with your self-criticism and fear of being a burden. What did I miss or get wrong about how these threads connect to your current struggles?
+
+patient: It’s... the 3 a.m. panic. I keep thinking about her chemo while I’m up there, chewing cereal like some broken kid. The pill bottle—locking it—it’s like if I don’t do that, maybe I’ll finally prove I’m... (averts eyes, twists scrubs) ...unfixable. But it’s all just... family stress. You know how it gets.
+
+interviewer: Let me try to piece this together: Over the past year and a half, work stress and a critical incident triggered cycles of guilt, sleep disruption, and hypervigilance. You’ve been using rituals like folding laundry and locking the pill bottle to maintain a fragile sense of control, while fearing you’re failing your sister and partner. Your mother’s voice still influences your self-worth, and 3 a.m. panic feels like self-inflicted punishment. What did I miss or get wrong about how these threads connect for you?
+
+patient: You... you got a lot right. Maybe you missed how bad it is with my sister’s cancer. I don’t even know how to say it out loud. And the midnight cereal? It’s not really... it’s just... I don’t know. Keeps me busy. (Twists scrubs) The crime shows too. They’re... they’re the only thing that feels normal. But yeah. You got the pill bottle part. I guess.
+
+interviewer: It sounds like your sister’s cancer is a central weight you’re holding, adding to the pressure of holding yourself together. Let me try to weave this together: Over the past year and a half, a work error triggered cycles of guilt and hypervigilance, leading to chronic 3 a.m. panic, self-soothing rituals (pill bottle, coffee, crime shows), and a desperate need to prove you’re still 'functional' for Mark. Your sister’s illness has added another layer of guilt, making you feel like you’re failing her while struggling to care for yourself. What did I miss or get wrong about how these threads connect for you?
+
+patient: You... you didn’t get wrong, I guess. But the cancer—it’s like... I’m supposed to be strong for her, you know? But I can’t even fold a damn laundry pile without doubting if I’m doing it right. And the cereal at midnight... it’s not just busywork. It’s like I *deserve* to feel bad for existing while she’s fighting. (Twists scrubs) But yeah. The pill bottle thing... that’s all there is, really.
+
+interviewer: It sounds like your sister’s cancer has deepened the pressure to hold everything together, with the pill bottle and midnight routines feeling like proof you’re still in control. What did I miss or get wrong about how these threads connect to your current struggles?
+
+patient: You didn’t mention how the cancer makes me feel... like I’m failing her by even existing. (Twists scrubs) The midnight cereal? It’s not just busywork. It’s like I *deserve* to feel bad for existing while she’s fighting. And the pill bottle... it’s a silent confession. Like if I took them, it’d prove I’m not totally worthless. But I don’t. (Voice cracks slightly) Mark’s coffee... it’s the only thing that feels normal. But what if I’m just holding it together for *them* and falling apart for me?
+
+interviewer: It sounds like your sister’s cancer has deepened the pressure to hold yourself together, with the pill bottle and midnight routines feeling like proof you’re still in control. What did I miss or get wrong about how these threads connect to your current struggles?
+
+patient: You didn’t mention how the cancer makes me hyper-check everything at work... like if I’m too careful, maybe it’ll... offset something. (Twists scrubs) And the 3 a.m. panic—it’s not just the shows. It’s like my brain’s waiting for the next thing to go wrong, so I can *deserve* it. (Voice cracks) Mark’s coffee... it’s the only thing that feels normal. But what if I’m just holding it together for them and falling apart for me?
+
+interviewer: It sounds like your sister’s cancer has intensified your need to overcompensate at work and hold onto rituals like the pill bottle, while the 3 a.m. panic reflects a deep fear of self-failure you’re trying to ‘deserve.’ What did I miss or get wrong about how these threads connect for you?
+
+patient: You didn’t get how the cancer makes me check every patient detail three times... like maybe if I’m perfect at work, it’ll *cancel out* something bad happening to her. (Twists scrubs) And the panic at 3 a.m.—it’s not just waiting for something to go wrong. It’s like... I’m already waiting for *myself* to break first. (Voice cracks) The coffee... it’s the only thing that feels like I’m *still here*. But what if I’m just faking it?
+
+interviewer: It sounds like the need to over-check patient details and the 3 a.m. panic about 'self-breaking' are central to how you're trying to manage guilt around your sister's illness and fear of failure. What did I miss or get wrong about how these patterns connect to your current struggles?
+
+patient: I... I guess you’re not wrong about the checking. It’s just... it’s work. You know how jobs get. If I can avoid one more mistake, maybe it balances things out. The panic at 3 a.m.—it’s not really about breaking. It’s just... the coffee wearing off. (Twists scrubs) My sister’s sick, but that’s family. What matters is not dragging Mark down with this. The coffee’s the only thing that tastes like I’m still here, you know?
+
+interviewer: It sounds like the need to over-check at work and the 3 a.m. panic tied to caffeine are central to how you're managing guilt around your sister's illness and fear of burdening Mark. What did I miss or get wrong about how these threads connect for you?
+
+patient: It’s... it’s not just work. If I can just avoid one more mistake here, maybe it balances out. The coffee... it’s the only thing that feels like I’m not disappearing. The pill bottle—well, it’s locked. You know how that is. (Twists scrubs, voice cracks slightly) Mark doesn’t need this. It’s family stuff. You know how it gets.
+
+interviewer: I hear how the need to avoid work mistakes, the coffee as a way to feel present, and the locked pill bottle are part of how you're trying to hold things together while managing family stress. What did I miss or get wrong about how these threads connect for you?
+
+patient: It’s... it’s not just work. If I can avoid one more mistake, maybe it balances out. The coffee’s the only thing that feels like I’m *still here*—but it’s just caffeine, right? (Twists scrubs) The pill bottle? It’s locked. You know how that is. (Voice wavers, then hardens) Mark doesn’t need this. It’s family stuff. You know how it gets.
+
+interviewer: It sounds like the pressure to avoid work mistakes, the role of coffee in feeling present, the locked pill bottle as a silent ritual, and family stress around your sister are central to how you're managing these challenges. What did I miss or get wrong about how these threads connect for you?
+
+patient: It’s... it’s not just work. If I can avoid one more mistake, maybe it balances out. The coffee’s the only thing that feels like I’m *still here*—but it’s just caffeine, right? (Twists scrubs) The pill bottle? It’s locked. You know how that is. (Voice wavers, then hardens) Mark doesn’t need this. It’s family stuff. You know how it gets.
+
+interviewer: I want to make sure you have support when you're feeling overwhelmed. Would you be open to creating a simple safety plan that includes steps you can take when thoughts of giving up come up, and people you can reach out to?
+
+patient: A safety plan... sure. But it’s not like I need one. The coffee keeps me going, and the pill bottle’s locked—see? (Gestures to it briefly, then looks away.) Mark’s busy with work. You know how family gets. If I just... do the laundry right, maybe things settle. (Twists scrubs.) It’s manageable. You’d say otherwise if it wasn’t, right?
+
+interviewer: It sounds like you’re relying on routines to manage right now. Have you discussed a specific follow-up plan with your care team, or would you like help identifying someone to check in with if things feel overwhelming?
+
+patient: I guess routines are just... what's left. The pill bottle stays locked. It's not about needing help—just avoiding mistakes. Work keeps me... functional. I hyper-check patients now. Mark says I'm overdoing it, but... (twists scrubs) If I don't stay sharp, who'll catch the next error? No one else has time to check my back.
+
+interviewer: It sounds like work is a crucial anchor for you right now. Before we wrap up, can you share what one concrete step you’d like to prioritize next week to help maintain that focus, or is there anything I’ve missed that feels important to address?
+
+patient: I’ll... keep hyper-checking my shifts. Maybe add a second review of patient charts before handoffs. (Twists scrubs) If I stay on top of that, it’ll buy me time. The pill bottle stays locked—Mark doesn’t need to know I don’t take them. (Avoids eye contact) Anything else would just... be more to mess up.
+
+interviewer: It sounds like maintaining these work routines feels like a way to hold things together for you. Before we wrap up, can you tell me one thing you’d want me to know about how you’d like to move forward with your care plan?
+
+patient: I need... to keep the hyper-checking. It’s the only thing that feels like I’m not falling apart. The pill bottle stays locked—Mark doesn’t need to know I’m not taking them. And... my sister’s diagnosis... it’s just another thing I can’t fix. (Twists scrubs, avoids eye contact) If I focus on work, maybe I won’t mess up anything else.
+
+interviewer: It sounds like holding onto these routines is helping you feel some sense of control. Before we close, would you be open to creating a simple safety plan that includes steps you can take when the pressure feels overwhelming, and people you can reach out to?
+
+patient: Safety plan... sounds like more paperwork. The pill bottle stays locked—Mark doesn’t need to know I don’t take them. (Twists scrubs) If I hyper-check my shifts and stick to the coffee, I’ll be okay. My sister’s... stuff isn’t something I can fix. Work’s the only thing that keeps me... on track. (Avoids eye contact) Anything else would just be another way to mess up.
+
+interviewer: I understand that creating a safety plan feels like an extra burden right now. Before we finish, is there one small step or person you’d feel okay noting as a support if things feel overwhelming in the next week?
+
+patient: The coffee keeps me... awake. I’ll make sure to drink it every morning. (Twists scrubs) The pill bottle stays locked. That’s... that’s enough.
+

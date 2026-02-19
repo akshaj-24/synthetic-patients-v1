@@ -1,0 +1,100 @@
+system: Session 044a8a6f-dd81-4394-a724-7752951369d4 transcript
+
+system: Disorder: GAD
+
+interviewer: Hello Alicia, my name is Christopher Scott, and I’ll be speaking with you today. To start, may I confirm your name is Alicia Thompson, and do you have any pronoun preferences I should know about?
+
+patient: Yes, that’s Alicia. No, no preferences there. Just… been a bit stressed lately, but it’s manageable, I guess. You know how it is with work and everything.
+
+interviewer: It sounds like work and personal stress have been really challenging for you lately. Would you be comfortable proceeding with our conversation today?
+
+patient: I guess... sure. It’s just... the past few months at work have been like trying to tune a machine that’s already fried. My boss says I’m ‘slower’ now, but how am I supposed to rush when my hands feel like they’re wired to trip? Maybe we could start with... crossword puzzles? They’re the only thing that actually clicks for me lately.
+
+interviewer: It's good to hear there's something that still feels manageable for you. How long have you been turning to crossword puzzles when everything else feels overwhelming?
+
+patient: I guess... maybe a couple of years? It’s just... when everything else feels like a mess, the puzzles are one thing that doesn’t make me want to scream. But honestly, even then, my head’s still full of all the things I should be doing. Maybe I’m just bad at relaxing.
+
+interviewer: It sounds like this has been a significant source of stress for you. When did you first start noticing these feelings of overwhelm and racing thoughts?
+
+patient: I guess... it’s always been there, really. Like a background hum you don’t notice until it drowns everything out. But it got worse five years ago after... well, there was this near-miss at work. The machine almost locked up, and I froze. My boss didn’t say much, but his look? It’s stuck with me. Now my head’s just... always on overload. Even when I’m doing the puzzles, I’m half-listening for the neighbors’ music, worrying I’ll miss the sound of something breaking.
+
+interviewer: That sounds really frightening... Can you tell me more about what happened during that near-miss at work? How did that day unfold for you?
+
+patient: It was... one of those days where everything felt like a system overload. The valve pressure spiked, and I froze. My hands just... shook too much to adjust it fast enough. They shut the line down before anything bad happened, but ever since, I check every setting twice. Even when my eyes burn from staring at the same damn dials. I guess I just... worry I’ll miss something again? Maybe I’m overreacting, though. Machines don’t fail that easily, right?
+
+interviewer: That sounds like a heavy burden to carry... Can you tell me more about how your boss’s feedback made you feel and how it’s affecting your work now?
+
+patient: It’s... it’s like my brain won’t let me focus. I’ll be standing there, staring at a machine, and my hands just lock up. I guess I’m afraid if I move too slow, something’ll go wrong again. Boss says I’m ‘taking too long’ to check things, but how can I explain it’s not slowness—it’s like my body’s stuck in overdrive? Maybe I’m just... breaking down. (Pauses, fidgets with hands.) I keep telling myself if I just arrive earlier, stay late... but my eyes burn from staring at those dials. Maybe I’m right to worry. Maybe I’m not as sharp as I used to be.
+
+interviewer: That sounds incredibly draining, especially balancing work demands with your physical and mental exhaustion... What are your hopes for this visit or what would you like to achieve in addressing these challenges?
+
+patient: I guess... I just want to figure out how to stop feeling like I’m one step away from falling apart. If I could sleep through the night without my head racing, or maybe not freeze up at work every time a valve hums too loud... That’d help. But I don’t want to sound like I’m making excuses. Maybe I just need to prove to myself I can still handle things without... without collapsing under them. (Fidgets, avoids eye contact.) Do that without letting Mark see how much I’m... unraveling?
+
+interviewer: It sounds like this feeling of being overwhelmed has been building for some time. Have you experienced similar periods of feeling overwhelmed or anxious in the past, and if so, what helped you manage at that time?
+
+patient: Crosswords used to help... before they even started. Like, if I finished one before my coffee, the day felt 'aligned.' But lately, even that’s just my mind racing through clues while my hands shake. At work, I used to arrive so early I’d polish tools just to... stay ahead. But now my eyes burn from staring at dials, and the coffee... it’s like my body’s running a marathon it didn’t sign up for. (Fidgets, rubs temples.) Maybe I’m just breaking down. Machines have manuals. People... don’t.
+
+interviewer: It sounds like you're feeling really overwhelmed and unsupported right now. How has your partner been supporting you during this difficult time?
+
+patient: Mark... he tries, I guess. Offers to help with the kid or split the bills, but I push it off. Say I’ve got it covered. Don’t want him thinking I’m... falling apart. (Fidgets, avoids eye contact.) He makes damn good chili, though. That’s the only thing I let myself admit I like. But lately, I just snap at him. Say it’s the hormones. (Rubbs temples, sighs.) He doesn’t get how much I’m... holding back.
+
+interviewer: It sounds like you're carrying a lot of pressure to manage everything on your own. How have you typically handled situations where you felt like you needed to hide your struggles from others?
+
+patient: I guess... I just keep going, you know? Like, if I focus on the small stuff, the big stuff doesn’t... I don’t know, crowd my mind as much. At work, I’ll double-check the valve settings three times. It’s like... if the machine’s ‘balanced,’ then maybe the rest of it won’t feel so... shaky. But crosswords used to help, now even those feel like a race. Mark says I’m snapping at nothing, but I just... I don’t want him to think I’m falling apart. To be honest, sometimes I wish I could just... turn off for a bit. But it’s probably just burnout, right?
+
+interviewer: It sounds like that near-miss incident at work left a lasting impact. Can you tell me a bit more about what happened during that time and how it felt for you then?
+
+patient: It’s hard to explain... I guess the machine just felt like it had a mind of its own that day. The valve settings—they were all... off-kilter, like a circuit about to short. My hands were shaking so bad I had to steady myself on the panel. No one said anything, but I could feel them watching. Now, every time I approach that machine, my chest tightens. I check the settings three times, just to be sure. But it’s not enough. Last week, I snapped at Mark for no reason—probably because I’m scared I’ll mess up again. It’s just... burnout, right?
+
+interviewer: It sounds like the pressure you're under is really taking a toll. Have you had any thoughts about ending your life to make this stop?
+
+patient: No... no, I wouldn’t go that far. Sometimes I just... I guess I think about how nice it would be to, like, shut down for a week. Hit reset. But that’s probably just... exhaustion. I mean, I can’t even finish a crossword without my head racing again. It’s not like I want to disappear, just... maybe recharge. But Mark’s been asking me to talk to someone, so maybe that’ll help. Probably just burnout.
+
+interviewer: It sounds like you're carrying a lot right now. Have you noticed any changes in your alcohol or cannabis use recently, or any other substances?
+
+patient: I guess... maybe a glass of wine more often than not. Just to, you know, unwind after shifts. But it’s not like I’m... I don’t know, dependent or anything. Mark teases I’m ‘drowning sorrows in Cabernet’ now. Though... sometimes I wonder if it’s just another thing I’m not handling right. Probably just stress, though.
+
+interviewer: It sounds like the stress is really affecting your daily life. How have you been sleeping lately—have you noticed any changes in how long or well you sleep?
+
+patient: I guess... it’s not so much about falling asleep as staying there. My head’s always... clicking, like a machine that won’t shut off. I’ll lie there for hours, my shoulders all tight, waiting for the noise from upstairs to stop. When I do drift off, it’s like the alarm’s pulling me out of water. Mark says I toss all night—probably just stress, but it feels like my body’s on high alert even when I’m ‘resting.’ Sometimes the wine helps, but other nights it’s like... the wine’s just another thing I have to ‘fix.’
+
+interviewer: It sounds like the wine isn't always helping the way you'd hope. Have you been using cannabis or any other substances besides alcohol recently?
+
+patient: No, just the wine sometimes. I—I don’t really do cannabis. My job’s too hands-on, you know? Can’t afford to be even a little off. The wine… well, it’s not much, but it’s the only thing that makes my head stop racing. Though lately, even that feels like it’s just… numbing the noise instead of quieting it. My hands shook worse last week, checking the same valve settings three times before my shift. Boss gave me that look again. Just… stress, I guess.
+
+interviewer: It sounds like the stress is affecting both your work and your confidence in your physical stability. Have you noticed any other substances you might be using, like stimulants or opioids, that could be contributing to these symptoms?
+
+patient: No opioids, just… coffee. I mean, I guess I drink more coffee than most. It’s the only way I stay sharp enough for the shifts. The machine work demands it, right? But it’s not like I’m… addicted or anything. It’s just part of the job. The wine’s the only other thing, but that’s just… stress. Everything’s stress these days.
+
+interviewer: It sounds like your coffee and wine use are tied closely to managing work demands and stress. Are you currently taking any medications or supplements, or have you started/stopped any recently?
+
+patient: No medications, not really… I guess I tried magnesium for a week last month? Read somewhere it helps nerves. But it didn’t do much, so I stopped. Just… coffee, wine, same as always. The machine work demands focus, you know? Can’t risk anything that might… mess with my head. Even the wine feels like a gamble now, but it’s either that or lie awake until three worrying about the valves again.
+
+interviewer: It sounds like your stress is influencing many areas of your life, including how you manage work and rest. Have you noticed any periods where you felt unusually energetic or needed very little sleep, even when you were exhausted?
+
+patient: No, not really. I mean... I’m usually too wiped out. Even when I try to sleep, my head’s still going a million miles an hour. There was that week after the valve thing where I barely slept at all, but that’s just... stress, right? The wine helps me pass out, but it’s not like I feel energized or anything. That’d be nice, but...
+
+interviewer: It sounds like your energy levels and sleep patterns are tightly linked to stress rather than hypomania. Have you noticed any changes in your thinking, like hearing voices, seeing things others don't, or having thoughts that feel strange or unusual?
+
+patient: No, nothing like that. My head’s just… always running, you know? Like an overloaded circuit. Same worries looping. The neighbors upstairs? Their music keeps me up sometimes, but it’s not like I’m… seeing things. Just… my brain’s a faulty machine. Stress, I guess.
+
+interviewer: From our conversation, it sounds like your stress has been building for years, especially after a traumatic work incident, leading to constant worry, physical tension, and trouble sleeping. You’ve used crosswords and extra work hours to cope, but now the anxiety feels heavier, and even small things are causing strain with your partner. What did I miss or get wrong here?
+
+patient: I… I don’t know if you missed anything, really. The valve incident—it’s like a fuse that never reset. You’re right about the crosswords, but even those feel like a machine with a loose wire now. I keep thinking if I just add another layer of checks at work, it’ll… it’ll stop the shaking? But Mark’s patience’s wearing thin. I told him it’s just ‘parenting fog,’ not that I’m seeing sparks behind my eyelids when I’m tired. To be honest, the wine’s the only thing that actually… silences the static. But I guess that’s just me being a mess.
+
+interviewer: It sounds like the wine has become a critical, if concerning, way you're managing the static—the hypervigilance and physical tension. What else feels important to add or correct about how we’re understanding this pattern?
+
+patient: It’s… it’s not just the wine, I guess. The neighbors upstairs— their music at night, it’s like my body’s circuit breaker’s already tripped. I can’t even tell if the wine helps anymore. My sister’s taking care of Mom, and I’m just… I’m supposed to be helping, but I end up snapping at her. Maybe that’s part of it too.
+
+interviewer: It sounds like the neighbors’ noise and family responsibilities are adding to the pressure you’re already under, making it harder to find relief—even from the wine. What did I miss or get wrong about how these layers of stress are interacting for you?
+
+patient: You’re right about the neighbors—it’s like they’re testing how low my fuse can go. And my sister… I guess I should be helping more with Mom, but every time I call, I just… snap. I don’t even know why. It’s like my body’s already at max pressure, and everything’s just… loose wires. Maybe it’s just me being selfish? I mean, the wine still helps, but my hands shake worse now, even when I’m not drinking. It’s like the machine’s running on backup power, and I can’t figure out which switch to flip to reset it.
+
+interviewer: It sounds like the combination of work hypervigilance, family strain, and physical symptoms has created a sense of being trapped in a system with no reset button. Let me check if this model fits: Your anxiety started after a workplace trauma, worsened by chronic sleep deprivation and alcohol use, and now cycles with relationship tension and performance pressure. What did I miss or get wrong about how these pieces connect for you?
+
+patient: You’re… close. The ‘system’ analogy—it fits, like a machine with a stuck relay. But there’s this… guilt thread I haven’t pulled out yet. My sister’s holding Mom’s hand while I’m just… tightening bolts in the dark. I keep thinking if I text her a ‘thank you,’ it’ll fix the circuit between us. But my thumbs freeze. Maybe that’s another fuse blown. The wine doesn’t silence it anymore—just lets me ignore the hum until my fingers go numb. I guess… the ‘reset button’ I’m secretly wishing for is time. To undo the valve incident, the baby’s sleepless nights, the way I snapped at Mark last week. But time’s just… another overloaded wire.
+
+interviewer: It sounds like the guilt you feel toward your sister and the strain in that relationship are now adding another layer to the system you described—like a new circuit that’s shorting out. Would you say that captures how this is fitting into the bigger picture, or is there more I need to adjust before we move to next steps?
+
+patient: Yeah… the sister thing’s another overload. Every time I try to text her, my thumbs freeze like the machine’s stuck in a loop. I guess I’m just… selfish for not being there more. The wine doesn’t even mute that guilt—it just… numbs the edges. But my hands still shake. Maybe it’s just another loose wire I can’t splice.
+

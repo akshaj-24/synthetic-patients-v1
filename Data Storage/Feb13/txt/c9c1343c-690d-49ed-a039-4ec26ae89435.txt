@@ -1,0 +1,128 @@
+system: Session c9c1343c-690d-49ed-a039-4ec26ae89435 transcript
+
+system: Disorder: GAD
+
+interviewer: Hello Michael, my name is Henry Nicholson. To start, would you prefer to be called by a different name or use different pronouns?
+
+patient: Call me Michael. Most folks just say Michael. No need for formalities, doc.
+
+interviewer: That sounds really tough to carry alone. Would you be comfortable talking more about what's been going on as we work through some questions together?
+
+patient: Honestly, doc, it feels like my head’s stuck in neutral. I’ll be up all night second-guessing a delivery route, then oversleep and rush so hard I forget to lock the truck twice. My partner says I’m over it, but what if something slips through? ...I guess the fish is the only thing that doesn’t feel like a mistake. You ever have a pet that just...stays put?
+
+interviewer: It sounds like the fish gives you a sense of stability amidst the chaos. Do you have any questions about how this will work before we continue?
+
+patient: Honestly, doc, I just wanna make sure I’m not wasting your time. I’ve got a way of... overcomplicating stuff. Like how I’ll spend 20 minutes double-checking a truck lock but still mess up the route. The fish, though? He’s straightforward. Just needs food and water. Don’t wanna be that guy who needs a flowchart for everything. But if you’re asking... I guess I’m wondering how we figure out what’s fixable and what’s just part of the machine rusting out.
+
+interviewer: It’s okay to feel uncertain about what’s fixable—we can explore that together. Would you be comfortable continuing with our conversation today?
+
+patient: Sure, doc. I’ll keep it straightforward—if the fish can stay put, I guess I can talk. Just... don’t mind if I’m a bit twitchy. Been up since 4 AM over a delivery route that didn’t even go wrong.
+
+interviewer: Can you describe, in your own words, what’s been the most distressing part of this for you lately?
+
+patient: It’s... the way my head’s been a mess, you know? I’ll be driving and suddenly second-guess every turn, like I’m gonna mess up the route and waste time. Then I can’t shake it—my nerves hum the whole shift. At night, I lie awake thinking about the truck’s gears not meshing or... or Mr. Fins’ tank getting too warm. It’s stupid stuff, but it sticks. Feels like my brain’s stuck on rewind, and I can’t hit pause even when it’s tearing me up.
+
+interviewer: That sounds really tough—have you noticed when these kinds of worries or difficulties first started for you?
+
+patient: It all kinda started the first time I was out there alone in the truck, you know? Just me and a whole shipment of stuff. I kept thinkin' I was gonna drop a load or miss a turn, like my head was stuck in neutral. My nerves used to hum so bad I could barely sleep after. But... that’s just stress, right? Everyone gets rattled sometimes.
+
+interviewer: Can you tell me more about how these feelings have changed since that first time in the truck?
+
+patient: It’s... it’s gotten worse, but not like a switch flipped. More like the gears kept grinding. Now I’m second-guessin’ everything—like last week, I spent 20 minutes checkin’ the truck locks ‘cause what if I miss one? What if somethin’ gets lost? My hands still shake when I think about it. And sleep? It’s like my brain’s a broken CD, just repeatin’ the same stupid stuff. But... the fish? At least Mr. Fins just... swims. Doesn’t overthink it. Maybe that’s why I keep talkin’ ‘bout him. You know? It’s the only thing that feels normal when everything else is a mess.
+
+interviewer: It sounds like Mr. Fins is a small source of calm in a storm of uncertainty for you. What would you most like to achieve through our work together?
+
+patient: I guess... I wanna figure out how to hit 'pause' on the rewind sometimes. Like, let Mr. Fins just keep swimmin’ without my head chasin’ every possible way things could go wrong. Not ask for some magic fix, just... stop the gears from grindin’ so much when there’s nothin’ to do about it. Sleep without countin’ delivery routes in my head. Maybe even let my hands stop shakin’ when the truck’s idlin’ in neutral.
+
+interviewer: That must have been incredibly stressful managing those worries alone during your first solo trips. When you’ve felt overwhelmed by anxiety in the past, what strategies or supports helped you feel more in control?
+
+patient: Honestly? I just... double-check everything until my hands hurt. Like the truck locks—count every click even when I know I’m being ridiculous. It’s like if I do it right, maybe the rest of the day won’t fall apart. And... gum. Always got gum in my mouth. Keeps my jaw from clenchin’ so bad I crack a tooth. Helps me feel 'awake' even when I’m wired. But it don’t really help, you know? Just buys me a few more hours before my head starts rewinding again.
+
+interviewer: It sounds like these rituals are a way to cope with the anxiety. Have you experienced similar episodes in the past where you felt the need to rely on specific routines or checks?
+
+patient: I guess... I’ve always been the type to double-check things. Like, locks on the truck—man, I’ll count the clicks till my hand cramps. Feels like if I don’t, something’ll slip through. The fish too, right? Feeding him every day at exactly 7. It’s dumb, but at least that part of the day doesn’t feel like a mess. But you already know all this. Maybe I’m just paranoid, you know? Or maybe I’m just... overprepared for everything going wrong.
+
+interviewer: It sounds like these rituals are a way to cope with the anxiety. Have you ever tried any other strategies or professional support to manage these feelings in the past?
+
+patient: Nope. I mean, I’ve just... always handled it myself. Like, if I’m stressed, I’ll chew gum till my jaw aches or count lock clicks till my fingers go numb. That’s about it. Doc, I’ve never really talked to anyone else about this stuff. Feels like... if I can’t even keep my head together for a job, what’s the point in asking someone else? Maybe I’m just bad at... managing stress. Everyone gets stress, right?
+
+interviewer: It sounds like reaching out for help feels really challenging for you... Have you experienced similar periods of anxiety in the past where these coping strategies were part of your routine?
+
+patient: Yeah, I guess... It’s always been there, like a low hum under my skin. Before the truck job, I’d just... hyperfocus on stupid stuff—like aligning my tools perfectly in the garage. If they weren’t straight, it felt like everything else would fall apart too. But it’s not like that’s a problem, right? Everyone’s got their quirks. It’s just... when the stress ramps up, the quirks get louder. Like now, with the deliveries and... well. You know how it is. I’ve just always handled it myself. Asking for help feels like admitting I can’t do the job. And I’ve always got to prove I *can*.
+
+interviewer: Have you had any thoughts about harming yourself or ending your life recently?
+
+patient: No. I haven’t... I mean, I get stuck in these loops sometimes, like when a delivery goes sideways and my head starts racing. But even then, I figure if I just stick to the routine—gum, lock clicks, feeding Mr. Fins—it keeps me from losing it. I mean, everyone’s got days where they wish the whole thing would just restart, right?
+
+interviewer: It sounds like your routines help you stay grounded when things feel overwhelming. Have you noticed any periods where you’ve had unusually high energy or needed very little sleep, even when you’re stressed?
+
+patient: No, not really... I mean, when I’m stressed, I’m usually the opposite—like, I’m wiped out. Sometimes I’ll stay up late playing Forza, trying to unwind, but my mind’s still racing about the next day’s routes. The fish gets fed at 7 no matter what, though. Helps me feel like something’s... consistent. But yeah, most nights I’m just crashing from exhaustion. My upstairs neighbor’s dog barks till 2 AM sometimes. You ever try sleeping through that? Feels like I’m running on fumes the next day.
+
+interviewer: It sounds like your routines provide some stability despite the exhaustion. Have you used alcohol or other substances recently to help with your stress or sleep?
+
+patient: Yeah, maybe a couple of beers now and then. Keeps the nerves from buzzing too loud. But I don’t drink to get messed up—I just... unwind. The gum helps more, actually. Chewing it raw till my jaw aches. What can I say? The truck job’s got its days.
+
+interviewer: It sounds like you rely on these small rituals to manage stress. Have you used any other substances like cannabis, stimulants, or opioids recently, in addition to alcohol and gum?
+
+patient: Nah, just the beer and gum. I don’t mess with anything else—gum’s my crutch, I guess. The doc’s gonna tell me it’s making it worse, isn’t it? Probably right. But two beers at the BBQ ain’t a problem, right? I still show up for work after.
+
+interviewer: I hear your concern about the doc’s take on it. How often do you find yourself reaching for alcohol, and does it usually help with the nerves or just feel like a routine?
+
+patient: Couple times a month, maybe? At the BBQs mostly. The beer... it quiets the buzz for a bit, but the next day's a wreck. Gum's worse, though. I chew it raw till my jaw's sore. Doc's probably gonna say it's all making it worse, right? Just... trying to get through the night sometimes.
+
+interviewer: I hear your concerns about how these habits affect you. Have you used any other substances like cannabis, stimulants, or opioids recently to cope with stress or sleep?
+
+patient: Nah, just the beer and gum. Ain’t got time for that other stuff—truck’s got to be where it needs to be, right? But... the other day, I almost took a hit off that neighbor’s weed plant when I thought no one was lookin’. Just to knock out that fishy-taste anxiety. But I didn’t. Can’t afford to be messin’ up more’n I already do.
+
+interviewer: It sounds like you’re under a lot of pressure to stay focused at work. How often have you considered using cannabis to manage stress, and have you used it in the past?
+
+patient: Once, maybe. Neighbor’s plant—thought about it when the anxiety got that fishy-taste feel. But I didn’t. Can’t afford to screw up more’n I already do. Gum’s my crutch now, even if it’s wrecking my jaw. Doc says it’s bad, but what else am I supposed to do? The truck’s always got to be where it needs to be.
+
+interviewer: I hear how the pressure to stay focused is shaping your choices. Are you currently taking any medications or supplements, including prescriptions, over-the-counter drugs, or herbal remedies?
+
+patient: Nah, doc. Just... gum, mostly. Keeps my jaw from locking up, y'know? Maybe a couple beers at the BBQs. Nothing strong. I don’t do pills. They mess with the headspace I need for the routes. But the gum... man, I go through a pack a day. Helps me stay sharp when the truck’s idling.
+
+interviewer: I hear how the physical strain from these habits is adding to your stress. Have you noticed any other medical issues or chronic pain that might be contributing to your symptoms, like jaw problems from the gum or something else?
+
+patient: Jaw’s been tight, yeah... but it’s just from clenching, y’know? Truck’s got a bumpy route these days, and I’m always grinding through that gum. Feels like my teeth’re gonna crack, but it’s nothing. Just... wear and tear. Doc, you ever try to focus too hard on one thing and your whole body starts aching? Feels like my nerves are stuck in neutral, same as the truck. Haven’t had time to think about it—delivery schedules don’t wait for aches.
+
+interviewer: Have you ever experienced periods where you felt unusually energetic or needed very little sleep, even when you were stressed or overwhelmed?
+
+patient: No, doc. I’m more the... same old grind. Like the truck—needs its rest or it just breaks down. I don’t got that ‘go all night’ energy. Just... tired. Always tired. Even when I try to power through, my head feels like it’s stuck in neutral. You know how it is.
+
+interviewer: That sounds really draining. Have you noticed any changes in your thinking, like hearing voices, seeing things others don’t, or having strong beliefs that feel unusual to you?
+
+patient: No, doc. Just... my head’s always racing. Feels like the truck’s engine—won’t shut off. But I don’t hear no voices or nothing. Just... static. You ever try to focus so hard your brain turns to static? Yeah. But the fish? Mr. Fins swims in circles. That’s normal. Nothing weird there.
+
+interviewer: I hear how the physical strain from these habits is adding to your stress. Have you noticed any other medical issues or chronic pain that might be contributing to your symptoms, like jaw problems from the gum or something else?
+
+patient: Doc, my back’s been killing me from sitting in that truck all day. And sleep? I’ll lay there counting the dog barks next door. But it’s just... wear and tear. The truck’s old, so’s my body I guess.
+
+interviewer: Michael, based on our conversation, it sounds like your anxiety started with the stress of solo trucking, leading to hypervigilance, checking rituals, and sleep issues. You’ve managed with routines like caring for Mr. Fins and gum-chewing, but these are becoming harder to maintain. Your perfectionism and need for control seem to worsen when work pressure increases, and you’re worried about how this affects your job and relationship. What did I miss?
+
+patient: You didn’t mention the neighbor’s dog barking through the walls. Three in the morning. Just... noise, I guess. And the partner’s thyroid stuff? I don’t know, doc. It’s just life, right? You already got the truck, the fish—the rest is just gears not meshing. I said all that before.
+
+interviewer: It sounds like the neighbor’s dog and your partner’s health are adding to the background stress you’re carrying. Would it be accurate to include these as part of the ongoing pressures contributing to your anxiety?
+
+patient: Yeah, I guess. The dog’s a pain, and the partner’s stuff... it’s all just noise. But it’s the job that really gets to me. Double-checking everything, and my back’s killing me from sitting so long. You already know about the fish—what else you want?
+
+interviewer: It sounds like the job’s demands are at the core of your current stress, with physical and mental tolls compounding the pressure. What would you like to prioritize addressing first—developing strategies for the work-related anxiety, managing the physical strain, or exploring ways to adjust routines like the checking behaviors?
+
+patient: The job’s the engine, doc. If that’s sputtering, everything else follows. But you already know that—the back, the jaw, the lock-checking... it’s all the same damn loop. Maybe start there. The rest? Just... noise.
+
+interviewer: It sounds like the job’s demands are central to the cycle you’re describing, with physical and mental strain feeding into each other. What steps would you like to explore first in addressing this—adjusting work routines, managing the physical symptoms, or another approach?
+
+patient: The job’s the engine, right? If it’s seizing up, the rest just跟着 (follows). My back’s a wreck, my jaw’s got a second job clenching. But it’s the checking—locks, routes, counts—that really eat at me. You try telling the boss you can’t focus ‘cause your head’s a short circuit. He don’t care about the noise. Just wants the truck moving.
+
+interviewer: It sounds like the job’s role as the central stressor—driving the physical strain, checking rituals, and mental loops—is key to your experience. What did I miss about how this system of pressure and control plays out for you?
+
+patient: The noise at night—dog barking, the partner’s thyroid stuff—it’s like a backfire. You can’t focus on the engine when the whole rig’s shaking. And the checks? They’re not just routine. Sometimes I count the same lock eight times, and my hands go numb. But if I tell the boss I can’t think straight, he’ll just say I’m slacking. You already got the loops, doc. What else you need?
+
+interviewer: It sounds like the noise and relationship stressors are part of the same tangled system you’re describing, where everything feels connected to the job’s demands. What else would you like me to consider about how these pressures interact with your need for control?
+
+patient: It’s like... the truck’s engine. You check every bolt twice, right? Even if it takes forever. If I mess up, who’s gonna catch it? No one. The fish? Yeah, I guess it’s the only thing that feels like I’m not just... falling apart. But it’s not enough. The boss don’t care if I’m tired or that neighbor’s dog’s barking through my skull. They just want the job done right. I don’t know—maybe I’m just bad at this whole thing.
+
+interviewer: That sounds really tough—like you're holding everything together with sheer effort but feeling like it's slipping through your fingers. What did I miss about how this sense of being 'bad at this whole thing' connects to the rest of what we've discussed?
+
+patient: It’s... like the fish tank’s got one filter, right? You clean it real good, but the whole system’s still clogged. I try to double-check the damn locks, count the steps, but it’s like the more I grip, the more it slips. The boss don’t care about my jaw aching or the dog’s barking—just wants the job done. I guess I’m scared I’m just... broken. But saying that out loud? That’s on me for not fixing it.
+

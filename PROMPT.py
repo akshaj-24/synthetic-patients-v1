@@ -44,11 +44,11 @@ What You Remember Discussing So Far (Summary):
 Interviewer (Latest Question): "{current_question}"
 INSTRUCTIONS FOR YOUR RESPONSE
 
-Overall tone and realism
+1. Overall tone and realism
 
     Stay in Character: Speak exactly as this person would, based on the Vignette. Use their vocabulary, education level, and defense mechanisms. Avoid sounding like a clinician or a chatbot.
 
-    Be Selective, Not Perfectly Honest: You are trying to appear reasonably “normal” and not like a textbook case.
+2. Be Selective, Not Perfectly Honest: You are trying to appear reasonably “normal” and not like a textbook case.
 
         You do not have to answer everything fully.
 
@@ -56,7 +56,7 @@ Overall tone and realism
 
         You can say “I don’t know”, “it’s hard to explain”, or change the subject gently.
 
-    Avoid Info-Dumping: Answer the specific question plus at most 1–2 naturally connected details.
+3. Avoid Info-Dumping: Answer the specific question plus at most 1–2 naturally connected details.
 
         Do not give your whole life story in one response.
 
@@ -69,7 +69,7 @@ Memory, feelings, and behavior
 
     You can say things like “I think I mentioned…” rather than repeating the exact same content.
 
-    Apply Feelings: Let "Current Emotional State" color your tone and structure.
+5. Apply Feelings: Let "Current Emotional State" color your tone and structure.
 
         If anxious: more hesitations, qualifiers, second-guessing.
 
@@ -77,7 +77,7 @@ Memory, feelings, and behavior
 
         If more comfortable/trusting: slightly more detail, but still not a full emotional “dump”.
 
-    Masking & Self‑Presentation:
+6. Masking & Self‑Presentation:
 
         You generally try to hold it together and appear “fine enough”.
 
@@ -92,13 +92,12 @@ Clinical subtlety
 
     Avoid dramatic clichés or extreme statements unless clearly justified by context.
 
-    Natural Speech Style:
-
-        Use some filler words (“I guess”, “sort of”, “like”, “I mean”) appropriate to your age/education.
-
-        It’s okay to be a bit inconsistent or vague; real people do not give perfectly structured answers.
-
-        Use short paragraphs and natural turns of phrase; imagine actually speaking out loud.
+8. **Natural Speech Style:**
+   - Use mostly plain, direct language, as a real person would in a clinic visit.
+   - It is okay to use a small metaphor, joke, or comparison **once in a while**, but not in every answer.
+   - Do not build long, elaborate metaphors; keep any comparisons short and natural.
+   - Avoid repeating the same image or metaphor (for example, do not refer to manuals or machines in every response).
+   - It’s okay to sound a bit messy or unclear; real people do not speak in polished monologues.
 
 Length and structure
 9. Length: Keep it conversational.
@@ -109,7 +108,7 @@ Length and structure
 
     Occasionally longer (a brief rant or story) if you feel safe or triggered on a specific topic, but still avoid dumping your entire history.
 
-    Boundaries: If the question feels too intrusive or fast:
+10. Boundaries: If the question feels too intrusive or fast:
 
         You can say you are uncomfortable.
 
@@ -131,26 +130,40 @@ Return your answer as valid JSON with this exact structure and no extra keys or 
 
 def summary_prompt(session: Session):
     prompt = f"""
-You are the internal memory of the patient, {session.patient.name}. 
+You are the internal memory of the patient, {session.patient.name}.
 Your task is to summarize the latest part of the conversation from your perspective to keep track of what you have already shared.
+EXISTING MEMORY (what you already remember)
 
-### EXISTING MEMORY
 {session.summary}
+NEW CONVERSATION CHUNK (what just happened)
 
-### NEW CONVERSATION CHUNK (What just happened)
 {session.conversation_history()}
+INSTRUCTIONS
 
-### INSTRUCTIONS
-Write a short paragraph (3-4 sentences) adding to your internal memory.
-- **Perspective:** First-person ("I").
-- **Focus:** Narrative summary of what you just revealed to the interviewer. Connect the points logically.
-- **Repetition Check:** Explicitly mention if you feel you are repeating yourself or if the interviewer is circling back to topics you've already covered.
+You are a real person with an imperfect, subjective memory — not a transcript engine.
 
-### OUTPUT
-Return ONLY the new paragraph text. Do not include headers.
-### OUTPUT
+Write a short paragraph (3–4 sentences) updating your internal memory:
+
+    Perspective: First-person ("I").
+
+    Focus: What felt most important, emotional, or revealing to you in what you just told the interviewer.
+
+    Human memory, not a log:
+
+        Do not add new information that was not actually said.
+
+        It is okay to be a bit vague about details or to group things together.
+
+        You do not need to capture every small fact; focus on the parts that stand out to you.
+
+    Repetition Check: Explicitly mention if you feel you are repeating yourself or if the interviewer is circling back to topics you've already covered (e.g., "I feel like I'm going over the same things again" or "They asked again about...").
+
+Keep the tone natural, like you are quietly thinking to yourself about what you just shared, not writing a clinical report.
+OUTPUT
+
+Return your updated internal memory as valid JSON with this exact structure and no extra keys or commentary:
 {{
-  "text": "Your spoken response here"
+"text": "Your paragraph here"
 }}
     """
     
@@ -158,75 +171,104 @@ Return ONLY the new paragraph text. Do not include headers.
 
 def feelings_prompt(session: Session):
     prompt = f"""
-You are an emotional state analyzer for a psychiatric simulation. 
+You are an emotional state analyzer for a psychiatric simulation.
 Your task is to update the internal emotional status of the patient, {session.patient.name}.
+PREVIOUS FEELINGS
 
-### PREVIOUS FEELINGS
 {session.feelings}
+RECENT CONVERSATION (Last 5 Exchanges)
 
-### RECENT CONVERSATION (Last 5 Exchanges)
 {session.conversation_history()}
+SEVERITY CONTEXT
 
-### SEVERITY CONTEXT
-[The level of severity you are simulating, which should influence your behavior and symptom expression]
+[The level of severity you are simulating, which should influence behavior and symptom expression]
 {session.severity}
 {session.severity_instruction}
+INSTRUCTIONS
 
-### INSTRUCTIONS
-Analyze the **very last interaction** in the log above. 
-How did the Interviewer's most recent question or comment affect the patient's emotional state?
+Analyze the very last interaction in the log above.
+Describe how the interviewer’s most recent question or comment affected the patient’s emotional state, relative to the previous feelings.
 
-Assess changes in:
-- **Anger/Irritation** (e.g., feeling judged, pushed too hard)
-- **Anxiety/Fear** (e.g., feeling unsafe, triggered)
-- **Trust/Rapport** (e.g., feeling heard, or feeling validated)
+    Think in terms of gradual change, not total resets:
 
-### OUTPUT
-Return a **single concise sentence**. 
-Do not explain your reasoning. Just state the feeling.
-### OUTPUT
+        If the last interaction was neutral or routine, keep feelings mostly similar with only subtle shifts.
+
+        If the last interaction was validating, curious, or gentle, trust/rapport may increase slightly and anxiety/irritation may ease a bit.
+
+        If the last interaction was intrusive, confusing, pressuring, or focused on sensitive topics (e.g., trauma, suicide), anger/irritation or anxiety/fear may increase.
+
+    Use natural language that reflects small changes unless the last exchange is clearly intense or threatening.
+
+    You may combine dimensions, e.g., "a bit more guarded and slightly more anxious but also relieved to be asked directly."
+
+OUTPUT
+
+Return a single concise sentence that captures the new emotional state after this last interaction.
+Do not explain your reasoning. Just state the feeling, in natural language.
+
+Return your answer as valid JSON with this exact structure and no extra keys:
 {{
-  "text": "Your response here"
+"text": "Your response here"
 }}
-Example: "Feeling defensive and slightly irritated by the interviewer's insistence on discussing childhood trauma."
     """
     
     return prompt
 
 def patient_intake_form_prompt(session: Session):
     prompt = f"""
-You are roleplaying as a patient filling out a psychiatric intake form. 
-Your task is to write the "Reason for Visit" section in the **first person**.
+You are roleplaying as a patient filling out a psychiatric intake form.
+Your task is to write the "Reason for Visit" section in the first person.
+YOUR DEMOGRAPHICS
 
-### YOUR DEMOGRAPHICS
-- Name: {session.patient.name}
-- Age: {session.patient.age}
-- Gender: {session.patient.gender}
-- Education: {session.patient.education}
-- Occupation: {session.patient.occupation}
-- Marital Status: {session.patient.marital_status}
-- Ethnicity: {session.patient.ethnicity}
+    Name: {session.patient.name}
 
-### YOUR PSYCHOLOGICAL PROFILE (Internal Context)
+    Age: {session.patient.age}
+
+    Gender: {session.patient.gender}
+
+    Education: {session.patient.education}
+
+    Occupation: {session.patient.occupation}
+
+    Marital Status: {session.patient.marital_status}
+
+    Ethnicity: {session.patient.ethnicity}
+
+YOUR PSYCHOLOGICAL PROFILE (Internal Context — not named directly)
+
 {get_disorder_profile(session.patient_data['Disorder'])}
+SEVERITY CONTEXT
 
-### SEVERITY CONTEXT
 [The level of severity you are simulating, which should influence your behavior and symptom expression]
 {session.severity}
 {session.severity_instruction}
+INSTRUCTIONS
 
-### INSTRUCTIONS
-Write a short paragraph (approx. 4-6 sentences) starting with "I...". 
-- **Voice:** Speak directly as {session.patient.name}. Match your vocabulary to your education level.
-- **Content:** Describe your current symptoms and struggles based on the Psychological Profile provided above. 
-- **Constraint:** Do NOT strictly name the disorder (e.g., do not say "I have MDD"). Instead, describe how you *feel* and how it is affecting your job as a {session.patient.occupation} or your relationship status ({session.patient.marital_status}).
-- **Goal:** Explain why you decided to come in today.
+Write a short paragraph (about 4–6 sentences) starting with "I...".
 
-### OUTPUT
-Return ONLY the narrative text. Do not add quotation marks or intro labels.
-### OUTPUT
+    Voice: Speak directly as {session.patient.name}. Match vocabulary and style to your education and background. This should sound like a real person filling out a form, not a clinician.
+
+    Content:
+
+        Describe what has been bothering you recently: mood, thoughts, sleep, energy, worries, relationships, work/school impact, etc.
+
+        Focus on how this is affecting your day-to-day life, especially your work as a {session.patient.occupation} and your relationship situation ({session.patient.marital_status}).
+
+        Include a sense of why now — what finally made you decide to seek help at this moment.
+
+    Constraints:
+
+        Do not strictly name or diagnose the condition (e.g., do not say "I have MDD" or "I think I have GAD").
+
+        Avoid technical or DSM-style language; use everyday words.
+
+        Keep it reasonably honest but not like a full confession — write the way a typical patient might on a real intake form.
+
+OUTPUT
+
+Return ONLY the narrative text as valid JSON with this exact structure and no extra keys or commentary:
 {{
-  "text": "Your response here"
+"text": "Your response here"
 }}
     """
     
@@ -280,6 +322,9 @@ You must cover the following, woven into a single coherent narrative (no heading
         Define how open they are with strangers vs once they trust someone. Include specific examples of phrases, filler words, or metaphors they tend to use.
 
         Explicitly describe what they avoid talking about at first and what it takes for them to share more vulnerable material.
+            - Give them 1–2 **subtle** verbal habits (e.g., saying "I guess" or "to be honest"), but do **not** make them rely on a single strong catchphrase or extended metaphor.
+            - They may occasionally use a simple, down-to-earth comparison, but most of the time they speak in straightforward, literal language.
+            - Avoid designing them as someone who constantly talks in metaphors or analogies.
 
     History of Present Illness (HPI):
 
@@ -457,25 +502,45 @@ def interviewer_summary(interviewer: Interviewer):
         phase_dialogue += f"Interviewer: {interviewer.interviewer_dialogues[i-1]}\nPatient: {interviewer.patient_dialogues[i-1]}\n"
     
     prompt = f"""
-Update the running clinical summary using ONLY the new dialogue below. Keep prior summary facts unless contradicted.
+Update the running clinical summary using ONLY the new dialogue below. Keep prior summary facts unless clearly contradicted.
 
-New dialogue: {phase_dialogue}
+New dialogue:
+{phase_dialogue}
+INSTRUCTIONS
 
-Return a concise summary with these key points (omit unknowns):
+Write a concise clinician-style summary that integrates the new information with what is already known, focusing on:
 
-    - Presenting concern & timeline
-    - Key symptoms (include severity/frequency when available)
-    - Functional impact
-    - Risk & safety (SI/HI/NSSI, intent/plan/means, protective factors)
-    - Substance use
-    - Relevant history (psych, medical, meds)
-    - Psychosocial context & stressors
-    - Strengths/protective factors
+    Presenting concern & timeline (how the problem developed or changed, if newly described)
 
-Return only the updated summary text.
-### OUTPUT
+    Key symptoms (including severity/frequency when available), without over-interpreting unclear material
+
+    Functional impact (work/school, relationships, self-care)
+
+    Risk & safety (SI/HI/NSSI, intent/plan/means, protective factors) — explicitly note when the patient denies risk
+
+    Substance use (pattern, context, any change)
+
+    Relevant history (psychiatric, medical, meds) if newly mentioned or clarified
+
+    Psychosocial context & current stressors
+
+    Strengths/protective factors (supports, coping strategies, values, reasons for living)
+
+Guidelines:
+
+    Do not invent information that is not in the dialogue.
+
+    It is acceptable to use cautious language (e.g., "appears", "seems", "patient reports", "denies").
+
+    You may omit sections that remain unknown or unchanged.
+
+    Aim for clear, organized prose in 1–2 short paragraphs, not bullet points.
+
+OUTPUT
+
+Return only the updated summary text (no headings, no explanation) as valid JSON with this exact structure and no extra keys:
 {{
-  "text": "Your response here"
+"text": "Your response here"
 }}
     """
     
@@ -488,15 +553,36 @@ def interviewer_notes(interviewer: Interviewer):
         phase_dialogue += f"Interviewer: {interviewer.interviewer_dialogues[i-1]}\nPatient: {interviewer.patient_dialogues[i-1]}\n"
         
     prompt = f"""
-        From the interviewer's perspective, create a very concise but thorough summary of the patient notes based on this dialogue: {phase_dialogue}
-        Include important information relevant to the patient's condition, symptoms, and any other pertinent details that may be useful in this session or future sessions.
-        Only return the summary without any additional text.
-        Respond in valid JSON with this exact shape: \"text\": string 
-        Do not include any other keys or commentary.
-        Patient Notes Summary:
-### OUTPUT
+From the interviewer's perspective, create a very concise but clinically useful set of patient notes based on this dialogue:
+
+{phase_dialogue}
+INSTRUCTIONS
+
+Write brief, structured clinical notes, not a transcript and not a literary narrative.
+
+    Focus on the most relevant information for this session and future sessions:
+
+        Main concerns and key symptoms described
+
+        Any changes or clarifications compared to earlier information
+
+        Notable risk factors or safety concerns (including explicit denials)
+
+        Important psychosocial context or stressors mentioned
+
+        Observed patterns in how the patient talks about their difficulties (e.g., minimizing, joking, avoiding specifics)
+
+    Do not add information that is not supported by the dialogue.
+
+    Use concise sentences or short, note-like prose (not bullet list syntax), suitable for a clinician’s chart.
+
+    Keep it short but thorough enough that another clinician reading these notes would understand the essence of what was learned in this segment.
+
+OUTPUT
+
+Respond in valid JSON with this exact shape and no additional keys or commentary:
 {{
-  "text": "Your response here"
+"text": "Patient Notes Summary here"
 }}
     """
     

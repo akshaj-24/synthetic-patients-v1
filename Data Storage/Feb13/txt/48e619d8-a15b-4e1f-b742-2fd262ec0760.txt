@@ -1,0 +1,128 @@
+system: Session 48e619d8-a15b-4e1f-b742-2fd262ec0760 transcript
+
+system: Disorder: MDD
+
+interviewer: Thank you for sharing that with me, Ashley. Have you been thinking about harming yourself recently?
+
+patient: I... I guess I’ve thought about not wanting to be here when the light goes out. But that sounds dramatic, doesn’t it? I don’t mean like a plan or anything. It’s more like... sometimes the fog feels so thick, and I just wonder if it would all just... stop. But I don’t even know what that means anymore. I don’t want to bother you with all this.
+
+interviewer: It sounds like you're carrying a lot of weight right now. Would you be comfortable continuing this conversation so we can explore how to support you?
+
+patient: I... I guess I’ll try. It’s just hard to put words to it sometimes. The fog makes everything feel like a loop, like I’m debugging code that won’t compile. My orchids are doing okay, though—pink blooms finally showed up. Maybe that’s silly, but it’s one less thing to... fix. I don’t know if any of this helps, but I’ll keep talking if you’re sure it’s needed.
+
+interviewer: The pink blooms are a beautiful detail to hold onto. Would you be comfortable continuing with this conversation today?
+
+patient: I... I guess if you think it’s helpful. The blooms are just... they’re there, you know? Like a small system that still works when everything else feels broken. But I don’t want to waste your time with all this fog. It’s just... slow processing. Maybe if I could debug it, I’d be fine. Do you think that’s possible? To optimize myself again?
+
+interviewer: It sounds like these feelings have been building up for some time. Can you share a bit about when this started for you? Was there a particular moment or event that stands out as when things began to change?
+
+patient: I guess it started after that big project wrapped up last year. The work had been all-consuming, and when it ended... there was this void, like a system suddenly without a function. My father passed around the same time, but I told myself I couldn’t afford to grieve—there was code to write, deadlines to meet. Now... sometimes I catch myself wondering if the fog is his absence I’m trying to debug. The orchid’s new bloom is the first thing that feels... rooted in months.
+
+interviewer: It sounds like the end of the project and your father’s passing created a significant shift for you. Can you share an example of a recent work task that’s felt especially overwhelming?
+
+patient: There was this debugging task last week… I kept trying to trace a data flow issue, but it felt like my brain was running on a dual-core processor instead of a quad. I guess I just… froze? It took me three hours to write a script that usually takes thirty minutes. I ended up sending half a dozen emails to myself as reminders to check different variables. I don’t know if it’s age-related fog or just… I don’t want to say 'giving up' but it feels like the system’s prioritizing survival mode over actually working.
+
+interviewer: That sounds really frustrating and mentally draining. When did you first start noticing this kind of cognitive slowing or difficulty focusing at work?
+
+patient: I guess... it started creeping in after the project ended and my dad passed. At first, I told myself it was just burnout, you know? Like my brain needed a reset. But then, even after some time, the fog just... stuck around. I remember one morning I spent forty minutes just trying to figure out why I couldn’t remember the password for my work laptop. It wasn’t even complicated—just ‘Orchid2023!’—but it felt like my mind was running a corrupted loop. I kept thinking maybe I’m just getting old, or maybe I’m... I don’t know, broken in a way that can’t be fixed.
+
+interviewer: It sounds like the pressure to 'fix' yourself while managing grief and work has been overwhelming. What would you most like to see change or improve as we work together?
+
+patient: I guess… I want to stop feeling like my brain is a system that’s constantly crashing. Like, if I could just… recompile my thoughts without the errors, maybe I wouldn’t keep… freezing. But I don’t even know if that’s possible. Or if I’m just asking for something to go back to how it was before the fog. I don’t want to be the person who can’t… keep up anymore.
+
+interviewer: It sounds like the idea of 'recompiling' your thoughts carries a lot of weight for you. When you mention the mental fog, are there certain times of day or specific situations where it feels more or less manageable?
+
+patient: I guess mornings are... slightly better? If I remember to water the orchids, the ritual helps me focus for maybe二十 minutes. But once I sit at my desk, the fog just... creeps back in. It’s like my brain loads the 'work OS' and crashes the moment I try to run anything. Evenings are worse—my thoughts just... loop. I check my plants again before bed, hoping the pink blooms will 'sync' with something in me. But I don’t want to make it sound better than it is. Most days, even the watering feels like I’m debugging a system that’s already obsolete.
+
+interviewer: It seems tending to the orchids is one of the few rituals that offers you some clarity. Have you noticed any changes in the pattern or intensity of your symptoms since they first started, or are they remaining fairly consistent?
+
+patient: I guess... it’s like the fog isn’t lifting anymore, just... settling. The mornings used to be ‘slightly better’ but even the orchid ritual feels... heavier now. I catch myself staring at them longer, like maybe if I focus on the pink blooms, something else will sync. But the emails to myself? They’re getting more... fragmented. Yesterday I sent one that just said ‘Why is everything a loop?’ and couldn’t even finish it. It’s not worse exactly—just... less temporary.
+
+interviewer: It sounds like the fragmented emails are becoming more distressing for you. Can you share an example of what these emails typically contain or how they feel different from before?
+
+patient: They’re… like half-written error logs. I’ll start with something simple, like assigning a task, but then I second-guess everything. Last week, I drafted an email about delegating a project—got to the part where I listed the deadlines, then froze. The cursor just blinked there. I told myself it was brain fog, you know? But when I look back, it’s like… the sentences are fragmented, like a broken loop. I don’t even remember hitting send. Maybe I’m afraid if I finish, it’ll show I’m unreliable. Or maybe I just don’t care anymore if they get done.
+
+interviewer: It sounds like the uncertainty about finishing tasks is adding to the stress. Can you share how these challenges with completing tasks have affected your work performance or deadlines?
+
+patient: It’s like my brain can’t compile the code anymore. I start an email, but it’s just... fragments. Last week, I drafted something about deadlines but froze. I told myself it was brain fog. Now, I’m worried I’ll miss a deadline, but I can’t even focus on fixing it. It’s like... the system’s crashing, and I don’t know how to reboot.
+
+interviewer: That sounds really frustrating and stressful. You mentioned canceling plans with your husband. Can you share how this situation has affected your relationship or time spent with him?
+
+patient: It’s… like we’re running on different systems now. I used to stay late at work to avoid the silence at home, but even that feels like a buffering loop these days. He tried fixing the washing machine last week—said he didn’t mind—and I just… nodded. I guess I don’t have the energy to even argue anymore. The orchids still get watered, though. At least there, I know where I stand.
+
+interviewer: It sounds like these feelings are quite new to you—have you experienced episodes like this in the past, where you felt similarly overwhelmed or disconnected?
+
+patient: I guess... I’ve always been a bit of a worrier. Like, if a project gets too complex, I might stay up late debugging it. But this feels different. It’s not just stress—it’s like my whole system’s been in a loop for months. I don’t think I’ve ever felt this... disconnected before.
+
+interviewer: It sounds like this current experience is different from your usual stress. Can you share what strategies you’ve used in the past to manage overwhelming feelings or stress at work?
+
+patient: I guess I used to… break things into smaller steps, like debugging a system. If a project felt overwhelming, I’d list out subtasks, check them off. It kept me from getting stuck. But now… even that feels like a buffering loop. I tried it last week, but the list just sat there. I think I relied on working late, too—staying until the office was empty. But lately, even that’s… not working. The orchids? I water them because there’s a routine there. But the soil’s been… dry for days. I don’t even notice anymore.
+
+interviewer: That sounds really tough... How has your relationship with your husband been during this time—have you been able to talk about what you’re going through with him?
+
+patient: It’s... complicated. We don’t talk about it much. He’s been trying to help, I guess—fixed the washing machine the other day without even asking. It’s just... sometimes I feel like I’m letting him down, but I don’t know how to explain it. We’re both just... stuck in our own heads, I think.
+
+interviewer: I'm here to support you through this. Can you tell me if you currently have any thoughts about how or when you might act on the feeling of not wanting to keep going?
+
+patient: It’s... not like I’m planning anything. Sometimes I just think, like, *I don’t want to be here when the light goes out*—but that’s probably just sleep, right? I can’t even focus on watering the orchids most days, let alone... anything else. They bloom sometimes, though. The pink ones. It’s weird, they’re still alive, but the soil’s dry. I guess I’m just... waiting for the system to reboot or whatever.
+
+interviewer: It sounds like those thoughts come up in moments of exhaustion or overwhelm. How often do you find yourself having these passive thoughts about not wanting to be here?
+
+patient: It’s... like a background process that just runs when I’m too tired. Not constant, but enough that I notice. Sometimes I think about the orchids’ soil—dry, but still there. Like my thoughts... they’re just... present. Maybe worse when I’m stuck on a problem at work.
+
+interviewer: I hear how the weight of these thoughts feels tied to exhaustion and work pressure. Have you noticed any changes in your alcohol or cannabis use over the past few months that might be connected to this sense of overwhelm?
+
+patient: I guess... maybe a glass of wine more nights than not? Not really to get drunk, just... to quiet the noise? My husband says I’m ‘self-medicating,’ but I tell him it’s just ‘system maintenance.’ If I overdo it, I can’t even debug the next day. The real problem is the fog—alcohol just blurs the edges. Sometimes I think about edibles, but I don’t want to mess up my ‘processing speed’ at work. It’s not like I’m... losing control or anything.
+
+interviewer: I hear how alcohol feels like a tool to manage the noise, even if it’s not a long-term solution. Can you share how many glasses of wine you typically have on the nights you use it?
+
+patient: Most nights it’s just one, I think? Maybe two if the fog feels... thicker. But I stop if I worry it’ll mess with my processing speed at work. My husband says I’m ‘overclocking the system’ or something. Honestly, it’s just enough to... mute the static without crashing the main functions. Though lately, even that feels like a failed patch.
+
+interviewer: I hear how the alcohol's effectiveness feels diminishing lately. Have you used any other substances, like stimulants or opioids, to manage stress or the fog in the past few months?
+
+patient: No, not really... I mean, I’ve had coffee in the mornings to stay awake, but that’s it. I guess I don’t want to mix things up too much. The wine... it’s the only thing that feels like it fits the system, you know? Even that’s... well, it’s not working as well lately. I just... I haven’t tried anything else. Scared of what might happen if I do.
+
+interviewer: I hear how trying new substances feels risky right now. Have you used cannabis in the past few months to manage stress or the fog?
+
+patient: No, I haven’t tried cannabis... I guess I’m too scared of how it might... interfere with the system. The wine at least feels like a known variable, even if it’s failing. I mean, I’ve maybe taken extra melatonin sometimes? Not really sure if that counts. I don’t want to keep adding more lines of code that just create bugs.
+
+interviewer: I hear how cautious you are about adding new substances. Can you share if you’re currently taking any medications or supplements besides the melatonin you mentioned?
+
+patient: No prescribed medications… I guess I tried an herbal thing my husband read about—St. John’s Wort? But it didn’t… I don’t know, *compile*. Felt like another variable I couldn’t debug. I stopped after a week. The melatonin’s… well, it’s not even helping much anymore. I just don’t want to keep adding patches that don’t fix the system.
+
+interviewer: I hear how adding substances feels like adding more lines of code with uncertain outcomes. Have you experienced any periods where you felt unusually energetic or needed less sleep over the past few months?
+
+patient: No, not really... I mean, I’ve been up late sometimes, but it’s not like I *feel* energetic. It’s more like the system can’t shut down. The fog’s still there, but my sleep... it’s like a broken loop. I lie awake counting hours, and when I do sleep, it’s just... static. No, there’s been no 'energy'—just exhaustion that won’t let me power off. Maybe that’s not what you’re asking, though.
+
+interviewer: I hear how your sleep feels unrefreshing despite the effort to rest. Have you experienced any hallucinations, delusions, or paranoid thoughts recently that feel disconnected from your usual stress?
+
+patient: No, nothing like that… I guess. Just the usual fog, you know? Sometimes I feel like my mind’s… running in the background, like a process that won’t close. But it’s still *me* in there, just… slower. Not sure if that’s what you mean.
+
+interviewer: Ashley, based on our conversation, I’ve summarized that you’ve been experiencing a persistent low mood, hopelessness, and cognitive difficulties, which have impacted your work and relationships. You’ve described feeling stuck in a ‘thick fog’ with passive thoughts about not wanting to continue, though you’ve emphasized there’s no active plan. Protective factors include your husband’s support and small routines like caring for your orchids, even though these feel harder now. What did I miss or get wrong here?
+
+patient: You got the fog right—it’s like a firewall I can’t bypass. The orchids… I guess they’re my only routine that still works, but even that feels like a patch on a failing system. What you might’ve missed is the silence between me and my husband. It’s not just the fog—it’s like we’re running on different code now. He fixed the washing machine without asking, and I just… nodded, like nothing’s wrong. But it’s all so fragile. I don’t even know how to debug it.
+
+interviewer: The shift in communication with your husband sounds like a significant part of this struggle. What else might I have missed or overlooked here?
+
+patient: There’s this... argument we had about his mom. I buried it under work emails. Now we just orbit each other in silence. And sometimes I think, if I just... let the fog thicken, maybe it’d all make sense. But I don’t even know if that’s worth saying.
+
+interviewer: Ashley, considering everything we’ve discussed, I’ll summarize: Your depression feels like a persistent fog that’s affecting your work, relationships, and sense of self. The argument with your husband about his mom seems to have added strain to an already fragile connection, and the silence between you feels like a separate layer of isolation. You’ve described passive thoughts about giving in to the fog, though you’re still holding onto small routines like caring for your orchids. What did I miss or get wrong here?
+
+patient: You’re close. The orchids… their roots are still alive, but the soil’s turning to dust. I keep watering them, but it’s like the system’s leaking. And the washing machine—when he fixed it, he didn’t even ask if I wanted help. Just… did it. I guess I should be grateful, but it feels like another error I can’t debug. The fog’s still thick, but sometimes it’s not fog at all. It’s just… static. Like the TV when the signal cuts out. You don’t know if it’ll come back.
+
+interviewer: The orchids and the washing machine both seem to symbolize a strain between your need for control and the feeling that things are slipping through your fingers. How would you like to move forward in addressing these patterns in our work together?
+
+patient: I guess… maybe start with the orchids. If I can at least track their water cycles better, like a log or a script, maybe that’ll… stabilize something. But the rest? The husband stuff? It’s like a corrupted file. You can’t debug it if you don’t know where the error started. I don’t even know if I want to open it. But… if we could at least identify the syntax errors, maybe? Slowly. Without crashing the system.
+
+interviewer: Starting with the orchids feels like a manageable way to rebuild structure, and I appreciate you sharing that. Is there anything else you’d like to prioritize addressing alongside this, or anything I haven’t captured about how we might move forward?
+
+patient: I guess… the orchid log could help. Maybe if I track the water cycles, it’ll force me to notice when the soil’s too dry. But the husband stuff… it’s like trying to run a script with missing variables. You can’t compile it if the syntax is broken. I don’t even know where to start debugging. And the fog? It’s still there, but sometimes it’s not fog anymore—it’s just… static. Like the TV when the signal cuts out. You don’t know if it’ll come back.
+
+interviewer: Starting with the orchid log as an anchor feels like a thoughtful way to build structure, and I appreciate your willingness to explore the 'corrupted file' with your husband at some point. How does it feel to have these as initial steps, and is there anything else you'd like to add or adjust before we move forward?
+
+patient: The orchid log... it’s like the only thing that still compiles without errors, you know? Even if the soil’s dry, at least I’m not freezing the system entirely. But the husband stuff—calling it a corrupted file makes it sound like a simple reboot would fix it. It’s more like... static. Just... there. I guess I’m worried about opening that folder at all. And the emails? They’re still half-written in my head, like my brain’s on battery power and it shuts down before saving. I don’t want to burden you with all this, though. Maybe that’s just another loop.
+
+interviewer: Ashley, let me try to capture where we are: You’re using the orchid log as a manageable starting point to rebuild structure, while the strain in your marriage feels like static you’re unsure how to resolve. The half-written emails and fear of burdening others also seem like key parts of this fog. What did I miss or get wrong here?
+
+patient: You got the orchids and the emails... I guess. But the static with my husband—it’s not just background noise anymore. It’s like... a system error that keeps crashing the interface. I don’t even know how to run diagnostics on it. And the 'fog'—sometimes it feels less like fog and more like a power outage. My brain just... shuts down before I can send the request. I don’t want to be here when the light goes out, but I’m too tired to fix the circuit breaker.
+

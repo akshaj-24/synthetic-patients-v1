@@ -1,0 +1,120 @@
+system: Session eac8f480-d060-425e-8e66-0b710cdcb4d0 transcript
+
+system: Disorder: GAD
+
+interviewer: Hello, Ms. Evans. My name is William Wood, and I'll be conducting this psychiatric interview with you today. Before we begin, could you please confirm your name and let me know if you have any pronoun preferences? This will help ensure we're comfortable and respectful moving forward.
+
+patient: It’s Emily. Emily Evans. Pronouns are… she/her. Yeah, that’s the usual. I, uh… I should probably be more organized about this stuff. Paperwork’s always a mess for me, you know? Always second-guessing if I got the right forms for work… or anything, really.
+
+interviewer: Emily, thank you for sharing that. Just to clarify, today’s session will involve discussing your current concerns and how we might support you moving forward. Does that sound okay to you, and do you have any questions before we begin?
+
+patient: Yeah, sounds okay. I just… hope I don’t ramble too much. My mind’s like a leaky faucet these days. You ever try to fix a faucet? It’s not just the drip, it’s all the water you don’t see building up. Work’s been… intense. Paperwork, residents’ meds… I double-check everything now. Can’t shake the feeling I’m one mistake away from… something bad.
+
+interviewer: That sounds really tough to carry alone. Would you be comfortable proceeding with our discussion today?
+
+patient: I… I suppose. As long as we don’t get stuck on the… the big stuff. My mind’s like a security system that’s always half-armed—beeping at shadows, you know? My hands get this… twitch when I’m on edge. It’s just… a lot to unpack, but I’ll try to keep it straight.
+
+interviewer: That sounds like a heavy burden to carry. Would you be okay with us starting gently and proceeding at a pace that feels manageable for you?
+
+patient: Sure, if we can… maybe start with the small checks? Like, the daily rounds? My hands are twitching again, but I can steady them if I focus. It’s like with residents—you just keep checking the rails, even when you’re tired. As long as we don’t… lose the signal, you know?
+
+interviewer: That metaphor about staying steady through small checks is powerful. Would you be okay with us proceeding at a pace that feels manageable for you, step by step?
+
+patient: I... I want to believe that, but it’s like when I’m on night shift. I tell myself to just check the rails once, but my hands keep going back, you know? The logs, the schedules—it’s not that I’m doing it wrong, it’s like my brain won’t let me *stop*. Even now, my fingers are... jittery. I guess I’m just worried we’ll get to ‘step by step’ and I’ll already have fallen behind, somehow.
+
+interviewer: That sounds really challenging to manage alongside our conversation. Would you be okay with us taking one step at a time together, checking in as we go?
+
+patient: I... I want to try. It’s just—my hands are still shaking a little, like they’re arguing with me even as I nod. If we go step by step, will you... catch me if I skip a beat? I had a resident once who’d hum to stay calm during transfusions. Do you think that’s silly?
+
+interviewer: That’s a thoughtful way to manage anxiety. Would you be comfortable trying a similar approach as we proceed step by step today?
+
+patient: I guess... I guess I could try humming. It’s not like my hands are going to stop fidgeting anyway. It’s just, you know, I’ve always thought of these checks as... like the rails on a wheelchair. You keep adjusting them until they’re *just right*, even if the chair’s not moving. What if the hum makes me spaced out and I miss something important? But... if it helps my head quiet down for a minute, I’m willing to give it a shot. Silly, right?
+
+interviewer: Can you tell me more about the main concerns that have been troubling you recently?
+
+patient: It’s... work stuff, mostly. The new electronic system—it’s like a vise half-turned whenever I’m at the computer. I keep hitting the same keys over and over, just to be sure. And my dad’s getting more... confused. You know how it is with dementia, the way memories just... dissolve. I lie awake counting the hours between shifts, wondering if my hands will stop jittering long enough to focus. But maybe that’s just me, right? Overthinking again.
+
+interviewer: It sounds like these worries have been really persistent for you—can you help me understand when you first noticed this level of anxiety at work and with your dad’s condition?
+
+patient: I think it started... maybe a few years back, during my training? There was this one day when the supervisor said I was 'overseeing everything' too much. I don’t mean to, but it’s like the rails on a wheelchair—keep adjusting them until they’re *perfect*, even if the chair’s not moving. I’ve always done that, but now... with the electronic system and Dad’s dementia, it’s like the vise just... tightened. I can’t tell if it’s 'normal' stress or if something’s broken. Does that make sense?
+
+interviewer: It sounds like the pressure to be 'perfect' has been building for years, and now it’s clashing with real-life challenges like your dad’s dementia and the electronic system. How has this anxiety been affecting your relationship with your husband, especially with the adoption discussions you mentioned?
+
+patient: It’s... complicated. David’s good, really. He just laughs when I burn the roast, you know? But the adoption stuff—it’s like trying to follow a recipe where half the steps are missing. I keep second-guessing every form, every email. Last week I snapped at him about the dishwasher because my head felt like it was full of static. He just held my hands and said, ‘Breathe, Em.’ But what if we’re not good enough? What if the paperwork falters... and it’s my fault?
+
+interviewer: It sounds like the uncertainty around adoption is adding to your anxiety, especially with the fear that your stress might be causing strain in your marriage. What would you most hope to explore or change through this conversation today?
+
+patient: I guess... I just don’t want to be so... so tense all the time. The thing with David—it’s not that he minds the dishwasher or the burnt roast, I think. It’s that I feel like I’m carrying this weight, and it’s spilling over. If I could just... find a system that doesn’t require checking every step five times, that would help. But I don’t even know where to start. Or if it’s even possible.
+
+interviewer: It sounds like the pressure to perfect tasks is really weighing on you. Can you share what strategies you’ve tried so far to manage the need to check things repeatedly?
+
+patient: I try... humming, sometimes. It helps my hands stop jittering for a minute. Breaking things into steps, like just checking the rails once before moving on... but what if I miss something? At work, the electronic system—it’s like a new kind of rail, but I keep second-guessing every click. David says I’m doing enough, but my head won’t let up. It’s like... the vise just tightens when I think I’m getting it right.
+
+interviewer: That sounds really frustrating, like trying to hold everything together while the vise keeps tightening. When did you first notice the anxiety and checking behaviors starting to worsen compared to how they were a few years ago?
+
+patient: I guess... the past year really tipped it. Dad’s diagnosis, the new electronic system at work—everything just feels like it’s... snowballing. Before that, I could at least tell myself I was in control, you know? Now the checking... it’s not even enough to do it once. My hands are always twitching, like they’re expecting a mistake to leap out at them. The adoption stuff, too—it’s not just the forms. It’s like the vise gets tighter every time I second-guess something, and I’m scared David’s just... used to me being this way by now.
+
+interviewer: It sounds like this anxiety has been building up over time—have you experienced similar periods of overwhelming worry or stress in the past, and if so, what helped during those times?
+
+patient: There was... the nursing assistant training. My supervisor said I was 'overseeing everything,' which sounded good, but it made me scared of slipping up. I worked harder, but it’s like... the vise just learned to tighten faster. Now, even small things—like the adoption forms—feel like they could crack under my grip. David says I’m not alone, but my hands still jitter when I try to sign anything.
+
+interviewer: That sounds really tough—like your anxiety learned to outpace your efforts to manage it. When you were in that training period before, what specific strategies or supports helped you feel more stable, even if just briefly?
+
+patient: Honestly? I’d walk the unit twice before shifts, memorizing every rail’s position. It felt like… if I could control the small stuff, the rest wouldn’t unravel. But the machine—"*the machine*"—it’s different. No tactile checks. Just… numbers on a screen. My hands still cramp from gripping the mouse, even when I’m alone. I tell myself it’s just a system, but what if I miss a decimal? What if David’s forms get lost in the same static? I—uh—maybe I’m overcomplicating.
+
+interviewer: Can you tell me if you've had any thoughts about harming yourself or ending your life recently?
+
+patient: No—no, I don’t think about *that*. Not directly. But sometimes… I’ll catch myself staring at the sink, just wondering if the water’s cold enough to wake me up. Like, *What if I don’t pull myself back this time?* Then I laugh at myself, like it’s some stupid joke. But my hands… they still tremble afterward. It’s just the tide, you know? Stuck between the waves.
+
+interviewer: It sounds like those moments with the sink are both a struggle and a metaphor for feeling stuck. Have you ever considered that scenario as a way to hurt yourself, even if it feels like a joke?
+
+patient: No—no, it’s not a plan. It’s more like… a stuck thought. Like when a resident gets confused about the time, but you can’t reset their clock. The laugh’s just… a shield. But my hands still shake afterward. It’s not a joke, but it’s not a choice either. It’s the tide, again.
+
+interviewer: I hear how that stuck thought with the sink feels both involuntary and unsettling. Have you noticed any changes in your alcohol or cannabis use recently?
+
+patient: I don’t use cannabis—never really felt it would help. As for alcohol… I’ll have a glass of wine maybe twice a week. Not to 'numb' or anything, just… to feel like I’m not gripping everything so hard? But my hands still shake afterward. It’s like the vise just learns a new shape. I guess?
+
+interviewer: It sounds like the alcohol doesn’t fully ease the tension you’re carrying. Have you used any other substances, like stimulants or prescription medications, to cope with anxiety or physical symptoms like hand tremors?
+
+patient: No—no other substances. I’ve tried OTC sleep aids once, but they just leave me foggy. The wine… it’s the only thing that helps me *unclench* a little. But my hands still shake. It’s like the vise just… adapts. I guess?
+
+interviewer: It sounds like the alcohol provides minimal relief but doesn't resolve the physical tension you're experiencing. Are you currently taking any prescription medications or supplements for anxiety, sleep, or other symptoms?
+
+patient: No, I’m not on any prescriptions. I take melatonin sometimes—maybe a couple times a month? But it’s like… it helps me fall asleep, but the rest of the night I’m still tangled up. My body’s used to being on high alert, I guess. It’s not like I can just flip a switch.
+
+interviewer: It sounds like sleep is a persistent challenge for you. Have you noticed any recent changes in how much sleep you're getting overall, or differences in your energy levels during the day—like feeling more restless or wired than usual?
+
+patient: Lately, it’s like my sleep’s gotten… shorter, even when I’m in bed the same amount of time. I wake up with this knot in my shoulders, like I’ve been carrying a clipboard full of error messages. My hands still jitter a bit, even when I’m not at work. I guess I’m just… more wired? It’s like the vise’s learned to tighten itself while I’m trying to rest.
+
+interviewer: It sounds like the 'wired' feeling is both exhausting and persistent. Have you noticed any periods in the past where you felt unusually energetic or needed significantly less sleep than usual, even while staying up late?
+
+patient: No, not really. When I’m up late, it’s more like my body’s stuck on ‘alert mode’—you know, checking things, rewiring the same fears. I’m not *energetic*, just… tangled up. Like my hands are still jittering even when I’m trying to rest. It’s not like I’ve got extra energy; it’s more like the vise’s keeping me awake instead of letting me catch my breath.
+
+interviewer: I hear how the racing thoughts feel overwhelming and persistent. Have you noticed any times when your mind feels especially fast or jumbled, like you’re jumping between ideas quickly or having trouble focusing on one thing at a time?
+
+patient: It’s like… when you’re trying to track three residents’ meds and their activity schedules at the same time. My head feels like it’s flipping between screens, but the fonts are all blurry. I’ll be in the middle of a thought and suddenly catch myself rewiring the same worry loop—like, *Did I save that form? Did I miss a dose?*—and my hands start twitching again. But maybe that’s just me being… over-organized?
+
+interviewer: It sounds like the physical symptoms you're describing are closely tied to your anxiety. Have you ever been diagnosed with a medical condition that might contribute to these physical symptoms, such as thyroid issues or sleep apnea?
+
+patient: No, I don’t think so. My primary care doc runs the usual blood work every year, and they’ve never said anything about thyroid stuff… though I guess they could’ve missed it? I mean, I’ve always been ‘tense,’ like my mom was. Maybe it’s just… how I’m wired. It’s not like I go in complaining—when you work with residents, you learn to keep quiet about your own aches and jitters. But sometimes I wonder if there’s something physical I’m ignoring, like a hidden error in the system I can’t spot.
+
+interviewer: It sounds like you've been managing a lot without medical intervention, but I want to check if there are any other symptoms that might be affecting you. Have you noticed any hallucinations, delusions, or thoughts that others are targeting you or trying to harm you?
+
+patient: No, nothing like that. I don’t hear voices or think people are out to get me. But… my mind’s always racing, you know? Like a vise that won’t loosen. Sometimes my hands shake when I’m at the computer—typing reports, checking names twice—what if I mix up a resident’s meds? It’s not hallucinations, but the worry… it’s a physical thing. My shoulders are always knotted. I just… can’t switch it off.
+
+interviewer: It’s clear how much you’ve been carrying, Emily. Let’s make sure we’ve covered everything before we wrap up—do you have any final questions or concerns about what we’ve discussed today?
+
+patient: I guess... I just keep thinking about the electronic system at work. My hands still shake when I’m entering data, even after all these checks. I worry I’ll make a mistake that affects someone. And... adoption stuff is another thing that’s tight in my chest, but maybe that’s for another time.
+
+interviewer: That sounds really challenging at work. Let's make sure we've covered everything—do you have any final questions before we wrap up?
+
+patient: I… I guess not. The machine at work still feels like a landmine sometimes—my fingers freeze up even after double-checking everything. And the adoption stuff? It’s just another thing that knots my chest, but I don’t know if it’s relevant here. Do we need to… unpack that? Or should we just… wrap up?
+
+interviewer: It’s okay to let the adoption concerns wait for another time if that feels manageable for you. Before we close, can you share how you’d like to move forward with addressing these work and anxiety challenges—what might help you feel more supported between now and our next session?
+
+patient: I guess… breaking the machine tasks into smaller steps might help. Like, just focusing on one screen at a time instead of the whole system. And maybe… if I could talk through the checks with someone? Not to sound dramatic, but my hands still freeze up even after double-checking. As for the rest… baking’s been a weird escape, forcing myself into the ‘knead until it’s smooth’ routine. But the adoption stuff? It’s another rail I keep tightening, even when I know I should let it rest. I don’t know. Maybe that’s just… private?
+
+interviewer: It’s reassuring to hear you’re experimenting with strategies to manage the workload. Before we close, is there anything else you’d like to address today before we plan our next steps?
+
+patient: I think... maybe focusing on the machine one step at a time will help. But the adoption paperwork... it’s like another resident I can’t stop checking on, even when I know I should let it rest. My hands still jitter when I’m on the computer, though. Do you think... maybe talking through it more could help? Or is that just being weak?
+

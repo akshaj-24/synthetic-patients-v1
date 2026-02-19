@@ -1,0 +1,112 @@
+system: Session ee6dc478-5c67-4dd2-b009-0fe20ed47a59 transcript
+
+system: Disorder: GAD
+
+interviewer: Thank you for sharing that, Rhonda. I want to make sure I understand your preferences first—would you like me to use a different name or pronouns, or is 'Rhonda' and 'she/her' okay with you?
+
+patient: Yes, Rhonda and she/her are correct. I... I just need to make sure everything’s documented properly. My son says I overthink, but it’s hard to explain—like cross-checking a budget you’re not sure is real anymore.
+
+interviewer: I want to make sure you're clear on how this works. Our time today will focus on understanding your concerns and how we can support you. Would you be comfortable continuing with the interview?
+
+patient: Yes, I suppose I can continue. As long as we... double-check the details later? My son always says I overthink, but how else do you make sure the numbers add up? (Fidgets with hands, then forces a small smile.) I’ll try not to derail things, but I might need to circle back on certain points. Is that allowed?
+
+interviewer: Of course, Rhonda—we can definitely revisit key points as needed. Before we move forward, would you like a brief overview of how the session will proceed today?
+
+patient: I’d… like to know the outline, yes. But can we keep it structured? Like a checklist? (Adjusts sleeve, eyes drifting to the clock.) My mind starts racing otherwise—like when I forget to save a spreadsheet and panic over lost data. As long as we… have milestones, I can focus. (Pauses, then softer.) Do you think that makes sense?
+
+interviewer: Rhonda, I think that makes perfect sense—having clear steps can help us stay on track. Here’s a quick outline: we’ll start by discussing your main concerns, then explore how we might work together moving forward. Would that work for you, or would you like to adjust anything before we begin?
+
+patient: That outline works… as long as we leave room to revisit sections later. (Adjusts sleeve, fingers brushing against the table edge.) My son says I overthink, but how else do you make sure the milestones are… accurate? If we skip a step, it’s like a formula error that compounds. (Pauses, then quieter.) I’ll try to stick to the plan, though. For now.
+
+interviewer: It sounds like the anxiety and financial worries have been building up over time. When did you first start noticing these feelings of anxiety and overwhelm beginning to interfere with your daily life?
+
+patient: It’s hard to pinpoint the start... maybe six years ago, after the divorce? My ex’s business collapse felt like a red flag I couldn’t stop parsing. But honestly, it’s always been there—like a spreadsheet error I keep recalculating. Last year, I forgot a utility bill and spent weeks Googling dementia symptoms. My hands still get twitchy thinking about it.
+
+interviewer: That sounds like a really distressing experience. How did that period of worrying about the utility bill and health symptoms affect your ability to focus on work or other responsibilities at the time?
+
+patient: It’s hard to untangle the anxiety from work, but... my hands would get so twitchy I’d second-guess every number in reports, even the ones that were fine. I remember fixing a client’s budget that didn’t need fixing and missing a deadline for a different project. My boss said I was ‘overcompensating’—which I guess is what happens when your brain won’t debug itself. I’d get so tired by noon, like my body was running a loop of ‘error alerts.’ But I just kept telling myself it was ‘seasonal’ or ‘bad posture.’ Last week, I finally sorted the recycling bin properly—it felt like a small victory, you know?
+
+interviewer: That small victory with the recycling bin shows you’re still finding moments of control—can you share what other strategies or habits you’ve tried to manage the anxiety when it feels overwhelming?
+
+patient: I started spreadsheeting my therapy notes, like... categorizing thoughts into ‘fixable’ and ‘noise’ columns. It helps, but sometimes it feels like I’m just adding more rows to the problem. My sister says wine helps me ‘outsource the worrying,’ which sounds ridiculous, but… it’s like hitting pause on the error checks. Though I guilt about it—what if I’m just delaying the debug process?
+
+interviewer: It sounds like the guilt around using wine adds another layer to your stress. What are you hoping therapy will help with as we move forward?
+
+patient: I guess... I want to stop feeling like I’m always one decimal point away from everything falling apart. The wine thing is just a Band-Aid, right? It’s like patching a spreadsheet leak with duct tape. But I don’t even know if therapy can ‘fix’ this—I keep waiting for my brain to just... reset. My son’s doing well, though. Maybe that’s the real debug key. If I could just... not tense up every time I think about his student loans, or my mom’s arthritis... even if it’s small stuff, like the recycling bin, it’d be nice not to feel like I’m failing at the basics.
+
+interviewer: It sounds like the divorce and financial concerns have been a major source of stress. Have you experienced any other traumatic events or significant adversity that might be contributing to your current anxiety?
+
+patient: I... I guess you could say growing up, my dad always treated stress like a 'disorganization problem.' He’d say things like, 'Prioritize better, and the anxiety goes away.' My mom, she had this chronic illness but never complained—just smiled through it, like she was coding her pain into some silent spreadsheet. Now, when my body aches from tension, I tell myself it’s 'bad posture,' but… maybe it’s more like inherited programming. (Pauses, rubs shoulders.) Hard to know what’s 'real' stress and what’s just… family legacy.
+
+interviewer: It sounds like your family's approach to stress and pain has left a lasting impression on how you experience your own body and mind. Can you share how these patterns might be influencing the ways you cope with anxiety or tension now?
+
+patient: It’s like... I inherited a script I didn’t ask for. My dad treated stress like a formatting error—you just ‘fix’ it by working harder. My mom... she smiled through her pain like it was a budget shortfall. Now, when my shoulders lock up, I tell myself it’s ‘bad posture,’ but what if it’s just their code running in me? I guess I’m scared to even troubleshoot, in case I find out I’m broken like they were.
+
+interviewer: That sounds really challenging—carrying those patterns while trying to define your own way of coping. Can you share a specific example of a time when you felt these inherited scripts most clearly influencing your response to stress?
+
+patient: There was this time at work last quarter... I kept reworking a budget forecast that was already approved. My manager said it was 'overkill,' but I couldn’t stop second-guessing the numbers. It felt like my dad’s 'disorganization' ghost was in my head, demanding perfection. My shoulders were so tight I could barely type, and I told myself it was just 'posture' again. But deep down, I knew it was the same fear that made me Google dementia symptoms after missing a bill—like if I slipped up, it meant I was broken.
+
+interviewer: It sounds like the fear of being 'broken' is deeply tied to these perfectionistic tendencies. Have you experienced similar episodes of intense anxiety and perfectionism in the past, and if so, what strategies helped you manage them?
+
+patient: There was a time after the divorce when I’d rewrite the same email to my lawyer three times, convinced each draft had a ‘hidden flaw.’ My shoulders would lock up so hard I’d have to stop and stretch, but I’d call it ‘bad posture’ again. Sometimes wine helps me ‘outsource the worrying’—it’s not a fix, but it… quietes the noise enough to sleep. I guess I just keep thinking if I follow the right steps, the system will debug itself.
+
+interviewer: It sounds like managing stress has been really challenging. Have you ever had periods where you felt unusually energetic or needed much less sleep, even if it was stressful?
+
+patient: No, not really... unless you count the nights I stay up 'fixing' spreadsheets that don’t need fixing. I don’t feel energetic, just... restless. Like my body’s on a loop, replaying errors that aren’t there. Sometimes wine helps me finally shut it down, but even then, my mind feels like it’s running in the background. My mom used to do that—smile through the pain, you know? I guess I’m just... inherited her 'efficiency.'
+
+interviewer: It sounds like the wine helps you cope with the mental pressure, even if it feels like a temporary fix. How often have you been using alcohol for this, and have you noticed any changes in how it affects you lately?
+
+patient: It’s becoming a weekly ritual, honestly—usually weekends. A glass helps me ‘shut down’ the spreadsheet loops. But lately, it’s not… sticking. I need more to quiet the noise, which feels like a ‘system update’ my body isn’t processing. And then guilt kicks in, like I’m just my mom’s daughter after all. But at least the tension in my neck loosens, even if it’s just ‘bad posture’ again.
+
+interviewer: Have you used any other substances besides alcohol in the past year, such as cannabis, prescription medications, or stimulants?
+
+patient: No, just wine sometimes. I—I mean, not like it’s a big deal, but after work, a glass helps me... quiet the noise, you know? Though lately, even that feels like I’m procrastinating on my spreadsheet notes. My doctor says it’s fine in moderation, but I worry about becoming dependent. It’s just... easier than facing the tension. My shoulders are killing me tonight, honestly.
+
+interviewer: It sounds like the tension in your body adds to the stress you're carrying. Are you currently taking any medications or supplements, including prescriptions, over-the-counter drugs, or herbal remedies?
+
+patient: No medications, just... occasional ibuprofen for my shoulders. I know it’s probably just bad posture, but the knots feel like... like they’re locked in a spreadsheet formula I can’t recalculate. And sleep? It’s hit-or-miss. Some nights I lie there mentally auditing my to-do list until 2 a.m. You ever get that restless sleep where you wake up feeling like you’ve been running a marathon in your sleep?
+
+interviewer: It sounds like the combination of physical tension and mental restlessness is taking a real toll on you. Have you ever had thoughts of intentionally harming yourself or ending your life, even if just in passing?
+
+patient: No... not really. I mean, there’s this occasional fantasy of just disappearing, like hitting delete on a messed-up file. But it’s not real, you know? More like the brain’s version of a system crash warning. I’d never act on it—it’s just... there when the tension gets too loud. My shoulders are tight again, honestly. Maybe I should stretch or something.
+
+interviewer: It sounds like the tension you're describing is deeply tied to your mental loops. Have you ever experienced periods where you felt unusually energetic or had a reduced need for sleep, even if it was stressful or disrupted your usual patterns?
+
+patient: No, not really. When I stay up late, it’s more like my brain’s stuck in ‘audit mode’—going through mental spreadsheets I didn’t even create. I’m too wired to *feel* energized, just... trapped in a loop. My shoulders seize up worse then, like the tension has its own power supply. You ever get that ache where your body’s screaming ‘save and close’ but your head won’t let you log off?
+
+interviewer: Rhonda, from what we've discussed, your main concerns include chronic anxiety around financial and health issues, persistent hypervigilance leading to work impairment, and using alcohol to manage stress, which now feels less effective. These patterns seem linked to your divorce, family history of stress coping, and perfectionism. What did I miss here?
+
+patient: I guess... I didn’t mention how my mom’s arthritis is getting worse. I haven’t wanted to say anything because it feels like adding debt to a maxed-out card. And I overthink my son’s loans—like, he’s doing fine, but I still stress about it. I try to track everything in spreadsheets, like maybe I can ‘debug’ my anxiety, but it just makes me more tired. My shoulders are killing me again, honestly.
+
+interviewer: It sounds like your mom’s health and your son’s financial situation are significant stressors that haven’t fully resolved despite your efforts to manage them. What else would you like me to include in this picture?
+
+patient: There’s… my mom’s arthritis getting worse. I haven’t said much because it feels like adding debt to a maxed-out card, you know? Every time I think about how she’s hurting, my shoulders lock up again, like they’re keeping score. And my son’s loans—what if he’s not as prepared as he seems? I try to track it all in spreadsheets, but some decimals just… won’t add up. (Pauses, fingers tapping the armrest) I guess I’m also scared the wine won’t cut it anymore when the noise gets too loud.
+
+interviewer: Rhonda, you’ve shared how your mom’s worsening arthritis and your son’s financial responsibilities add layers to your stress, alongside concerns about alcohol’s diminishing effectiveness. What did I miss or get wrong in this picture?
+
+patient: You didn’t mention how my body’s always halfway through a fiscal quarter—muscles clenched like they’re auditing my spine. And the ‘delete’ thought? It’s not just noise… it’s the backup plan when the worrying becomes its own full-time job. (Fists press into thighs) But I guess that’s just… more of the same.
+
+interviewer: Rhonda, you’ve described your body feeling like it’s in a constant state of financial audit, with physical tension mirroring your mental overload. You also mentioned the ‘delete’ thought as a backup plan when worrying becomes unsustainable. Can you tell me more about what happens when you try to use that ‘delete’ thought—does it ever feel like it works, or does it just add another layer of pressure?
+
+patient: It’s… like hitting delete on a messed-up file, but the system just crashes harder. For a second, it feels like quiet—like the spreadsheet stops recalculating. But then I realize I’m holding my breath, and my fists won’t unclench. (Pauses, hand drifting to shoulder blades) The wine helps more, honestly. At least it blurs the edges. But the ‘delete’ thought? It’s another decimal point I can’t reconcile. Like if I erase one worry, three more pop up in its place.
+
+interviewer: It sounds like you’ve been managing a lot of pressure while trying to find ways to cope—can you share any thoughts or questions you’d like to address before we wrap up today?
+
+patient: I guess… I keep rewriting reports at work even when they’re fine. Call it perfectionism, but it’s more like if I don’t ‘fix’ every decimal, something bad happens. And my mom’s arthritis? It’s like a budget shortfall I can’t forecast—no matter how much I save, it’s always more than expected. (Fingers dig into thighs) The wine… it’s not a solution, but it’s the only time my shoulders stop counting errors. I hate that I need it, but I hate the alternative more.
+
+interviewer: Thank you for sharing so openly today, Rhonda. Before we wrap up, can you tell me if there’s anything specific you’d like to focus on for our next session, or any next steps that feel most urgent for you right now?
+
+patient: I guess… maybe we could look at how I keep overcorrecting at work? The rewriting’s eating into my sleep now, and my neck feels like it’s holding a balance sheet. Also, the wine’s not blurring the edges like it used to—sooner or later, I’ll have to figure out what happens when the quiet stops working. (Pauses, fingers tracing a wrinkle in her slacks) But I don’t even know where to start. It’s like debugging a program I didn’t write.
+
+interviewer: It sounds like the pressure to fix everything is overwhelming, even as the usual coping mechanisms fade. Would you like to focus on strategies for work, or is there another area you’d prefer to start with?
+
+patient: Work is... it's a starting point, I guess. The reports, the numbers—they’re always auditing themselves in my head. But even if I get that under control, there’s my mom’s arthritis. I keep thinking I should plan for it but... it feels like adding debt to a maxed-out credit card. My shoulders are killing me today. Again.
+
+interviewer: It makes sense to start where the pressure feels most immediate. Would you like to explore specific strategies for managing the perfectionism in your work tasks first, or is there another aspect of this cycle you’d prefer to address?
+
+patient: Work is... the spreadsheets are the easiest target. I can ‘debug’ them, even if it means rewriting a report until my eyes blur. But there’s this... decimal point in my head that keeps shifting. My mom’s arthritis, my son’s loans—it all feels like it’s written in a language I can’t quite parse. Let’s start with the work. If I can just... stop auditing every breath I take, maybe the rest will stop feeling like a ledger I can’t balance.
+
+interviewer: It makes sense to start with work strategies to help manage the perfectionism and reduce the pressure you're feeling. For our next session, we can explore specific techniques to address the spreadsheet anxiety and the decimal point shifting metaphor you mentioned. Before we wrap up, is there anything else you'd like to address today or any concerns about these next steps?
+
+patient: I guess I’m just worried the decimal will shift again, even if we focus on work. And... my shoulders haven’t stopped aching. Maybe that’s all?
+

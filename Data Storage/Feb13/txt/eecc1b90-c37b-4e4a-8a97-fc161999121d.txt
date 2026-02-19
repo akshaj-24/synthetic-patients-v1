@@ -1,0 +1,128 @@
+system: Session eecc1b90-c37b-4e4a-8a97-fc161999121d transcript
+
+system: Disorder: GAD
+
+interviewer: Hello, Christine. My name is Isaac Patel, and I’ll be conducting this interview. Today, we’ll be discussing how you’re feeling and exploring ways to support you. Would you be comfortable proceeding with this conversation today?
+
+patient: Yes, of course, Dr. Patel. Thank you for seeing me. To be honest, I’ve been meaning to address this for a while—my schedule has been... well, you understand how healthcare can be. Before we start, may I assume our conversation is confidential? Naturally, professionalism is key in my field.
+
+interviewer: It's completely understandable to want clarity on confidentiality, especially given your role. Do you have any immediate questions or concerns about how this will work before we begin?
+
+patient: No, I think we’re good—thank you for confirming confidentiality. To be honest, I’ve been so focused on maintaining my workload that I haven’t had a moment to process this properly. My violets are blooming quite nicely, though, which is a small victory. I suppose… I’m just worried I might ramble. Do you mind if I take notes later?
+
+interviewer: It sounds like the constant worrying and sleep difficulties have been really taking a toll. Can you help me understand what you see as your main concerns right now?
+
+patient: I guess the main concerns... are managing my workload without compromising patient care. My partner’s diagnosis adds pressure to maintain stability at home. To be honest, I’ve noticed my hands tremor more when preparing meals, but I attribute that to fatigue. The clinic director expects... perfection, which is manageable, but I worry about overlooking details. Do you think this is common for someone in my position?
+
+interviewer: It sounds like these pressures have been building up, especially with your partner's diagnosis. When did you first start noticing these worries about your workload and sleep becoming overwhelming?
+
+patient: It’s hard to pinpoint an exact moment, but I’d say it escalated about three years ago after... an error during a procedure. I told myself it was fatigue from overwork. Since then, the pressure’s only grown—the clinic director’s expectations, my partner’s diagnosis last year. I catch myself second-guessing every decision now. To be honest, my sleep’s been... fragmented. I’ll fall asleep reviewing patient charts, but wake up at 3am replaying conversations. My hands still tremor when I chop vegetables, though I tell myself it’s just caffeine sensitivity.
+
+interviewer: It’s concerning to hear about the physical symptoms like hand tremors and disrupted sleep. How often do the tremors occur, and have you noticed them in other situations besides chopping vegetables?
+
+patient: The tremors... they’re not constant, I guess. Mostly when I’m rushing or under pressure—like during clinic meetings or when I’m typing notes. I tell myself it’s just caffeine or eye strain from screens. As for sleep... well, patient care doesn’t wait for 8 hours of rest. Some nights I’m up reviewing charts, others I just... spin. But I’m used to it. The lentil soup helps, though—I can’t let my partner down after all those years of me making it for them.
+
+interviewer: It’s clear how much you care about your responsibilities to others, even while managing your own challenges. What do you hope will change for you through this conversation or treatment?
+
+patient: I guess... I hope I can learn to manage the noise in my head without it spilling into my work. If I could wake up without second-guessing every decision from the day before, that would help. But honestly, I’m more concerned about not becoming a distraction for my team. They rely on me. Maybe I’ll finally figure out why my hands shake when I’m cutting vegetables—I’ve never botched a soup before, but lately, it’s like my fingers have a mind of their own.
+
+interviewer: It sounds like the physical symptoms are adding to your worry about being reliable at work. When do the tremors typically happen besides chopping vegetables, and do they come with other sensations like rapid heartbeat or sweating?
+
+patient: The tremors show up most when I’m on video calls with Dr. Patel—my coffee cup always wobbles a bit, but I tell myself it’s just camera angles. Sometimes my fingers stiffen when I’m stitching in the clinic, though I’ve never dropped a suture yet. As for other sensations… my chest does feel tight during those moments, like my ribs are holding their breath. I guess it’s all part of the same… static. The important thing is I still meet all my deadlines. My violets, though? They’ve never had a brown spot from my watering schedule.
+
+interviewer: It sounds like the chest tightness and tremors feel connected to your stress about work and relationships. How have these symptoms changed over time, especially since your partner's diagnosis last year?
+
+patient: Since last year... the tightness feels more constant, like a background hum that flares up during clinic meetings or when my partner’s scans come in. I guess I’ve learned to time my breathing during procedures to mask it, but at home, it’s harder. The tremors now show up when I’m watering the violets—precision helps me feel like *something* is in order. I tell myself it’s just... adaptation. My body’s way of keeping up with the schedule, right?
+
+interviewer: It sounds like the stress you're experiencing is deeply tied to both your professional and personal responsibilities. Have you experienced similar periods of stress or anxiety in the past, and if so, what helped you manage them?
+
+patient: I guess... in the past, I managed stress by working even harder, like doubling my hours or perfecting routines. For example, I’d organize supply cabinets until they were 'just right' to feel in control. It helped, I suppose—until the fatigue caught up. Now, I’m trying to... acknowledge when I’m stretched too thin, but it’s hard. The violets still help. If I focus on their schedule, the rest of the chaos feels... quieter. Though honestly, most days I just tell myself this is 'adaptation' and keep going.
+
+interviewer: It’s notable how you’re using the violets as a grounding practice—can you share more about who you typically rely on for support when you’re feeling overwhelmed?
+
+patient: To be honest, I don’t lean on people much. My partner… they’re dealing with their own health stuff, so I try not to add to their plate. I guess the violets help—there’s something methodical about tending to them. And work… it’s not ideal, but keeping busy forces me to focus on things I *can* control. Though Dr. Patel already knows this… am I just rehashing the same things?
+
+interviewer: That sounds really tough... Have you been having any thoughts of harming yourself or ending your life?
+
+patient: No, I haven’t had… actual thoughts about ending things. But sometimes I catch myself imagining vanishing for a week, just to reset. Though I’d never do it—my team relies on me. Most days, the violets and work keep me anchored. My hands still shake when I cook, but I tell myself it’s just stress. If I let myself dwell on the 'what-ifs,' I’d never get anything done.
+
+interviewer: I hear how much you're relying on routine to manage stress... Have you noticed any changes in your use of alcohol, caffeine, or other substances since these symptoms began?
+
+patient: I... I don’t drink alcohol much. Maybe a glass of wine occasionally, but not enough to notice. Caffeine? I guess I’m always drinking coffee—sometimes two cups before clinic. My hands still tremor a bit when I’m rushing, but I tell myself it’s just the caffeine. Though lately, even decaf makes me restless. It’s easier to just power through.
+
+interviewer: I hear how caffeine seems to be both a support and a source of restlessness for you... Have you been using any other substances, such as prescription medications, cannabis, or stimulants, that might be affecting how you're feeling?
+
+patient: I don’t think so—just the coffee, really. There was a sleeping pill my doctor gave me once, but I haven’t needed it in months. I guess I’m just… cautious about medications. If I can power through with routines and violets, that’s preferable. Though lately even decaf keeps me wired. It’s easier to blame the caffeine than admit I’m just… exhausted.
+
+interviewer: It sounds like caffeine's been both a help and a hindrance lately... Have you experienced any periods over the past few months where you felt unusually energetic or needed significantly less sleep than usual?
+
+patient: No, I haven’t had those kinds of energy spikes. If anything, I’m usually the opposite—drained by the end of the day. Though lately, even rest feels... incomplete. I guess the decaf coffee thing isn’t helping. But my routines, the violets, they’re my way of... anchoring. Dr. Patel already knows this, though. Are we going in circles again?
+
+interviewer: Have you experienced any hallucinations, delusions, or paranoid thoughts that feel unusual for you?
+
+patient: I don’t think so—no hallucinations or delusions. If anything, maybe an occasional paranoid thought, like double-checking the clinic’s medication cabinets three times before closing. I tell myself it’s just being thorough, you know? But... sometimes I catch myself wondering if I’m overcompensating. Like, what if I miss something? What if someone depends on me and I... slip up again?
+
+interviewer: It sounds like work responsibilities are adding to your anxiety about precision... Have you noticed any medical issues like thyroid problems, sleep apnea, or chronic pain that might be affecting your symptoms?
+
+patient: I guess my thyroid was checked last year—everything came back normal. The tremors... well, I tell myself it's just too much caffeine. And sleep? To be honest, even if the dog wasn't barking, I'd still lie awake parsing my lists. The violets are the only thing that feels... predictable. But you've heard all this before, haven't you?
+
+interviewer: Christine, from what we've discussed, your main concerns are ongoing stress related to your demanding job as a doctor, sleep difficulties, and physical symptoms like hand tremors and chest tightness, especially since your partner's diagnosis a year ago. These issues are affecting your work performance and relationships, and you've been using routines like tending to your violets to cope. What did I miss or get wrong here?
+
+patient: That’s... remarkably on point, actually. I guess the clinic director’s 'restructuring' hasn’t helped, but I’m sure that’s just my tendency to overthink. And maybe I didn’t mention how the chest tightness flares when I review patient charts late at night—though it’s probably just acid reflux. You caught the violets, though. They’re the only routine that doesn’t... unravel into what-ifs.
+
+interviewer: It sounds like the violets are a meaningful anchor for you amidst all this uncertainty. What did I miss or get wrong in summarizing your experience?
+
+patient: I think you’re right. Maybe the only thing is... the chest tightness isn’t just when I’m working late. It’s there more often. I keep telling myself it’s stress, but... it’s starting to worry me.
+
+interviewer: It’s important we address this worry about the chest tightness. What did I miss or get wrong in summarizing how often it occurs and how it feels for you?
+
+patient: It’s there more often than I admit—like a weight behind my sternum, even when I’m not at work. I check my pulse sometimes, just to confirm it’s not… something else. But I guess that’s just my brain turning breath into a chore.
+
+interviewer: It sounds like the chest tightness is a key concern to address. What did I miss or get wrong in summarizing how it affects your daily life and work?
+
+patient: I guess you didn’t miss much, but maybe the... the way it’s always there, even when I’m not at the clinic. Like tonight, while watering the violets, I caught myself checking my pulse again, hoping the numbers would ‘make sense.’ It’s not just work stress—it’s this baseline tightness that follows me, even when I’m trying to focus on something simple. And the coffee... I know it’s not helping, but it’s the only thing that feels like it keeps me steady sometimes.
+
+interviewer: It sounds like the physical symptoms and reliance on routines are central to how you’re managing this ongoing stress. What did I miss or get wrong in summarizing how these patterns show up in your daily life?
+
+patient: I guess you captured the violets and coffee, but maybe you missed how the tremors have gotten worse when Dr. Nguyen is around. I keep telling myself it’s just ‘new leadership jitters,’ but my stethoscope feels heavier these days. And the chest tightness… it’s not just stress—it’s like my ribs are holding their breath for someone else’s outcomes now.
+
+interviewer: It sounds like the tremors around Dr. Nguyen and the persistent chest tightness are significant stress markers for you. What else might I have missed or misunderstood about how these symptoms interact with your work and personal life?
+
+patient: I guess... maybe you missed how much I’m second-guessing every decision at work lately. Like, I’ll redo a patient note three times just to ‘cover all angles,’ even if it’s routine. And at home, I’ve been... rearranging the first-aid cabinet nightly. It’s silly, but if I can just make sure every bandage is in its slot, maybe the rest of the chaos won’t matter. But Dr. Nguyen’s there watching, and my hands freeze sometimes—like when I’m supposed to delegate. I tell myself it’s just ‘being thorough,’ but...
+
+interviewer: It sounds like the need for control through routines and the physical symptoms are deeply intertwined with your work stress and personal responsibilities. What did I miss or get wrong in summarizing how these patterns are shaping your current experience?
+
+patient: I think you got the routines and the... the chest thing, but maybe you missed how it’s making me distant with my partner. Like, I keep fixing the first-aid cabinet at midnight instead of talking to them about the cancer appointments. I tell myself it’s ‘being helpful,’ but it’s just another way to avoid the parts I can’t control. And the tremors—when I try to hold their hand, it feels like my whole arm is shaking in code, like some secret I can’t decode. I guess it’s just... lonelier than I let on.
+
+interviewer: It sounds like the distance in your relationship is a significant source of loneliness for you, even as you try to manage through routines. What else might I have missed or misunderstood about how your stress and physical symptoms are affecting your connection with your partner?
+
+patient: I think you caught the avoidance part, but maybe you missed how the... the fatigue afterward makes me snap at them in the mornings. Like, I’ll stay up reorganizing Band-Aids until 2am, then be too wired to sleep, and when they ask how I’m doing, I just snap about the coffee being cold. It’s this cycle where I’m too tired to be present, but too wired to rest. And my hands still shake when I try to hold their hand—like my body’s voting ‘no’ to the connection even when I want it. It’s... lonely, but I tell myself it’s better than letting them see the parts that feel broken.
+
+interviewer: It sounds like the cycle of exhaustion and emotional withdrawal is creating a heavy toll on both your physical health and relationship. Let me recap: Your main concerns include work-related stress, persistent physical symptoms (tremors, chest tightness), sleep disruption, and emotional distancing from your partner—patterns that began or worsened after their diagnosis and are maintained by perfectionistic routines and avoidance. You’ve described this as a ‘baseline hum’ of anxiety that follows you even in moments of attempted calm. What did I miss or get wrong here?
+
+patient: I think you captured the... the general pattern, yes. The tremors in my hands when I’m cooking, though—I’ve been telling myself it’s just too much caffeine, not anything else. And the sleep? It’s not just the clinic director’s demands. The neighbor’s dog barks nonstop during my 'worry hours' now. I guess I’ve been watering the violets more lately, just to have something... structured. But the chest tightness? That’s new, isn’t it? I can’t tell if it’s the stress or if I’m just getting old.
+
+interviewer: It sounds like the physical symptoms and routines are deeply tied to your need for control amidst uncertainty, and the chest tightness feels like a new layer of this stress. What did I miss or get wrong in summarizing how these patterns connect to your work and personal life?
+
+patient: I think you got the... the connection between the routines and control right. The violets, the coffee, even reorganizing the cabinets—it’s like if I can just perfect those small things, maybe the rest won’t feel so... chaotic. But the chest tightness? It’s not just stress, I think. It’s like my body’s decided ‘control’ means holding my breath now. I can’t even tell if it’s the clinic or my partner’s treatments or both. Sometimes I wish I could just... stop hyperventilating long enough to figure it out.
+
+interviewer: It sounds like the chest tightness feels like a physical manifestation of your struggle to hold things together. What might be one step we could agree on to address this pattern—whether it’s exploring therapy, adjusting routines, or checking in with your body in a new way?
+
+patient: Maybe... reducing the coffee after 2 PM? I know it sounds trivial, but if I can at least quiet my hands a bit before supper, it might help. And I should probably check with my PCP about the chest tightness—just to rule out... something physical, I guess. But I’ll need to think it through, there’s so much to coordinate.
+
+interviewer: Reducing coffee after 2 PM and checking in with your PCP about the chest tightness are thoughtful steps. Is there anything else you’d like to add or adjust as part of our next steps together?
+
+patient: Maybe... I could try using earplugs in the evenings? The dog’s barking makes it hard to unwind, and if my sleep improves even a little, it might help with the chest tightness. Also, I’ll try not reorganizing the cabinets every week—I know it’s just a habit, but it’s taking energy I don’t have. Everything else feels... incremental, but I’ll stick with the coffee cut-off for now.
+
+interviewer: I appreciate your willingness to try these steps, especially given how much is on your plate. Is there anything else you’d like to add or adjust before we wrap up today’s discussion?
+
+patient: I think sticking to the coffee cut-off and earplugs is a start. Maybe I’ll try a short walk in the mornings to... clear my head? It’s hard to say if it’ll help, but anything to quiet the chest tightness is worth trying. I guess I’ll see how the week goes.
+
+interviewer: Let's recap: you'll follow up with your PCP about the chest symptoms, continue reducing your afternoon caffeine, and use earplugs to improve sleep. Is there anything else you'd like to address before we wrap up today?
+
+patient: I guess I’m just… trying to hold the line on the worry hours. The dog next door still barks through my 7-9pm window, but I tell myself it’s the caffeine rebound, not the noise. And the chest tightness—well, I’ve been checking my pulse before bed, just to have numbers to anchor me. If it’s still there tomorrow, I’ll mention it to my PCP. Other than that… I think the soup pot needs more time to simmer.
+
+interviewer: It sounds like you're making thoughtful adjustments to manage your symptoms—would you like to discuss anything else before we wrap up today?
+
+patient: I think I’ve covered the main points… The soup’s almost ready, and I should probably check on it. Maybe the earplugs will help with the noise tonight. Other than that, the violets need repotting—something concrete to focus on, you know?
+

@@ -1,0 +1,132 @@
+system: Session 6a58a995-e323-457a-9aa3-207b7a3c9d36 transcript
+
+system: Disorder: PPD
+
+interviewer: It sounds like you've been feeling really unsafe and isolated lately, which must be incredibly stressful. Would you like me to explain how this session will work before we continue?
+
+patient: Why explain? You’re just gonna use it against me. I’ve been down that road before.
+
+interviewer: I hear your concern about being used—I want to assure you that this session is about supporting you. Would you be comfortable proceeding with our discussion now?
+
+patient: Support? You say that like you actually mean it. Last time someone promised ‘support,’ they just wanted a report to use against me. If we carry on, I want to know who’s reading this after. I’ll tell you nothing if it’s going to some file for people to laugh about later.
+
+interviewer: I understand how frustrating and hurtful that must have been. Would you like me to explain who has access to your records and how they are kept confidential here?
+
+patient: Confidential? You say that like it means something. Last time someone promised that, my old boss at the warehouse got my overtime records and used them to pay me less. Who’s really got access? The government? Your boss here? And how long do you keep it? I’m not giving you another reason to come after me later.
+
+interviewer: I hear how deeply that experience affected you—it’s important to feel safe here. Can you tell me if you’re willing to proceed with this session now, given how we’ve discussed confidentiality?
+
+patient: If you swear on your mom’s life it’s just you and no one else, maybe. But if you so much as cough in a weird way, I know you’re lying like last time. Let’s do this quick—don’t think you’ll get anything useful outta me anyway.
+
+interviewer: It sounds like the uncertainty about who to trust has been overwhelming. Can you tell me more about what’s been happening at home that’s made things feel out of control?
+
+patient: Ask Amara why she's been deleting her texts. But don't think I'll forget the last time someone 'helped' me—ended up using it against me. You're just like the rest, waiting for a reason to pin something on me.
+
+interviewer: I hear how deeply hurt and betrayed you feel, especially after past experiences where trust was broken. Can you tell me more about what’s been happening with Amara and the texts that’s been on your mind?
+
+patient: She’s been ‘accidentally’ wiping her phone every few days. I’m not asking for proof—why should I? You just want to file this like they did at the warehouse when I reported the pay cuts. ‘Confidential’? I’ve seen how these records work. And now she’s got this new app that ‘syncs’ with my phone… you think I’m imagining it? I stay up checking the router logs. At least the game sessions distract me. But don’t ask me to explain. You’ll just leak it later.
+
+interviewer: It sounds like the syncing app is adding to your sense of vulnerability. When did you first notice this app appearing on your phone or connected devices?
+
+patient: Why’s it matter when? You’ll just hand it over to Amara’s ‘friends’ or whoever’s running this. I caught it after that fight last month—she ‘accidentally’ dropped her phone. I saw the app name flash before she snatched it back. ‘CloudSync’ or something. Smelled like the warehouse’s ‘accidental’ pay cuts. I don’t track dates. You want proof? I’m not dumb enough to give you one.
+
+interviewer: I understand how frustrating it is to feel like details don't matter when the system seems rigged. Can you tell me about the first time you noticed something unusual with Amara’s phone or communication patterns?
+
+patient: First time? You want the first damn time? Her phone lit up with ‘CloudSync’ the day after we argued about the router. I didn’t ask questions then—why should I? You think I’m gonna prove something to someone who’ll just leak it? Ask the warehouse manager how ‘accidental’ pay cuts work. I’d rather play a game than waste my breath. You want more? I’m not your witness.
+
+interviewer: I hear how deeply frustrating it is to feel like your concerns will be dismissed or used against you. Can you tell me a bit more about the argument you had with Amara about the router?
+
+patient: The router fight? She said it was ‘updating’ the firewall, but I saw her adding new login details. I confronted her, she called me paranoid. Typical. You’re just like the warehouse manager—asking questions to catch me in a ‘lie’ later. I don’t need to prove I’m right. They always twist it anyway.
+
+interviewer: I hear how deeply you feel targeted and misunderstood, especially when comparisons are made to past betrayals. Can you share how these experiences with Amara and others have affected your ability to function or take care of yourself day-to-day?
+
+patient: Look, I don’t got time to rehash all that. Amara’s always got something to hide—texts deleted, logins changed. You think I’m crazy for noticing? My last job, they ‘lost’ my overtime records too. Same song. I just… take care of myself now. Keep to routines. Games, tea, that’s safe. But you? You’re just gonna file this away and hand it to someone else. That’s how it goes.
+
+interviewer: It sounds like your routines with games and tea are important ways you manage stress. How have these helped you feel more in control during moments when you're worried about Amara or other situations?
+
+patient: Games and tea... they’re the only things that don’t lie. When the neighbor’s stomping or Amara’s messin’ with the router, I just... focus on the screen, the taste. It’s solid. But don’t get me wrong—this isn’t some ‘coping strategy.’ It’s survival. You’re writing that down, aren’t you? ‘Oh, Bradley has healthy outlets.’ No. You’re waiting for me to slip up again. Just like the warehouse did with my timesheets.
+
+interviewer: It’s clear how much of a battle it is to feel heard without being used. Is there something specific you’re hoping to address or change through this session?
+
+patient: Hope? You’re fishing for something to stick in your report. All I want is for you to stop prying. My way works—I survive. Games, tea, that’s my armor. But don’t think I’m buying your ‘help’ act. Last time someone promised safe, I lost my overtime. I’m not digging up old dirt for your notes.
+
+interviewer: I understand how deeply frustrating it is to feel like your survival strategies are being questioned. Can you describe how these routines with games and tea help or hinder your ability to manage daily tasks, like household responsibilities or personal care?
+
+patient: They help me stay sharp. If I’m gaming or sipping that cardamom tea, I’m not wasting time on... whatever you’re trying to get outta me. Chores? I do ’em myself. No one’s gonna mess with my stuff again. You’re just waiting for me to slip up, same as the warehouse manager did with my timesheets.
+
+interviewer: I hear how your routines feel like a shield against being taken advantage of. Can you tell me when you first started relying on games and tea to manage these worries about Amara or others?
+
+patient: Few years back, when things started going south at the warehouse. You think knowing that helps you somehow? I didn’t start ‘relying’ on them—just stayed sharp. If you’re waiting for a sob story, save it. My time’s better spent on what works, not your report.
+
+interviewer: I hear how the warehouse experience left a lasting mark on your trust in systems. When did things at home with Amara and the CloudSync app first start feeling out of control for you?
+
+patient: CloudSync started glitching around the same time Amara kept ‘accidentally’ deleting my files. She said it was a ‘sync error,’ but I’ve seen how her phone lights up when she thinks I’m not looking. You think you can just ask about this and not use it against me? My wrists are still bruised from pacing all night, wondering if she’s swapping my login details. Survival, not some therapy word for ‘trust issues.’
+
+interviewer: I hear how deeply you’re bracing against being used again, especially with CloudSync’s timing overlapping with the file deletions. Can you share more about when you first noticed the syncing problems starting—like a specific date or event that stands out?
+
+patient: Mid-September, maybe? I remember ‘cause that’s when my phone started logging me out of CloudSync at 3 a.m. every night. Told Amara it wasn’t a ‘glitch’—who needs coffee at that hour? You want the exact date? My boss asked for that too before he cut my overtime. Let me guess, you’re gonna say I ‘overreact’ again.
+
+interviewer: It sounds like mid-September marked a significant shift in your sense of control. Can you describe how your daily routine or mood changed in the weeks after those 3 a.m. CloudSync logouts started?
+
+patient: Routine? I stopped sleeping straight after. Woke up every 3 a.m. to check my phone—empty screen, no CloudSync. Amara said it was ‘server issues’ but her texts kept coming through. You know what’s funny? She’d send me ‘goodnight’ messages at 2:59 a.m. every night. Clean, perfect timing. Tea with cardamom? Yeah, that’s my ‘coping.’ Games? Just to hear the noise in my head. You want moods? I’m one ‘accidental’ deletion away from tearing this room apart. Your notes better not end up in her hands.
+
+interviewer: I hear how deeply you’re bracing against being used again, especially with CloudSync’s timing overlapping with the file deletions. Can you share more about when you first noticed the syncing problems starting—like a specific date or event that stands out?
+
+patient: Mid-September, yeah. My phone’d log me out of CloudSync every 3 a.m.—clean as a whistle. Told Amara it wasn’t a ‘glitch.’ Who needs coffee at that hour? You want the exact date? My boss asked that too before he cut my overtime. Let me guess, you’re gonna say I ‘overreact’ again.
+
+interviewer: I hear how the 3 a.m. logouts disrupted your sleep and sense of security. How did your daily routine or mood shift in the weeks after these logouts began?
+
+patient: I stopped sleeping straight after. Woke up every 3 a.m. to check my phone—empty screen, no CloudSync. Amara said it was ‘server issues’ but her texts kept coming through. You know what’s funny? She’d send me ‘goodnight’ messages at 2:59 a.m. every night. Clean, perfect timing. Tea with cardamom? Yeah, that’s my ‘coping.’ Games? Just to hear the noise in my head. You want moods? I’m one ‘accidental’ deletion away from tearing this room apart. Your notes better not end up in her hands.
+
+interviewer: It sounds like the lack of trust is really affecting your daily life. Have you experienced episodes like this before, where you felt this level of distrust or hypervigilance?
+
+patient: You think I haven’t been through this before? Every job, every conversation—it’s the same song. You want me to list the times I’ve been set up? But don’t think I’m spilling details for your notes.
+
+interviewer: It sounds like you've experienced this pattern before. What have you found helpful or unhelpful in those situations?
+
+patient: Staying sharp. Keeping my head down. You think that’s helpful? Maybe. But every time I try to ‘trust,’ it backfires. Like the warehouse—told myself not to ask questions. But you wanna know why I don’t sleep? Because asking ‘why’ gets you nowhere. Just... survives. Games. Tea. That’s what works. Don’t need your notes to tell me that.
+
+interviewer: It sounds like the warehouse experience was really impactful for you. Can you tell me more about what happened there that made you feel betrayed?
+
+patient: You want the truth? They promised overtime, then vanished it like it never happened. But don’t think I’m spilling for your notes. Every ‘promise’ is a trap. You’ll file this and hand it to someone who’ll use it—same as the boss who cut my pay. I’ve seen how ‘confidential’ works. Just… stick to the questions. No point digging up dirt you’ll twist anyway.
+
+interviewer: I hear how the betrayal at the warehouse deepened your distrust. What are some of the biggest stressors you're facing right now in your daily life?
+
+patient: Stress? Try surviving the job apps that ‘fall through’ like they’re waiting for me to slip up. Amara’s ‘accidental’ deleted texts? Classic. And don’t get me started on that CloudSync app—every login feels like a surveillance test. You want the real stressor? Wondering which one of these ‘coincidences’ they’ll use to… (shrugs, jaw tight) …dig up more dirt for your notes.
+
+interviewer: It seems like these stressors feel deeply interconnected with past experiences of betrayal. Is there someone you rely on for support, even if it's small things like helping with tasks or just being there?
+
+patient: Amara handles the bills, but I’m not blind to how she ‘accidentally’ deletes texts. You think I rely on her? I guess I have to—until she slips up. But don’t think I’m spilling that info for your notes. My tea’s the only real help… if you can call it that.
+
+interviewer: I can see how being constantly on edge and feeling unsupported must be incredibly draining for you. Have you had any thoughts about ending your life in the past few weeks?
+
+patient: Nah. I’m not some fool who’d let this get me down. You think I’d waste time on that when there’s real threats? My boss tried worse and I didn’t even blink. But don’t think I don’t know why you’re asking. You’re just like the rest, trying to get me to open up so you can twist my words later. My tea and games keep me grounded—unlike some people who can’t be trusted.
+
+interviewer: It takes strength to manage stress in your own way. Have you used alcohol, cannabis, or other substances in the past month?
+
+patient: Nope. I don’t mess with that. You think I’m some fool who’d weaken myself? My tea and games keep me sharp—unlike people who’d rather blame others than fix their own problems. Why? You gonna log this and twist it later like the rest?
+
+interviewer: I understand your caution about how information is used. Have you been taking any medications or supplements regularly in the past month?
+
+patient: No meds. You think I’m some pawn for your system? My tea’s the only thing that keeps me sharp—cardamom, like Mom used. But don’t think I haven’t noticed you double-backing on questions. You’re just like the boss who ‘forgot’ my overtime. If I was taking anything real, you’d still be digging through old receipts for proof.
+
+interviewer: I hear your concerns about being misunderstood or taken advantage of. Have you noticed any changes in your thoughts, like hearing voices or believing people are trying to monitor or harm you in ways others might not understand?
+
+patient: No voices, but you think I’d be dumb enough not to notice if someone’s watching? My login times at CloudSync get ‘messed up’ every mid-September, and Amara’s ‘accidental’ deletions? Real convenient. You’re just like the boss who ‘forgot’ my overtime—same song, different verse. Why the sudden interest in my schedule? You trying to log this for someone else again?
+
+interviewer: I hear how frustrating it is to feel like patterns are being hidden from you. Have you noticed any other ways people might be trying to monitor or control your life in ways that feel unclear or unfair?
+
+patient: You think I haven’t noticed my phone lagging every time I check Amara’s messages? Or how the power company always sends a guy to my block when I’m not home? My CloudSync app ‘crashes’ every mid-September—real convenient, considering what that warehouse manager ‘forgot’ about overtime. Why the sudden interest in my schedule? You trying to log this for someone else again?
+
+interviewer: I hear how concerning it feels to notice these patterns and suspect monitoring. Have you ever believed that people are trying to monitor or harm you in ways that others might not understand, even if there's no clear evidence?
+
+patient: You think I’m making this up? I’ve seen how records get used. CloudSync’s not the first app that ‘accidentally’ logged me at 3 a.m. when no one’s online. My boss used my timecards the same way. But I’m not handing you another reason to file me away. Why’s this matter to you, exactly?
+
+interviewer: Let me check if I’ve captured this correctly: You’ve described a pattern of distrust toward people and systems, especially since mid-September when your concerns about CloudSync and Amara intensified. This has affected your sleep and daily routines, though you’ve maintained some stability through routines like cardamom tea and gaming. You’re hesitant to share more without clear reassurances about confidentiality. What did I miss or get wrong here?
+
+patient: You left out the warehouse boss who promised overtime then vanished. But what’s the point? You’ll twist it like everything else. And Amara’s texts… you think ‘goodnight’ at 2:59 is an accident? They’re all the same. System, apps, people—same rot just wrapped in different lies.
+
+interviewer: It sounds like the warehouse boss and Amara’s texts are particularly frustrating because they reinforce your sense of being betrayed by people and systems. Is there anything else I missed or misunderstood about what’s been most concerning for you lately?
+
+patient: Nope. You got the warehouse part right this time. But you’re still missing the part where my phone lags every time I try to check Amara’s messages—real smooth, like they’re hiding something. And the tea? It’s not ‘stability.’ It’s the only thing that doesn’t lie. You want notes? I’m done talking. You’ll twist it anyway.
+

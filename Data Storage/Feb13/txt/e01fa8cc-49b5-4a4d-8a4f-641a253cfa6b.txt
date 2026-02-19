@@ -1,0 +1,88 @@
+system: Session e01fa8cc-49b5-4a4d-8a4f-641a253cfa6b transcript
+
+system: Disorder: MDD
+
+interviewer: Would you prefer I use a different name or pronouns when speaking with you today?
+
+patient: Tanya’s fine. I mean, it’s what everyone calls me, so… no need to complicate it. I guess I’m just used to it from work—protocols and all that.
+
+interviewer: That makes sense. Do you have any questions about the purpose or structure of this session before we continue?
+
+patient: No, I don’t think so. I mean, I guess it’s like any protocol you have to follow. I’m just used to… sticking to the steps, you know? Probably overcomplicating things, but that’s my job, I suppose.
+
+interviewer: I can understand how structure might feel reassuring. Would you be comfortable moving forward with this session as we've discussed?
+
+patient: Yeah, I mean, it’s what I do at work—stick to the steps. Probably not the most exciting approach, but... it’s reliable, I guess. As long as we don’t get too off-track. My brain’s been a bit slow lately, you know?
+
+interviewer: It sounds like staying on track helps you feel more in control. Would you like to ask anything specific before we begin?
+
+patient: No, I think we’re good. Just… don’t go too fast. My brain’s been a bit slow lately, like I said. I’ll let you know if I need to pause—probably will, but that’s just me being thorough, you know?
+
+interviewer: It sounds like this has been an incredibly challenging time for you, especially with the demands of your job and relationship. Have you experienced episodes like this before, where you felt persistently down and struggled with daily activities?
+
+patient: I guess... I’ve felt this burnt out before, but never for this long. Work’s always had its rough patches—like after a bad call or when the shifts pile up. But this time, it’s like my brain’s stuck on repeat. I can’t even remember the last time I felt ‘normal.’ The insomnia’s worse now, though. Last month I was just tired; now it’s like my body’s refusing to recharge.
+
+interviewer: It sounds like this has been an ongoing struggle... Have you experienced similar episodes of burnout or prolonged low mood in the past?
+
+patient: I’ve had rough patches, sure. After a bad call or when shifts back-to-back, you hit a wall. But this… it’s like the reset button’s broken. I can’t shake this fog. And the insomnia? It’s not just staying up late—it’s like my body’s on a different clock. I’ll wake up at 3, count ceiling tiles, and wonder why I even bother.
+
+interviewer: That sounds really tough to feel like your body and mind are working against you. How has your husband been supporting you during this time, and have there been moments when that support feels harder to navigate with how you're feeling?
+
+patient: He’s… trying. We both are. He’s on night shifts now, so when he’s gone for 18 hours, I just… eat frozen stuff, watch true crime, try not to think. I don’t want to sound dramatic, but sometimes I feel like I’m just… existing in silence. But it’s fine. I’m used to it. We text memes about *The Crown*—keeps things normal, I guess.
+
+interviewer: It sounds like maintaining connection through small shared moments is important for both of you. How have the changes in your husband’s shift schedule affected your daily routine or sense of connection with him?
+
+patient: It’s… harder to sync up, sure. When he’s gone that long, the house feels like a shift rotation with no team. But we text memes about *The Crown*—keeps the noise at bay, I guess. I don’t want to make it sound like a crisis. We’re both just… surviving.
+
+interviewer: It sounds like you're feeling overwhelmed by these challenges. Have you been having any thoughts about ending your life?
+
+patient: I don’t want to die. I just… sometimes think about not waking up. But that’s probably just being tired. I’ve been eating a lot of waffles at the 24-hour diner—it’s the only thing that feels real anymore. The noise from the construction next door doesn’t help, but I guess that’s just life.
+
+interviewer: It sounds like those thoughts can feel overwhelming even if they’re tied to exhaustion. Have you ever made a plan to harm yourself or take your life?
+
+patient: No, I haven’t made a plan. It’s more like... I get stuck in these loops where I think, 'Why even bother?' But that’s probably just exhaustion, right? My brain’s been so fried I can’t even follow recipes without second-guessing every step. The construction outside? Feels like it’s drilling into my skull. But I’m here, aren’t I? Shows up for work, pays bills... just... slowly.
+
+interviewer: It sounds like you're carrying a lot of weight right now. What has kept you showing up for work and managing responsibilities, even at this slower pace?
+
+patient: It’s... the steps, I guess. Work has this rhythm you follow, even when your brain feels like it’s short-circuiting. And the waffles at the diner? At least the syrup’s still sticky. Doesn’t fix anything, but... I’m not the type to bail on a shift. Even if my legs feel like bricks the whole way there.
+
+interviewer: It sounds like you rely on structure to keep going. Have you experienced any periods where you felt unusually energetic, had a lot of ideas, or needed less sleep than usual?
+
+patient: No, not really. My brain’s more like a short-circuited machine these days—stuck on repeat. The only 'energy' I feel is this buzzing static, like the construction noise outside but inside my head. If anything, I’d trade all this static for a few hours of actual rest. The steps keep me moving, though. Even if my feet feel like bricks the whole way.
+
+interviewer: It sounds like your mind feels stuck in a loop of static and exhaustion. Have you noticed any changes in your use of alcohol, cannabis, or other substances since these feelings started?
+
+patient: No, nothing like that. I’m not... I don’t really mix anything into the routine. Just coffee, same as always. Even when my head feels like that construction noise outside, I guess I’m used to the static by now. The waffles at the diner are my cheat, not anything stronger. Can’t exactly fix a short circuit with syrup, but it’s a start.
+
+interviewer: You’ve mentioned relying on routine to manage your day. Are you currently taking any medications or supplements to help with your symptoms, energy, or sleep?
+
+patient: No medications, just coffee. Same old. Sometimes I’ll grab a protein bar if I forget to eat, but… it’s all part of the routine. The diner waffles help more, honestly. Sticky syrup, predictable. Can’t fix static, but it’s something. You start to appreciate the little things that don’t short-circuit your brain.
+
+interviewer: It sounds like your routine is a key part of managing your day. Have you noticed any physical health changes, like thyroid issues or chronic pain, that might be contributing to your symptoms?
+
+patient: Honestly, I haven’t ruled anything out, but my doc did run blood work a few months back—thyroid, vitamins, the basics. They said I was ‘within normal ranges’ except for some stress-related stuff. I’ve lost a few pounds, I guess… just no appetite most days. But it’s probably nothing serious. I mean, even the construction noise outside doesn’t keep me up anymore. Though I did start putting extra syrup on my waffles to pretend I’m doing something ‘fun.’ Ha. It’s just… static, right? Like my body’s on low battery but I can’t hit refresh.
+
+interviewer: It sounds like your mind feels stuck in static even when your body is moving through routines. Have you noticed any unusual sensations or thoughts that others might not pick up on, like hearing voices, seeing things, or feeling strongly that people are out to get you?
+
+patient: Just the usual static... and the construction outside. No voices or anything. My brain’s like that old radio you can’t tune—just... noise. You know how those are. Ha. Though I did start putting extra syrup on my waffles to pretend I’m doing something ‘fun.’ It’s not much, but it’s... something.
+
+interviewer: Tanya, based on our conversation, it sounds like you’ve been experiencing a prolonged period of low mood, anhedonia, and cognitive slowing that’s impacting your work and relationships. We’ve discussed potential factors like work-related stress, marital strain from shifted routines, and a family history of bipolar disorder. You’ve also mentioned relying on structure and humor as coping strategies, even as you feel disconnected and overwhelmed. What did I miss or misrepresent here?
+
+patient: You didn’t miss much, I guess. The 18-hour nights alone since his shift change… that’s new static. I just power through, same as work. But… you didn’t misrepresent. Just left out the part where even the waffles feel like a chore sometimes. Ha. Still, I’d rather have syrup than the noise in my head.
+
+interviewer: It sounds like the recent shift changes are adding new challenges to an already heavy load. If things feel overwhelming, who is someone you can reach out to for support, or what might help you get through those tough moments?
+
+patient: I just... keep going. Same as always. Syrup on waffles, memes with my husband—keeps me from thinking too much. He’s busy, but we text sometimes. I guess it’s enough.
+
+interviewer: It sounds like you're finding small but meaningful ways to stay grounded. Before we wrap up, can you share if there’s anything else you’d like to address or clarify as we move forward?
+
+patient: Just… the noise. The construction outside, the static in my head—it’s like they’re both on repeat. But I guess that’s just me being dramatic. I’ll be fine. The syrup helps. And the memes. We should wrap up, right? I don’t want to keep you.
+
+interviewer: It sounds like the noise is adding to the mental weight you’ve been carrying. Before we wrap up, let me confirm: Would it help to schedule a follow-up to discuss next steps and support options?
+
+patient: I guess a follow-up… could help? I just don’t want to overcomplicate things. Waffles and syrup are my weird coping mechanism, but I’ll show up if I need to. My husband sends me *The Crown* memes to make me laugh—maybe that’s enough for now.
+
+interviewer: I'll schedule a follow-up in two weeks to check in. In the meantime, if you ever feel overwhelmed or notice the static getting louder, who could you reach out to for support?
+
+patient: My husband, I guess. He’s busy with his shifts, but he’ll send me those *Crown* memes to make me laugh. If the static gets too loud, I’ll probably just power through with syrup and coffee. I don’t want to overcomplicate things—most days, the waffles are enough.
+

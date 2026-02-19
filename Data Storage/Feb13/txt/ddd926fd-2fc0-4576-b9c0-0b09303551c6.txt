@@ -1,0 +1,80 @@
+system: Session ddd926fd-2fc0-4576-b9c0-0b09303551c6 transcript
+
+system: Disorder: GAD
+
+interviewer: Allison, just to clarify, are you comfortable proceeding with this interview today?
+
+patient: Yeah, of course. I mean… my shoulders are a bit tense today, but that’s probably just work stuff. I’ve been running on about five hours of sleep most nights, but I can focus. Let me know if we need to take breaks or anything—my tea’s brewing at home, so I’ll be okay.
+
+interviewer: It’s understandable to feel tense after such a demanding job. Just to make sure we’re on the same page, this session will involve discussing your current concerns and how they’re affecting your daily life. Does that sound right, or is there anything you’d like to clarify before we begin?
+
+patient: Yeah, that sounds right. I guess… I’d just want to make sure we’re not spending too much time on the obvious stuff, like work stress. My mom’s health is definitely on my mind too, but I’m used to managing that kind of worry. It’s more the… the way it all feels like it’s eating into my focus, you know? I’ll explain if we need to, but I can handle the basics.
+
+interviewer: It sounds like you're carrying a lot on your shoulders right now. Do you have any immediate questions about how we'll approach this session before we continue?
+
+patient: I guess… I just want to make sure we have a plan. I don’t want to waste time if my head’s not fully in it today. (Adjusts shoulders, pauses) But I can follow along—this isn’t my first… you know, chaotic thing to untangle. As long as we don’t… get stuck on the same loops I get stuck on. My tea’s almost done, so maybe that’ll help.
+
+interviewer: Thank you for sharing that overview. Can you tell me more about what's been most concerning for you lately?
+
+patient: It’s… hard to pinpoint one thing, really. Work’s been tricky—there was this incident last winter where I almost missed a dose for a patient. I’ve gone over it a million times; it was a simple mistake, but now I second-guess every calculation. And my mom’s cancer treatments keep adding complications… (trails off, shrugs) I guess what worries me most is that I can’t always shake the feeling that I’m one misstep away from everything unraveling. Even when there’s no real reason for it. (Pauses, rubs neck) My tea’s going to be cold soon, but I’ll be better once I’ve had it.
+
+interviewer: That sounds like a heavy burden to carry. When did these concerns about work and your mom's health start becoming this overwhelming for you?
+
+patient: It... it started simmering about a year ago, I guess. After that close call at work with the medication dose. I’ve always been careful, but since then, my head’s been stuck on replay. My mom’s diagnosis hit hard too—she’s always been this unshakable figure, you know? I just... I worry I’ll mess up again or not be there for her like I should. My shoulders are always knotted, and I wake up tired even after sleeping. Have you ever tried writing down the worries to sort them? It helps sometimes, but...
+
+interviewer: It sounds like writing down worries is a strategy you’ve tried to manage the chaos—what would you most hope to achieve through our work together in the next few sessions?
+
+patient: I guess... I’d like to feel like I can catch my breath sometimes. Not necessarily fix everything, but maybe stop the wheel from spinning so fast that I can’t taste the tea or hear myself think. If we could untangle a few of these threads—like why my hands shake when I’m zipping Max’s coat, or why I stay up staring at the ceiling even after the worry notebook’s done—without it feeling like I’m breaking down every time. That’d be something.
+
+interviewer: It sounds like this pattern of stress and self-criticism is taking a toll on both your work and personal life. Have there been times in the past when you experienced similar feelings of overwhelm, and if so, what helped—or didn’t help—during those periods?
+
+patient: I... I think there was a time during my training as an EMT when I first started, you know? The pressure to get everything right. I remember staying up late memorizing protocols, my hands shaking so bad I spilled coffee everywhere. What helped? Maybe the structure? Making lists so I wouldn’t miss anything. But... it’s different now. Back then, the lists kept me steady. Now, they just feel like I’m... circling the same page. I guess I’ve always handled stress by hyper-focusing on details. But this time, the details won’t stop. Even when I’m baking, I’ll double-check the measurements three times. My husband says it’s ‘endearing’—he’s very polite about it.
+
+interviewer: It sounds like your coping strategies have shifted significantly since your EMT training. Can you share more about what specifically feels different now compared to how you managed stress back then?
+
+patient: I guess... back then, the lists had an endpoint. Like, once the shift started, I could just follow the steps and it anchored me. Now, the lists feel like... like they’re just propping up a wall of questions. I’ll triple-check the flour in a recipe, but then I’ll lie awake wondering if I locked the front door three nights ago. It’s not the same kind of stress—it’s quieter, but it’s always there, you know? Even when I’m doing the thing right, I’m already dreading the next mistake. My hands still shake sometimes, but now it’s when I’m brushing my teeth, not holding a syringe. It’s... harder to explain. Like the mistake isn’t just at work anymore.
+
+interviewer: That sounds really challenging, the way your anxiety has shifted into daily life. How has your husband been supporting you during this time?
+
+patient: He... tries. He makes the chamomile tea every night, same as always. Says it’s ‘just tea,’ but I know it’s his way of... of keeping things normal. We’ve had some quiet nights, just the TV on low. But I catch him looking at me sometimes, like he’s waiting for me to snap out of it. I try to laugh more, you know? Keep the peace. He’s patient, really. But there’s this... this quiet tension. Like he’s holding his breath, hoping I’ll reach for him. I want to, I just... don’t know how anymore.
+
+interviewer: Have you had any thoughts of harming yourself or ending your life recently?
+
+patient: I... I don’t think so. Not really. It’s just—the weight of everything, you know? My shoulders feel like they’re in a vice most days. But even when I’m exhausted, I can’t stop my mind from racing. I guess I’d rather obsess over fixing the roof leak or double-checking Max’s leash than let myself dwell on... on bigger gaps. My husband still makes that chamomile tea every night. It’s sweet, but sometimes I wish I could just *be* for once instead of always problem-solving.
+
+interviewer: It sounds like the pressure you're carrying is both physical and emotional. Have you noticed any changes in your use of alcohol, cannabis, or other substances lately, either to cope or for other reasons?
+
+patient: No, not really... I mean, I don’t drink or use anything else. Chamomile tea’s about as indulgent as I get. It’s just... my shoulders are always tight, you know? Like the roof leak—fixing it would be simple, but what if I can’t afford it? What if it gets worse? I guess I just... obsess over little things instead of facing the bigger ones. It’s probably nothing, though.
+
+interviewer: Are you currently taking any medications or supplements, including things like vitamins or herbal remedies?
+
+patient: Not really anything prescription... maybe some magnesium sometimes for my legs. And a basic multivitamin, I guess. My doctor said it's just to be safe, but I think it helps with the... the tiredness. My muscles still knot up, though.
+
+interviewer: It sounds like the physical tension is really impacting your daily life. Have you been feeling more restless or had less need for sleep lately without feeling tired?
+
+patient: I guess I’m always on edge, like my muscles are coiled tight even when I’m just sitting. At work, I can’t keep still during downtime—it’s like my body’s waiting for the next call. Sleep… I lie awake replaying shifts or tomorrow’s to-do list. The tea helps a bit, but my mind won’t shut off. It’s probably just… job stress?
+
+interviewer: It sounds like your mind is constantly working even when you'd like to rest. Have you noticed any periods where you feel unusually energetic or have racing thoughts that are hard to control?
+
+patient: Unusually energetic? I guess... no, maybe not 'energetic' exactly. Just restless, like my mind’s on a hamster wheel even when I’m trying to focus. At work, I’ll catch myself reciting protocols in my head during downtime—it’s supposed to keep me sharp, but sometimes it feels like the words are just looping. Like... like they’re not mine anymore. (Pauses, then softens with a small laugh.) It’s probably just me overthinking again.
+
+interviewer: That sounds really frustrating... Have you had any periods where you feel unusually energetic or need significantly less sleep than usual without feeling tired?
+
+patient: I guess... sometimes I'll work an extra shift if the schedule's tight. Keeps my mind off things, I guess? But even when I'm up late, my body still feels like a clock that's stuck on reset. My husband says I'm 'running on fumes' half the time, but I just tell him I like being busy. The chamomile tea helps... most nights. It's probably nothing, though.
+
+interviewer: It sounds like your mind is in overdrive with these loops... Have you noticed any changes in your thinking, like hearing voices, seeing things others don't, or having thoughts that feel unusual or paranoid?
+
+patient: No, nothing like voices or seeing things... I guess my mind just... never really shuts off? It's like a hamster wheel that's stuck on high speed. I'll be doing something routine, like measuring flour, and my head's already three steps ahead worrying about something else. My husband says I'm 'constantly scanning for trouble'—which, I guess, is just part of the job for an EMT? But even when I'm trying to relax, my shoulders feel like they're in a vice. The tea helps, though. Most nights.
+
+interviewer: Let me try to summarize what we’ve covered so far: You’ve been feeling overwhelmed by work-related anxiety, especially after a past medication error, and caregiving stress for your mother’s health. This has led to chronic physical tension, sleep disruption, and difficulty focusing, which is affecting your job and relationships. You’ve used strategies like worry journaling and chamomile tea, but they’re not fully helping. Would that be an accurate summary, or did I miss something important?
+
+patient: Yeah, that’s... that’s pretty much it. I guess I didn’t mention how the tea’s been less helpful lately? The refresher course looms over me like a storm cloud, but I’ll cross that bridge when I get there. My husband’s patience’s wearing thin, I can tell... but we’ve got routines, right? They keep things from unraveling.
+
+interviewer: It sounds like the routines you and your husband have built are helping you both navigate this challenging time, even as the stress feels heavier. What would be most helpful for us to focus on next—like specific strategies for managing work-related anxiety, exploring new coping tools, or addressing relationship dynamics?
+
+patient: I guess... focusing on work strategies first makes sense? The refresher course is this storm cloud I can’t quite plan around. But maybe if I could break the cycle of these... these mental loops? My husband’s patience’s wearing thin, but I’m not sure how to explain that the tea’s not cutting it like it used to. It’s like... my body’s still on high alert even when I’m trying to hold things together. Maybe starting there?
+
+interviewer: It sounds like you're doing your best to manage a lot right now. Before we close, is there anything else you'd like to address today?
+
+patient: I guess... the tea’s not cutting it like it used to. My shoulders... they’re always tight, even when I try to relax. And that refresher course... it’s looming, but I’ll figure it out. Probably.
+

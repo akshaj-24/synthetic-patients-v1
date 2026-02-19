@@ -1,0 +1,144 @@
+system: Session 6d109d4d-4eb1-4212-b941-3187d2d29722 transcript
+
+system: Disorder: MDD
+
+interviewer: Good morning, Sarah. Thank you for coming in today. To start, can I confirm your preferred name and pronouns?
+
+patient: My name is Sarah Snyder, and I use she/her pronouns. It’s… straightforward, like most things. I prefer clarity.
+
+interviewer: Thank you for sharing that, Sarah. Today’s session will focus on understanding your current concerns and how we might support you moving forward. Does that align with what you hoped to discuss, or would you like to clarify anything before we begin?
+
+patient: Yes, that... that sounds reasonable. I’ve just been trying to manage everything without making a fuss. Work has been overwhelming, and the neighbor’s music doesn’t help. It’s all just... systemic inefficiency, I suppose. But I’ll admit, I’m not sure where to start with figuring it out.
+
+interviewer: It sounds like the sleep pattern you've described—waking up early and not being able to fall back asleep—has been quite disruptive. When did you first notice these feelings of overwhelm and disconnection starting?
+
+patient: It’s... hard to pinpoint the exact start. Maybe eight months ago? Around the time I was juggling back-to-back night shifts at the hospital. My partner was frustrated I missed our anniversary, but I told myself it was just burnout. Now it feels like everything’s cascading—like a system that’s been stretched too thin. The neighbor’s music doesn’t help, but I suppose I’ve just... gotten used to running on fumes.
+
+interviewer: It sounds like juggling work demands and personal life has added to the strain you're experiencing. Can you describe how your mood has been during this time—have there been moments when you felt more anxious, hopeless, or emotionally numb?
+
+patient: It’s... inconsistent. Some days I feel detached, like I’m watching myself function but not actually *there*. Other times, I’m irritable—small things, like the neighbor’s music, feel like they’re amplified. I tell myself it’s just... inefficiency. But there are moments when I wonder if I’m just... stretched too thin to care anymore.
+
+interviewer: It sounds like the fluctuating emotions you're describing are taking a toll on your sense of self and daily functioning. Can you share an example of how these feelings of detachment or irritability have affected your work as a doctor recently?
+
+patient: There was this case last week—a straightforward UTI. I spent twice as long cross-referencing guidelines, second-guessing every recommendation. By the time I finished, I was so irritable I snapped at a nurse for bringing me coffee. Afterwards, I felt... hollow, like I’d botched something important but couldn’t pinpoint why. It’s not the patient’s fault, though. The noise from the construction next door has been brutal. You can’t focus when your brain’s already running on fumes.
+
+interviewer: It sounds like the recent incident with the UTI case and the construction noise is adding to your stress. What are your hopes or goals for coming in today?
+
+patient: Honestly? I hope... I hope this helps me stop malfunctioning at work. I can’t keep second-guessing every minor decision—it’s inefficient and frustrating. If I could just... recalibrate, maybe? Find a way to focus without the noise from the construction eating at me. I don’t want to take out my irritability on everyone else. That’s it. Practical fixes, not... deep stuff.
+
+interviewer: It sounds like practical solutions are important to you. Can you share what strategies you've tried so far to manage the stress or overwhelm at work?
+
+patient: I’ve tried... compartmentalizing more. Like, strictly categorizing tasks by urgency. It helps, but only until the construction noise starts. I also started taking 10-minute breaks between shifts to organize my journal collection by color. It’s mechanical, but it... grounds me? Though I admit I haven’t finished the painting I started months ago. The stormy sea just looks like a mess now. Maybe I’m overcomplicating things.
+
+interviewer: It sounds like these feelings are really impacting your daily life and relationships... Have you experienced similar episodes of feeling overwhelmed or disconnected in the past, and if so, what tended to help you recover?
+
+patient: I... I don’t know if I’d call them ‘episodes.’ It’s more like this is the baseline now. Before, when I’d get overwhelmed, I’d just work harder to compensate—longer hours, stricter schedules. But that only delayed the collapse. The last time I tried ‘recovering’ was after a particularly grueling rotation. I took a weekend off, forced myself to read a novel instead of medical journals. It helped... temporarily. But the moment I went back to shifts, the fog returned. Maybe I’m just not built to... reset anymore.
+
+interviewer: That sounds really isolating... Have you experienced similar periods of burnout in your medical career before, and if so, what strategies helped you recover then?
+
+patient: Burnout? Maybe. But this feels... different. Before, I could force myself back into gear with stricter schedules, but now even the 'strict' parts feel like they’re fraying. I remember taking a weekend off once after a bad rotation—it helped, but only until Monday. Now, even weekends are just... downtime where I stare at that half-finished painting. The noise from the construction doesn’t help. You can’t call this burnout when it’s not just work, though. It’s everything. Or nothing, maybe.
+
+interviewer: It sounds like the construction noise is making it harder to find relief even during downtime... How has your partner been supporting you through this challenging period?
+
+patient: They’re... concerned, I think. But I don’t want to burden them with all of it. It’s just—everything feels like too much right now. The noise, the work, the way I can’t even hold a thought without my mind fracturing. I keep telling myself it’s temporary, but what if it’s not? What if I’m just broken now?
+
+interviewer: It sounds like you're carrying a heavy weight right now... What has been a source of strength or resilience for you during this time, even if it feels small?
+
+patient: The painting... the stormy sea. It’s half-finished, but sometimes staring at it feels like there’s still a part of me that didn’t completely shut down. Though honestly, it’s more like a reminder of what I used to be able to do. The journals—organizing them by color, it’s mechanical, but it... grounds me in a way that doesn’t require feeling anything. But I hate that I need those things just to pretend I’m not falling apart.
+
+interviewer: That sounds like a mix of resilience and frustration—holding onto these activities even when they feel inadequate... Have you noticed any patterns in your family history around stress or mental health that might be relevant here?
+
+patient: My father was... a high-pressure surgeon. Always expected perfection. I think I absorbed that need to control everything, but now it feels like a flaw. Like a broken feedback loop. You know how some systems just keep trying to compensate even when the error can’t be fixed? That’s me. (Pauses, avoids eye contact.) But maybe that’s just me being dramatic. My partner says I’m overthinking again.
+
+interviewer: It sounds like your father’s expectations may have shaped how you approach challenges... How do you think that drive for control has influenced how you handle stress or challenges in your work or personal life now?
+
+patient: It’s like... my body’s still running the same protocol it always has. If something goes wrong, you double-check the system, adjust the parameters, force it back on track. (Pauses, rubs temples.) At work, I’ll spend hours cross-referencing minor cases instead of just... trusting my training. It’s irrational, but if I don’t micromanage every detail, I’m convinced something will collapse. My partner says I’m ‘over-preparing,’ but how do I explain that it’s not about competence anymore? It’s about proving I’m not the one failing. (Softly.) Even the painting—it’s just one more thing I have to ‘fix’ to feel like I’m not completely broken.
+
+interviewer: It sounds like your father’s expectations have left a lasting imprint on how you approach challenges... Have you experienced any traumatic events or significant adversities in your life that you think might be related to how you're feeling now?
+
+patient: There was... that UTI case I misdiagnosed last winter. Spent hours second-guessing myself, then snapped at the team when the patient’s condition worsened. The guilt lingers like a bad scan you can’t re-read. But maybe that’s too clinical a way to put it. (Tugs at sleeve seam.) My father would’ve called it a 'feedback loop failure.' I just... hate that mistakes feel like proof I’m unraveling.
+
+interviewer: That sounds like a heavy weight to carry... How has that incident continued to affect your work or relationships with colleagues since it happened?
+
+patient: It’s... complicated. The UTI case made me hyper-focused on double-checking every detail, which slowed me down. My colleagues tolerated it, I think—though I snapped at one of them when they asked for a quick update. I still cringe about that. It’s not just work, though. My partner’s been... distant lately. I assume it’s because I’m ‘difficult’ to be around, but I can’t afford to dwell. There’s always another chart to review.
+
+interviewer: It sounds like your relationship with your partner is both a source of concern and a potential support... How have you and your partner been communicating about the stress you’re experiencing, and what does that dynamic feel like for you?
+
+patient: Communication... it’s strained. I assume they’re frustrated with my inefficiency, my tendency to withdraw. I avoid discussing it because I don’t want to impose my 'systemic breakdown' on them. They’ve tried to talk, I think, but I deflect—work, charts, anything to avoid the... weight of it. It feels like they’re waiting for me to 'fix' myself, but I can’t even fix the noise in my head, let alone explain it to them.
+
+interviewer: It sounds like your relationship with your partner is both a source of concern and a potential support... How do you think your partner could best support you right now, even if it feels difficult to ask for help?
+
+patient: I think... if they could just stop waiting for me to 'snap out of it,' that would help. Even acknowledging that this isn’t a flaw, but something... systemic. But I know that sounds like a cop-out. Maybe if they stopped trying to 'fix' me and just... let me exist in the mess without judging it? Though I’d probably push them away anyway. I’m used to being the problem.
+
+interviewer: That sounds really tough... Have you had any thoughts about harming yourself or ending your life?
+
+patient: I... I don’t want to keep them waiting for something that’s just a dead end. The pills in the drawer? They’re for emergencies, not that kind. I hate how everything feels like a loop—fix the noise, fix the charts, fix the... mess. But it’s not just noise anymore. It’s like the system’s crashing, and I’m just... waiting for the reset button that doesn’t exist.
+
+interviewer: It sounds like the medications in the drawer are a source of concern... Can you tell me what kind of medications are there and if any could be used in a harmful way?
+
+patient: They’re just prescription sedatives—nothing dangerous if taken as directed. I only use them when the construction noise makes sleep impossible. I... I’m not misusing them. The real issue is that the noise never stops. It’s like my brain’s on loop with the jackhammers. Do you have any idea how hard it is to focus when your entire system’s running on fumes?
+
+interviewer: It sounds like the construction noise is taking a significant toll... Can you tell me the names of the medications you have in your drawer and how you’ve been using them?
+
+patient: They’re just... sleeping pills. Prescribed for occasional insomnia, but I’ve only used them a few times. Honestly, it’s the neighbor’s music that’s making it impossible to rest. If the noise stopped, maybe I wouldn’t need them. I know it’s not ideal, but I’ve dealt with burnout before—this is just... more of the same, right?
+
+interviewer: Have you been using any other substances, like alcohol or cannabis, to manage stress or sleep difficulties?
+
+patient: I... I haven’t really tracked that kind of thing. Maybe a glass of wine sometimes? It’s not like I’m... you know, getting drunk or anything. It’s just... when the shifts are brutal, you grab what you can. But I’d rather not dwell on it. The noise issue is far worse—it’s like my brain can’t even process quiet anymore.
+
+interviewer: I can see how the noise feels more urgent to you... Have you used cannabis or other substances like stimulants or opioids to cope with stress or sleep issues?
+
+patient: No cannabis. Maybe a glass of wine sometimes, but it’s not like I’m... you know. The noise is the real problem here—how can you expect me to rest when it’s nonstop? You’re just circling back to the same stuff.
+
+interviewer: I hear how frustrating it is when things feel repetitive... How often have you been having that glass of wine, and is it specifically to help with stress or sleep?
+
+patient: It’s not like I track every glass. It’s just… when the noise drives me crazy, you grab what you can. Again with the wine? I’d rather talk about the music that’s literally keeping me awake.
+
+interviewer: I can see how the noise is really affecting your rest... Have you noticed any periods where you feel unusually energetic or have racing thoughts?
+
+patient: No. I don’t think so. I’m more... stuck in place, like a machine that’s just grinding without any real spark. The noise keeps me wired in this... static kind of way, but it’s not energy. It’s more like being on fumes, you know? Again, though—it’s the music. You’re looking in the wrong files.
+
+interviewer: I hear how trapped and drained the noise is making you... Have you noticed any changes in your thoughts, like hearing voices others don’t hear, or feeling suspicious about things in ways that seem unusual for you?
+
+patient: No, I don’t hear voices or feel... suspicious. But my thoughts feel like a loop. I’ll get stuck replaying the same worries—like how I’m failing at work, or that the neighbor’s noise is some kind of test I’m failing. It’s not about the music itself, it’s like it keeps the whole system broken, and I can’t... reset. I guess I just feel inefficient, you know? Like my brain’s stuck in maintenance mode.
+
+interviewer: I hear how the noise is making it hard to find clarity... Have you been diagnosed with any medical conditions like thyroid issues, sleep apnea, or chronic pain that might be affecting your mood or energy levels?
+
+patient: No, nothing formally diagnosed. My energy... it’s just the usual grind, I guess. The noise doesn’t help, but it’s not like there’s a label for being worn down by everything. I suppose if there’s a problem, it’s in the system, not an organ.
+
+interviewer: Let me recap what we’ve covered so far: You’ve described a sense of emotional and physical exhaustion lasting about eight months, starting with back-to-back night shifts and a missed anniversary with your partner. This has been worsened by construction noise, sleep difficulties (waking at 3 a.m. and struggling to re-sleep), and work-related stress, including a recent UTI misdiagnosis that left you feeling guilty and overwhelmed. These factors seem to have created a cycle where perfectionism and self-criticism keep you stuck, even as your creativity (like your painting project) shows resilience. What did I miss or get wrong here?
+
+patient: You’re close, but you missed how my partner’s been pulling away—like they think I’m just... difficult now. And the painting? It’s not helping, but I can’t even bring myself to finish it. Everything feels like a half-solved problem.
+
+interviewer: I appreciate you pointing out those details about your partner's perception and the painting—it shows how these relationships and creative outlets are intertwined with your current experience. What else might be important to include that I haven't captured yet?
+
+patient: The pill bottle in my desk drawer—sleeping pills, labeled ‘emergencies’—but I haven’t counted the bottles in weeks. And the UTI case… I over-researched it for hours, then snapped at a nurse for suggesting a simple test. My father would’ve called that ‘inefficiency,’ but I think it’s just... my system crashing. The noise doesn’t help. It’s like the neighbor’s music is the backup generator for my brain’s short circuits.
+
+interviewer: What did I miss or get wrong here?
+
+patient: I think you missed how the pills are just... a backup protocol. Not that I need them, but just in case. And the UTI case—it wasn’t just inefficiency. I felt like I was letting everyone down, like my father would’ve said. The noise? It’s not just loud; it’s like my brain’s on loop, replaying every mistake. I can’t hit pause.
+
+interviewer: I hear how the noise feels like it’s amplifying your self-criticism and how the pills sit there as a backup plan rather than a need. Before we move to next steps, is there anything else you want me to include in this summary that’s important to you?
+
+patient: I think the painting—half-finished in my office—it’s not just a hobby anymore. It’s like... a silent witness to what I used to feel. And the UTI case, I keep replaying it like a glitch in my code, but maybe it’s just me being too hard on myself. The pills? They’re not a plan, just... a backup for when the noise gets too loud. I guess that’s it.
+
+interviewer: To summarize, your main concerns include chronic sleep disruption, work-related overwhelm, relationship strain with your partner, and a persistent sense of self-criticism amplified by environmental noise. You’ve described coping strategies like the painting project and sedatives as backup plans, but these feel insufficient now. What did I miss or get wrong here?
+
+patient: I think... you captured the noise’s role well. But maybe you missed how the painting isn’t just about what I *used* to feel—it’s this... reminder of who I was before the system started crashing. And the UTI case... I keep rehashing it like it’s proof I’m failing at the one thing I’m supposed to be good at. Oh, and the pills—when I said they’re not a plan, I meant it, but... maybe you noticed how I keep checking that drawer? It’s not just the noise. It’s the fear that the noise is right to think I’m unraveling.
+
+interviewer: I hear how the painting represents both your lost sense of self and the fear that your current struggles are irreparable. Let’s build on that awareness: What would help you feel more supported in addressing these patterns—like exploring therapy, adjusting work节奏, or another approach?
+
+patient: I... I don’t know if ‘therapy’ is the right word. Maybe just... someone to help me recalibrate? Like a systems check. If I could slow down the work pace enough to stop short-circuiting, and maybe re-engage with that painting before it’s just a fossil of who I was. But don’t get me wrong—I’m not looking for quick fixes. Just... less static.
+
+interviewer: I hear your focus on recalibrating and reducing the static—both in your work pace and your creative process. Let’s build on that: What specific strategies or support would you be open to exploring first, whether that’s adjusting work rhythms, creative re-engagement, or something else?
+
+patient: I’m... not sure about specific strategies yet. Maybe starting with adjusting work hours? Even cutting back by an hour a day could help prevent the short-circuiting. The painting—maybe using it as a way to... test if the old me is still in there? But I don’t want to sound dramatic. It’s just... noise reduction, in all areas. Even if it’s small. The pills are still just a backup, though. I don’t want to rely on them, but... they’re there for when the system flags. Maybe that’s not a real answer, but it’s all I’ve got.
+
+interviewer: I hear your focus on recalibrating work rhythms and creative re-engagement as ways to reduce the 'static.' Let’s make sure this model fits: Your main concerns involve sleep disruption, work-related overwhelm, relationship strain, and a sense of emotional distance. You’re considering small adjustments like modifying work hours and re-engaging with creative projects as potential first steps. What did I miss or get wrong here?
+
+patient: I think you got the main points... but maybe the UTI case isn’t just a ‘glitch’—it’s this... recurring error message I can’t stop debugging. And the pills—when I said they’re a backup, maybe it’s the fear that I might need them more than I admit. But don’t get me wrong, I’m not looking for quick fixes. Just... less static.
+
+interviewer: It sounds like the UTI case and the pill backup are both part of a larger pattern of self-criticism and fear that your systems are failing you. Before we finalize next steps, is there anything else you’d want to add or adjust about how we’re framing this—like other patterns or stressors we haven’t named yet?
+
+patient: I... I think you’re right about the patterns. There’s this... quiet disconnect with my partner that I haven’t really named out loud. They say they’re just ‘giving me space,’ but I keep interpreting it as them writing off my silence as a lost cause. It’s another system error I can’t troubleshoot. And the painting—I haven’t touched it in weeks, but every time I glance at it, it feels like staring at a ghost of who I used to be. Ugh. It’s just... more proof I’m stuck in these loops.
+

@@ -1,0 +1,144 @@
+system: Session f358da92-84da-4b06-981c-51ee1c1e0f5d transcript
+
+system: Disorder: MDD
+
+interviewer: Thank you for reaching out, Dalton. I appreciate you taking this step. Can you confirm you're comfortable proceeding with this conversation today?
+
+patient: Yeah, I’m comfortable. Just... been a rough stretch lately. My mind’s been like a stuck engine—won’t rev, won’t stop. (clears throat) But I’ll try to talk it through.
+
+interviewer: I appreciate your honesty, Dalton. Before we move forward, would you like to ask any questions about how this session will work or what I might ask today?
+
+patient: No, I guess not. Just... hoping we can get through this okay. My shifts have been crazy lately, but I’ll make time. (clears throat) You got the questions, doc—I’ll answer ’em straight.
+
+interviewer: This session will focus on understanding what’s been going on and how we can support you. We’ll take it step by step—does that sound okay?
+
+patient: Yeah, step by step sounds... practical. (clears throat) Like tightening a bolt—you don’t force it, just keep turning. I’ve been trying to keep going, even when my head feels like it’s rusted shut. Just... don’t wanna bog you down with all the junk piling up. (trails off, shifts in seat) My last shift was 12 hours, but I’ll manage.
+
+interviewer: Can you tell me more about what's been troubling you most lately?
+
+patient: It’s... hard to pin it down, really. Work’s been a mess—my mind goes blank when I need to focus, and then I mess up simple things. Feels like my brain’s stuck in neutral, you know? (clears throat) My shifts used to keep me grounded, but since they let me go... I just... sit around, drinking until the noise stops. (trails off, looks down) My sister calls about money sometimes. She’s got a kid now, and I guess I don’t have an excuse for not... well. (shrugs) It’s just... a lot. Even the whiskey can’t fix that morning-after ache.
+
+interviewer: That sounds really challenging... When did you first start noticing these difficulties?
+
+patient: I guess... it started creeping in after my dad passed. Six months ago, yeah. I mean, he was sick, but it still felt like the last straw. After that, I just... couldn’t keep up at work. They gave me a warning for being slow. [Clears throat] It all feels like a machine that’s rusted out—ya know? You keep trying to start it, but nothing happens.
+
+interviewer: That sounds really challenging... How often have you been waking up around 3 AM and struggling to go back to sleep?
+
+patient: Yeah, it's been most nights... Feels like my head's on a loop—can't shut it off. I just lie there, you know? [Clears throat] Sometimes the whiskey helps me pass out, but it's always the same. Wake up at three, stare at the ceiling... It's just part of the mess, I guess.
+
+interviewer: That sounds like a really tough cycle to be in... What are you hoping to achieve through coming in for help?
+
+patient: I guess... I just want to stop feeling like I’m stuck in neutral. You know, maybe actually sleep through the night without the whiskey. Doesn’t gotta be much—just... less tired all the time. [Clears throat] And maybe not let my sister down. She’s got enough on her plate already.
+
+interviewer: It sounds like this period of feeling stuck has been really challenging, especially with the changes at work and the weight of family responsibilities. Have you experienced periods like this before, where you felt this down or hopeless?
+
+patient: I’ve had rough patches before, sure... But this feels different, heavier. My dad was always... you know, on edge, but I guess I thought I was just like him—always grinding, never really... clicking. Now it’s like the whole thing’s just seized up for good. [Clears throat] Haven’t felt this low in a while, though. Maybe ever.
+
+interviewer: It sounds like this feels more intense than past challenges you've faced. Have you experienced similar episodes in the past, and if so, what helped you manage them?
+
+patient: I’ve had my share of rough patches, sure... Back then, I just tried to work through it, you know? Long hours, keeping busy. Maybe a drink to unwind. But this time... it’s different. Feels like the whole system’s fried, not just a clogged carb. [Clears throat] Never really figured out if the old ways helped or just... delayed the collapse.
+
+interviewer: It sounds like past coping strategies left you with some uncertainty about what truly helped. In those earlier difficult times, were there any specific actions or supports—like talking to someone, a routine, or something else—that you found genuinely helpful, even if temporary?
+
+patient: Uh... I guess, back then, I just kept myself real busy, you know? Like, if I stayed on the move, it kept the... the noise at bay. Worked extra hours, drank a bit. But that’s just... noise over noise. Doesn’t really help. Now... now even that feels like cranking a rusted engine. No spark. My sister calls, and I... I can’t even figure out how to tell her I can’t help.
+
+interviewer: It sounds like reaching out to your sister is important, but it's been hard to communicate your needs. How has she usually responded when you've been going through tough times in the past?
+
+patient: Clears throat... She... she just gets frustrated, I think. Says I’m making things harder for her. Which, I guess... I am. But it’s like trying to explain rust to a mechanic—you know it’s there, but the words just... jumble. Last time I mentioned the rent, she said I need to ‘snap out of it.’ (shrugs) Easier said than done, I guess. Especially when even moving feels like cranking rusty gears.
+
+interviewer: It sounds like trying to communicate your struggles to your sister adds to the weight you're carrying. When you feel overwhelmed, how do you usually try to explain what you're going through to her?
+
+patient: Clears throat... It’s like... trying to explain a broken alternator to someone who’s never seen under the hood. You know it’s broken, but the words just... sputter. I end up talking about the rent or the whiskey instead. She gets that look, like I’m dragging her down. (shrugs) So I shut up. Easier than explaining rust to a mechanic.
+
+interviewer: That sounds like a really isolating experience. Are there other people or activities you rely on when it’s hard to talk to your sister about what you’re going through?
+
+patient: Clears throat... Nah. I just... keep the wheels turning, I guess. Radio’s on sometimes. Baseball games. Stupid, right? But it’s background noise. Keeps the... the other noise from crawling in. I don’t really talk to anyone else. Most folks just want updates on the rust, you know? (trails off, avoids eye contact)
+
+interviewer: It sounds like the radio and baseball games help you cope in a way that feels manageable. Are there any other activities or small things that give you a sense of comfort or accomplishment, even if just for a little while?
+
+patient: Clears throat... Car mags. I flip through ’em sometimes. Old issues. Used to know every part of engines... now it’s just... something to do with the pages. And the radio. Even the commute, I guess. Just... moving. Keeps me from stopping. But it’s all stupid, really. Just noise.
+
+interviewer: It sounds like engaging with car magazines helps you maintain a sense of purpose, even if it feels trivial. What is it about working with those pages that gives you a sense of movement or control?
+
+patient: I... don’t know, really. The magazines? It’s just something to do when the TV’s too loud. The diagrams, the parts lists—they’re straightforward, you know? No surprises. You follow the steps, and it makes sense. Doesn’t fix anything, but... it’s like holding a map in a storm. (Throat clears, voice softens) Most days, that’s enough. Most days.
+
+interviewer: It sounds like the structure of the magazines offers some stability during overwhelming moments. How has your father's passing influenced your current experiences with feeling stuck or overwhelmed?
+
+patient: My dad’s death... it was like the last bolt holding things together just snapped. He had his own issues, you know? Always angry, never knew how to handle it. I guess I just figured that’s how it goes. Now? It’s like the engine’s rusted through. (Clears throat) Doesn’t matter how hard I try to keep it running... it’s all just... static.
+
+interviewer: It sounds like your father’s passing has deeply intensified the sense of breakdown you’re feeling. Can you share a bit about how his struggles with anger and emotional regulation affected you as you were growing up?
+
+patient: My dad... he didn’t know how to turn it off, did he? The anger, I mean. You just learned to stay out of the crossfire. (Clears throat) Like a car with a bad battery—you keep turning the key, hoping it kicks over. Doesn’t help, but... it’s all you got.
+
+interviewer: It sounds like you learned to navigate a lot of emotional turbulence by avoiding direct conflict. How do you think those early experiences with your father might be connected to the way you're managing things now, when you feel stuck or overwhelmed?
+
+patient: I... guess it’s the same thing, really. Like, when the engine won’t start, you just keep turning the key instead of checking why the battery’s dead. (Clears throat) I mean, at work, I show up early so I don’t have to talk to people. It’s quiet then. No one’s yelling. (Softly) My dad… he’d storm off if things got too bad. Now I just stay quiet, hope the noise goes away. Doesn’t help, but… it’s all I got.
+
+interviewer: It sounds like reaching out to others has been difficult, especially with your sister. Are there any other people or things in your life that you feel you can rely on, even in small ways?
+
+patient: The radio games... they’re background noise, but better than silence. (Clears throat) And the routine—shower, get dressed—keeps me from... from falling apart completely. I guess.
+
+interviewer: You mentioned relying on whiskey to unwind recently—have you used any other substances, like cannabis, stimulants, or opioids, in the past month?
+
+patient: Clears throat. Nah, not really. Maybe a joint once, but... that's it. Whiskey's the main thing, I guess. Feels like it's the only tool left that works, you know? Just... keeps the noise low enough to sleep. Trailing off, fidgets with hands.
+
+interviewer: Have you had any thoughts about ending your life in the past few weeks?
+
+patient: I guess... some days I just think about not waking up. But I don’t want to let my sister down, you know? Clears throat. It’s hard to explain... feels like the weight of everything, but I’m still here, right? Trailing off, fingers twitching nervously on the chair arm.
+
+interviewer: It sounds like the thought of not waking up is really difficult for you—have these thoughts included a desire to end your life, or are they more about feeling overwhelmed by everything?
+
+patient: It’s... hard to put into words. Feels like the weight’s always there, you know? The whiskey helps, but it’s just... background noise. My sister, she’s got her own stuff now, and I don’t wanna be another problem for her. Clears throat. I guess it’s the weight more than the wanting to stop. Trailing off.
+
+interviewer: It sounds like the weight of things is really pressing on you. Have you ever thought about specific ways or times you might want to end your life, or is this more of a feeling without a plan?
+
+patient: I... I don’t think I’ve gone that far. It’s more like the weight, you know? Like the whiskey helps, but it’s just... background noise. My sister—she’s got her hands full now. I can’t be another problem for her. Trailing off, fingers tapping nervously on the chair arm.
+
+interviewer: It’s clear how much you care about not adding to your sister’s burdens—have you noticed any changes in your energy levels or mood that feel different from your usual patterns, even small ones?
+
+patient: Feels like my engine’s running but the gears won’t engage... you know? I’m here, but it’s like I’m dragging an anchor every day. Clears throat. Sleep’s still... messed up. Some nights I just lay there, counting the cracks in the ceiling.
+
+interviewer: It sounds like your sleep issues are really impacting your daily life—have you noticed any periods lately where you feel unusually energetic or irritable, even with the tiredness?
+
+patient: No, not really. I mean... I get irritated sometimes, like when the radio cuts out or the landlord's on the phone. But that's just noise, right? Feels more like the same tired anger, not some new energy. Just... stuck in the grind.
+
+interviewer: It sounds like your irritability feels tied to frustration rather than a shift in energy. Have you noticed any periods where your thoughts feel unusually fast or jumbled, or where you take on more activities than usual despite being tired?
+
+patient: No. I just... stick to the same routines, you know? Magazines, maybe a game on the radio. But even that feels like the engine's just idling. Can't make it move, just... there.
+
+interviewer: It sounds like you're struggling with a sense of being stuck. Have you noticed any experiences where things around you feel different, like hearing or seeing things others might not, or having thoughts that feel unusual or paranoid?
+
+patient: No... I don’t get that. Feels like the static’s just... static. Like when the radio cuts out, you know? Just noise. I mean, the landlord’s threats, my sister’s calls... that’s real enough. But no, nothing strange. Just... tired.
+
+interviewer: I appreciate your honesty in describing how you're feeling. Are you currently taking any medications or supplements, or have you started or stopped any recently?
+
+patient: No, nothing like that. Just... you know, trying to get by. [clears throat] The doc at the clinic said something about sleeping pills once, but I never... never saw the point. If I can't sleep, it's just... noise. [pauses, voice softens] A guy at work swears by vitamin D, but I’m not really... [trails off]
+
+interviewer: Let me recap what I’ve heard so far: You’ve been struggling with persistent low mood, sleep disturbances waking around 3 AM, and a sense of mental 'rust' making it hard to engage with work and relationships. These challenges started after your father’s death six months ago and have been worsened by job stress, self-criticism, and relying on whiskey to manage distress. You’ve also mentioned valuing structure, like your radio and car magazines, and wanting to avoid burdening your sister. What did I miss or get wrong here?
+
+patient: You got most of it... I guess. The landlord’s been hounding me about that furnace, but what can I do? [clears throat] And my sister... she’s got her hands full now. I don’t want to be another problem. But yeah, the rest checks out. Just... stuck in the same rut.
+
+interviewer: It sounds like the landlord’s pressure about the furnace and your worry about adding to your sister’s stress are part of this same feeling of being stuck. Let me try to bring this all together: Over the past six months, since your father’s death, you’ve been experiencing a heavy, unshakable low mood, trouble sleeping at night, and a sense of mental 'rust' that makes it hard to work and connect with others. You’ve been using whiskey to cope, but it’s not helping much, and now you’re facing added stressors like the furnace and guilt about burdening your sister. What did I miss or get wrong here?
+
+patient: You’re not wrong... It’s just... the furnace feels like another crack in the window I can’t patch. And my sister, I don’t want her to think I’m... I don’t know, some dead weight. It’s stupid, really. Just another thing to kick around.
+
+interviewer: It sounds like the furnace stress and your worry about being a burden to your sister are part of this larger pattern of feeling stuck and overwhelmed. Let me try to tie this together: Over the past six months, your father’s death, job strain, and self-criticism have contributed to a sense of being a 'rusted machine,' with whiskey as a temporary fix. The furnace and guilt about your sister feel like new cracks in an already fragile system. What did I miss or get wrong here?
+
+patient: You’re... not wrong. I guess that’s it exactly. The furnace, the calls from my sister, the whiskey—that’s just more cracks. I used to look at those car mags, you know? It’s stupid, but it felt like... something to do. Now even that’s just paper in my hands. I just... I don’t want to be another thing she’s gotta fix. But what else am I good for?
+
+interviewer: It sounds like your sister’s well-being is a meaningful protective factor for you, even as you feel guilty about relying on her. If we were to focus on one step right now—whether it’s exploring practical support, finding new coping strategies, or adjusting routines—what would feel most helpful to you?
+
+patient: Maybe... just getting back into some kind of routine. Even the little stuff—like, making sure I actually open those car mags instead of just holding them. Or figuring out that furnace thing without my sister having to hear about it. It’s stupid, but it feels like if I can at least... keep the lights on, that’s something.
+
+interviewer: It sounds like rebuilding a routine—starting with small, manageable steps—is a meaningful goal for you right now. Let me try to tie this together: Over the past six months, grief from your father’s death, job stress, and self-criticism have contributed to a sense of being a 'rusted machine,' with whiskey as a temporary fix. The furnace stress and guilt about your sister feel like new cracks in an already fragile system, but you’re identifying practical steps like reconnecting with your car magazines and addressing the furnace as ways to 'keep the lights on.' What did I miss or get wrong here?
+
+patient: You’re... mostly right. The whiskey’s just more noise, I guess. And the furnace—it’s like another crack, yeah. But the mags... I can’t even remember why I used to like ’em. It all feels so... pointless. Like I’m just... sitting here waiting for the lights to go out anyway.
+
+interviewer: That sounds really tough—like you're carrying a weight that's hard to see or name. What did I miss or get wrong here about what's been going on for you?
+
+patient: You’re right about the cracks... but maybe you’re missing how quiet it all is. Like, even when I’m trying to keep the lights on, it’s not like there’s a hum left. The mags, the radio, the shower—it’s just... silent. No spark. I guess it’s stupid to even mention it. You’ve got the rest right, though.
+
+interviewer: It sounds like the absence of even a quiet hum in the background—like the car mags, radio, or routine—has made this silence feel heavier. What would be one step you’re willing to try this week to bring even a small sense of structure or connection back into your day?
+
+patient: I guess... I could try forcing myself to flip through the car mags for a bit each morning. Even if I don’t care, it’s something to do instead of just staring at the ceiling. [clears throat] It’s stupid, but... maybe it’d keep me from sleeping all day. Or drinking too early.
+

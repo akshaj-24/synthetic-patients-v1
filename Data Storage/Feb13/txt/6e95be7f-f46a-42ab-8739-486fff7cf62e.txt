@@ -1,0 +1,88 @@
+system: Session 6e95be7f-f46a-42ab-8739-486fff7cf62e transcript
+
+system: Disorder: GAD
+
+interviewer: Hi Julie, welcome. How would you like to be addressed today? (For example, Julie is fine, or would you prefer another name/pronouns?)
+
+patient: Julie is fine, I guess. My husband calls me Julie too. It’s… straightforward, right? No need to complicate things. I work in IT support, so yeah, Julie’s the name on my email signature.
+
+interviewer: Would you like me to briefly explain how these sessions typically work before we start?
+
+patient: Sure, that sounds fine. I guess it’s like… troubleshooting a system? You check the logs, see where the lag is. I’ve heard therapy is about identifying what’s not working and… recalibrating? Honestly, I’m used to handling things on my own, though. Maybe that’s part of the problem.
+
+interviewer: It’s understandable to want to handle things independently, especially in a role like yours. Would you be comfortable with us exploring what’s been feeling unmanageable together?
+
+patient: I guess… the part that feels unmanageable is the way things just… pile up. Like, at work I catch myself double-checking every email three times, even the simple stuff. It’s not that it’s broken, it’s just… I don’t know, I keep expecting the system to crash if I miss a comma? Maybe that’s not making sense. And then at home, I’ll snap at my husband over… I don’t even remember what, and then feel awful afterward. I guess I’m trying to say I’m tired? But not the kind where you can just sleep it off. More like my brain’s running in the background even when I’m trying to shut it down. Do you ever get that?
+
+interviewer: It sounds like you're carrying a lot of pressure right now. Would you be comfortable with us continuing this conversation and exploring these patterns together?
+
+patient: I guess... I’m here, so I’ll try. It’s just that my mind tends to run circles even when I’m trying to focus. Like, at work, I’ll over-analyze everything to the point it’s almost... counterproductive? But I suppose that’s what we’re here to unpack. If that makes sense.
+
+interviewer: Is there anything specific you'd like to clarify about how these sessions work before we proceed?
+
+patient: No, I think we’re good. I just want to make sure I’m using this time efficiently—like troubleshooting a system, you know? I’ve been writing things down in a spreadsheet to stay organized. My husband says I overthink, but… it helps me prepare. I guess.
+
+interviewer: Can you tell me more about what’s been causing you the most stress lately?
+
+patient: It’s… work stuff, I guess. The promotion was supposed to be a good thing, but now I feel like I’m troubleshooting every decision before it even happens. Like, if I misread an email, I panic for hours over it—even when it’s probably nothing. And sleep? I get maybe four hours most nights. My shoulders feel like a steel band most days. It’s just… a bad week, you know? My husband’s got his own review coming up, and I hate that I’m so irritable, but I can’t help snapping at little things. I apologize later, of course. I overcompensate, I think.
+
+interviewer: That sounds really overwhelming… When did you first start noticing this level of stress and anxiety in your daily life?
+
+patient: It started simmering after the promotion, I guess—six months ago? At first, I thought I could just… firewall the pressure, you know? But it’s like this ticking clock in my head. Even when I’m doing okay, I keep waiting for the system error. The email mix-up was a red flag, but I told myself it was a one-off. Still, the nights are the worst. My shoulders lock up, and my brain won’t shut down. It’s like… maintenance mode with no off switch.
+
+interviewer: That sounds like a heavy emotional load to carry... What would you most hope to achieve through therapy right now?
+
+patient: I guess… I want to learn how to ‘reboot’ the pressure before it leaks into everything else. Like, if therapy could help me firewall the work stress so it doesn’t… cascade into my home life? My husband’s been patient, but I can’t keep apologizing for things that aren’t even his fault. And if I could finally sleep through the night without my brain doing system updates at 2 a.m., that’d help. I just want to stop feeling like I’m one glitch away from everything falling apart.
+
+interviewer: It sounds like the sleepless nights and constant mental activity are taking a real toll on you... Can you share an example of how these sleep disruptions affect your ability to function at work or with your husband during the day?
+
+patient: Yesterday’s meeting comes to mind. I was so tired my brain felt like it was running on a backup battery—slower, glitchy. I missed a key detail in a troubleshooting flowchart and suggested the wrong fix. I had to apologize mid-meeting and redo it privately. My husband caught me sighing heavily at dinner, and I snapped when he asked if I wanted garlic on my toast. It’s not even a big thing, but my fuse is so short lately. It’s like my sleep debt turns everything into… static.
+
+interviewer: It sounds like this current stress is really impacting your work and home life. Have you experienced similar episodes of anxiety or stress in the past, and if so, what helped you manage them?
+
+patient: I guess... there was that time last year when the server outage happened? I worked through it, double-checked everything, but it took me days to shake the worry. Usually, I just... stay busy? Coffee helps me function, but lately, even that feels like it's not enough. My husband says I overthink, and maybe he's right. I just hate that I can't stop the loop once it starts.
+
+interviewer: Have you had any thoughts about ending your life or harming yourself recently?
+
+patient: No, I haven’t had thoughts like that... It’s more like this constant weight pressing down, but I can’t afford to think in those terms. I have too much to troubleshoot—work, the house, keeping up appearances. My brain just... never turns off. Some nights I stare at the ceiling and wonder if this is how people quietly lose themselves, you know? But I push through. Coffee helps, most of the time.
+
+interviewer: I hear how overwhelming it feels to carry everything without being able to slow down. Have you noticed any changes in your use of alcohol or cannabis to cope with this stress?
+
+patient: I guess not really... I mean, I used to have a glass of wine sometimes, but I stopped because it just made me feel foggy the next day. Coffee’s my thing—black, all day. It helps me stay on task, but lately even that feels like it’s just... keeping me running in place. I don’t know. I haven’t felt like experimenting with anything else. There’s too much to troubleshoot already.
+
+interviewer: It sounds like caffeine's not providing the same relief it used to, which must be frustrating. Have you noticed any periods where you feel unusually energetic or need very little sleep, even when stressed?
+
+patient: No, I don’t think so. It’s more like... my brain won’t shut down, even when I’m exhausted. I’ll lie there for hours, replaying the day’s emails or worrying about deadlines. Sometimes I feel like I’m running on fumes but can’t stop the loop. My husband says I’m ‘overprocessing,’ but it’s not energy—it’s more like a system error I can’t troubleshoot. I guess you could say I’m always ‘on,’ but it’s not in a good way.
+
+interviewer: Have you been prescribed any medications or supplements for this stress or anxiety, and if so, how have they been working for you?
+
+patient: I guess not really... My doctor mentioned something about anti-anxiety meds once, but I didn’t pursue it. I mean, I don’t want to add more variables to an already broken system, you know? My husband swears by magnesium supplements, but I never tried them. I just... keep troubleshooting myself. Coffee’s my only ‘prescription’ at this point, even if it’s not working as well.
+
+interviewer: I understand how adding more variables feels overwhelming right now. Have you ever experienced periods where you felt unusually energetic or needed very little sleep, even when you were stressed?
+
+patient: I guess... I don’t really *feel* energetic, but I’ve gotten used to running on less sleep? It’s more like my brain won’t shut down, so I just keep going. Coffee helps me 'firewall' through the fog, but it’s not really energy—it’s more like... damage control. I worry that stopping might let everything collapse, so I just keep troubleshooting.
+
+interviewer: It sounds like the pressure to keep going is really intense for you. Have you ever experienced times when you felt unusually energetic or needed very little sleep, even when you weren't stressed?
+
+patient: No, not really. Even when things are calm, my brain’s still running in the background like a server on auto-pilot. I don’t feel 'energetic'—just... forced to keep going. Like if I stop, everything might crash. Coffee’s the only firewall I’ve got, but even then, I’m just... maintaining. My husband says I look like I’m 'zombiewalking' sometimes. Maybe that’s the closest I get to 'energetic'?
+
+interviewer: I hear how relentless the mental activity feels for you. Have you noticed any times when you felt unusually irritable or had a surge of ideas that were hard to contain, even when you were stressed?
+
+patient: I guess when I’m sleep-deprived, I’m more... snappy? My husband says I look like a zombie walking sometimes. But surges of ideas? Not really. Just... my brain’s on loop, you know? Like a server that won’t reboot. I apologize later, but it’s hard to explain the pressure that makes me snap over nothing.
+
+interviewer: Let me recap what I’ve heard: You’ve been feeling overwhelmed and anxious for the past six months, especially around work deadlines and fear of making mistakes, which has led to sleep trouble, tension in your shoulders and neck, and irritability at home. You’ve tried coping strategies like spreadsheets and caffeine, but they’re not helping as much anymore. Your husband has noticed you’re on edge, and you’re worried this stress is affecting both your job and your relationship. Does this capture your experience, or is there something important I missed?
+
+patient: Yeah, that’s… pretty much it. I guess the part about the 'steel band' across my shoulders is worse than I mentioned—sometimes I feel like I’m carrying a server rack on my back. The baking’s gotten worse too; my sourdough’s been… inconsistent. Derek’s acting up. But the biggest thing my husband doesn’t say out loud is that I’m sure he’s waiting for me to 'crash.' Like if I mess up one more thing, he’ll just give up on the whole system. I guess that’s what I’m really firewalling against.
+
+interviewer: It sounds like the weight you’re carrying—both physically and emotionally—is really taking a toll, especially with how it’s affecting your confidence in work and relationships. What did I miss about how this has been showing up for you lately?
+
+patient: I guess... I’ve been second-guessing everything at work, like my brain’s a server overload. Even when I fix one thing, another pops up. My husband’s job review is coming up, and I keep thinking maybe my stress is affecting his stress. I hate that I can’t just... let go of the pressure. My neck’s been killing me, like the steel band’s now a bungee cord—tighter the longer I go. And baking? My sourdough’s been a mess. Derek’s rebellion or something. To be honest, I’m just... worried I’m hiding how much this is all eating at me.
+
+interviewer: Let me make sure I have the full picture: Over the past six months, work-related anxiety has intensified, leading to constant second-guessing, sleep disruption, physical tension, and strained communication with your husband. You're also worried about how your stress might be indirectly affecting his job review, and you're struggling to let go of pressures that feel like they're compounding over time. What did I miss or misframe about how this has been unfolding for you?
+
+patient: You’re pretty close. I guess the thing you didn’t mention is how I… I can’t stop linking my husband’s job review to things like dinner or me seeming ‘together’ enough. It’s irrational, right? But my brain won’t let go of it. And the neck pain—it’s like a bungee cord these days. I can’t even tell if it’s tension or just my body screaming for sleep. To be honest, sometimes I wonder if I’m just… one system error away from everything glitching.
+
+interviewer: It sounds like your anxiety has created a loop where work stress, physical symptoms, and relationship pressures feed into each other, leaving you feeling like you're constantly on the edge of a 'system crash.' What did I miss or misframe about how these patterns have been shaping your experience?
+
+patient: I guess you hit most of it. Maybe what’s missing is how I… I can’t stop tying his job review to things like dinner or me ‘looking put together’ when he talks to his boss. It’s stupid, but I keep thinking if I mess up one thing, it’ll cascade. And the neck pain—it’s not just tension anymore. Feels like a fuse that’s been lit, you know? I can’t tell if I’m just… running on fumes or if the brain fog is permanent. The coffee’s not even helping anymore; just keeps me awake long enough to worry more.
+

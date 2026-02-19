@@ -1,0 +1,172 @@
+system: Session 651885f6-6940-47b9-81b1-03e601836737 transcript
+
+system: Disorder: MDD
+
+interviewer: Thank you for sharing that, Ryan. It takes courage to reach out for help. Do you feel comfortable proceeding with our conversation today?
+
+patient: I guess... I mean, I didn't come here to talk, but... I'm not really sure how else to fix this. I just need to finish my shift today, you know? The sink in my kitchen is still leaking, and I should probably fix it, but my hands shake too much to hold the wrench straight.
+
+interviewer: That sounds really tough... I can see how challenging this must be for you. Have you been having thoughts about not wanting to be alive lately?
+
+patient: I guess... I don't know. Sometimes I think about how everyone would be better off if I just... vanished. But I don't really mean it, you know? I just feel like I'm dragging everyone down. My chest feels like it's got that weight again, even talking about it. The coffee's been tasting bitter lately, even when it's not. Maybe that's all there is left.
+
+interviewer: That sounds really tough... I can see how challenging this must be for you. Just to make sure we're on the same page, today's session will involve discussing your current concerns and how we can work together to address them. Does that sound okay?
+
+patient: I guess... yeah. I mean, I don’t see how talking about it changes anything, but... if it’s what I have to do. My hands are shaking worse today, though. Maybe I should just fix that sink first. Prove I can still do something right.
+
+interviewer: That sounds challenging. Do you have any questions about how we can work together today?
+
+patient: Not really. I mean, I guess I just want to know if... talking about it actually does anything. My hands are shaking so bad I can’t even hold a wrench straight, but I keep thinking if I just fix that sink, maybe it’ll prove I’m still... capable. But the coffee’s still bitter and my chest feels like it’s got that damn weight again. Does any of this even matter?
+
+interviewer: It sounds like these feelings are significantly impacting your daily life and relationships. Have you experienced episodes like this in the past, where you felt persistently down or struggled with daily tasks?
+
+patient: I guess... I’ve always had rough patches. But this feels different. Like the fog’s thicker, and my hands won’t stop shaking even when I’m trying to focus. I just blame it on working too hard, you know? The shifts are killing me.
+
+interviewer: It’s understandable to feel like this is just work-related strain, but the physical symptoms and emotional weight you’re describing seem more than that. Have you experienced episodes like this in the past where you felt overwhelmed physically and emotionally, and if so, what, if anything, helped you feel better?
+
+patient: I guess... a few years back, after my dad passed, I crashed pretty hard. But that was grief, right? This is different. Now, even when I try to sleep, I just lie there, and the coffee tastes like dirt in the morning. It’s like my body’s decided I’m not worth fixing.
+
+interviewer: It’s important that you’re noticing these differences now. Have you experienced times when you felt overwhelmed physically and emotionally without it being tied to a specific loss or grief?
+
+patient: I guess... maybe when I was working double shifts a few years back? But that was just exhaustion. This feels different. Like even when I'm not working, the weight's still there. My chest... it's like the fog's in my bones now.
+
+interviewer: It sounds like this weight you’re describing is both physical and emotional, and it’s sticking with you even when you’re not actively working. Have you noticed any patterns in how your body reacts during past difficult periods, or anything that’s helped ease this kind of heaviness before?
+
+patient: I guess... when I was working those double shifts, my hands would shake worse. I’d drink more wine to... you know, unwind. But it just leaves my head tangled. The sink in my kitchen is leaking, and I can’t even fix it. It’s stupid, but if I could just get that done, maybe...
+
+interviewer: It’s understandable to feel like small tasks are insurmountable when you’re struggling with this heaviness. Have you found any strategies in the past that helped manage these physical symptoms or overwhelming feelings?
+
+patient: I guess... I just try to power through most days. The wine helps a little, but it’s like trying to mop up with a sieve—still there, but messier. The sink... I keep thinking if I could just tighten that damn pipe, maybe I’d feel like I can handle something. But my hands shake so bad, I can’t even hold the wrench right. Sounds stupid, I know.
+
+interviewer: It’s not stupid to feel frustrated when even small fixes feel out of reach. Have you had other times when you felt this physically overwhelmed and emotionally heavy, not tied to grief or work exhaustion?
+
+patient: I guess... sometimes it’s stuff like the coffee tasting bitter even when it’s the same blend. Or my hands shaking when I’m just trying to fix the sink—like my body’s decided I can’t even do that right. I tell myself it’s just stress, but...
+
+interviewer: It’s frustrating when even small tasks feel out of reach when you’re already struggling. Who have you found yourself relying on during these difficult times?
+
+patient: I guess... Emily, my partner. But I don’t want to bother her with this stuff. She’s been patient, I guess, but I just try to handle things myself. It’s easier that way. Sometimes I’ll... drink a glass of wine to unwind, you know? My hands still shake, though. Even when I’m trying to fix the sink, it’s like they won’t cooperate.
+
+interviewer: It sounds like you’re trying to protect Emily from your struggles while managing things alone, which must be really hard. What are some things you’re proud of about yourself, even if they seem small?
+
+patient: I guess... passing my certification last year was something. But it’s not like it matters anymore. I fixed the sink too, but my hands were shaking so bad it took forever. Small stuff, I guess.
+
+interviewer: It’s meaningful that you’re recognizing these accomplishments despite the challenges. Have there been any other difficult experiences in your life that you think might be related to how you're feeling now?
+
+patient: My dad... he always said things like, 'Getting things done is what matters.' I guess that stuck. And my mom—she’s not... herself anymore. It’s hard to explain. I just feel like I’m not doing anything right. There was this fight with Emily a few weeks ago—I snapped at her, said something stupid about her needing too much. I still can’t figure out why I did that. It’s just... stress, I guess.
+
+interviewer: It’s clear that conflict left you feeling confused and critical of yourself. How did that fight with Emily affect your sense of connection or trust in your relationship?
+
+patient: It’s... hard to explain. After that fight, I just felt like I was dragging her down, you know? Like I’m not built to handle my own stuff, let alone making hers harder. I keep waiting for her to snap back or just walk away, but she hasn’t. It’s confusing. I try to fix things—fix the sink, finish my shifts early—but it’s like I’m chasing something that won’t catch up. My chest still feels heavy when I think about it.
+
+interviewer: It’s confusing and painful to feel like you’re a burden when someone stays by your side. How has Emily’s continued support affected your sense of self-worth or your ability to ask for help from her?
+
+patient: I don’t know... She stays, but I can’t shake the feeling I’m dragging her down. I end up fixing the sink myself instead of asking. It’s just... easier that way, I guess. Even when I’m mad at her, part of me hates how she still... does. Like she’s waiting for me to break but won’t look away. Makes me want to push harder, you know?
+
+interviewer: It’s hard to carry that weight alone while feeling like a burden to someone who chooses to stay. How have your family’s expectations or experiences with relationships shaped the way you see your role in partnerships now?
+
+patient: I guess... my dad always made it clear that being useful was the only way to be worth anything. Now, even when Emily offers to help, I feel like I need to handle things myself—like the sink, or... whatever’s wrong. It’s easier to mess up on my own than to let her see how bad it is. But then I hate that she stays, you know? Like she’s trying to fix me too.
+
+interviewer: It's clear how those childhood messages still shape your self-perception. Looking back, have any of those past difficult times had symptoms similar to what you're experiencing now, and what, if anything, helped?
+
+patient: I guess... maybe not really? I mean, after my dad died, I was tired, but this feels quieter. Like the fog’s always here now, even when I’m trying to push through. Before, I just worked harder, stayed busy. Now, even that’s... not enough. I used to unwind with a glass of wine, but lately it just tastes like I’m swallowing gravel. Doesn’t help. I don’t know. This is different. Heavier.
+
+interviewer: It sounds like you're carrying a lot of weight right now... Have you had any thoughts about how you might act on these feelings, or do you have a plan in mind?
+
+patient: I don’t... I don’t really have a plan. I just try to keep going, I guess. Sometimes I’ll have another glass of wine, but it’s not even the same anymore—just numbs things out. The sink? I’ll fix it eventually. If I can do that, maybe it proves I’m still... capable of something. But most days, it’s like the weight in my chest won’t let me think past tomorrow. I don’t want Emily to see how bad it is. If I can handle it alone, maybe I’m not entirely useless.
+
+interviewer: It sounds like the weight you're carrying makes even small tasks feel monumental... How often have you been having wine to help you cope lately, and would you say it's more than just a few glasses?
+
+patient: Most nights, I guess. Just... a glass or two. Sometimes more. It’s easier than thinking about everything else. But lately, even that feels like I’m just... swallowing gravel. Doesn’t really help, but it’s something to do. Keeps me from staring at the sink forever, I suppose.
+
+interviewer: It sounds like the thought of being a burden is really weighing on you... Have you ever considered how you might act on those feelings, or do you have a specific plan in mind?
+
+patient: I guess... I just keep thinking about that sink. How fixing it could prove I’m still capable of anything. But my hands shake so bad, I can’t even hold the wrench right. It’s stupid, really. Maybe if I just... let things go, maybe the weight in my chest would too. But Emily’d only worry. She already does, I can see it.
+
+interviewer: It sounds like the idea of letting go feels connected to the weight you're carrying... Have you thought about any specific way you might act on these feelings?
+
+patient: I don’t know. Maybe... I’ll just let the sink get worse. Let the water keep dripping. But my hands still shake, and even the coffee tastes like I’ve already lost. Sometimes I think if I just... let everything go, maybe the weight would too. But Emily’d worry. She already does.
+
+interviewer: It sounds like the idea of 'letting go' carries a lot of emotional weight for you... When you mention this, are you thinking about ending your life specifically, or is it more about feeling overwhelmed by responsibilities?
+
+patient: I... I don’t know how to explain it. It’s like the sink’s just a metaphor for everything piling up. The more I try to fix it, the worse it gets. My hands won’t stop shaking, and even the coffee tastes like I’m failing at something basic. But Emily... she’d just keep trying to fix *me*. It’s too much for her. Maybe if I let it all... rot, it’d be easier for everyone.
+
+interviewer: It sounds like the idea of 'letting go' is causing you a lot of pain and conflict... Have you thought about a specific way or plan to act on these feelings?
+
+patient: I don’t know... I just keep thinking if I let the sink get worse, maybe it’ll teach me something. But my hands shake so bad, I can’t even fix it. I don’t want Emily to see me like this. She’d just... try harder, and I can’t let her. It’s not worth it.
+
+interviewer: It sounds like the idea of 'letting go' is causing you a lot of conflict... Have you been considering ending your life specifically, and if so, do you have any thoughts about how or when that might happen?
+
+patient: I... I don’t know how to say it without sounding selfish. Sometimes I think if I just stopped trying, the weight might lift. But my hands shake so bad, even holding a cup feels like a fight. I can’t... I won’t let Emily see me break. She’d only try harder, and I can’t let her. It’s not worth it.
+
+interviewer: It sounds like the idea of letting go carries a lot of emotional weight for you... Have you thought about a specific way or method you might use to act on these feelings?
+
+patient: I... I don’t know how to explain it. It’s not like I’m planning anything—just sometimes, the weight in my chest feels like it’s all there is. Like the sink I can’t fix. You ever try to fix something and it just... doesn’t matter? My hands shake when I think about it. I guess I’m scared if I let go, people’ll realize I’m not even trying anymore. But I’m tired. So tired.
+
+interviewer: It sounds like you're carrying a lot of emotional weight right now... Have you noticed any changes in your energy levels or activity patterns recently? For example, feeling unusually restless or needing less sleep than usual?
+
+patient: I... I used to get up early, like before sunrise, just to finish tasks before everyone else showed up. But now even getting out of bed feels like... like moving through cement. My hands shake when I try to do anything precise, like fixing that sink. And I keep waking up around 3 a.m.—can’t go back to sleep. Just lie there counting the minutes until morning. It’s not rest, though. Feels more like... my body’s running on empty but the engine won’t shut off.
+
+interviewer: It sounds like your sleep disturbances are deeply tied to both physical and emotional exhaustion... Have you had any periods in the past where you felt unusually energetic or needed very little sleep, even when you were tired?
+
+patient: No... I don’t think so. Maybe when I was younger, I’d stay up late fixing things, but that was just... my dad’s shadow. Now? It’s all just heavy. Even the early shifts feel like I’m dragging. My hands still shake, but it’s not energy—it’s like I’m trying not to fall behind. The sink, the coffee... everything’s a chore. I guess I’m just... broken that way now.
+
+interviewer: It sounds like your current experience is quite different from any past energy patterns... Have you ever had periods in the past where you felt unusually energetic or needed very little sleep, even when you were physically tired?
+
+patient: I think I mentioned... my dad’s shadow? Back then, staying up late fixing things wasn’t energy—it was fear. Now? It’s all just... heavy. My hands shake even when I’m not trying to fix anything. The sink, the coffee, the 3 a.m. wake-ups... it’s not energy. It’s like my body’s rusting out. You ever try to tighten a bolt that just spins in place?
+
+interviewer: Have you had any experiences recently where you heard voices, saw things others don’t, or felt sure something bad was going to happen even when there was no clear reason for it?
+
+patient: I guess not... I don’t hear voices or see things. But sometimes I feel like... like people are watching me, you know? Even at work. Maybe it’s just my head. I mean, my chest still feels heavy, and my hands shake, but it’s not like I think someone’s going to hurt me or anything. Just... this constant weight. Like the sink. You ever feel like the whole world’s a broken pipe you can’t fix?
+
+interviewer: That sounds really isolating... Have you noticed this feeling of being watched happening more often in certain situations, or is it something that follows you throughout the day?
+
+patient: It’s like... the fog’s always there, but sometimes it presses down harder. At work, I guess, when I’m supposed to be focused, it feels like everyone’s waiting for me to mess up. But even at home, it’s like the silence makes me hyper-aware of... everything. My hands shake more when I’m alone, maybe? I don’t know. It’s hard to tell what’s the thing itself and what’s just my head spinning.
+
+interviewer: It sounds like the fear of being a burden is intertwined with these feelings of heaviness... Have you thought about a specific method or way you might act on these thoughts of 'letting go'?
+
+patient: I don’t... I don’t think about it like that. It’s not a method, it’s just... the way things feel. Like the sink. You know, the one that won’t stop dripping? It’s always there, but you don’t fix it because you’re too tired. Maybe that’s it? Just... letting the leak keep going. My hands shake worse when I’m alone, though. Feels like they’re waiting for me to drop something. I guess I don’t know what else to say.
+
+interviewer: I hear how the metaphor of the sink captures the persistent, overwhelming weight you're carrying... Have you been using any other substances besides wine, such as cannabis, prescription medications, or something else, to cope with these feelings?
+
+patient: No, I don’t... I mean, the wine’s bad enough. Sometimes I think if I just stopped that, everything else might... I don’t know, catch up? But it’s not like I’m experimenting with anything else. Work’s got enough to deal with. The sink’s still leaking, though. I guess that’s my own version of... whatever people use to numb things.
+
+interviewer: I want to make sure I understand your current situation clearly... Are you taking any medications, supplements, or vitamins on a regular basis right now?
+
+patient: No, not really. Just... the vitamins sometimes, but I don’t even finish the bottle. It’s like the sink—start something, can’t see it through. My hands shake worse when I’m trying to open one. Wine’s the only... consistency left, I guess.
+
+interviewer: I hear how the weight you're carrying makes even small tasks feel impossible... Have you had any periods in the past where you felt unusually energetic or needed very little sleep, even when you were physically tired?
+
+patient: No, not really. I guess I just... try to push through. Like, I’ve been staying late at work sometimes, but it’s not like I’ve got energy. More like... I don’t want to let people down, y’know? My hands shake worse when I’m trying to finish tasks, though. Feels like I’m fighting myself.
+
+interviewer: It sounds like your physical symptoms are adding to the emotional strain... Have you had any medical issues or conditions that might be contributing to these physical symptoms, such as thyroid problems, chronic pain, or something else?
+
+patient: No, I haven’t had anything officially checked. My hands shake sometimes, but I guess it’s just... tiredness? I work double shifts a lot. And the coffee tastes bitter lately, like something’s off, but maybe I’m just not sleeping right. It’s probably nothing.
+
+interviewer: I hear how the physical symptoms are compounding your emotional distress... Do you currently have access to any firearms, medications, or tools that could be used to act on these thoughts of 'letting go'?
+
+patient: No. I don’t... I don’t have anything like that. There’s a hunting rifle in the garage, but it’s my dad’s. Haven’t touched it since he died. Not that it matters. I’m just... tired. Always tired. Why does everyone keep asking about this?
+
+interviewer: I hear how the weight you're carrying feels impossible to lift... Have you thought about a specific way or timeframe for acting on these thoughts of 'letting go'?
+
+patient: No... I don’t think that far. It’s just... the weight. Some days, I can’t see past it. But I guess that’s all there is now.
+
+interviewer: It sounds like the weight you're carrying makes it hard to think beyond the immediate moment... Have you thought about a specific method or way you might act on these feelings of 'letting go'?
+
+patient: No... I don’t plan for that. It’s just the weight, like I said. Some days I can’t even fix the sink. What’s the point in... in thinking about the rest? It’s all just too heavy.
+
+interviewer: Based on our conversation, it sounds like you’ve been experiencing a heavy, persistent emotional and physical burden—like a fog or a leaking sink—alongside sleep issues, shaking hands, and a sense of being overwhelmed by responsibilities. These symptoms have been affecting your work, relationships, and self-care, and you’ve been using alcohol to cope, though it no longer helps. We’ve also discussed how family expectations around productivity and strained communication with Emily might be playing a role, while your willingness to seek help and small task completions are strengths. What did I miss or get wrong here?
+
+patient: You... you didn’t mention the part where I feel like I’m failing even the little things. Like the sink—every time I try to fix it, it’s just worse. And the coffee... it used to wake me up, but now it just tastes like I’m choking on it. But yeah, the rest... that’s about right.
+
+interviewer: It sounds like the sense of failure in small tasks is adding to your emotional weight. Let's make sure we've captured everything important. What would you like us to prioritize as next steps in addressing these challenges?
+
+patient: I guess... start with the sink? It’s just a stupid thing, but if I could fix that, maybe it’d feel like I’m still capable of doing something right. Maybe that’d help with the... the weight. But I don’t know. It probably won’t. I keep thinking if I just focus on small stuff, the rest will... I don’t know, take care of itself? But that’s probably not how it works.
+
+interviewer: It sounds like focusing on small, tangible tasks like fixing the sink is a way to reconnect with a sense of control, even if it feels uncertain whether it will help. What would you like us to prioritize next in addressing these challenges?
+
+patient: I guess... the sink first. If I can’t even fix that, what’s the point? But it’s not just that. My hands shake worse when I’m alone, like they’re waiting for me to drop something. And the chest weight—it’s always there, even when I’m trying to focus. Maybe if we... I don’t know, untangle that? But don’t get me wrong, I’ll take the sink. It’s something. Emily says I’m not ‘broken,’ but I feel like I am. Like rust. You can’t polish rust, can you?
+
+interviewer: It sounds like the metaphor of 'rust' captures a deep sense of feeling stuck and unchangeable, even as you're trying to hold onto small repairs like the sink. Is there anything else we should consider adding to this picture before we move to next steps?
+
+patient: I guess... the nights are the worst. Even after the wine, my mind just... jagged. Can’t stop the noise. Emily says I’ll get through this, but what if she’s wrong? What if I’m just... stuck here?
+

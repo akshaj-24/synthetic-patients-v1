@@ -1,0 +1,128 @@
+system: Session c81a8323-5cd8-46b0-8619-481067281f09 transcript
+
+system: Disorder: GAD
+
+interviewer: Welcome, Makayla. How would you like me to refer to you?
+
+patient: Makayla, please. Dr. Nelson if you prefer... I guess I’m used to people using my first name. My partner insists on 'Makayla'—he says it feels more... personal. Though honestly, I’m surprised you didn’t check my chart. It’s all there, in black and white.
+
+interviewer: That sounds like a lot to manage. Can you confirm that my understanding of the purpose of this visit is correct—that we’re here to explore what’s been feeling overwhelming lately and how we might support you?
+
+patient: I guess that’s... accurate. It’s just—small things piling up. My brain feels like a leaky roof these days. You patch one spot, another springs up. The other week I forgot to renew a patient’s meds, and that’s been eating at me. Not that it’s a big deal, but... proof my focus is slipping. I’m used to having control.
+
+interviewer: It sounds like managing all these pressures has been really challenging. Would you be comfortable moving forward with this discussion today?
+
+patient: Yes, I guess that’s... reasonable. As long as we don’t spend too much time on the medication incident. It’s just a small slip, really. Though the billing error is still pending—my father’s finances are a separate storm cloud. I’m tired, but I’ll manage. My shoulders are killing me today, though. Classic muscle tension, I suppose.
+
+interviewer: That sounds really tough to carry. Is there anything specific you'd like to ask about how this session will work before we begin?
+
+patient: I guess I just want to make sure we... stay focused on solutions. I’m not great with open-ended discussions. And if we could keep the conversation to, I don’t know, 45 minutes? My shoulders are killing me, and I have a 6 a.m. shift. But honestly, I’ll take what I can get. Even if it’s just... patching another leak.
+
+interviewer: It sounds like these pressures have been building for a while. Can you share when you first noticed this level of overwhelm starting to affect your daily life?
+
+patient: It’s hard to pinpoint an exact moment, but I guess it started to really nag me during residency. Back then, I told myself it was just part of the job—long hours, high stakes. But lately, it feels like... I don’t know, the same old worries just stacking up. The medication mix-up last week didn’t help. I kept thinking, 'Why can’t I just keep everything straight anymore?' My shoulders ache all the time, honestly. I even started having these little tremors in my hands when I’m pouring coffee. It’s not an emergency, but it’s... a slow build, like a leaky roof you keep patching.
+
+interviewer: That sounds really heavy to carry. Have you experienced similar episodes of stress or overwhelm in the past, and if so, what helped you manage them back then?
+
+patient: I guess in residency, I just... worked through it. Long hours, you know? I’d run extra laps around the block to ‘burn off’ the tension, though my legs still ache sometimes. To be honest, what really helps is... routines. Like, organizing my kitchen drawers by use frequency—it sounds trivial, but it feels like a small victory. My partner brings wine, calls it ‘medical-grade R&R.’ It’s not a cure, but it’s a patch, I guess. Though lately, even that just leaves me irritable. Hard to say what’s different this time.
+
+interviewer: It sounds like your partner is trying to support you through these tough times. How do they usually respond when they notice you feeling overwhelmed or irritable lately?
+
+patient: My partner... they’re well-intentioned. They’ll check my blood pressure randomly, or bring wine early, say it’s ‘medical-grade R&R.’ But I end up snapping about trivial things—trash not taken out, a missed bill. Then I apologize, you know? ‘Adrenaline surges,’ I’ll say, like it’s a diagnosable thing. They hold my hand in the mornings, which... helps, I guess. But I worry I’m just another problem for them to fix. My shoulders still knot up, even when they’re there.
+
+interviewer: It sounds like you're carrying a lot of stress right now. Have you had any thoughts about harming yourself or ending your life?
+
+patient: I guess... there are nights when I think, 'What if I just collapsed into bed and didn’t wake up?' But it’s not really a plan, more like a... tired brain glitch. I’ll have one glass of wine, call it 'medical-grade R&R,' but it just makes me irritable. My partner keeps saying I’m not a problem to fix, but it’s hard not to feel like I’m... leaking in too many places at once.
+
+interviewer: It sounds like the wine isn't helping the way you'd hoped. How often do you find yourself reaching for that glass of wine, and has that pattern changed in the past few months?
+
+patient: It’s... more of a habit now. Used to be once a week, maybe twice if I had a rough day. Now? Probably three or four times a week. I tell myself it’s ‘medical-grade R&R,’ but... it just leaves me edgier. My partner says I snap at them more after, which is ironic because the point was to unwind. I guess my body’s gotten used to it, or maybe it’s just another thing I’m not doing right.
+
+interviewer: It sounds like the wine isn't helping the way you'd hoped. Have you used any other substances besides wine in the past few months?
+
+patient: No, just the wine. I tell myself it's for muscle tension—my shoulders are always tight, you know? Though... to be honest, it's more of a habit than anything else. I guess I'm just overcompensating.
+
+interviewer: It sounds like you're using wine as a way to cope with tension, even if it's not effective. Are you currently taking any medications or supplements?
+
+patient: No medications, just a multivitamin sometimes. I try to avoid prescriptions unless absolutely necessary—I guess I tell myself it’s all just burnout. Though… my sleep isn’t great, so I’ve thought about melatonin. Never tried it, though. Seems like another thing to 'overdo,' if that makes sense.
+
+interviewer: It sounds like your sleep issues are adding to your stress. Have you experienced any periods where you felt unusually energetic or restless, even when you were tired—like you couldn’t slow down or focus?
+
+patient: Unusually energetic? I guess not exactly... though there are days when my hands tremble while I’m charting, like my brain’s stuck on fast-forward. It’s more... a restless kind of tiredness? Like my body’s wound up tight, but I’m too drained to actually do anything about it. My partner says I ‘pace when I think,’ but I tell myself it’s just... routine jitters. You know how it is with medicine—always something to fix, even if it’s just a leaky sink.
+
+interviewer: It sounds like your body is caught between needing rest and feeling compelled to keep moving. How many hours of sleep do you typically get in a 24-hour period, and do you usually feel rested when you wake up?
+
+patient: I average about five to six hours most nights... though it feels more like a power nap these days. I fall asleep okay, but around 2 a.m., my mind starts recalibrating all the day’s ‘what-ifs’—patient charts, numbers, my dad’s emails. The wine helps me drift, but it’s like pouring concrete on a sieve; I wake up sticky with it. My shoulders are still... humming, like they’re charging for tomorrow. My partner says I look 'hollowed out' in the mornings. I guess that’s just part of the job, right? You can’t bill insurance for rest.
+
+interviewer: It sounds like your body is caught between needing rest and feeling compelled to keep moving. Have you experienced any periods in the past month where you felt unusually energetic or restless, even when you were physically tired—like you couldn’t slow down or focus on one thing?
+
+patient: There are days when my hands tremble while I’m charting, like my brain’s stuck on fast-forward... but I tell myself it’s just caffeine withdrawal or eye strain from screens. My partner says I ‘pace when I think,’ which I guess is true—though I blame it on needing space to visualize differential diagnoses. It’s not like I’m bouncing off the walls, just... a restless kind of tiredness? You know how it is with medicine—always something to fix, even if it’s just a leaky sink. I guess that’s just... medicine for you.
+
+interviewer: It sounds like your body is caught between needing rest and feeling compelled to keep moving. Have you noticed any periods in the past month where you felt unusually restless or energetic, even when you were physically tired—like you couldn’t slow down or focus on one thing?
+
+patient: I guess there are nights I feel like a car idling in neutral—my foot’s on the brake, but the engine’s revving. Last week, I stayed up until 2 a.m. organizing my prescription pad templates, even though my legs felt like lead. The wine helps me ‘unclench’ sometimes, but then my hands shake when I hold my coffee the next morning. It’s just... my brain glitching, right? I tell myself it’s residual stress from the medication mix-up, but even when I’m exhausted, I can’t stop mentally triaging all the ‘what-ifs.’
+
+interviewer: It sounds like your mind is stuck in overdrive even when your body needs rest. Have you noticed any periods in the past month where you felt unusually energetic or restless, even when you were physically tired—like you couldn’t slow down or focus on one thing?
+
+patient: There are nights when I feel like my body’s on a timer—exhausted, but my mind’s replaying every possible mistake I could make. Last weekend, I found myself rearranging my medication cabinet for the third time in a week, even though my eyes were burning. The wine helps me ‘unclench’ at first, but then my hands… they just tremble when I try to hold a book later. I tell myself it’s just stress, but it’s like a leaky pipe—patch it here, and the pressure builds somewhere else.
+
+interviewer: It sounds like your body is trying to signal something through these physical symptoms. Have you ever been diagnosed with a medical condition like thyroid issues, sleep apnea, or chronic pain that might be contributing to your symptoms?
+
+patient: I had my thyroid checked last year during a routine panel—everything was in the 'normal range,' which I guess rules that out. My partner’s been through sleep studies for their hypertension, but I’ve never had apnea tested. I do... notice my hands shake sometimes, but I blame the wine I sip at 8 p.m. 'Medical-grade R&R,' my partner jokes. Though honestly, even when I skip it, my muscles still feel like coiled springs. It’s just... burnout, right? The kind that comes from triaging everyone else’s crises before your own.
+
+interviewer: Have you experienced any hallucinations, such as hearing voices or seeing things that others don't, or any strong beliefs that feel real to you but might not make sense to others?
+
+patient: No, nothing like hearing voices or seeing things. Though... sometimes when I’m sleep-deprived, I’ll catch myself misreading a patient’s chart—seeing numbers that aren’t there. I blame the 3 a.m. coffee jitters. My brain’s just... static, I think. It’s not like it’s affecting my work, just... little glitches.
+
+interviewer: Let me check if I’ve captured this accurately: You’ve been managing chronic stress since residency, with recent worsening due to work demands, financial strain, and a medication mix-up that’s shaken your confidence. This has led to physical symptoms like muscle tension and tremors, sleep disruption, and increased alcohol use as a coping mechanism. The stress feels like a ‘leaky roof’ you’re trying to fix while it’s still raining, and you’re worried about how this is affecting your relationships and work. What did I miss?
+
+patient: I think you captured the big picture, but maybe missed the billing error that swallowed a month’s pay—feels like another crack in the roof. And... I’ve been snapping at my partner over silly things, then apologizing with this clinical awkwardness, like ‘adrenaline surges.’ It’s not just work stress; it’s this constant hum of ‘am I letting everyone down?’ Even my kitchen sink leak feels symbolic—postponing it because ‘it’s not an emergency,’ but it’s there, dripping, reminding me things fall apart if you don’t fix them. I guess that’s the glitch.
+
+interviewer: That metaphor about the leaky sink and the billing error really captures the weight of deferred responsibilities. Let me summarize what we’ve covered: Your stress feels like a cumulative burden of professional pressures, financial strain, and self-criticism about mistakes, all while trying to maintain control. The snapping at your partner and physical symptoms like tremors and tension are part of this same pattern. What else feels important to include here?
+
+patient: Yeah, that summary feels right. I guess I’d add... there’s this kitchen sink leak I keep putting off fixing. It’s not urgent, but the constant drip makes me hyper-aware of every other crack. And the wine I ‘prescribe’ myself? It’s supposed to relax me, but more often it just makes my thoughts sharper, like my brain’s turning up the volume on every unresolved file. Oh, and there’s a patient case... maybe nothing, just a pattern I can’t quite shake.
+
+interviewer: Let me integrate your additions: The kitchen sink leak mirrors how deferred responsibilities amplify anxiety, and the wine sharpens your thoughts instead of soothing them. The patient case you mentioned—would you like to explore that pattern further? What else feels important to include in this picture?
+
+patient: The patient case... it’s probably nothing. A teenager with asthma, and I just couldn’t stop thinking about my sister’s old respiratory issues. It’s like the mind finds its own leaks to obsess over. And the tremors? They’re worse when I’m trying to write prescriptions—my pen shakes so I have to pause, check the dosage again... it’s Dr. Double-Check, my patients joke. But maybe it’s just... being extra sure? I don’t know. Oh, and my herb garden. I’ve been tending it more lately. It’s the one thing that feels... solid. No drips, no cracks.
+
+interviewer: It sounds like your herb garden offers a grounding contrast to the 'leaks' in other areas of life. Let’s pull this together: We’ve explored how chronic stress, self-criticism, and deferred responsibilities amplify your anxiety, while your garden and humor help you stay connected to stability. What did I miss, and what might be one step we could take together to address this pattern?
+
+patient: I think... maybe the sister’s divorce is another leak I’ve been avoiding? It’s like I’m supposed to ‘fix’ it with advice, but all I feel is this tightness in my chest. As for a step... maybe a checklist? Something to... patch the leaks before they flood. And keep tending the garden. It’s the only thing that feels like a real fix, not just a bandage.
+
+interviewer: It sounds like acknowledging your sister’s situation as another ‘leak’ adds depth to how responsibilities and emotions intertwine for you. Let me recap: We’ve identified chronic stress from work, financial strains, and family dynamics as key contributors, with your garden as a stabilizing force. What did I miss, and how might we incorporate your idea of a checklist into our next steps?
+
+patient: I think that covers most of it... maybe the part about my chest tightening when I think about my sister? It’s like trying to hold too many IVs open at once. The checklist—I’d need it simple, like a medication chart. Not too many boxes, or I’ll just second-guess every checkmark. And the garden... it’s funny, but when I’m pruning the thyme, my hands don’t shake. Maybe that’s a clue? I just... need to stop letting every leak turn into a flood.
+
+interviewer: It sounds like the chest tightness around your sister’s situation adds another layer to the 'leaks' you’re holding, and the checklist idea could help create structure without overwhelming you. Let me check: We’ve covered your stress patterns, the garden as a stabilizing force, the sister’s role in your emotional load, and your preference for simple, actionable steps. What did I miss, and how might we begin integrating this checklist with your garden as a foundation?
+
+patient: I guess what’s missing is how the garden already acts like a natural checklist—pruning, watering, checking growth. Maybe pairing daily tasks there with the checklist could... anchor me. When I’m focused on the herbs, my hands don’t shake, so maybe structuring ‘fixes’ around that time? And... I’ll try to stop using wine as a ‘prescription’ if it’s just making the leaks louder. It’s a start.
+
+interviewer: It sounds like creating that checklist and tending to your herb garden have been important anchors for you. Let’s review what we’ve covered today and set a plan for moving forward—how does that sound?
+
+patient: I guess that makes sense—having a plan feels like... double-checking a prescription before handing it to a patient. The checklist helps me not feel like I'm missing something, you know? And the garden... it's grounding, like the roots hold me steady when everything else feels like a leak I can't quite patch. But I worry about overscheduling myself again. Even making this plan might just be another... Band-Aid on a bigger crack.
+
+interviewer: It makes sense to worry about overscheduling—let’s make sure this plan is sustainable for you. What part of the checklist or routine feels most vulnerable to becoming another Band-Aid?
+
+patient: The... the part where I check my schedule three times a day? It’s supposed to keep me from missing things, but what if it’s just another loop? Like, I’m so focused on the checklist that I’m not actually fixing the leak under the sink. Or the billing mistake. It’s just... another way to over-schedule myself while the bigger cracks keep leaking. I guess I’m afraid the garden will become that too—something I ‘have’ to do instead of just... breathing.
+
+interviewer: It makes sense to want to protect the garden as a space for grounding rather than obligation—how might you keep it feeling like a refuge instead of another task to check off?
+
+patient: I guess I could... try limiting it to specific times, like after my morning coffee or right before bed. If I don’t over-schedule around it, maybe it’ll stay... a quiet checkup instead of another procedure. But if I start planning too many tasks around it—like pruning schedules or herb-rotations—it might just become another... another leak I’m patching. My hands already tremble when I think about adding more 'to-dos,' you know? I’d have to make sure it’s not replacing one Band-Aid with another.
+
+interviewer: That’s a thoughtful way to approach it. Is there anything else you'd like to add to our plan before we wrap up today?
+
+patient: I guess... maybe just one more thing. My hands still tremble sometimes when I reach for the trash can, like I’m about to spill something critical. I’ve been drinking wine earlier than usual to 'monitor muscle tension'—call it medical-grade R&R, right? But if we could... maybe build in a weekly check-in about that? Not as a task, just... like monitoring a patient’s vitals. And maybe a reminder to not let the checklist replace my partner’s blood pressure logs as my accountability. It’s just... one more vital sign, I guess.
+
+interviewer: It makes sense to build in a weekly check-in as part of your care—would you like to discuss how we might structure that time to feel supportive rather than another task?
+
+patient: I guess... maybe tying it to my morning coffee? Like a 'vitals check' for myself while I pour my cup. If it’s short—like two sentences in my day planner—maybe it won’t feel like another procedure. But what if I forget? My hands already tremble thinking about adding another 'to-do.' Could we... test it for a week? Just a note in my schedule, not a full consult.
+
+interviewer: That’s a thoughtful way to integrate self-check-ins without adding pressure. Let’s confirm the plan: a weekly ‘vitals check’ tied to your morning coffee for the next week, just a brief note in your planner. Is there anything else you’d like to adjust or add before we wrap up today?
+
+patient: That sounds doable. Maybe add a quick check on my garden’s herbs—keeps my hands busy. And… cut the wine to one glass? I guess it’s a start. The checklist feels like a baseline, at least.
+
+interviewer: It sounds like you've thoughtfully integrated these steps into your routine. Is there anything else you’d like to discuss before we wrap up today?
+
+patient: I think that’s it for now. The herb check feels... manageable, and the leak under the sink can wait until the weekend. I’ll try not to let the wine ritual spiral. Honestly, just having a baseline to track might help me stop feeling like I’m one missed step away from collapsing. Thank you.
+

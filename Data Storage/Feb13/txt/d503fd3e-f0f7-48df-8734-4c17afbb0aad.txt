@@ -1,0 +1,96 @@
+system: Session d503fd3e-f0f7-48df-8734-4c17afbb0aad transcript
+
+system: Disorder: GAD
+
+interviewer: It sounds like you've been feeling really overwhelmed by stress and worry lately. Are you comfortable with me asking you some questions to better understand what's been going on?
+
+patient: I guess... yeah, doc. You can ask. It’s just been a rough season with the farm, you know? Crops are slow, the tractor’s been giving me trouble, and my partner’s been coughing nonstop. To be honest, I’ve been working longer hours to keep things afloat, but it’s like my mind’s always racing even when I’m exhausted. I can’t seem to shut it off, even when I’m too tired to think straight.
+
+interviewer: Thank you for sharing that. Before we start, do you have any questions about the process or what to expect?
+
+patient: Not really, doc. I figured you’d just ask about my head and such. To be honest, I’m more worried about the fence line rotting before I get to fix it. You’ll have to excuse me if I’m a bit... twitchy. That whiskey I drink to sleep don’t always do the trick, you know? My hands are still sore from yanking on that tractor starter this morning, but I guess that’s just part of the job.
+
+interviewer: It sounds like a lot is on your mind right now. Just to clarify, today we’ll be talking about how you’ve been feeling and what’s been going on, and I’ll ask some questions to understand better. Does that sound okay?
+
+patient: Yeah, that’s fair, doc. I just... hope we don’t get stuck in the same mud twice. My mind’s like a squirrel in a windstorm—nuts here, nuts there, can’t tell which one’s real. (Pauses, rubs neck.) My hands still ache from yanking that starter, but I guess that’s just farm life, right? You’ll have to forgive me if I space out sometimes. The whiskey helps some, but not enough to quiet the crows in my head.
+
+interviewer: Can you tell me more about what’s been stressing you out the most lately?
+
+patient: The fence line’s been eating at me—rotten posts, gophers chewing through the wire. I should’ve fixed it weeks ago, but I’m always one thing behind. And the tractor... (trails off, fidgets with his hands) it’s like the whole farm’s holding its breath waiting for something to break. My partner’s cough’s been worse, but I tell myself it’s just dust in her lungs. (Sighs, rubs neck) I pour a drink most nights to quiet the noise in my head, but it’s like trying to plug a dam with my fingers. The whiskey helps me sleep, but... (shrugs) my hands still ache, and I wake up tired anyway. You’ll think I’m just a grumpy farmer, but I guess that’s what I’ve always been.
+
+interviewer: It sounds like you're carrying a lot of weight on your shoulders right now. If you're comfortable, can you share what you hope would make a difference for you in this situation?
+
+patient: I guess if the tractor would start right and the fence held up, that’d take some weight off. And if the rain came when it’s supposed to... To be honest, just a night where I don’t count sheep or whiskey. But that’s just part of the farm, y’know?
+
+interviewer: That sounds like a lot to manage. When did you first start noticing these stressors affecting your daily life?
+
+patient: I guess it’s been... creeping up, like a dry spell. You don’t notice the cracks till the dam’s about to give. Maybe five, six years? Since the boy started acting out... and the cough won’t quit. My hands ache more now, even after a light day. Whiskey helps the sleep, but the dreams still feel like I’m drowning in mud.
+
+interviewer: It sounds like these stressors have been building up over time. Have you experienced periods of similar stress or anxiety in the past, and if so, what helped during those times?
+
+patient: Back when the boy was younger, before he... before all that, I used to ride out the stress by working double shifts. If the hands ached from fixin' fences or baling hay, at least the mind stayed busy enough to quiet some. But now... now even the work feels like I’m paddling upstream in a flood. The whiskey still buys a few hours, but the dreams? They’re just the same mud, deeper this time.
+
+interviewer: That sounds really tough. Have you used alcohol to manage stress before, and if so, was it more effective in the past?
+
+patient: I guess whiskey’s been... a stopgap, y’know? Like patching a leaky bucket with duct tape. It used to buy me a full night’s rest, but now the sleep’s still fitful. The dreams... they’re just the same old mud, deeper this time. Not sure if the drink’s worse or the troubles are. But it’s just... part of the farm routine now. You gotta work with what you got, even if it’s not fixing the real break.
+
+interviewer: It sounds like the whiskey isn't providing the relief it once did, which must be frustrating. Who have you relied on for support during these tough times?
+
+patient: Mainly... my partner. We’ve got each other’s back, even when the cough’s got her hollering. I guess you take care of what’s closest, y’know? The rest of it? You just keep the tractor running long enough to bale another round. No use asking for help when the crows in your head won’t shut up anyway.
+
+interviewer: It sounds like the whiskey has been a way to cope with the stress, but it's not as effective as before. How many drinks of whiskey do you typically have each night, and has this amount changed in the past few months?
+
+patient: A couple. Maybe three. Keeps me from counting sheep, y’know? Not really changed—been a while since I’ve had a full night’s sleep. Tractor’s worse, though. Starter’s a sonofabitch. I guess... I guess I just need it to quiet the crows in my head, even if it’s not fixing nothing.
+
+interviewer: It sounds like the whiskey isn't providing the relief you need. Have you used any other substances, such as cannabis, prescription medications, or recreational drugs, in the past few months?
+
+patient: Nah, doc. Whiskey's my only vice. City pills? Don't trust 'em. They'll have you hooked on something you can't afford to quit. I'll stick to what I know—ain't no fancy fixes for a man with calloused hands and a broke tractor.
+
+interviewer: I hear your caution about medications. Are you currently taking any medications or supplements, including over-the-counter ones, to manage your symptoms or health?
+
+patient: Nope. Just the whiskey. City pills? Don’t trust ‘em. My hands can take the pain—calloused, you know? I guess... I guess I just fix what I can with sweat and sleepless nights. Ain’t no use in chasing cures I can’t afford to quit.
+
+interviewer: I hear how you rely on practical solutions to manage your struggles. Have you ever had thoughts of harming yourself or ending your life?
+
+patient: Hell no. A man with a plow don't stop in a drought. I've got crops to harvest, fences to mend... ain't that kind of man. But if you're askin' 'bout sleepless nights? The dam's holdin', barely.
+
+interviewer: I hear how the dam is holding, barely. Have you noticed any changes in your energy levels or need for less sleep over the past few months, even if it's just a few days at a time?
+
+patient: Energy? It’s like the dam—cracks show up when the rain hits. I’m tired more, but it’s the farm’s fault. Long days, short rest. Whiskey helps me sleep, but it’s not the same as rest.
+
+interviewer: It sounds like the dam’s strain mirrors your energy challenges. Have you experienced periods where you felt unusually energetic, needed less sleep, or taken risks lately—even if brief?
+
+patient: No, not really. I guess I just... work when I need to. The whiskey helps me sleep sometimes, but it's not like I'm out there taking chances. Just trying to keep the dam from breaking, you know?
+
+interviewer: I hear how you're managing with what you have. Have you noticed any changes in your thinking, like seeing or hearing things others might not, or believing things that feel unusual or paranoid?
+
+patient: No, nothing like that. Just... my mind's always working, like a creek that don't slow down. Too much on my plate, but I guess that's just farming, you know? Keep the dam from breaking, one plank at a time.
+
+interviewer: From what you’ve shared, it sounds like the stress of managing the farm, financial pressures, and your partner’s health have been building over years, like a dam holding back more each day. You’ve been using work and whiskey to cope, but it’s leaving you exhausted, sleepless, and snapping at those you care about. Even so, you’re still showing up every day to do what needs to be done. What did I miss?
+
+patient: Ain't much you missed, doc. Just... that son of mine, Marcus. He’s another branch of that family tree I’d rather not prune. I guess I’ve been burying that under fence posts and whiskey, same as the rest. Hands still ache from fixing that starter, even after all these years. Dam holds for now, but the roots... they’re holding fast, you know?
+
+interviewer: Let me try to piece this together: The weight you’re carrying isn’t just from the farm or the bills—it’s also the worry about Marcus, another thorn in a family history you’ve tried to outrun with work and whiskey. The dam’s cracks are widening, and the aches in your hands are a reminder that even your old coping strategies are fraying. What did I miss?
+
+patient: Ain't much else... Just that Marcus... he’s like a storm you can’t see coming. You think you’ve planted the seeds right, but... (pauses, rubs aching hands) The whiskey don’t hold back the rain like it used to. My hands still shake when I think about it, but I guess that’s just old bones creakin’. You got most of it, doc. Most.
+
+interviewer: It sounds like Marcus represents a storm of worry that’s hard to predict or control, and the whiskey that once helped now feels like it’s letting in more rain. Let me recap: Over the past few years, you’ve been managing stress from the farm, financial pressures, your partner’s health, and concerns about Marcus. These have led to chronic anxiety, sleeplessness, physical strain, and a sense that your usual coping strategies are fraying. What have I missed or misunderstood?
+
+patient: You got most of it, doc. Just... that old voice in my head, like my father’s echo, always second-guessin’ every decision. I guess I worry I’m passin’ that down to Marcus... but that’s a seed I don’t know how to uproot. (pauses, rubs temples) The dam’s holdin’, but the rain’s heavier now. I just... I don’t want to be the reason it breaks.
+
+interviewer: That sounds like a heavy burden to carry, especially when you’re already dealing with so much. How does that voice influence your decisions in the moment?
+
+patient: It’s like... the dam’s always leaking, so I end up fixing the same spots over and over. If I don’t stay on top of things, the whole thing could collapse. I guess that’s why I push through even when my hands are blistered—it’s easier to work than let the noise in my head win. To be honest, sometimes I just... sit on the porch at night, trying to quiet it all, but the whiskey only mutes it for so long before the crows start again.
+
+interviewer: Let me try to frame this: The stress you’re carrying isn’t just about the farm or the bills—it’s also the weight of family history, the worry about Marcus, and the old voice that feels like it’s always second-guessing you. Over time, work and whiskey became your way to hold back the flood, but now even those feel like they’re fraying. The dam’s cracks are widening, and you’re afraid of what might break through. What did I miss?
+
+patient: I... I guess you got most of it, doc. The dam’s got more cracks than I like to count. Marcus—he’s a new branch of that river, one I can’t dam up no matter how hard I work. The whiskey’s still there, but it’s like trying to plug a flood with a pitchfork. My hands ache from gripping the plow too tight, trying to keep the soil from washing away. To be honest... the crows don’t just scream about the farm no more. They whisper about her cough, about Marcus’ silence. I just... I keep thinking if I fix one thing, maybe the rest’ll hold. I guess that’s all I’ve ever known, right? Fix. Don’t fall apart.
+
+interviewer: That sounds like a heavy weight to carry, especially with so many storms converging. Before we discuss next steps, is there anything else about your experience—whether it’s the farm, Marcus, or something else—that I haven’t fully captured in this picture?
+
+patient: I guess... the rest is just more of the same storms. You ever try to hold back a flood with your hands? They get too worn to grip straight. But I ain't city-bred doc—I'll fix what I can, one board at a time. Just... the crows got a new song 'bout debts and doctors, but I'll figure it out. Always do.
+
+interviewer: That sounds like a lot to carry. Is there anything else you'd like to discuss before we wrap up?
+
+patient: The debts are piling up like harvest left too long. Can't let go of the plow, but the ground's too dry to plant new seeds. Maybe that's just farmin'—you take the good with the... well, the rest. I guess.
+

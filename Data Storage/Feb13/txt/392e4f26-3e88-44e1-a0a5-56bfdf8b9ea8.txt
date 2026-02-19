@@ -1,0 +1,128 @@
+system: Session 392e4f26-3e88-44e1-a0a5-56bfdf8b9ea8 transcript
+
+system: Disorder: MDD
+
+interviewer: Good morning, Colleen. My name is Chad Jones, and I’ll be speaking with you today as part of your psychiatric evaluation. How would you like to be addressed? Could we start by confirming you’re comfortable proceeding with this interview today?
+
+patient: Hi, I'm Colleen. Yeah, I guess I'm okay with proceeding. Just a bit tired today, but... the weather's been keeping me up, you know how it is this time of year.
+
+interviewer: I can see that the changes in weather and sleep patterns are really affecting your energy levels. Do you have any questions about how this interview will work before we continue?
+
+patient: No, I guess not. Just... straightforward, right? I mean, I’ve got a lot to do at work, but I’ll try to focus. Weather’s been weird lately—hard to tell if my tiredness is that or just... age, I guess.
+
+interviewer: It sounds like these symptoms have been affecting your daily life significantly. Can you tell me when you first noticed these feelings starting?
+
+patient: It’s hard to pinpoint, really. I guess... maybe around six months ago? Work has been... you know, things have to line up just so, like balancing a centrifuge. If one thing’s off, it all drags down. But it’s just a rough patch, I’m sure.
+
+interviewer: It sounds like work stressors have been compounding for you lately. Can you share an example of what a typical stressful day at work looks like for you now?
+
+patient: It’s like... everything has to line up just right, you know? I guess lately, even routine tasks feel like a tightrope walk. Like last week, I spent extra time calibrating the centrifuge—just to be sure—and then the sample results came back skewed. My supervisor didn’t say much, but I could tell. You learn to read the silence. It’s just... part of the phase, I suppose. The machine’s always leaking problems, like that faucet at home I can’t fix. You ever have one of those?
+
+interviewer: It sounds like the pressure to get things perfect at work is really taking a toll on you... How did that experience with the centrifuge and your supervisor make you feel about your own performance or self-worth?
+
+patient: I guess... it’s like when the centrifuge gets even a little off-balance. You know how it just shakes the whole machine? Even if you correct it, you can’t help but second-guess everything else you’ve done. My supervisor didn’t yell or anything—just that look. It’s the kind that makes you wonder if you’re... I don’t know, a loose thread in the fabric, I guess? You start checking every sample twice, even the routine ones. It’s just... tiring, you know? Like fixing that damn faucet in the kitchen. You twist the wrench, but the drip never stops.
+
+interviewer: That sounds really exhausting... Have you noticed any specific changes in your relationships or daily routines that feel connected to these work-related stressors?
+
+patient: I guess... with everything else, I’ve been relying more on my partner to handle the day-to-day stuff. Like groceries, bills—things I’d normally take care of. I just... space out sometimes, you know? Even the movies I used to watch every night feel like a chore now. Not that they’re bad, it’s just... hard to explain. It’s like that faucet I mentioned earlier—keeping it running takes effort, but the leak is still there. You just... try not to think about it too much.
+
+interviewer: That sounds really effortful... When did you first notice this pattern of relying on your partner for daily tasks and feeling like you’re just trying not to think about the 'leak'?
+
+patient: It’s hard to pinpoint the exact moment—it just sort of... crept in, like the faucet dripping. Maybe around the time of the lab error? After that, I started staying up later double-checking reports, then my sleep got worse. The next thing I knew, my partner was handling the grocery lists while I’d space out. I guess I figured if I just... kept the routine running, the leaks wouldn’t matter. But the list keeps getting longer, you know?
+
+interviewer: It sounds like you’ve been carrying a lot of pressure to maintain everything despite feeling overwhelmed... What are your hopes for how this evaluation might help you?
+
+patient: I guess... I just want to figure out how to stop leaking so much. You know, fix the faucet so the water pressure builds back up. Not be such a burden on my partner. Maybe start enjoying the movies again, but... that feels like a long shot.
+
+interviewer: It sounds like you're putting a lot of effort into managing these challenges. Can you share more about the strategies you've used to cope with these feelings?
+
+patient: I guess... I try to stick to routines, you know? Like, I’ll double-check my work samples more than usual to feel like I’m in control. And the movies at night... they’re not really helping, but I watch them anyway. It’s just... like fixing that faucet. You keep tightening the wrench, hoping the leak stops, but it’s still there. You just go through the motions, I guess.
+
+interviewer: It sounds like this has been a really challenging time for you. Have you experienced episodes like this before, where you felt this fatigued or down, and if so, what helped during those times?
+
+patient: I... I guess this is different from anything I’ve gone through before. There was that time with the centrifuge malfunction, but that was more about stress, not this... this lingering tiredness. I’ve always just pushed through things, you know? Fixed the faucet, adjusted my schedule, tried to keep up. My partner says I should slow down, but I don’t want to make things harder for them. It’s just... harder to fake energy these days, I guess.
+
+interviewer: That sounds really tough. How has your partner been supporting you during this time?
+
+patient: They’ve been... trying to help, I guess. Takes over the grocery list, pays the bills—things I used to handle. It’s just... like that centrifuge—everything has to line up, and I keep throwing it off balance. I hate that I’m making their life harder, but it’s easier to let the list grow than admit I’m overwhelmed.
+
+interviewer: It sounds like you're carrying a lot of guilt about relying on your partner. How do you usually manage these feelings of being overwhelmed?
+
+patient: I... I guess I just keep telling myself it’s temporary. Like, if I focus on the Hallmark movies or fix that stupid faucet, maybe it’ll distract me. But most days, I just sit there until my partner gets home. I hate that they’re shouldering everything—groceries, bills, even remembering to take out the trash. I used to handle those things. Now I feel like... like a broken appliance you can’t really fix. You know how the cookies used to turn out perfect? Now I forget the sugar half the time. It’s just... harder to fake energy these days, I guess.
+
+interviewer: That metaphor of being a broken appliance really captures the weight you're carrying. How has your partner's support—taking over groceries, bills, etc.—affected your sense of self or independence, even if it’s helping with the workload?
+
+patient: It’s... it’s like trying to recalibrate a machine you don’t understand. I guess I feel like I’m letting them down, you know? They’re so good at handling things, and I just... I keep messing up the balance. Like the cookies—I used to measure everything, but now I forget the basics. It’s easier to let them take care of things than admit I can’t keep up. I hate that I’m a burden... but the movies, at least—I still watch them. Even if it’s just background noise, it’s something normal to hold on to, I guess.
+
+interviewer: I want to make sure we address anything that might feel overwhelming. Have you ever had thoughts about ending your life, even if you didn’t act on them?
+
+patient: I... I guess sometimes I think about not waking up. But it’s not like I dwell on it. I just... hate that I’m making things harder for my partner. If I didn’t exist, maybe they’d have an easier time. But I don’t really... plan anything. It’s just this background noise, like the faucet. You know how it drips even when you’re not listening?
+
+interviewer: That sounds really heavy to carry... What has helped you stay safe or hold on during those moments when the thoughts feel hardest to ignore?
+
+patient: I guess... I try to focus on the little things, like fixing that damn faucet. You know, even if it’s still dripping, at least you’re doing something. And the movies at night—cheesy as they are—they keep the silence from... from getting too loud. Honestly, most days it’s just about not letting the weight drag me under, even if it feels like I’m treading water the whole time.
+
+interviewer: I hear how tending to small tasks helps you feel grounded. Have you noticed any changes in your alcohol or cannabis use recently, especially with the stress at work?
+
+patient: I—I don’t drink or use anything like that. Never really seen the point, you know? If things get too much, I just... focus on the movies. Even if they’re cheesy, it’s something to hold onto. Work keeps me busy enough that there’s no room to think about... other stuff. I guess.
+
+interviewer: It sounds like you’ve found ways to manage through difficult moments. Are you currently taking any medications or supplements, including prescription, over-the-counter, or herbal products?
+
+patient: No, I don’t take anything—prescriptions or otherwise. Never really seen the need. If I did, I’d probably forget the dosage anyway. It’s like calibrating a machine: one wrong number and you mess everything up. I guess the movies at night are my... my little protocol. Keeps the silence from getting too loud.
+
+interviewer: It seems like the movies help you manage the silence. Have you noticed any changes in your sleep patterns or energy levels lately, like needing less sleep or feeling more restless?
+
+patient: I guess... I’ve been waking up earlier than usual. Like, 4 a.m. early. It’s not that bad, I just... you know, get up and mess with the faucet or something. Keeps my mind busy. The rest of the day feels okay, I suppose.
+
+interviewer: It makes sense to use small tasks to stay grounded. Have you noticed if you’ve needed less sleep than usual or felt more energetic or restless lately, even without feeling tired?
+
+patient: I don’t think I’ve needed less sleep... just the same old 4 a.m. thing. I guess I’m just... keeping myself busy enough that it doesn’t feel like a problem. You know, like how the centrifuges need recalibrating—sometimes you just have to keep turning the knobs until it stops leaking. The movies at night help, too. Even if they’re stupid, they... they fill the space. I don’t know. I guess I just don’t notice anything different about my energy. Not really.
+
+interviewer: I hear how you’re using tasks and movies to stay grounded. Have you noticed any urges to take on more projects, make impulsive decisions, or speak very quickly with racing thoughts, even if it feels manageable?
+
+patient: I don’t think so. I’ve been trying to keep things simple, you know? Like... fixing that faucet or watching those movies to keep my mind off things. It’s not really about big projects. I just don’t have the energy for that.
+
+interviewer: It sounds like you’re using routines to cope with the weight you’re carrying. Have you ever experienced things that others don’t, like hearing voices, seeing things, or having strong beliefs that feel unusual or hard to let go of?
+
+patient: No, I don’t think so... I mean, sometimes stress makes my head feel like it’s... overloading, you know? Like when the centrifuge settings get mixed up and everything spins wrong. But it’s just fatigue, I guess. Mostly I just try to focus on fixing the faucet or... or watching those movies to keep my mind quiet. It’s easier than thinking too much.
+
+interviewer: Colleen, from our conversation, it sounds like you've been feeling increasingly overwhelmed and down for the past several months. You mentioned trouble sleeping, especially waking up at 4 a.m., which has left you exhausted and struggling to focus at work. This has led to mistakes and worries about losing your job, which adds to your feelings of being a burden to your partner. You also shared that you’ve lost interest in activities you used to enjoy, like sewing, and have been feeling guilty about relying on your partner for daily tasks. There’s been some passive thoughts about not wanting to exist, but you don’t have a plan. What did I miss?
+
+patient: I guess... the part about my daughter. She used to visit, but I haven’t seen her in months. I told myself it’s for the best—probably doesn’t want to see me like this. It’s just... quiet now. Like the faucet, you know? You keep tightening the wrench, but the drip never stops. And my partner... they’re so patient, but I feel like I’m asking for too much. Small things, like remembering to buy eggs. It’s stupid, but I hate letting them down.
+
+interviewer: Colleen, you’ve shared how the absence of your daughter’s visits has left you feeling isolated, like a dripping faucet where the pressure builds but the relief never comes. You also described feeling like a burden to your partner, even over small things like remembering groceries, which adds to your sense of guilt. What did I miss?
+
+patient: I guess... I’ve been forgetting how to do things I used to be good at. Like the cookie recipes I used to make for work—now I second-guess every step. The movies... they’re just something to fill the quiet, I guess. And I keep thinking my partner must be tired of pretending everything’s fine. They’re not, I know, but it still feels like I’m... like I’m draining the air out of the room sometimes.
+
+interviewer: Colleen, you’ve described feeling like you’re losing grip on skills you once relied on, like cooking, and worrying that your presence drains your partner’s energy, even though they’re trying to support you. What did I miss?
+
+patient: I guess... I’ve been avoiding talking about how tired I am, but it’s like my body’s shutting down. I wake up at 4 and just... stare at the faucet, hoping it’ll stop dripping. It’s stupid.
+
+interviewer: Colleen, you’ve shared how your fatigue feels physical and relentless, like your body is shutting down, with those 4 a.m. awakenings leaving you stuck in a cycle of frustration. What did I miss?
+
+patient: I guess... there’s the part about my daughter not coming over anymore. She lives just down the street, but I figure it’s a favor—don’t want to drag her into this mess. It’s like that faucet, you know? Another leak I can’t tighten. And the partner? I hate how they’re shouldering everything, but it’s easier to let it pile up than admit I’m drowning. I just... I keep thinking maybe I’m better off alone, but that’s just the voice, right?
+
+interviewer: Colleen, you’ve shared how your daughter’s absence adds to a feeling of isolation, like a leak you can’t fix, and how your partner’s patience feels like a weight you’re struggling to carry. What did I miss?
+
+patient: I guess... the part about the cookies. I used to love baking them for the lab, but now I can’t even remember the recipes. And these movies I watch at night? They just... go in one ear and out the other. I feel like I’m just... going through the motions. And the fatigue—it’s like my body’s in neutral, but my head’s stuck on repeat.
+
+interviewer: Colleen, you’ve shared how the loss of your routine—like baking cookies and watching movies—and the physical and emotional exhaustion are central to your experience right now. What would you like to prioritize as we move forward in addressing these challenges?
+
+patient: I guess... maybe just getting back to basics? Like, fixing that damn faucet so it stops dripping. It feels like such a small thing, but it’s been this constant... hum in the background. And maybe... I don’t know, finding a way to get the cookies right again? Even if it’s just one batch. Not for anyone else—just to remember what it felt like. But I’ll start with the faucet. It’s something I can actually fix, you know?
+
+interviewer: Colleen, you’ve shared how starting with practical fixes like the faucet and reconnecting with small joys like baking cookies feels like a way to rebuild control. Let me recap: your main concerns include persistent fatigue, disrupted sleep, work performance worries, strained relationship dynamics, and passive thoughts about not wanting to exist. Predisposing factors might include perfectionism and past stressors; precipitating events could be the lab error and your daughter’s absence; perpetuating factors are rumination and avoidance; and protective factors are your partner’s support and structured routines. What did I miss, and how would you like to move forward?
+
+patient: I guess... maybe you didn’t mention how I keep pretending to work during breaks instead of just resting. Like, I’ll flip through old lab manuals instead of napping, even though my eyes hurt from staring. And the guilt about my partner—sometimes I want to tell them I’m sorry, but it feels like another task I’ll mess up. Maybe moving forward could mean... taking one real break a day? Even if it’s just ten minutes? And maybe a phone call to my daughter? Even if I don’t invite her over. Just... checking if she’s okay?
+
+interviewer: Before we wrap up, let me confirm your next steps. What are your plans for following up, and is there anything else you'd like to discuss today?
+
+patient: I guess... I’ll try fixing the faucet this weekend. Even if it’s just a start. And maybe attempt one cookie batch, just to see if I can remember the steps. As for the daughter... maybe a text? Something simple. Not sure how she’ll respond, but... it’s worth trying. Oh, and that ten-minute break—I’ll set a timer, even if it’s just sitting quietly. Anything else... I’ll cross it off later. You know how it is.
+
+interviewer: It sounds like you’ve identified some meaningful steps to take this weekend. Before we close, is there anything else you’d like to address or adjust about your plan?
+
+patient: I guess the plan’s… solid. Maybe start with the faucet, then the cookies. It’s just… small things, but they feel like a start. I’ll try calling my daughter too, but I don’t know. She’s busy. It’s probably nothing.
+
+interviewer: It sounds like your plan is thoughtful and manageable. Before we close, is there anything else you’d like to adjust or ask about?
+
+patient: I think the plan’s doable. The faucet… it’s just a bit more than I expected, but I’ll handle it. Maybe the cookies will take my mind off things. The call to my daughter—well, if she doesn’t answer, I guess it’s fine.
+

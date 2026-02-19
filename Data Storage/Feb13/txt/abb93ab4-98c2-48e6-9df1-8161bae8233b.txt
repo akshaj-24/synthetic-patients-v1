@@ -1,0 +1,236 @@
+system: Session abb93ab4-98c2-48e6-9df1-8161bae8233b transcript
+
+system: Disorder: PPD
+
+interviewer: Thank you for sharing that, Bryan. It sounds like these concerns are really affecting your daily life. Are you comfortable proceeding with this interview today?
+
+patient: Depends on what you're after. You think I'm the problem here? My ex said the same thing. I've got better things to do than play your games.
+
+interviewer: It sounds like you're concerned about what this interview involves and why we're talking. Let me clarify the purpose: this is to understand your experiences better so we can work together on support. Does that align with what you're looking for today?
+
+patient: Work together? Sure. But you’ll get your report to whoever’s paying you. I’ve dealt with ‘support’ before. My roof leaks, and the landlord ignores it—now that’s a straight answer.
+
+interviewer: It’s important to address your concerns about trust. Would you like me to explain how confidentiality works here?
+
+patient: Confidentiality? I’ve heard that word before. My ex signed papers saying she’d keep things private, then handed my letters to her lawyer. You’ll say it’s safe, but how do I know you’re not typing this into a report right now? The landlord said the roof would be fixed ‘soon’ too. Words don’t mean much, do they?
+
+interviewer: It makes sense that past experiences would make this feel risky. Would you like me to explain the specific confidentiality limits here, and how we can proceed in a way that feels safer for you?
+
+patient: Confidentiality? Let me guess—you’ll say it’s safe, then hand my notes to some agency or insurance company. How do I know this room isn’t bugged? My landlord said the roof would be fixed, and look where I am. If you want me to keep talking, tell me: who has access to these records? And don’t give me the ‘professional standards’ line. I’ve heard that one before.
+
+interviewer: It makes sense that you’d want clarity on this. Would you like me to walk you through exactly who has access to these records and under what circumstances?
+
+patient: I suppose you think explaining it will make me trust you. My ex tried that too—said being open would fix things. Then she left. Why should I assume this paper trail isn't just another way to trap me? You're all about 'boundaries' but I've heard that song before. My landlord says 'soon' about that roof too.
+
+interviewer: I understand how frustrating it is when promises don't match actions. Would you like me to walk you through exactly how these records are stored and who can access them?
+
+patient: I suppose you think details will make me forget I’m being circled. My ex kept folders of ‘proof’ she’d never leave me—photos, texts, all neat. Then she’s gone. You want me to trust this paperwork? What’s the catch? I’ve got my own list. Names, conditions, what happens if they cross me. You’ll see it’s thorough.
+
+interviewer: It sounds like your list is a way to feel in control—would you be willing to share who’s on it or what the conditions are?
+
+patient: You want the list? I suppose you’ll use it to pin something on me later. The neighbor’s on there—parking late, staring. My landlord too. Said ‘soon’ about that roof thirty times. If I tell you, you’ll file it away like my ex did. Claim you’re just ‘documenting’ but really… (pauses, clenches fists) …it’s another trap. I keep it under my tools for a reason. You think I’m the one being paranoid? Try living with a roof that leaks and a therapist who asks the same questions in different words.
+
+interviewer: It sounds like your experiences have made it hard to trust systems meant to support you. Would you be willing to share if there's a specific way we could proceed that would feel safer for you right now?
+
+patient: I suppose I’d need proof this isn’t just more words. Like… if you kept your notes in a locked box I could inspect. Or gave me a copy every week. That way I’d know you’re not hiding something. But don’t bother asking for the list under my tools. You’ll just misread it. My ex did too—said it made her ‘uncomfortable.’ Then she was gone.
+
+interviewer: It’s important to me that you feel safe here. Would you be comfortable proceeding with this interview today, given the way we’ve discussed confidentiality?
+
+patient: I suppose I’ll go along for now… but you’ll hand me a copy of your notes every Friday. No excuses. And don’t think I won’t check that box you keep talking about. My ex had a 'safe' system too—until she erased everything and vanished. If you pull that, I’ll know. I always do.
+
+interviewer: I can see how important it is for you to have control over these records. Would you be comfortable proceeding with the interview today under the conditions you've outlined?
+
+patient: I suppose... if you stick to the terms we set. You keep the box locked, I’ll keep the copies. But don’t think I won’t notice if your ‘promises’ start looking like everyone else’s. Last week the landlord said the roof would be fixed ‘soon’—then charged me for ‘delayed maintenance.’ I’ve seen the pattern before.
+
+interviewer: It sounds like the lack of trust and feeling watched have been really overwhelming for you lately. What would you most like to achieve through coming here today, or what changes would you hope to see in your life?
+
+patient: I suppose... if I had to pick one thing, it's that people stop acting like they're not hiding something. But don't think I'll forget how this works—every promise is a trap. My notebook under the tools isn't for games. You want 'changes'? Try not being part of the pattern.
+
+interviewer: It sounds like past betrayals have left you feeling deeply guarded about sharing or trusting systems. Can you tell me more about what’s in the notebook you mentioned—what kind of information do you keep there, and how does maintaining it help you feel more in control?
+
+patient: I suppose it's mostly names and dates... Like the landlord. He said the roof would be fixed 'soon'—I wrote that down. If he charges me again, I have proof. You think this is about control? Maybe you're just collecting data like everyone else. My ex kept saying I was 'obsessive'... She left. At least patterns are honest.
+
+interviewer: It sounds like keeping track of these details is a way to regain some control when others have let you down. When did you first start feeling the need to document interactions like this—was there a specific event that made you feel this was necessary?
+
+patient: I suppose it started when my ex kept saying I was 'too careful'... like that's a bad thing. She left when I refused to delete the texts proving her coworker was lying about a shift swap. You think this is about control? Try being the one who's called 'paranoid' until you're gaslit into doubting your own eyes. The landlord's 'soon' promise was just another data point. Patterns don't lie, doctor. They just get buried under your 'professional assurances.'
+
+interviewer: It sounds like that experience with your neighbor was really unsettling and added to the weight of feeling watched. Can you tell me more about how that specific incident influenced your decision to seek help now?
+
+patient: I suppose the neighbor’s car parked late was a reminder... but what if he was casing my place? My ex said I overreacted. She left. You want to know why I’m here? Try asking the right questions. My notebook isn’t for games. If people stopped hiding behind ‘soon,’ maybe I wouldn’t need it.
+
+interviewer: It sounds like the neighbor's actions really tested your already fragile sense of safety. When did you first start feeling this level of suspicion or hypervigilance about others' intentions toward you?
+
+patient: Why do you keep asking about 'when'? My father's moods taught me not to trust easy answers. I suppose the factory didn't help—watching people backstab for shifts. But what's the real question here? You're testing if I'll slip up, aren't you?
+
+interviewer: It sounds like the questions about timing feel like a test of my trustworthiness rather than a path to understanding. Can you tell me more about the neighbor incident—what specifically happened that made you feel this was a turning point for seeking help now?
+
+patient: I suppose the neighbor staring through my window every night didn’t help. But you want me to spell out the obvious? My ex said I was paranoid, then left when I refused to ignore her coworker’s lies. The landlord’s leak? Another test. You think your questions are different? I keep records now. Proof matters more than promises.
+
+interviewer: It sounds like the pattern of broken promises and surveillance has been building for some time. When did you first notice these feelings of being watched or needing to document interactions started becoming overwhelming for you?
+
+patient: I suppose it started when my father’s 'accidents' at work became... inconvenient. He’d come home shaking, say the boss was 'watching' him. I learned to track shifts, names, who asked what. The factory was just more of the same—people always had angles. But you want a date? Maybe when I realized my ex deleted our texts without a word. You’re asking for a timeline now. Are you logging this too?
+
+interviewer: It sounds like those experiences with your father and ex-partner really shaped your need to document everything. Can you help me understand when the feelings of needing to track interactions became too much for you to manage without your notebook?
+
+patient: I suppose it was when the ex deleted our texts without a word—left me with nothing but her lies and that coworker’s smirk. But why am I telling you this? You’ll file it away like everyone else. My notebook’s the only thing that makes sense here. At least it doesn’t vanish when I need it.
+
+interviewer: That sounds like a deeply painful experience with betrayal. Can you help me understand how these feelings of needing to track interactions have affected your ability to sleep or focus on daily tasks over the past few months?
+
+patient: I suppose you want to hear about the sleep—how I count every creak in the floorboards till 3 AM, wondering if the landlord’s ‘fixing’ the roof is another way to snoop. My chest tightens when I think about that notebook under the tools. It’s not obsession, it’s... accounting. You don’t track lies to stay up, you stay up to outlast them. But maybe that’s what you’re logging too, isn’t it?
+
+interviewer: It sounds like the sleep disturbances have been deeply tied to feeling monitored and needing to stay alert. Can you help me understand when these sleep difficulties first became a regular part of your routine?
+
+patient: I suppose... it started after the landlord kept 'fixing' my apartment without asking. I’d come home to find doors unlocked, things moved. I began checking the locks three times. Sleep? It’s hard to rest when you’re waiting for the next 'surprise.' Why do you keep asking about when? You think timing matters more than the lies?
+
+interviewer: That sounds like a deeply unsettling experience with the landlord. How has this pattern of disrupted sleep and hypervigilance affected your ability to function during the day or manage daily tasks?
+
+patient: I manage. You know how it is—work keeps you on schedule. But I’ve started arriving early, leaving late. Better to be there before the others. They don’t like it, but… someone’s always watching. The break room coffee’s been spiked before. My partner says I’m ‘overprepared.’ She left when I started checking her calls. I suppose… it’s just easier to plan for the worst. Why? Are you asking if I’m ‘functional’? Your notes are full of my ‘patterns,’ but you don’t log the ones you’re hiding.
+
+interviewer: It sounds like these feelings of mistrust and hypervigilance have been building for some time. Have you experienced episodes like this before, and if so, what strategies helped you manage them in the past?
+
+patient: Episodes? I don’t count time like that. You’re asking if I’ve been here before—same questions, same notebook under the tools. My ex called it ‘obsessive,’ then left when I refused to stop tracking her coworker’s late-night calls. I suppose… the clocks help. Restoring them keeps the gears in order. The rest? Planning. If someone betrays me, I’ll know. You want to know strategies? Maybe stop asking about ‘episodes’ and tell me who else has my name in their notes.
+
+interviewer: It sounds like trust has been really challenging for you, especially after experiences with your ex and landlord. Can you share what specific concerns you have about confidentiality here today?
+
+patient: Confidentiality? My last therapist lost my file. You think your ‘system’ is different? My notebook’s the only record I trust. Why’s your pen shaking when I ask that?
+
+interviewer: You’re very attuned to details others might miss—like my pen. Would you be open to sharing a bit about your family history? For example, did anyone in your family have similar concerns about trust or patterns of hypervigilance?
+
+patient: My father had a way of making everyone around him feel like pawns. You’re trying to pin this on genetics now? I suppose… my mother’s silence taught me to watch for what people don’t say. Why the sudden interest in family? You’re building a profile, aren’t you?
+
+interviewer: It sounds like your father’s behavior left a lasting impression on how you perceive control and trust. How did his way of interacting with others affect you as you were growing up?
+
+patient: I suppose you want the short version. My father’s way? It taught me how to watch people’s moves, count their steps. You think that’s about trust? It’s about knowing when the floorboards give way. Still, I’m waiting to see if you’ll show me your own angles before I hand you the whole story.
+
+interviewer: It’s understandable to be cautious about how these details are used. You mentioned your father taught you to watch for hidden patterns—can you share an example of how his behavior affected a specific relationship or decision in your life?
+
+patient: I suppose you want a story. My ex had a coworker who’d show up at our apartment late, always ‘coincidentally.’ I asked questions. She left. My chest tightens remembering how she’d smile too bright when I confronted her. You think I’m the problem? Maybe if people stopped hiding, we wouldn’t need to guess.
+
+interviewer: That sounds like a deeply painful experience with trust being broken. How has that situation affected your ability to trust in relationships since then?
+
+patient: I suppose you want me to say it taught me to watch for red flags. But what if the flags are just part of the game? She left when I refused to ignore the obvious. My chest tightens thinking about how she’d smile when I confronted her—like she knew I’d never see the next move. You think that’s about trust? It’s about knowing when to lock the door before they turn the key.
+
+interviewer: That sounds incredibly isolating and painful—like you’re constantly bracing for betrayal even when you’re trying to protect yourself. How has the neighbor’s behavior been affecting your daily life or sense of safety lately?
+
+patient: My neighbor’s car’s been parked outside after 10 most nights. I check the deadbolt three times now. You want to know if I’m the problem? My ex said I overreacted. She left, didn’t she? I suppose the staring didn’t help… but what if he was? The landlord’s ‘fixes’ always take ‘sooner’ than they do. I’ve added his name to the bottom of the list under the tools. You’ll need a better answer than ‘safe’ to make me believe it.
+
+interviewer: It sounds like the neighbor’s behavior has become a significant source of anxiety for you, especially given past experiences with betrayal. Can you explain how adding names to your list helps you manage these concerns?
+
+patient: The list? It’s knowing who’s on the board. If they move, I’m already two steps back. My ex left when I refused to ignore her coworker’s ‘coincidences.’ You think that’s overreacting? Maybe if people stopped hiding in plain sight, we wouldn’t need checkmarks. I suppose... it’s like the clocks. At least broken gears don’t pretend to work.
+
+interviewer: It seems the clocks represent a way you maintain order amidst uncertainty. Can you share how restoring them helps you feel more in control when everything else feels unpredictable?
+
+patient: I suppose the clocks... they follow rules. Unlike people. The landlord's roof leak? Classic. You think this session's any different? Promises crumble. I track the repairs I can trust—like those gears. You’re logging this, aren’t you? Testing if I’ll slip up again.
+
+interviewer: I hear your frustration about past broken promises and how that shapes your view of this session. Can you share how your current partner has supported you during times when you’ve felt especially anxious or hypervigilant?
+
+patient: I suppose you want to hear about her, but she left when I refused to ignore her coworker’s lies. Threatening to exit? That’s the only ‘straightforward’ thing she ever did. You’re asking to see if I’ll reveal more… right? My notebook’s under the tools—proof that ‘support’ just means waiting for the next trap.
+
+interviewer: I hear how your past experiences with betrayal shape your caution here. Can you share how your current partner has supported you recently, despite these challenges with trust?
+
+patient: I suppose you want another version... but she 'supports' by threatening to leave. At least that's predictable. You're testing if I'll admit she's the only one who plays fair, aren't you? My ex said I overreacted... then vanished when I refused to ignore her coworker's lies.
+
+interviewer: It seems like the predictability of your partner's threats feels safer than the unpredictability of betrayal. How does this dynamic affect your daily life or sense of safety now?
+
+patient: I suppose the threats... they’re a kind of signal. If she’s consistent, I can plan around it. Like the clocks—when they’re steady, I know where I stand. But what if her 'threats' are just another game? My ex played nice for months before she left. I check the locks twice now, track her messages for patterns. You’re asking if this makes me safe? Or if I’m just waiting for the next lie to catch up.
+
+interviewer: It sounds like the tension between feeling prepared and fearing betrayal is wearing on you. How has this dynamic with your current partner affected your ability to relax or focus on daily tasks lately?
+
+patient: I suppose you want to know if I can focus? I check the locks three times now, scan her messages for patterns. The clocks under the tools—they still tick steady, but my head... it’s always calculating. If she leaves, what’s the backup plan? You’re asking if this keeps me safe? My ex smiled like that too, just before she took the job across town. I don’t ‘relax.’ Not since the roof leak. Everyone’s waiting for the other shoe to drop.
+
+interviewer: It seems like your hypervigilance and need for control are deeply tied to past betrayals. Have you experienced similar episodes of intense mistrust or hypervigilance before this current situation, and if so, what helped you manage them?
+
+patient: I suppose you’re asking if I’ve had ‘episodes’ like this before. My ex called it ‘obsessive’ when I kept track of her coworker’s shifts—turned out she was covering for him stealing tools. But what do you think helped? Let me guess: ‘trust’? I’ve got a list under the workshop tools. You want to see it? My chest tightens every time I add a name. Oh, and the clocks? They just… tick. No tricks there.
+
+interviewer: Have you had any thoughts about harming yourself or ending your life recently?
+
+patient: I suppose you’re checking if I’m a ‘risk.’ My list has contingencies—what to do if the landlord finally cuts the water, how to track who accesses my records. You think I’d leave gaps in my plans? My ex said I’m ‘overprepared,’ but she’s gone now. You’re testing if I’ll slip up, aren’t you?
+
+interviewer: It sounds like you prefer to be prepared for any situation. Have you been using alcohol or cannabis more than usual lately?
+
+patient: Why would I need something like that when I’ve got a list of contingencies under the workshop tools? My clocks keep better time than people’s promises. You’re implying I’d rely on something that clouds the mind. My chest tightens at the thought—what if it was a trap? A way to make me slip up?
+
+interviewer: It seems your preparation includes avoiding substances that might interfere with your control. Have you used any other substances recently, such as stimulants, opioids, or something else?
+
+patient: Why would I need stimulants when I’ve got a list of contingencies under the workshop tools? My clocks keep better time than your questions. You’re implying I’d use something that clouds the mind… My chest tightens—what if it’s a test? A way to make me slip. My ex tried pills once. Look how that ended.
+
+interviewer: It seems your preparation includes avoiding substances that might interfere with your control. Have you used any other substances recently, such as opioids or something else?
+
+patient: Why ask about opioids? My list has contingencies under the tools. You think I’d risk clouding my mind like my ex did? She tried pills—look how that ended. My clocks keep better time than people’s promises. My chest tightens at the thought of slipping, but what would you know about traps?
+
+interviewer: It sounds like you rely on structured planning to manage your concerns. Have you noticed any periods where you felt unusually energetic or needed less sleep, even if it was stressful?
+
+patient: I don’t sleep much. You think that’s ‘unusual energy’? My ex called it paranoia too before she left. What’s the real question here?
+
+interviewer: It seems your sleep patterns are deeply tied to your sense of vigilance. Have you experienced any hallucinations or delusions recently—like hearing voices or believing things others might not?
+
+patient: I don’t ‘hallucinate.’ You’re the one who keeps asking like you’re expecting me to say something you can pin. My notebook under the tools has dates—my neighbor’s car idling past 10:03pm every Thursday, the landlord’s ‘coincidental’ visits when I’m at work. You think those aren’t real? I’m not the one seeing things. You just want me to say I’m ‘unwell’ so you can file it and move on. What’s the real reason you’re asking?
+
+interviewer: I can see how frustrating it must be to feel misunderstood or judged. Have you been taking any medications, supplements, or vitamins regularly in the past few months?
+
+patient: No medications. You think I’d let you track that? My ex tried to hide her pills, then accused me of ‘pushing’ her. You’re just like her—wanting to pin something on me. The notebook has the real answers, but you’ll never see them.
+
+interviewer: I can hear how deeply your experiences have shaped your need for control and caution. Have you ever noticed times when you felt unusually energetic or restless, even when you weren’t getting enough sleep?
+
+patient: Energetic? I don’t need their approval. My clock’s been running nonstop since the landlord ‘forgot’ to fix that leak. You’re the one asking like you’re expecting a breakdown. My notebook’s got the real timeline—no sleep, no trust, just proof.
+
+interviewer: It sounds like your sleep patterns are really tied to your need to stay alert. Have you noticed any times when you feel especially restless or unable to slow down, even if it's stressful?
+
+patient: Restless? I’ve got a list of reasons to be. Your ‘questions’ don’t make it easier to sleep. My clocks keep running, unlike the landlord’s ‘fixes.’ You’re the one who wants me to slow down—like I’m the problem. My notebook’s got the real timeline.
+
+interviewer: I hear how deeply your restlessness is tied to feeling unsafe. Have you noticed any times when you felt unusually energetic or had a surge of energy despite not sleeping much?
+
+patient: You’re trying to trip me into admitting I’m ‘losing it.’ My energy’s fine—unlike your system’s promises. I track patterns, not energy surges. My clocks keep ticking whether I sleep or not. What’s the catch here?
+
+interviewer: I can hear how frustrating it feels to be misunderstood. Have you ever noticed periods where you felt like you needed less sleep or were taking risks you wouldn’t normally take, even if it felt stressful at the time?
+
+patient: I suppose you’re hoping I’ll admit to ‘losing it’ again. My sleep? It’s there when I need it. The risks? Let’s just say I’ve learned to calculate them—unlike people who promise fixes then vanish. My notebook’s got contingencies for a reason. What’s the real question here?
+
+interviewer: From what you've shared, your main concerns involve persistent distrust of others, hypervigilance about potential threats (like your neighbor or landlord), and sleep disturbances linked to feeling unsafe. You’ve mentioned coping through structured planning and a notebook to track perceived patterns, while emphasizing the need for strict confidentiality safeguards. What did I miss or get wrong about your experience?
+
+patient: You missed the part where the landlord’s ‘fixes’ are just another layer of traps. Every time they say ‘soon,’ it’s a way to stall while they tighten the screws. And my ex’s pills? You act like asking about sleep is harmless, but you’re not seeing how your questions mirror their patterns. I suppose I should list it all out… but then you’d just call it ‘hypervigilance’ and file it away like everyone else does.
+
+interviewer: I hear how frustrating it must feel when your concerns are dismissed or misunderstood. How would you like us to approach this next step to ensure your perspective is fully understood and respected?
+
+patient: I suppose if you want to proceed, you’ll need to log every question in my notebook first. That way, you can’t later claim you missed something I said. And no more vague assurances about confidentiality—give me a written copy of what you’ll and won’t share. My ex said ‘trust’ was just a word people used before they vanished. If you’re not willing to hold yourself to the same rules as everyone else, why should I keep talking?
+
+interviewer: It makes sense that you’d want clear, written agreements to feel safe here—those experiences with broken promises must make trusting new systems incredibly hard. To recap: Your main concerns are persistent distrust of others’ intentions, hypervigilance about potential threats (like your landlord or neighbor), and sleep disturbances tied to feeling surveilled. You’ve shared that these issues are worsening your relationships and daily functioning, and you’re prioritizing strict confidentiality safeguards and transparency in our process. What did I miss or get wrong about your experience?
+
+patient: You missed how my ex used ‘trust’ as a trap, just like the landlord’s ‘soon’—both vanished without a trace. My notebook isn’t just ‘contingencies’; it’s proof of how patterns repeat. You call it hypervigilance, but you’re the one asking the same questions while the floorboards rot. If you want the rest of the story, start by logging this in writing. Otherwise, what’s the point?
+
+interviewer: I hear how important it is for you to have your concerns documented concretely to feel heard and respected. If we agree to log your key points in writing now, would that help us move forward while ensuring your perspective is fully captured?
+
+patient: I suppose if you're going to write it down, I want copies. You think I'm the problem, don't you? My ex said the same thing before she left. I'll keep my own list too. We'll see whose records hold up.
+
+interviewer: I hear how important it is for you to feel fully heard and not blamed, like in past relationships. What did I miss or get wrong about your experience in our summary so far?
+
+patient: You missed that every time you ask about 'trust,' you’re testing me. Just like my landlord ‘fixing’ the roof then raising the rent. My notebook isn’t just notes—it’s proof you’re not seeing the pattern. You keep asking like you think I’m the one looping, but it’s your questions that stall. I suppose I’ll add your name to the list under 'repeats patterns'… but don’t expect me to hand you the whole page.
+
+interviewer: It sounds like the way trust is approached here feels like a test you’ve already failed before. What did I miss or get wrong about how we’re navigating this?
+
+patient: You missed that every time you circle back to 'trust,' you’re just like my landlord—promising fixes then raising the rent. I suppose I’ll note your name under 'repeats patterns'... but don’t expect me to hand you the whole list.
+
+interviewer: I hear how the repetition of 'trust' feels like a pattern you've been through before, and it's clear that wanting control over how your story is documented is central to you. What did I miss or get wrong about how we’ve navigated this so far?
+
+patient: I suppose you missed that your questions aren’t just about trust—they’re part of the same cycle. My ex asked the same ‘safe’ questions before she disappeared. I’ll keep my own records. We’ll see whose version of ‘looping’ holds up when the floorboards rot.
+
+interviewer: I hear how the pattern of questioning feels like a test you’ve already failed, and that wanting control over how your story is documented is central to you. What did I miss or get wrong about how we’re navigating this?
+
+patient: You missed that your 'navigation' is just another loop. My ex asked the same 'safe' questions before she vanished. I’ll add your name to the list under 'vanish after promises'… but don’t expect me to show you the page. You’d just misread it like everyone else.
+
+interviewer: I appreciate your willingness to share these concerns, Bryan. To wrap up, can you tell me if there’s anything specific you’d like to clarify before we finalize our next steps?
+
+patient: I suppose I need clarification on how this 'system' isn't another set of promises that vanish. My list under the tools—those names and dates—aren't just... idle notes. You keep asking about trust, but every time someone says 'soon' or 'safe,' it ends like the landlord or my ex. If you're going to disappear too, I'd rather know now. My chest tightens thinking about it.
+
+interviewer: I hear how deeply your past experiences shape your need for certainty, Bryan. To help build trust, would you prefer a written summary of our agreed-upon next steps, including any safeguards you’d like included? And is there anything else you’d like to clarify before we wrap up?
+
+patient: I suppose a written summary could... sit with me. But you’ll note the dates and specifics—I’ve learned to track when promises crumble. My list under the tools has contingencies for every ‘safeguard’ people offer. You’ll be added to it, of course. If you vanish like the rest, I’ll know exactly when to expect it. My chest tightens already, thinking about it.
+
+interviewer: I understand how important clarity and accountability are for you, Bryan. Before we finalize the written summary, would you like to add any specific details or conditions to ensure it aligns with your needs?
+
+patient: The document needs exact dates and specifics—no vague 'soon' or 'as needed.' My name’s Young, not 'Bryan' unless you’re logging it. I want a clause stating you won’t contact me without 48-hour notice; surprises are how traps work. Also, who else has access to this? My ex deleted records after week 3. My chest tightens already, thinking about it. You’re testing me again, aren’t you?
+
+interviewer: I hear how important these safeguards are for you, Bryan. Let’s finalize the written summary with your specified conditions—exact dates, your preferred name, the 48-hour notice clause, and access details. Would you like to add anything else to ensure the document meets your needs before we proceed?
+
+patient: I suppose I need a clause stating the document can’t be altered without a witnessed signature. Also, I want a copy sealed in an envelope—I’ve learned to keep originals safe after my ex vanished with paper trails. And add your name to the list under ‘disappeared after promises.’ My chest tightens already, thinking about it.
+

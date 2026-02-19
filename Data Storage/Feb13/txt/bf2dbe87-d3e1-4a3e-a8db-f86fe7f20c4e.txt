@@ -1,0 +1,136 @@
+system: Session bf2dbe87-d3e1-4a3e-a8db-f86fe7f20c4e transcript
+
+system: Disorder: GAD
+
+interviewer: It sounds like you've been feeling quite overwhelmed lately. May I start by confirming your preferred name and pronouns?
+
+patient: My name is Christopher Maldonado, and I use he/him pronouns. I guess… that’s the standard setup. To be honest, I’ve just been so swamped with work lately that even thinking about pronouns feels like another item on a never-ending checklist.
+
+interviewer: ...
+
+patient: Yeah, residency is... intense. I’ve been working 16-hour days, so my sleep is… fragmented. I wake up multiple times, my jaw is clenched so tight it aches. But it’s manageable, I guess. The charts just need triple-checking these days. My father’s health is… stable, but I can’t afford to make mistakes. Coffee keeps me going.
+
+interviewer: That sounds incredibly demanding. May I confirm that you’re comfortable proceeding with this interview today?
+
+patient: I’m comfortable proceeding, I think. To be honest, my throat feels like a vice right now, but I’ve managed worse. Let’s just… make sure we’re concise. Rounds are soon.
+
+interviewer: I appreciate your honesty about the tightness in your throat—let’s keep this as concise as possible. Before we begin, would you like a brief explanation of how this interview will proceed?
+
+patient: Sure, but let’s keep it efficient. You ask questions, I answer. My schedule is… fluid, but I can allocate 15 minutes before rounds. Just… avoid open-ended prompts. I’ve found structure helps contain the… static in my mind. My throat is still tight, but I’ve survived worse—like 36-hour shifts without sleep.
+
+interviewer: It sounds like these feelings have been building up. Can you tell me when you first noticed these feelings of overwhelm and restlessness starting, and have you noticed any specific events or changes around that time?
+
+patient: I guess the overwhelm started around six months ago, when I took on the chief resident role. The hours are grueling—sometimes I’ll review patient charts late into the night, just to feel on top of things. My throat tightens, and my jaw aches from... I don’t know, clenching? It’s hard to pin down. But I tell myself it’s just efficiency, right? The body protesting all the hours I’m sacrificing.
+
+interviewer: It sounds like the physical sensations you're describing are tied to the long hours and pressure. How has this been affecting your work as a doctor, especially with patient care and interactions with colleagues?
+
+patient: I... I think my approach to patient care has actually become more methodical? I triple-check charts, cross-reference diagnoses—maybe that’s just being thorough. But colleagues have mentioned I seem... short during rounds. I guess when my jaw is clenched like a vice, it comes through in my tone. The irony is, I worry about missing subtle symptoms in patients, so I compensate by over-documenting. It’s efficient, right? Though I’ve caught myself second-guessing routine decisions. Not sure if that’s helpful or just... noise.
+
+interviewer: It sounds like these changes are taking a toll on both your professional and personal life. What would you most like to achieve through this visit?
+
+patient: I guess... I want to figure out how to maintain my standards without burning out. If I could recalibrate my body’s ‘compensatory mechanisms’—you know, the jaw clenching, the sleepless nights—without compromising patient care. My wife says I’m ‘overcompensating,’ but how do you balance that with responsibility? I just don’t want to be the kind of doctor who... misses things because they’re too tired to think straight.
+
+interviewer: It sounds like overcompensating is a big concern for you. Can you give an example of when this has shown up recently in your work or personal life?
+
+patient: There was a case last week where I spent hours cross-referencing a rare diagnosis, which delayed the team’s workflow. I kept adjusting the treatment plan based on every possible edge case, even though the patient’s condition was stable. My resident gently suggested I step back—it was… humbling to realize I’d turned a straightforward case into a maze. My jaw was so tight during rounds afterward, I could barely chew my lunch.
+
+interviewer: It sounds like your current stress is affecting both your work and personal relationships. Have you experienced similar episodes of stress or anxiety in the past, and if so, what helped you manage them?
+
+patient: In the past, I’ve relied on... structure. If I stayed late at the hospital, I’d brew extra-strong coffee to stay sharp, or lose myself in baking pastries—something tactile to counteract the mental noise. But honestly? Those are just Band-Aids. The real issue is that my body equates ‘efficiency’ with survival. Even when I try to rest, my mind defaults to triple-checking hypothetical scenarios. It’s like my nervous system has a broken off switch.
+
+interviewer: It seems your relationship with structure is both a tool and a challenge for you. Who in your life do you feel most supported by when these stressors arise, and how do they help you navigate them?
+
+patient: I—I suppose my wife, but... I hate how I end up burdening her with my hypervigilance. She asks for space now, which I guess I deserve. Honestly, I just double-check patient charts three times to feel in control. It’s... efficient. Even if it means clenching my jaw until it aches.
+
+interviewer: It sounds like you carry a lot of guilt about how your stress affects your wife’s well-being. How has her request for space influenced your daily routine or your sense of responsibility at work?
+
+patient: It’s... complicated. I guess I’ve been arriving at the hospital earlier, just to review charts before the day starts. It helps me feel prepared, but my wife says it’s like I’m avoiding something. I suppose she’s right—I just... I can’t shake the feeling that if I’m not hyper-focused on work, I’ll let everyone down. Even now, my jaw is tightening again. It’s ridiculous, really. I bake pastries to unwind, but it’s just flour and sugar. Not that it matters.
+
+interviewer: It sounds like the pressure you're under is really taking a toll—have you ever had thoughts of harming yourself or ending your life?
+
+patient: No—no, I’ve never... I can’t even let myself go there. It’s like my mind short-circuits before it gets that far. But there are days when the weight feels unbearable. I just... power through. Coffee, routines, triple-checking charts. If I focus on solving the next problem, there’s no room for those thoughts. Though my jaw does crack when I think about it. Ridiculous, right? My body’s running on fumes, but at least it’s still functional.
+
+interviewer: It sounds like the pressure you're under is really taking a toll—have you noticed any changes in your sleep patterns recently, such as difficulty falling asleep, staying asleep, or feeling rested upon waking?
+
+patient: Sleep? It’s... inconsistent. Most nights I fall asleep staring at patient charts, only to wake up 3 a.m. with my jaw locked and my throat tight. I count coffee brews as a proxy for how little rest I get—three means I ‘slept’ somehow. The pastries I bake at 4 a.m. are just... flour therapy. My body’s running on fumes, but at least the charts don’t bleed into the dough.
+
+interviewer: It sounds like you're relying heavily on coffee to cope with exhaustion. Have you increased your alcohol consumption recently as a way to unwind or sleep better?
+
+patient: Alcohol? No, I can’t afford the risk of even a hangover—patients need their doctor sharp. I stick to herbal tea, even if it tastes like boiled weeds. My wife jokes I’m a control freak about everything, but... if I can’t control the worry, at least I can control the caffeine. And the charts. And the jaw clenching. Ridiculous, right?
+
+interviewer: It seems like managing your caffeine intake is a way to maintain control amidst the chaos. Have you used cannabis or other substances, like stimulants or opioids, to cope with stress or sleep issues?
+
+patient: Cannabis? No, I— I guess I stick to what’s... socially acceptable. Coffee, energy drinks, the usual. It’s not that I don’t *want* to unwind, but when you’re on call every third night, even sleep feels like a luxury you have to schedule. My wife says I’d benefit from something stronger, but I’d rather not give my father another reason to call me a 'weak link.'
+
+interviewer: It sounds like you’re managing stress through structured routines, which can be helpful—have you noticed any periods where you feel unusually elevated in mood or energy, or take risks you wouldn’t normally take, even if just briefly?
+
+patient: Elevated mood? I suppose if pushing through 36-hour shifts counts, but that’s just part of the job. I avoid risks—patients can’t afford my mistakes. Sometimes I work so late it feels like my coffee’s the only thing keeping me upright, but that’s efficiency, not... I don’t know, recklessness. My father always said diligence isn’t a weakness.
+
+interviewer: It seems like your long shifts and reliance on coffee might be blurring the line between dedication and overexertion—have you noticed any periods where you felt unusually energetic or needed less sleep than usual, even if you attributed it to just being busy?
+
+patient: I don’t think so. My energy’s always tied to the schedule—like clockwork. If I skip a break, it’s not really ‘energy,’ just... duty. My jaw’s tighter than most days, though. Maybe that’s what you’re picking up on.
+
+interviewer: It’s clear your jaw tension is a consistent physical signal for you—have you been prescribed any medications or supplements recently, or taken any over-the-counter remedies, that might be affecting your energy, mood, or physical symptoms?
+
+patient: Medications? No, I’ve avoided prescriptions for years—my father always said dependency was a sign of weakness. I take a multivitamin sometimes, but mostly it’s just ibuprofen for the jaw tension. It’s not really a solution, just… damage control. The body’s a machine, right? You grease the gears where they squeak.
+
+interviewer: It sounds like your body’s been under a lot of strain—have you been diagnosed with any medical conditions that might affect your sleep, energy levels, or mood, such as thyroid issues, sleep apnea, or chronic pain?
+
+patient: No diagnoses, nothing formal. My primary care doc once suggested maybe stress-induced muscle tension for the jaw—ibuprofen and heat packs, nothing more. I guess if I’m being honest, the throat tightness and fatigue… they’re just part of the job, you know? My father would call it 'overcompensating,' but I prefer to think of it as prioritizing what matters. The body’s supposed to handle stress, right?
+
+interviewer: It seems like your focus on efficiency and control helps you navigate daily demands—have you ever experienced any unusual thoughts, like hearing voices, seeing things others don’t, or having strong beliefs that feel out of step with reality?
+
+patient: I guess... I haven’t exactly noticed anything like that. My mind’s usually too preoccupied with charts, patient follow-ups, or replaying conversations to have space for, uh, unusual thoughts. Sometimes I catch myself overanalyzing a symptom until it feels... distorted, but that’s just my brain overcompensating, I think. Not sure if that’s what you’re asking.
+
+interviewer: It seems like your mind’s tendency to overanalyze might be a way to manage uncertainty—have you ever experienced periods where you felt unusually energetic or needed significantly less sleep, even if you attributed it to just being busy?
+
+patient: No, I don’t think so. When I’m deep in a case, hours slip by, but that’s just focus. Coffee helps me keep up—it’s the job, really. I’d say I’m just... efficient with time.
+
+interviewer: It sounds like your structured approach helps you stay grounded—can you share what you find most helpful when you need to manage stress or regain focus?
+
+patient: I guess... structure helps, you know? Breaking down complex cases into stepwise priorities keeps my mind from... wandering. Coffee’s a given—ritualistic, almost. And if my jaw starts aching from, uh, long hours at the hospital, ibuprofen sorts it out. Oh, baking? The precision of measuring ingredients... it’s almost meditative. Though I’m not sure if that’s just my brain convincing itself anything can be ‘fixed’ with enough organization.
+
+interviewer: Let me recap what I’ve heard so far: You’ve described feeling overwhelmed and restless for six months, linked to increased responsibilities as a chief resident. This has led to sleep disturbances, physical tension (jaw clenching, throat tightness), and hypervigilance at work, which strains your relationships and self-care. You cope with structure, caffeine, and baking, but worry about burnout and letting others down. What did I miss?
+
+patient: I guess... the noise from the neighbor’s drill at night? It’s like my brain’s alarm system—once it’s triggered, I can’t quiet it. And the charts... I keep triple-checking them, even when it’s unnecessary. It’s like proving I’m still competent. But I don’t want to burden my wife with this; she’s asked for space, and I don’t want to make it worse.
+
+interviewer: Let me recap what I’ve gathered so far: Over the past six months, your transition to chief resident has intensified work-related stress, leading to sleep disturbances (waking at 3 a.m.), physical tension (jaw clenching, throat tightness), and compulsive checking of patient charts to counter feelings of incompetence. These habits strain your relationships—particularly with your wife—and create a cycle where hypervigilance masks underlying fear of failure. You cope through rigid routines, caffeine, and baking, but acknowledge these are temporary fixes. What did I miss?
+
+patient: I guess that’s about it... though the films I watch—those surreal ones—they’re... chaotic. Like my thoughts sometimes. And there’s this... fear that if I slip up, it’s not just me failing. But that’s probably just the job talking.
+
+interviewer: Let me try to pull this together: You’ve described a pattern where work-related stress and self-imposed pressure to perfectionism create a cycle of hypervigilance, physical tension, and emotional strain—like the chaotic, surreal films you mentioned, which mirror how your thoughts feel when overwhelmed. The fear that a mistake could harm others (beyond yourself) seems to fuel this cycle, even as your coping strategies (rigid routines, over-preparation) start to backfire. What did I miss or get wrong here?
+
+patient: You’re… not wrong. The films thing is a good analogy—my thoughts spiral like those plots, but I can’t stop watching. The part about fear of mistakes… that’s there. I guess I’d add that my father’s heart attack feels like a warning I can’t ignore. I keep thinking, *What if I’m just as fragile?* But I clench my jaw tighter and work longer. It’s… not a solution, but it’s what I know.
+
+interviewer: Let me offer a tentative model: Your current stress seems shaped by a mix of factors—your father’s heart attack may have intensified fears of physical or professional fragility (predisposing), while the chief resident role and sleep deprivation likely triggered this cycle (precipitating). Now, compulsive checking and hypervigilance keep it going (perpetuating), though your structured routines and commitment to care act as protective buffers. What did I miss or get wrong here?
+
+patient: You’re... not wrong. The model fits. The father thing—it’s a shadow I can’t shake. I keep thinking I’ll crumble like him, so I overcompensate with routines. But they make me rigid. My jaw aches from clenching, but it’s better than facing the... static. The films I watch? They’re just noise, really. Like my mind on loop.
+
+interviewer: Let’s build on this understanding—what would be most helpful for you to explore next? Would talking through specific strategies (like therapy, lifestyle changes, or other supports) align with how you’d like to move forward?
+
+patient: I… I guess talking through strategies isn’t unreasonable. But I’d need structure, something that doesn’t feel like… like ‘fixing’ in quotes. Maybe starting with small adjustments—like setting a strict sleep schedule? I’ve been reading studies on circadian rhythms, and it feels… safer to follow a protocol. But therapy? That’s a harder sell. My father would call it a luxury. Though… if it means not clenching my jaw to 2 a.m. every night, maybe I’ll consider it. For now, though, I’d rather not overcommit. One step at a time.
+
+interviewer: It makes sense to start with small, structured changes if that feels more manageable. Are you open to discussing how we might approach refining your sleep schedule while also addressing the tension around therapy?
+
+patient: Sleep structure… maybe start with a protocol? Like a trial period. I’ll track it in a log—if data shows improvement, I’ll keep it. As for therapy… I’d need to see it as a clinical intervention, not… personal failure. My jaw’s been knotted since we started talking about this. It’s just… another variable to control, you know?
+
+interviewer: Let me make sure I follow your lead here: You’re proposing a structured sleep protocol as a starting point, paired with framing therapy as a clinical tool rather than a personal shortcoming. Your jaw tension and fear of failure feel like barriers to openness about therapy, but you’re willing to consider it if it aligns with measurable progress. What did I miss or misframe in this understanding?
+
+patient: You’re… accurate. The protocol angle gives me a foothold, something concrete to track. The therapy part… it’s not that I distrust it, but the *label* feels like a red flag to my father’s ghost. My jaw’s still tight, honestly—it’s this silent argument between ‘fix what’s broken’ and ‘don’t be weak.’ Maybe if the sleep log shows… I don’t know, proof of stability? Then the rest might follow. But let’s not rush it.
+
+interviewer: Your structured approach to managing this through measurable steps makes sense given your need for control. Would you like to add anything else to this plan before we finalize it?
+
+patient: Maybe... a sleep protocol? I’ve been tracking my hours but not the quality. And maybe a log for the jaw pain—it’s less about fixing it and more about proving it’s not ‘something bigger.’ But honestly, I think I’ve said enough. The rest is just... managing the noise. If that makes sense.
+
+interviewer: That makes sense—starting with structured steps while keeping options open. Is there anything else we haven’t covered that would help shape this plan? --FUNCTION-- end_phase --FUNCTION--
+
+patient: Maybe… a 10-minute pause at work to step outside? I’ve been so focused on charts that I forget to reset. And if I bake those pastries more often, it forces me to slow down. Sounds silly, but if I can measure the time spent kneading dough, maybe it’s… another data point. I guess that’s all.
+
+interviewer: It sounds like you’re committed to trying the structured sleep schedule and work-breaks with baking as self-care. Do you have any final questions or need adjustments to these next steps before we wrap up?
+
+patient: No, I think the plan is... sufficient. The sleep schedule gives me something concrete to track, and the breaks—however trivial—might keep me from grinding my jaw into oblivion. If the pastries don’t work, I’ll... reassess. But for now, let’s proceed. I’ll document the results, of course.
+
+interviewer: I appreciate your commitment to tracking progress systematically. Before we close, is there anything else you’d like to clarify or address regarding your plan?
+
+patient: Just… if the neighbor’s drills at 2am persist, I’ll need to adjust the sleep log. My jaw’s already rehearsing its protest. But I’ll document it. Trivial, I know.
+

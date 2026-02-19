@@ -1,0 +1,124 @@
+system: Session fdecae5e-3569-46bd-b970-e60d315ab8c7 transcript
+
+system: Disorder: GAD
+
+interviewer: Hello, my name is Amy Buchanan, and I’ll be speaking with you today. To start, could you please confirm your name and let me know if you have any preferred pronouns?
+
+patient: Hello. I’m Maureen Simon. Ms. Simon, if you prefer. Pronouns? No, just Maureen. No preferences there. I’ve always been straightforward about that sort of thing.
+
+interviewer: Thank you for sharing that, Maureen. Today, I'll be asking you some questions to understand your current concerns better. Would you be comfortable proceeding with that?
+
+patient: Yes, of course. I’m here to do what I need to. Might as well make the best of it—like any other task that needs seeing through, you know? Just… try to keep it straightforward, if that’s okay.
+
+interviewer: Thank you for being here, Maureen. Do you have any questions about the process before we begin?
+
+patient: No questions from me. I’ve never been one to dwell on the hows and whys of paperwork—just get it done, you know? Let’s start. The sooner we begin, the sooner I can circle back to my day. I’ve got a shift rotation to plan, after all.
+
+interviewer: I appreciate your eagerness to get started. Today, I’ll be asking questions to understand what’s been going on for you lately. Does that sound okay?
+
+patient: Sure, that sounds fine. Just… keep it efficient, if you don’t mind. I’ve got a shift rotation to finalize, and the paperwork hell never ends. But I’m used to juggling. It’s just another busy period, you know?
+
+interviewer: I appreciate your efficiency, Maureen. Just to clarify, would you be okay with us moving forward in a straightforward manner to address what’s been troubling you?
+
+patient: Sure, let's get through this. I’ve got shifts to prepare for. It’s just that lately, I’ve been so tired I can barely keep my eyes open, but I guess that’s just getting old, right?
+
+interviewer: Can you tell me what's been on your mind most lately that brought you here?
+
+patient: It’s probably just my usual overthinking. At work, there was this incident last month where the alarm went off for no reason, and I’ve been replaying it in my head—like, what if I missed something real? Then there’s the usual: bills piling up, my partner being quiet about stuff. I guess I’m just… used to worrying. You know how it is. To be honest, I’ve probably always been a bit neurotic. Coffee helps, but even that’s not enough some days.
+
+interviewer: It sounds like the alarm incident has been really unsettling for you. When did you first start feeling this level of worry about it, or was there a specific time when things felt noticeably worse?
+
+patient: It’s hard to pin down exactly… maybe a week or two after the false alarm? I kept second-guessing myself, like maybe I messed up a protocol or something. But honestly, it’s just how it goes now. My body’s been on lockdown since I was a kid—what’s the point in fighting it? I just… make do. Coffee helps, but even that’s not enough to outrun the tired.
+
+interviewer: It sounds like carrying that tension for so long has been really exhausting... When did you first start noticing this pattern of your body feeling 'on lockdown'?
+
+patient: Honestly? It’s been there forever, I think. Probably since I was a kid, trying to hold everything together for everyone else. My dad used to say I ‘overprepared like a scaredy-cat’—you know how parents are. Now it’s just… muscle memory. Even when I’m not on duty, my shoulders remember to clamp down. Coffee helps the stiffness, but the rest? That’s just how the body books its own hotel room, I guess.
+
+interviewer: Have you experienced similar episodes of anxiety or stress in the past?
+
+patient: Always been like a broken record, really. Shoulders locked up tighter than a vault during tax season. Dad called it overpreparing like a scaredy-cat. Coffee keeps the rust at bay, but the machine’s still creaky. You start to wonder if the creaks are just… part of the model.
+
+interviewer: It sounds like your relationship with your partner is complex for you. Can you tell me about their role in supporting you through this recent stress?
+
+patient: He’s a good listener, I guess. We don’t really talk about it much—mostly just… he’ll make me tea when I get home, you know? But I try not to burden him with all this ‘neurotic mom’ stuff. I figure if I can handle the paperwork and the shifts, I can handle my own head. Although sometimes I catch myself checking the locks three times just because he’s late coming home. Funny, right?
+
+interviewer: It sounds like checking the locks is a way to manage worry when your partner is out. How often does this happen, and does it help ease your mind at all?
+
+patient: It’s more than I’d like to admit, honestly. Like, if he’s even 10 minutes late, I’m out there pacing and rechecking. It’s just… a habit, I guess? From working shifts and always needing things 'just so.' Doesn’t really help, but it makes me feel like I’m doing something, you know? Even if it’s silly. I tell myself it’s just my 'paranoid cat energy'—stress makes me act like I’ve got nine lives and a bunch of them are in jeopardy.
+
+interviewer: It sounds like this need for control feels both automatic and exhausting for you. You mentioned your dad called you a 'scaredy-cat'—can you share more about how your family talked about stress or anxiety growing up? Did anyone else in your family cope with worry in visible ways?
+
+patient: My dad used to joke about it, you know? 'Scaredy-cat' and all that. But my mom... she was the opposite. She’d get this tight-lipped look and say things like, 'Why can’t you be more composed?' Like worrying was some kind of personal failure. I think she hid her own stress by... I don’t know, hyper-focusing on tiny things? Like making sure the stove was off 20 times a night. Maybe that’s where I got the 'lock seven times' thing. Funny how family traits stick, right? I guess I’m just the expert in overthinking.
+
+interviewer: It sounds like your family's approach to stress left a lasting imprint on how you manage your own anxiety. How do you think that history influences your current coping strategies, especially with work and relationships?
+
+patient: I think... it’s all about control, right? My mom showed me that worrying is something you manage in silence. Like, if you make a big deal about it, you’re admitting you’re weak. So now I just... hyper-focus on the things I can fix. The locks, the schedules, the paperwork. It’s my way of saying, ‘At least this part isn’t broken.’ But it’s funny—my partner’s learned to roll with my ‘lockdown expert’ phase. He just laughs and says, ‘You’d outdo a vault installer.’ Helps, I guess. Though part of me worries I’m passing that ‘silent suffering’ stuff down… but let’s not get ahead of ourselves. It’s just habits, really.
+
+interviewer: It’s meaningful that you’re reflecting on how these patterns might affect your partner. How has your partner responded when they notice you getting caught up in these cycles of checking or overthinking?
+
+patient: He’s learned to roll with it, I guess. Most of the time he just laughs and says I’m ‘over-engineering the door locks’—you know, like I’m designing vaults or something. But once in a while, he’ll catch me mid-check and go, ‘Maureen, you’re gonna wear out the deadbolt.’ It’s… it’s better than arguing, I suppose. Though I worry he thinks I’m just being dramatic. I mean, when he does ask, I brush it off like it’s just ‘job training’ or something. Don’t want him thinking I’m some kind of… burden. But the tea helps, at least. Even if it’s just a ritual to make me feel like I’m doing something productive.
+
+interviewer: It sounds like you're carrying a lot of stress right now. Have you had any thoughts of harming yourself or ending your life recently?
+
+patient: No, I’m not at that point. I mean—haven’t we all had days where your brain’s a nagging roommate you can’t evict? My head’s full of ‘what-ifs,’ sure, but it’s the coffee-and-guilt routine that keeps me vertical. My partner’d kill me if I skipped a shift, right? He’s always joking about how I’d make a terrible invalid.
+
+interviewer: It sounds like coffee is a big part of your routine. Can you tell me about any alcohol, cannabis, or other substances you've used recently?
+
+patient: Honestly, it’s just a glass of wine sometimes. Not much, just to unwind. I’d hate to let the job hear I’m a wine connoisseur on my days off! No cannabis, no other stuff—my brain’s already its own chaotic weather system.
+
+interviewer: I appreciate your honesty. How often do you have that glass of wine, and has this pattern changed in the past few months?
+
+patient: Probably three or four times a week, maybe more if the week’s been a nightmare. I tell myself it’s just a liquid bandaid for the nerves, but honestly? It’s a habit I can’t quite kick. My partner teases me about it—‘Maureen’s wine-o-clock’—but I’m careful. Can’t exactly show up to night shifts with rose on my breath. Coffee by day, wine by night… it’s my survival kit, I guess.
+
+interviewer: It seems your wine consumption is tied to managing stress. Have you used any other substances, like stimulants or opioids, recently?
+
+patient: Nope, just coffee and that glass of wine. The job can’t have me needing a nap mid-shift—my partner’d kill me if I dozed during his late-night drive-thru run. Honestly, if I tried anything else, my body’d probably revolt. Coffee by day, wine by night… that’s my chemical balancing act, I guess.
+
+interviewer: It sounds like your routine helps you manage through the day. Have you noticed any changes in your energy levels or sleep patterns lately that feel different from your usual pattern?
+
+patient: Sleep’s still a... shaky truce, I guess. I’m still the queen of lying awake counting the seconds between my heartbeat and the coffee machine’s whir. My body’s like a coiled spring—tight as a hospital bedsheet even when I’m not on duty. Energy? Coffee’s the only thing that makes me feel like I’m not dragging a boulder to work. I’ve tried cutting back, but then I’m just a grumpier version of myself. My partner jokes I’m a zombie with a master’s in overthinking. Maybe he’s right.
+
+interviewer: It sounds like your body’s tension and fatigue are really impacting your daily life. Have you ever experienced periods where you felt unusually energetic or needed very little sleep, even without caffeine or other stimulants?
+
+patient: No, I don’t think so. I’ve always been the type to need my rest, honestly. Coffee’s my real fuel—without it, I’m about as useful as a screen door on a submarine. My partner jokes I’d sleep through a fire alarm, but even then… I still wake up checking the smoke detectors. You know how it is.
+
+interviewer: Have you experienced any hallucinations, delusions, or strong paranoid thoughts recently?
+
+patient: No, nothing like that. I’m more… the type to overcheck things, maybe? Like, I’ll reset the smoke detectors even if they’re fine—habit from working with safety protocols. My partner teases me about it, says I’d lock myself out of a burning building just to ‘double-check the exit.’ But it’s just… routine, you know? Keeps me from going stir-crazy with all the what-ifs.
+
+interviewer: Are you currently taking any medications or supplements, including over-the-counter ones like pain relievers or sleep aids?
+
+patient: No medications, just the usual coffee to keep me upright. My partner says I’d need a defibrillator if I ever quit. Oh—occasional ibuprofen for my shoulders, but that’s just from… you know, being human. And maybe a glass of wine on shift nights? Not that it’s a habit or anything. Keeps the 'security guard posture' from winning, though.
+
+interviewer: I notice you mentioned physical tension and fatigue as ongoing challenges. Have you ever been diagnosed with a medical condition like thyroid issues, sleep apnea, or chronic pain that might be contributing to these symptoms?
+
+patient: No, nothing official. My doc says my blood pressure’s ‘borderline normal’—which I guess is just code for ‘don’t let the coffee habit kill you.’ My mom had heart stuff, so maybe it’s family, but I try not to… overthink it. Keeps me from sleeping enough as it is. Oh, and the wine? Not a habit. Just… weekend maintenance.
+
+interviewer: Maureen, based on our conversation, it sounds like you’ve been dealing with chronic anxiety and physical tension for a long time, which has recently been compounded by a stressful work incident and ongoing worries about your job and relationships. This pattern seems to be influenced by family dynamics where anxiety was either dismissed or managed through strict control, and you’ve developed your own strategies like relying on coffee and wine to cope. These habits, while helpful in the short term, are starting to affect your energy, focus, and relationships. How does that align with your experience—what did I miss?
+
+patient: You’ve got the basics right, I guess. The coffee, the wine, the 'security guard posture'—it’s all there. What you’re missing? Maybe how I’m still convincing myself that near-miss at work was just a fluke. I check those protocols seven times a night, but it’s the silence between me and my partner that’s the real ghost in the machine. He’s got his own storms brewing, and I’m too scared to ask. Oh, and my mom’s habit of swallowing worry? I guess I’m just passing it down like a bad recipe. But hey—at least I’m not sleeping through the smoke alarms… yet.
+
+interviewer: It sounds like the near-miss at work has intensified your need for control through checking protocols, while the emotional distance from your partner and intergenerational patterns of unspoken anxiety are adding layers of strain. What did I miss about how these pieces connect for you?
+
+patient: I guess it’s like… I’m a checking machine at work but a total mess at home. The alarm thing? I’ve gone from double-checking to seven-times-checking. My partner jokes about it, but his silence lately… it’s like he’s waiting for me to crack. And yeah, maybe I’m just passing down my mom’s habits—her worry, my wine routine. It’s all… quiet until it’s not. But I’m fine. Mostly.
+
+interviewer: It sounds like the tension between your need for control at work and the emotional chaos at home is really wearing on you, and the fear of passing on these patterns adds another layer. What would be most helpful for you as we move forward?
+
+patient: Honestly? A manual for the 'seven-checks-and-call-it-a-day' system I use at work. If I could just export that to home, maybe the partner’s silence wouldn’t feel like a minefield. But I’m fine—mostly. Coffee’s holding me together, and the herbs are finally surviving. Maybe… less wine? Though that sounds like a joke only I’d get.
+
+interviewer: It sounds like the tension between your structured approach at work and the unpredictability at home is central to what’s draining you right now. What would you most want to address or change as we think about next steps—therapy, lifestyle adjustments, or something else?
+
+patient: Honestly? I’d like to build a home version of my work checklists—something with boxes to tick so the ‘chaos’ doesn’t feel so… chaotic. Coffee’s still my mainstay, and the herbs are finally thriving. Maybe I’ll swap one glass of wine for an actual ‘system’ instead of just… winging it. But hey, I’m not broken—just… a work in progress.
+
+interviewer: It sounds like creating a structured system for home could help you feel more grounded, similar to your work routines. Before we finalize next steps, is there anything else you’d want to add or adjust about how we’ve framed your experience?
+
+patient: I guess I just want to clarify—I’m not反对 the structure idea, but my coffee routine’s already my de facto ‘system.’ And the herbs? They’re surviving, which is a small victory. As for the wine… maybe ‘less’ is a stretch, but I’ll admit I’m not terrible at faking progress. Mostly.
+
+interviewer: It sounds like your coffee routine is your go-to system, and you’re balancing practical progress with humor to manage the chaos. What would you like to prioritize first as we move forward—therapy, lifestyle adjustments, or something else?
+
+patient: I think… start with the checklist thing. If I can map out a home routine like my shift protocols, maybe the rest will fall into place. And yeah, cut the wine down to two glasses max? But honestly, the biggest fix would be my partner stopping the silent treatment—though I’d never ask him outright. Coffee’s already my therapist, right? It’s a start.
+
+interviewer: Thank you for sharing all of this with me, Maureen. Before we wrap up, is there anything else you'd like to go over or any final questions you'd like to ask?
+
+patient: I think I’ve said enough about the usual suspects—coffee, checking the locks seven times, that sort of thing. Maybe I’ll try writing down a few things at home to… untangle the noise? But honestly, I’m just going to stick to what works. Thanks for listening.
+

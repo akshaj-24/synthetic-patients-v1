@@ -1,0 +1,104 @@
+system: Session 46e167d4-f5e5-44a9-bd2d-75d652436b19 transcript
+
+system: Disorder: MDD
+
+interviewer: Good morning, Harold. My name is Robert Peck, and I’ll be conducting this psychiatric evaluation. May I confirm that you’re comfortable proceeding with this interview today?
+
+patient: Yeah, I suppose. Just a busy time at work, you know? My wife keeps saying I need to take it easy, but I can’t seem to slow down. Coffee’s been keeping me going, though it’s not doing much these days.
+
+interviewer: That sounds really tough. Do you have any questions about how this interview will work before we start?
+
+patient: No, I guess not. Just... whatever you need. Though I’ll probably need to check my phone for deadlines in the middle of it. My wife says I should pace myself, but pacing is overrated. I used to love crosswords on Sundays, but now it feels like... untangling a project that’s already half-ruined. If that makes sense.
+
+interviewer: Can you tell me if you have a plan or specific thoughts about how you might harm yourself?
+
+patient: I don’t... I don’t have a plan, if that’s what you’re asking. But sometimes I lay there at night, you know, staring at the ceiling, and it feels like my brain’s just... looping an old project that’s already half-ruined. Like trying to fix something that’s already beyond saving. My wife says I’m just tired. Maybe she’s right. Work’s been a mess, deadlines slipping, and I can’t even finish a crossword without second-guessing every clue. But no, no plan. Just... bad coffee, I guess.
+
+interviewer: It sounds like the sleeplessness and work stress have been really challenging for you. When did you first start noticing these changes in your sleep and energy levels?
+
+patient: It’s been... creeping up, really. Maybe a year? Feels longer. Like a project that’s slowly unraveling. You know how it is when deadlines pile up—sleep slips, then you’re just... running on fumes. I guess I tell myself it’s the workload. But my wife says it’s more than that. She’s probably right. I just... wake up in the middle of the night, staring at the ceiling. Not resting, you know? And by morning, I’m still wired. Like my brain’s stuck on repeat.
+
+interviewer: It sounds like the sleeplessness and work stress have been really challenging for you. When did you first start noticing these changes in your sleep and energy levels?
+
+patient: It’s been... hard to pin down exactly when it started, really. Maybe a couple years ago? I remember wrestling with a project that had me up at odd hours, but this... this feels longer. The energy? I guess it’s like trying to thread a needle with gloves on—everything takes twice as long. You know how it is when you’re ‘getting older’...
+
+interviewer: That sounds like a heavy burden to carry. Can you describe how these symptoms have changed over the past couple years—have they been steady, gotten worse, or come in waves?
+
+patient: I guess... it’s like a project that’s slowly unraveling. You know how sometimes you think you’re just... tightening one thread, but really you’re loosening five others? It’s not like waves, exactly. More like... a slow leak. The coffee’s gotten stronger, the nights longer. My wife says I’m ‘clutching at straws’—which I guess I am. But work? Work’s still... solid. Reliable. At least, that’s what I tell myself when I’m staring at the same spreadsheet for three hours.
+
+interviewer: It sounds like the unraveling you're describing has started to affect both your work and personal life. Can you share how these changes have impacted your ability to engage in activities you once enjoyed, like creative projects or time with your wife?
+
+patient: Work’s still... there. The rest? It’s like trying to paint with cracked brushes. The crossword—Linda’s thing—used to be a game, now it’s just... another grid to fill before the coffee goes cold. I’ll sit there, force a smile, but my head’s already somewhere else. Fatigue, you know? Even wanting to matter feels like a luxury I can’t afford.
+
+interviewer: It sounds like the exhaustion is making it hard to connect with things that used to bring you joy. What are you hoping to achieve through this visit, or what changes would you like to see in your life?
+
+patient: I guess... I’d like to stop feeling like every day’s a project I can’t finish. The crossword? Maybe actually *get* to the end once. Without my head already half-checking out. But you know—work’s work. If I could just... stop wrestling with myself for three hours over a spreadsheet, maybe I’d feel less like a broken reverb.
+
+interviewer: It sounds like the tension between work demands and your energy has been really draining. How have you been managing stress or maintaining work performance given these challenges?
+
+patient: I guess I just... double down on the planning. Break everything into smaller pieces, check off each box real slow. Like if I micromanage the little parts, the whole thing doesn’t feel like it’s gonna collapse. And when the fog hits—well, I smoke more. Old habits, you know? The crossword? Linda says it’s a break, but I just... force myself to focus on the clues. Even that feels like climbing a hill these days. Still, better than sitting home staring at the walls.
+
+interviewer: It sounds like this has been a challenging period for you. Have you experienced similar episodes of feeling overwhelmed or disconnected in the past, and if so, what helped during those times?
+
+patient: I guess... work’s always been the thing that kept me from, y’know, falling apart. If that makes sense. Back when the deadlines were bad, I’d just bury myself in projects. Now? Even that feels like trying to dig out of mud with your bare hands. The crosswords—Linda drags me through them every Sunday—used to be a thing. But lately, even the clues feel... fuzzy. Like my brain’s too tired to hold the pattern. Maybe that’s just getting older, though. Or the coffee going bad.
+
+interviewer: I appreciate you sharing that. Have you experienced periods where you felt unusually energetic or needed less sleep, even when it interfered with your daily life?
+
+patient: I guess... back when the design crunches were bad, I’d burn through nights. But that’s just stress, right? Now, even that feels like a chore. Coffee helps... sometimes. But it’s not like I’m *getting* anything out of it. Just... there. Eyes open. Maybe that counts? Hah.
+
+interviewer: It sounds like those thoughts are really weighing on you. Have you had any thoughts about ending your life, and if so, do you have a plan for how you might do that?
+
+patient: No plan. Just... sometimes I think about not waking up. But that’s probably just exhaustion talking. I mean, who wouldn’t feel that way after 60 hours a week and a kid who won’t take my calls? The crosswords? Even Linda’s puzzle feels like a chore now. My brain’s just... done, I guess.
+
+interviewer: It sounds like the weight of everything is taking a toll. Have you had any specific thoughts about how you might not wake up, even if it feels like just a passing thought?
+
+patient: I guess... sometimes I wonder if my brain’s just tired of trying. Like, what if I just... didn’t have to wake up? But that’s probably just the sleepless nights talking. Linda’s crosswords? Even those feel like a chore now. I hate that.
+
+interviewer: That sounds really challenging. Have you noticed any changes in your use of alcohol or other substances lately?
+
+patient: I guess... the cigarettes came back. Haven’t smoked in years, but lately, it’s like my hands just... reach for them. Call it stress, I guess. Coffee’s not even cutting it anymore. But it’s not like I’m out there—y’know. Just a few here and there. Probably makes me look like a stressed-out old man. Hah.
+
+interviewer: I appreciate your honesty about the smoking. Are you currently taking any medications or supplements, including prescription, over-the-counter, or herbal products?
+
+patient: No medications, really. Just the usual coffee and maybe some ibuprofen when the headaches get bad. The smoking... well, I guess you could say it's stress. Old habits, I suppose.
+
+interviewer: Have you been using any alcohol or recreational drugs lately, even occasionally?
+
+patient: No, not really. Maybe a beer now and then, but... that’s about it. I’m not one for parties, if you know what I mean. Most nights, I’m just too tired to even think about it. Coffee’s my vice, I guess.
+
+interviewer: Are you currently taking any medications or supplements, including over-the-counter drugs or herbal products like St. John's Wort or melatonin?
+
+patient: Just coffee, I guess. Maybe some ibuprofen when the headaches get bad. The doctor prescribed something once, but I stopped taking it—didn’t agree with me. Smoking’s the only... well, maybe that counts as a supplement? I know it’s dumb, old habits and all. Can’t even enjoy a crossword without needing a cigarette now, if that makes sense.
+
+interviewer: It sounds like your body’s been trying to cope in different ways. Have you had any recent periods where you felt unusually energetic or needed less sleep, even if it messed up your routine?
+
+patient: No, nothing like that. I guess I've been... working late, but it's more like I can't shut my brain off. Coffee helps me sit through it, but it's not like I'm 'energetic'—just stubborn, I suppose. Still feel like I'm dragging most days, honestly.
+
+interviewer: Have you noticed any changes in your thinking, like hearing voices, seeing things others don’t, or having thoughts that feel strange or paranoid?
+
+patient: No, nothing like that. My mind’s more like... one of those crossword puzzles where half the clues don’t make sense, and you just keep staring at the same squares. Feels stuck, you know? Not 'strange' thoughts—just... tangled. Maybe that’s the coffee talking.
+
+interviewer: It sounds like you’ve been struggling with prolonged low mood, sleep disturbances, and work-related stress that’s affecting your energy, creativity, and relationships. We’ve also discussed how things like anhedonia, passive thoughts about not wanting to wake up, and nicotine use as a coping mechanism have played a role, while your wife’s support remains a key protective factor. What did I miss?
+
+patient: I guess... the crosswords still happen, but they’re not the same. Feels like I’m just filling in blanks now. And the smoking—old habits, I suppose. Just... stress, you know? Haha. Coffee’s the real problem, not me.
+
+interviewer: It sounds like your creativity and sense of purpose have dulled, even in activities you once found engaging, while stress has led to old habits resurfacing. What did I miss about how these changes have shaped your daily life or relationships?
+
+patient: I guess... the crosswords still happen, but they’re not the same. Feels like I’m just filling in blanks now. And the smoking—old habits, I suppose. Just... stress, you know? Haha. Coffee’s the real problem, not me.
+
+interviewer: It sounds like your creativity and sense of purpose have dulled, even in activities you once found engaging, while stress has led to old habits resurfacing. What did I miss about how these changes have shaped your daily life or relationships?
+
+patient: I guess... the canceling. How it’s not just the crosswords that feel like a chore. Linda keeps asking why I’m always tired, but I just say I’m getting older. The truth is, even saying "no" to things feels like climbing a hill. And the kid—my son—he’s been distant. I make jokes about family drama, but... I don’t know. Maybe I’m just imagining it. It’s probably me, being ungrateful again.
+
+interviewer: It sounds like work stress, sleeplessness, and strained family connections have been central to your experience, with tasks and relationships feeling burdensome while your wife’s concerns contrast with your self-criticism about being ungrateful. What did I miss about how these patterns might fit together or what they might mean for you?
+
+patient: It’s like... work’s the only thing keeping me from floating away, but it’s also the anchor that drags me under. The crosswords—Linda’s thing—used to be a... a tether. Now it’s just another thing I half-finish. And the kid... he’s been distant. I tell myself it’s me, you know? Ungrateful, as always. But sometimes I wonder if he just sees how... frayed I am. Haha. Coffee’s the real hero here, not me.
+
+interviewer: It sounds like your work is both a source of structure and a contributor to your exhaustion, while strained family connections and lost pleasures add to the weight you’re carrying. What did I miss about how these pieces fit for you?
+
+patient: I guess... work’s like that old couch you’re stuck on—comfy but sinking. The crosswords? More like a guest I can’t kick out. Forces me to sit up, but the puzzle’s all wrong. And the kid... I guess I just figure he’s got his own life now. Me being a grumpy old relic probably doesn’t help. Haha. Coffee keeps the ghost of me going, at least.
+
+interviewer: Is there anything else you'd like to discuss before we wrap up today?
+
+patient: I guess... not really. It's just the usual stuff, you know? The crosswords with Linda—still a chore, but I guess a lesser one. Ha. And the smoke... well, let's just say my 'bad habits' are making a comeback. But hey, I'm not complaining. Some things never change, right?
+

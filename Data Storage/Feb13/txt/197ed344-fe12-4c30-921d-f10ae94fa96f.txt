@@ -1,0 +1,152 @@
+system: Session 197ed344-fe12-4c30-921d-f10ae94fa96f transcript
+
+system: Disorder: PPD
+
+interviewer: May I have your name and preferred pronouns?
+
+patient: Kristin McCarthy. Call me Kristin. Why the interest in pronouns? What’s this got to do with fixin’ my head? I’ve got work to do at the farm tomorrow, so let’s get to the point.
+
+interviewer: I understand you're eager to get started. Can we proceed with the interview now?
+
+patient: Ain’t I already said I don’t got all day? Let’s get to the why of this. You want answers or you just yappin’ to fill a report? My crops ain’t gonna dig their own wells.
+
+interviewer: I appreciate your directness—this conversation is about understanding what's troubling you, not paperwork. Can we agree to focus on your concerns while I ask some key questions to help guide our time together?
+
+patient: If it’s about the farm stress, fine. But you’ll know I ain’t the type to complain. That irrigation system breakdown? Don’t figure it was an accident. Someone’s got an angle, and I’m the one who’s gotta fix it all. Let’s talk about why I’m here—my head’s been a mess since that happened.
+
+interviewer: That sounds like a heavy burden to carry. Are you comfortable moving forward with this conversation as we discuss what's been troubling you?
+
+patient: If I don’t talk about it, it just sits there like a clogged pipe. But don’t think this is some magic fix—just another job to do. You’ll know I ain’t here ’cause I’m looking for small talk. Let’s get to the why of this.
+
+interviewer: It sounds like you've been dealing with a lot of stress and distrust lately. Can you tell me more about what's been the biggest problem for you?
+
+patient: The biggest problem? That irrigation system's been a nightmare. You think it's just broke down, but I'm starting to wonder if someone didn't mess with it. It's like that fuel spill all over again—someone's got an angle. But maybe I'm just being paranoid. It's hard to tell who to trust these days.
+
+interviewer: That sounds really tough to deal with. Can you tell me when the irrigation system issues first started and if there was anything specific that made things worse recently?
+
+patient: The system started sputtering last spring, but it clogged up for good after the fuel spill incident. You think it’s a coincidence? I ain’t foolin’ myself—same M.O. as the tractor mess. Why the sudden interest in the timing, doc? You got a report to file or somethin’?
+
+interviewer: I hear how the pattern of these incidents feels significant to you. How has this suspicion of sabotage affected your ability to work on the farm or maintain relationships there?
+
+patient: Ain't easy workin' with folks when you think they're all playin' three games at once. I do most of the heavy liftin' myself now 'cause I can't second-guess some jackass's work. But that backfires—too tired to spot my own mistakes. As for the crew... they think I'm just a pain in the neck, always questionin' their 'help.' My wife? She says I'm 'over it,' but how's she know? You ever try talkin' someone out of seein' patterns you swear are there? (Leans forward, voice dropping) You really want to know, doc... or you just fillin' out some form to label me 'crazy'?
+
+interviewer: That sounds really frustrating to feel isolated at work and at home. How has your sleep been since all this started?
+
+patient: Ain't much. Layin' there listenin' to the pipes in the wall—sound like they're whisperin' secrets I can't make out. Mind's a damn beehive, you know? You askin' 'cause you think I'm too tired to be a problem? Or you just checkin' boxes for your report?
+
+interviewer: It sounds like those whispers are really disturbing... When did you first start noticing them?
+
+patient: Whispers? They’ve been there since the fuel spill, I guess. Like a clogged pipe—you don’t notice the quiet until it starts hissin’ at you. But you’re just here to file that noise away, right? Makes sense. Everyone’s got a form to fill these days.
+
+interviewer: It sounds like you're feeling frustrated with the process of being 'filed away'—can you clarify what you hope to get out of this conversation today?
+
+patient: I hope you stop asking questions just to fill a paper trail and start figuring out why that irrigation system keeps clogging up. It ain’t a coincidence, and I’m sick of folks acting like I’m the one with the screw loose for pointing it out.
+
+interviewer: It sounds like these situations are really wearing on you... Have you experienced similar episodes of stress and suspicion in the past?
+
+patient: I’ve had my share of folks trying to pin the blame where it don’t belong. That fuel spill? Classic. You think this is just about stress? What’s this got to do with the system clogging up again? I’m not here to rehash old dirt if you’re not gonna fix the damn pipes.
+
+interviewer: I hear how frustrating it is when things feel stuck in cycles you can’t control. When you’ve faced similar situations before, what have you found helps you regain a sense of control?
+
+patient: Fixin’ what’s broken. You think I’ve got time to sit around when that system’s still clogged? Someone’s gotta do the work if you’re not gonna fix it. Tractors, pipes—same deal. Let ‘em rust and they seize up. But you keep asking about ‘feelings’ like it’s a damn manual you expect me to hand over.
+
+interviewer: I get that you’re focused on fixing what’s broken—can you share a time when tackling a mechanical or systems problem helped you feel back in control, even if just for a moment?
+
+patient: A few months back, I fixed up that old tractor in the barn. The carburetor was gummed up, but I cleaned it out, adjusted the rods... got it running smooth again. There’s a kind of quiet in that, I guess—just you and the machine, no second-guessing nobody’s motives. But it don’t last. The moment I step outside to check the pipes, it all comes back. You want to talk about control? Try telling that to the irrigation system.
+
+interviewer: It sounds like the tractor repair gave you a moment of clarity, but the stress returns quickly. Have you experienced any past events that might be contributing to these feelings of suspicion and stress?
+
+patient: Let’s see… The fuel spill? That’s the kind of thing that sticks. Someone’s always got a reason to cut you loose, so you learn to spot the trap before they pull the trigger. My dad? He had a way of making you wonder if you’d stepped out of line, even when you hadn’t. But you want past stuff? How about the sister who left? She’s got her nose in the air like I’m the one who failed. You’re not gonna tell me that’s not how it works—people pick sides whether you ask ‘em to or not.
+
+interviewer: It sounds like family dynamics have left a lasting mark on how you navigate trust... How do you think your experiences with your father and sister influence the way you see situations like the irrigation system issues or conflicts at work?
+
+patient: My dad taught me to watch for trouble before it rears its head. If you don’t, you end up like that irrigation system—clogged up by things you didn’t see coming. My sister left, thinks she’s better than me. Maybe that’s why I can’t trust no one else. You figure out if it’s you being jumpy or if they’re really stacking the deck.
+
+interviewer: It sounds like your father's approach to anticipating trouble has shaped how you navigate challenges now. Can you share how his teachings influence the way you handle situations like the irrigation system issues or conflicts at work today?
+
+patient: Dad always said, 'A clogged pipe don’t fix itself, but you can sure as hell spot it before it bursts.' Now when that irrigation system went south, I figured someone didn’t want me fixing it. Still, I do it myself—no point trusting anyone else to not 'accidentally' leave it worse. My sister left, thinks she’s better than me. Maybe that’s why I can’t let nobody else handle my problems. You figure out if it’s me being jumpy or if they’re really stacking the deck.
+
+interviewer: It sounds like your experiences with your father and sister have deeply shaped your approach to trust and control... Is there someone in your current life who you feel you can rely on for support when things get overwhelming, even if just for practical help?
+
+patient: My dog don’t ask questions, just licks the hand that feeds ’em. People? They all got angles, even if they’re family. You can’t trust no one to not want somethin’ in return.
+
+interviewer: It sounds like you're carrying a lot of stress and suspicion right now. Have you been using alcohol or cannabis to cope with this lately?
+
+patient: I don’t need no drugs to cope. A little whiskey to sleep, but it don’t shut the noise up. You think this session’s about fixing me or just filing reports?
+
+interviewer: How often do you use whiskey to sleep, and how much do you typically consume?
+
+patient: A shot or two when I can’t shake the noise. You think I’d be sittin’ here talkin’ if it was enough to matter? What’s the point of askin’—you got a quota for ‘fixable’ stories?
+
+interviewer: It seems like the whiskey isn’t helping the way you’d hoped. You mentioned hearing 'whispers in the pipes'—have you noticed any other sounds, voices, or thoughts that feel unusual or not quite real since the fuel spill incident?
+
+patient: The whiskey don’t drown it out—just makes the pipes louder, like they’re hissing right through the glass. The irrigation system’s clogged again, same way. Someone’s messing with it. You think I need a therapist for that or a wrench? My sister’d laugh if she knew I was wasting time on this. You’re not here to fix it, though. Just taking notes.
+
+interviewer: It sounds like these sounds are really disrupting your sleep and focus. Have you noticed if these hissing noises happen even when you're not near the irrigation system, or do they seem connected to specific situations like being at the farm?
+
+patient: The hissing? It’s everywhere now—pipes, the tractor’s engine, even the radio static. But the farm’s the heart of it. That system’s been clogged since the spill, like someone’s tightening a noose. My sister’d call it ‘imaginary’ if she wasn’t too busy laughing. You’re writing this down, aren’t you? Just another note for someone who’ll never fix a damn thing.
+
+interviewer: It seems like these sounds are deeply tied to your experience at the farm. Do these hissing noises carry any specific meaning for you, like a message or warning, or do they feel more like part of the machinery itself?
+
+patient: The hissing? It’s a warning, I reckon. Like a pipe about to burst if you ignore the pressure. My sister used to say I ‘overthink’ stuff. Maybe she’s right. Or maybe she’s just used to folks letting things rot instead of fixing them. You want me to write that down too?
+
+interviewer: It sounds like these warnings are really distressing. Have you noticed any other voices or messages that feel like they’re coming from outside your mind, or do you ever feel like people are trying to harm you in specific ways?
+
+patient: Voices? No. Just the machinery knows how to warn you before it breaks. Like that irrigation system—someone’s been tightening the valves slow enough you don’t notice till the crops wither. My sister’d laugh, says I’m ‘seeing ghosts.’ But you’re just scribbling this down, same as the rest. What’s the fix? Or you here to pretend it’s all in my head?
+
+interviewer: It sounds like these experiences are really frustrating and isolating. Have you had any thoughts about ending your life or hurting yourself in the past few weeks?
+
+patient: End my life? Nah. That’d be giving ‘em a win. I’d burn the damn system first. But you’ll just write that down like it’s a joke. My sister’d call that dramatic. She’s right—everyone’s too busy letting things rot to fix a damn thing.
+
+interviewer: I hear how frustrating it is to feel unheard. Have you used cannabis or other substances in the past month to manage stress or sleep?
+
+patient: Nope. Whiskey’s my vice, but even that’s a waste if you’re just scribbling notes instead of fixing what’s broken. You want the truth? I’d rather choke on rust than trust a drop of that stuff. What’s next—quizzing me on my tractor oil changes?
+
+interviewer: I hear how frustrating it is to feel like these systems are working against you. Have you noticed any changes in your sleep patterns recently—like needing less sleep or feeling unusually energetic despite not resting?
+
+patient: Sleep? I’m up when the roosters are, out before the sun’s done its job. You think I’d waste time nappin’ when that irrigation system’s still clogged? Energy? I’ve got all the will in the world to fix what’s broken. Just don’t ask me to explain it on paper. What’s the real question here—trying to pin another ‘symptom’ on me?
+
+interviewer: It sounds like your energy is focused on fixing what’s broken. Are you currently taking any medications, supplements, or vitamins that you feel are helping or interfering with your ability to manage these issues?
+
+patient: No meds. Just whiskey, but you’re not here to fix the system—you’re here to fill pages. I’d take a pill if it could unclog that irrigation line instead of making me sit here and explain my head. What’s the real trick here? Trying to get me to sign off on something else broken?
+
+interviewer: It sounds like you're feeling frustrated with the process of explaining things. Have you felt more energetic or needed less sleep than usual lately, even with the stress at the farm?
+
+patient: Energy? I’ve got all the will to fix that clogged system, but sleep? I’m up when the roosters are, too busy wondering who’s tampering with the pipes. You’re not here to fix the mess, just take notes till the next clog. What’s the real trick here?
+
+interviewer: I hear how much your energy is tied to solving these problems. Is there anyone you feel you can rely on for support when things get overwhelming, or any activities that help you cope?
+
+patient: Support? My dog’s the only one who acts like they care. As for coping—fixin’ old tractors keeps my head from buzzin’ like a shorted circuit. You want to know why I don’t lean on folks? Ask yourself why you’re scribblin’ instead of uncloggin’ that irrigation line. What’s the real play here?
+
+interviewer: From what you've shared, it sounds like the stress from the farm incidents—like the irrigation system and fuel spill—has been really wearing on you, leading to sleepless nights, those unsettling whispers in the pipes, and feeling constantly on edge with everyone, even your wife. It’s clear how much this is affecting your work and relationships. What did I miss?
+
+patient: You didn’t ask about my sister. She’s the one who left, right? Always had that smug look like she knew more than me. But what’s the use? You’re just scribbling notes. My dog’s the only one who don’t got an angle. At least he don’t pretend to care then act surprised when I’m quiet.
+
+interviewer: It sounds like your sister's absence has added to your sense of isolation. What else would you like me to make sure we include before we move forward?
+
+patient: You didn’t ask about the foreman’s smile last week. Real fake, like he knew something. And that system? It’s not just broken—someone’s tampering with it. My dog’s the only one who don’t act like they’re above me. But you’ll just write it down and pretend to care.
+
+interviewer: It sounds like the foreman's behavior and the system's issues are adding to your frustration and sense of being targeted. What did I miss about how these factors are affecting you or what you need moving forward?
+
+patient: The foreman’s smile? It’s like a clogged pipe—you know it’s got something rottin’ under it. I check that irrigation system every damn day, and the more I fix, the quicker someone else clogs it. My sister’s absence? Feels like another valve they left closed. You’ll write it down, but what’s the use? You’re not out there tightening loose nuts with me.
+
+interviewer: It sounds like the frustration of feeling unseen and the mechanical metaphors—like the clogged pipe—are central to how you make sense of your stress. Let me recap: Your main concerns include persistent stress from suspected sabotage at work, distrust in others, sleep disruption with intrusive noises, and strained relationships. The irrigation system and sister’s absence feel like symbols of unresolved issues. What did I miss about how these connect or what you need next?
+
+patient: You missed the part where every fix I make gets undone. That foreman’s smile? It’s a warning—someone’s always tightening the noose on that system. My sister’s absence? Another valve left closed. You keep scribbling, but all I see is paperweight. At least my dog don’t pretend to care. And the whiskey? It’s just liquid nails to hold the cracks together.
+
+interviewer: I want to make sure we address the safety plan clearly. What warning signs might indicate you need to use the steps we’ve discussed, like reaching out to someone or using coping strategies?
+
+patient: When that system starts hissing like it’s got a leak I didn’t make, or when I catch someone smirkin’ like they’re playin’ a game I don’t get the rules to. And if I start hearin’ those whispers in the pipes again… well, you’ll know. The whiskey’s just there to hold the cracks together till I can fix the damn thing myself.
+
+interviewer: I hear how overwhelming those triggers can feel, and it’s clear the whiskey isn’t helping with the noise. Let’s make sure we’ve covered your next steps—follow-up in two weeks, the safety plan with your wife and the crisis line—and anything else you’d like to add before we wrap up?
+
+patient: Two weeks is fine, but that irrigation line's gonna keep clogging. You think this paper stuff'll stop 'em from messing with what I built? The dog's the only one who don't pretend to care, but I'll add the crisis line—though I ain't foolin' myself, it's just another clogged pipe they'll ignore.
+
+interviewer: I hear how frustrating it feels to rely on systems you don’t trust. Before we wrap up, is there anything else you’d like to add or clarify about your next steps or how we can support you moving forward?
+
+patient: No use in adding much—two weeks from now, that line’s still gonna be clogged. You want support? Try fixing the pipes instead of scribbling. But I ain’t foolin’ myself; you’re just another wrench they’ll rust up. The dog’s the only one who don’t pretend to care. I’ll check in, but don’t expect no thanks.
+
+interviewer: I hear how frustrating it feels to navigate systems that don’t align with your expectations. Before we close, is there anything specific you’d like to adjust about our next steps or how we can ensure the crisis line is accessible for you?
+
+patient: No adjustments needed. That crisis line’s just another line that don’t run no water. Two weeks from now, you’ll still be scribblin’ while that system clogs up. The dog’s the only one who don’t pretend to care, but I’ll show up. Don’t expect no thanks.
+

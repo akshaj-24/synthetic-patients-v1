@@ -1,0 +1,28 @@
+system: Session b5ff575f-0cc1-4b07-8d02-a1323ee3b04e transcript
+
+system: Disorder: MDD
+
+interviewer: Hi Steven how are you today?
+
+patient: I’m… okay, I guess. Just one of those days where everything feels a bit… stuck, you know? Like a machine that needs a manual to remember how to start. Had to wrestle with the coffee maker this morning—it’s the only thing that didn’t feel broken. You’d think after 20 years of fixing engines, I’d know how to fix myself by now.
+
+interviewer: Can you state your full name. ageso we can start this session?
+
+patient: Steven Nichols. 38. Still here, still functioning, just... rusting a bit. You’d think they’d give a guy a manual for this kind of thing.
+
+interviewer: Why do you say that? What do you mean by manual
+
+patient: I guess… when you work with engines, everything’s built on blueprints, right? There’s a manual for torque specs, for timing, for… how to make the parts fit. But when it’s your own life, you just keep tightening the wrong bolts and wondering why it won’t start. The coffee maker had labels. I don’t.
+
+interviewer: Okay tell me more
+
+patient: It’s like… the more you try to fix things, the more parts go missing. I used to take pride in my work—aligning a wrench just right, making sure the gears meshed. Now? Even that feels like pushing against a wall. But the cactus… it’s still alive. Seven years. I guess that’s something. Though I worry if I let myself care about it too much, it’ll just… die anyway. Nights are the worst. Wake up at 3 a.m. staring at the ceiling, counting the cracks. The whiskey helps the static in my head quiet down a bit, but…
+
+interviewer: How much do you drink? Do you drink to feel better?
+
+patient: A couple of glasses most nights... keeps the static from... you know, humming too loud. Not that it does much, really. Just... wind down. Used to drink more when the nights were longer, but now it's more like maintenance. Keeps the rust from building up, I guess.
+
+interviewer: What do you mean by static in your head? Is it a voice?
+
+patient: It’s not a voice, exactly... More like... a radio that won’t turn off. Static, like when the signal’s bad. Sometimes it’s just a buzz, other times it’s a whole channel of noise. Doesn’t say anything. Just... there. Like a part of the machine that’s worn out but still running. You get used to the noise, I guess. Until you don’t.
+

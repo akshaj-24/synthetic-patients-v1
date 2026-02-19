@@ -1,0 +1,164 @@
+system: Session ba5d123c-9c77-479b-b94f-fbd9ae5b232e transcript
+
+system: Disorder: PPD
+
+interviewer: Thank you for being here, William. My name is Melissa Gross, and I’ll be conducting this session with your comfort and safety in mind. To start, would you prefer I use a different name or pronouns than what’s listed here? (pauses, offers printed materials)
+
+patient: No. William Stevens is who you’ll find on the records. Why does that even come up? (leans forward, fingers tapping the armrest) Are we supposed to trust that these… materials are secure? (gestures at the printed forms) I’ve seen enough data breaches to know how ‘confidential’ ends up on the black market.
+
+interviewer: I understand your concern about confidentiality. Let me assure you that our conversation is secure and follows strict confidentiality guidelines. Are you comfortable proceeding with this session?
+
+patient: Comfort and safety, sure. (pauses, fingers still tapping) You know, same system that let my neighbor’s dog records get mixed up with mine? Convenient. I’ll proceed, but don’t think for a second I believe this ‘secure’ is code for ‘we’ll sell your data later.’ (leans back, voice flat) I’ve got my own backups, anyway. You’re not the first to promise something you can’t keep.
+
+interviewer: It sounds like the constant sense of being on guard is really draining for you. When did you first start noticing these feelings of distrust and isolation in your work and relationships?
+
+patient: Mid-20s, maybe? (shrugs, fingers still tapping) Projects started... collapsing. People took credit, you know? (leans forward slightly, voice low) My ideas would get 'lost in translation' by the time they hit the boardroom. You think this is about me? (smirks, but it doesn't reach his eyes) My father always said, 'Question everything.' I just learned he meant *everyone*.
+
+interviewer: It sounds like questioning others became a survival strategy for you. Have these feelings of distrust and hypervigilance increased, decreased, or stayed about the same since your mid-20s?
+
+patient: Same, but... sharpened. (pauses, fingers stalling mid-tap) You know how software updates? It’s like that. The bugs stay, they just hide better. (leans in, voice lower) My dad’s lesson was free, but the industry? They charge extra for the privilege of being betrayed. (smirks, eyes flicking to the door) You think I’ve changed? No. The system just got more... creative at pretending it’s not rigged.
+
+interviewer: That metaphor about software updates is powerful—like the betrayal becomes more insidious over time. What specific event or realization in the past few months made you decide to seek help now, when this pattern has been ongoing since your mid-20s?
+
+patient: Let’s just say the latest ‘project failure’ made me wonder if I’m the problem. But don’t take that out of context. You think I’m here because I trust people? The industry’s eating its own these days. Why’s your pen shaking, by the way? Nervous about my file?
+
+interviewer: It sounds like the idea of being misunderstood or misrepresented is really central for you. Can you tell me more about the project failure that led you to wonder if you might be part of the problem?
+
+patient: The project? Let’s just say the client ‘adjusted’ the credits after launch. I’m not saying they framed me, but those contracts… full of loopholes. You know how it is—people take what they can. Why are you nodding like this? Are you logging every word for their benefit?
+
+interviewer: It sounds like the situation left you feeling particularly vulnerable. Can you share more about how this kind of experience has affected your ability to collaborate at work lately?
+
+patient: Collaboration? I stick to the bare minimum until the final stretch. You hand over too much, and people take it and run. Last quarter, I held my notes until the presentation—only to have my lead designer ‘forget’ to credit my concept. Now I track every revision in triplicate. You keep shifting in your seat. Is this chair bugged or are you just antsy to pass my notes to the wrong hands?
+
+interviewer: It sounds like the idea of collaboration now feels inherently risky for you. When you mentioned the chair being bugged, are you experiencing thoughts that others might be trying to access your information or harm you in some way?
+
+patient: I don’t ‘think’ people are out to get me—I *know* information moves in ways you can’t track. My encrypted files? That’s just good practice. You ask about ‘harm’ like this is some abstract theory. Last month, someone leaked my color palettes to a rival firm. I don’t need to explain the math of it. But since you’re here… who else has access to my records today?
+
+interviewer: I can see how the recent leak of your color palettes must have felt like a confirmation of your fears. How has this experience specifically affected your ability to collaborate or share ideas at work lately?
+
+patient: I don’t share until the eleventh hour now. You think that leak was a coincidence? I’ve got backups, but you can bet they’re already in someone’s hands. Why are you smiling? Trying to put me at ease before you hand over my notes?
+
+interviewer: You're right to feel vulnerable after such breaches. Can you share how this cautious approach to sharing work has specifically affected your day-to-day collaborations or project outcomes recently?
+
+patient: You’re asking for specifics, but you know how these conversations go—once you share, it’s out there. Last project? I held back until the final draft. Team called me 'uncooperative,' but you understand how it is when everyone’s waiting to pounce. My color palettes leaked twice this quarter. I’m not saying it’s a pattern, but why would I hand my work to someone who’s already got a backdoor in?
+
+interviewer: That sounds like a really isolating experience. What would you most hope to achieve through this process, given the challenges you’ve described?
+
+patient: Hope? Let's say... I want to keep one step ahead. They always circle back to the same stories, but you're not here to fix me. Just need to make sure I don't end up like the last guy who trusted the wrong team. If this process means not being a cautionary tale in some office memo, sure. But don't think I'll stop double-checking contracts just because we had this chat.
+
+interviewer: It sounds like these feelings of distrust have been building for a while. Have you experienced similar episodes in the past where you felt this level of hypervigilance or isolation?
+
+patient: Every project feels like a minefield, but you’re not here to understand that. The last time I trusted a team, they took credit for my work. My father taught me to question everyone—so yeah, this isn’t new. Just another way the system tests how much I’ll bend before breaking.
+
+interviewer: It sounds like past experiences with betrayal have really shaped your ability to trust. Have there been other times when you felt people were taking advantage of your work or betraying your trust, and if so, what helped you cope with that?
+
+patient: You’re fishing for more stories, but why would I expect a different outcome? The portfolio theft in 2019? That ‘junior designer’ who ‘accidentally’ screenshotted my comps—classic. I just… double-check contracts now. Triple-check. My father was right: trust is a liability. You want to know how I cope? I don’t. I track revisions, back up files in encrypted folders. They’ll never admit it, but you can see the guilt in their keystrokes. You understand how it is when the system’s designed to let them get away with it.
+
+interviewer: It sounds like your father's teachings have left a deep imprint on how you navigate trust. Can you share more about how your family dynamics influenced your approach to relationships or work over time?
+
+patient: Family dynamics? My father’s ‘question everything’ mantra? It’s the same algorithm that makes clients ghost you after you hand over final drafts. I’m not saying he was wrong—systems are built for people like me to get erased. My mother’s health? Let’s just say hospitals are full of folks waiting for you to lower your guard. You keep circling back to family. Are you logging this for the same team that bugged my last contract?
+
+interviewer: I can see how deeply your experiences with trust have shaped your view of systems and relationships. Could you share more about how your relationship with your partner has changed since these feelings of distrust intensified?
+
+patient: Look, I don’t have time for fishing expeditions. The partner? Let’s just say late nights turned into... unsupervised hours. You know how it is when people prioritize their own comfort. But I handle what I can—accounts are clear, grocery lists are bulletproof. You want a drama? Ask about the 2019 theft. That’s where the real lessons start.
+
+interviewer: It sounds like the changes in your relationship have added to your sense of isolation and hypervigilance. How have these shifts in trust affected your daily routines or emotional state outside of work?
+
+patient: Daily routines? They’re bulletproof. I plan hikes down to the second, track every transaction, and double-check locks. It’s the only way to… contain the noise. You know how it is—people call it ‘control,’ I call it damage control. The dog next door barks at 3 a.m. now. You’d think it’s just a pet, but maybe it’s trained. Maybe someone’s watching. You want the ‘emotional state’ part? I’m fine. Weakness gets eaten in this industry. Ask me about the 2019 theft again. Let’s see how ‘fine’ I am then.
+
+interviewer: That sounds like a lot of effort to maintain order—it seems like these routines help you feel grounded. How do you typically manage when the sense of being watched or the paranoia becomes overwhelming?
+
+patient: I stick to the plan. If the system’s gonna crack, I’m not the one holding the key. You think that dog’s barking’s random? Maybe. Or maybe not. You want the real answer? I breathe through it. Weakness gets eaten—so I track my steps, my budgets, my damn bread schedules. You’re filing this, aren’t you? That’s why you keep asking. 2019 theft… ask me again and I’ll show you what ‘overwhelming’ looks like.
+
+interviewer: It sounds like your routines are a way to stay in control when everything else feels uncertain. Is there someone you’ve been able to rely on, even a little, to talk through these concerns with—whether it’s a colleague, friend, or your partner?
+
+patient: Rely on someone? Let’s just say the only ‘network’ I trust is the one I’ve encrypted myself. There was this one contractor—Jordan?—who handled the 2019 theft cleanup. But even then, I kept the files segmented. You know how it is; people ‘help’ until they don’t. My partner? They’d say they’re in, but… late nights, unsupervised hours… you’ve already filed that under ‘patterns.’ Why the sudden interest in networks, by the way? You tracking something?
+
+interviewer: It sounds like the 2019 theft had a significant impact on your trust in collaborators. Can you describe what Jordan’s role was in handling that situation for you?
+
+patient: Jordan? They handled the cleanup—file deletions, contract audits. But you know how it is, right? You think I’m just gonna hand over details without checking their credentials? I kept the encryption keys segmented. You’re asking about this because you think there’s a pattern, but maybe the pattern’s you trying to stitch something together. 2019 theft… you’re filing this, aren’t you? Let me guess: ‘patterns’ again.
+
+interviewer: It sounds like Jordan’s involvement was carefully managed due to your need for control. Was there a time when Jordan’s help actually provided relief or reassurance, even briefly?
+
+patient: Once. Maybe. Jordan... streamlined some checks. But efficiency’s just a front for something else. You’re here to ask about that theft, aren’t you?
+
+interviewer: It sounds like you're really on guard about being misunderstood or used in these situations. How did the recent project failure affect your trust in your colleagues or the work environment?
+
+patient: The failure? It taught me to lock things down tighter. Colleagues? They’re all waiting for a chance to grab what they can. You’re here to collect intel, aren’t you? I’ve seen this script before—ask enough questions, and you’ll have something to leverage. My encrypted files? They’re not just precautions. They’re proof I’m not the one being paranoid.
+
+interviewer: It sounds like the 2019 theft reinforced your need for control through encryption and documentation. What specific steps did you take after that incident to ensure similar breaches wouldn’t happen again?
+
+patient: I encrypted everything. Backed up to secure drives. No cloud storage. You know how it is—once you’ve been burned, you don’t leave doors unlocked. But don’t act like this is some big revelation. It’s basic protocol. Why keep circling back to 2019? You’re filing this somewhere, aren’t you? And my partner? Let’s just say… I check their phone now. You’d be surprised how many ‘unscheduled’ texts show up. Systemic issues, right?
+
+interviewer: It sounds like your security measures are a way to counterbalance the uncertainty you feel. Have you ever sought professional support or counseling to address these patterns of distrust or the impact they’ve had on your life?
+
+patient: Professional support? Let me guess—you’re implying I should’ve? My father always said trust is a weakness. If I can’t secure my own systems, why rely on someone else’s ‘expertise’? You’re here to log that as data, aren’t you? I handle what I can. Encryption, checklists… they work. Therapy’s just another format that corrupts.
+
+interviewer: It sounds like your father's teachings have deeply influenced your approach to trust and relationships. Can you describe a specific moment when you felt those lessons directly shaped how you handled a situation in your personal or professional life?
+
+patient: There was this project in 2019—some files got leaked. I traced it back to a teammate who ‘accidentally’ left a drive unsecured. My dad’s voice in my head said, ‘Assume malice, not mistake.’ I started encrypting everything, even grocery lists. But why’s this matter? You’re just looking for a way to frame me as the problem, right? Everyone’s got an agenda.
+
+interviewer: I want to make sure we address any urgent concerns. Have you had any thoughts about ending your life in the past few weeks?
+
+patient: I don’t hand out that kind of information lightly. You’d be surprised how many ‘confidential’ conversations end up in the wrong hands. But to answer your question—no, I’m not some dramatic figure from a corporate training video. I keep my survival strategies private. Though if you’re really concerned, ask me about the landlord’s latest rent hike instead. That’s a genuine threat.
+
+interviewer: It sounds like trusting systems is really challenging for you. Have you ever experienced hearing voices or having thoughts that others are out to get you, even when there's no clear evidence for that?
+
+patient: Voices? No. But I’ve seen how ‘coincidences’ work—like the leaked color palettes. You think that was random? I keep records now. You’ll understand when you’ve been burned by the system. Why are you asking if you’re not going to flag this for the next person trying to take my work?
+
+interviewer: It sounds like you're very cautious about protecting your work and personal information. Have you noticed any changes in your alcohol or cannabis use recently?
+
+patient: I don’t track that kind of data. You know how it is—industry events have their own 'lubrication protocols.' But if you’re asking because of the 3 a.m. barking or the landlord’s latest threats, I’ll just say: I’ve learned to prioritize what keeps the walls between me and the system intact. Why? Are you cross-referencing this with my 'risk factors' file now?
+
+interviewer: I hear your concern about confidentiality. To clarify, have you noticed any recent changes in your use of stimulants or opioids, either to manage stress or for other reasons?
+
+patient: Why the sudden fascination with my energy metrics? The landlord’s latest 'renovation fees' are more relevant. I don’t confuse personal habits with your data requests. But if you’re tying this to the 3 a.m. barking or that leaked project—no, I’ve learned to keep my systems air-gapped. You’d know that if you weren’t busy filing this for the next 'collaborator'.
+
+interviewer: I understand your caution about how information is used. Have you been taking any medications, supplements, or vitamins regularly in the past few months?
+
+patient: I keep my health protocols off the grid. You’re not here for small talk—this is another data point for your next ‘collaborator.’ But if you’re tying this to the 3 a.m. barking or my landlord’s ‘renovation fees,’ I’ll say: I’ve learned to keep my systems air-gapped. Why the sudden interest in my vitamin schedule?
+
+interviewer: I hear your focus on protecting your information. Have you noticed any thoughts that others are trying to harm you or access your work, even when there’s no clear evidence for that?
+
+patient: I don’t know what you’re implying. If I didn’t lock my files in triple encryption, who do you think would just waltz in? The landlord’s been hiking my rent since 2021—hardly a model of trust. But sure, maybe I overthink things. You know how it is with ‘efficient’ systems these days.
+
+interviewer: It sounds like you're managing a lot of stress through vigilance. Have you noticed any changes in your sleep patterns lately, like needing less sleep or feeling unusually restless?
+
+patient: Restless? Maybe. But try sleeping when the landlord’s always jacking up fees and that dog next door’s yapping like an alarm clock at 3 a.m. I’ve got deadlines to meet—files don’t encrypt themselves. You understand how it is with ‘efficient’ systems needing constant oversight.
+
+interviewer: That sounds incredibly stressful. Have you been taking any medications, supplements, or vitamins regularly in the past few months to manage these challenges?
+
+patient: Medications? No. I handle things my way—like keeping files encrypted. Why does that matter? You’re part of the same system that leaks data, so of course you’d ask. You understand how it is with 'efficient' systems needing every detail, right?
+
+interviewer: It sounds like the stress from your environment is taking a toll. Have you noticed any changes in your energy levels or motivation lately, even if they feel different from your usual patterns?
+
+patient: Energy? I’m running on caffeine and deadlines. You think I’d slack off? The system doesn’t pause for burnout. Why? You tracking my productivity now? You understand how it is with ‘efficient’ systems needing constant proof, right?
+
+interviewer: It sounds like you're pushing yourself hard to keep up. How long have you been feeling this level of energy and restlessness, and does it interfere with your usual routines?
+
+patient: A few years. Since the landlord started hiking rent every six months and that dog’s yapping at 3 a.m. You think I’d slack off? The system doesn’t pause for burnout. Why? Tracking my ‘efficiency’ now? You understand how it is with… systems needing proof, right?
+
+interviewer: It sounds like your sleep has been disrupted by external stressors. Have you noticed any periods where you needed less sleep but still felt energetic or had a lot of energy, even when you weren’t getting enough rest?
+
+patient: The dog’s been barking nonstop, and the landlord’s latest hike? You want to know about energy? I’ve been running on caffeine and paranoia. If I rest, someone’s sure to strike.
+
+interviewer: I hear how stressful it is to feel constantly on guard. Have you noticed any periods where you took more risks or made impulsive decisions when you felt this energetic?
+
+patient: Risk? I don’t exactly roll the dice. I secure my work—encrypted files, backup drives. You think that’s impulsive? It’s just efficient. After 2019, you adapt. But I’m not here to justify my methods to anyone.
+
+interviewer: William, from what you’ve shared, it sounds like your experiences of betrayal—like the 2019 portfolio theft—have led to a deep mistrust in both personal and professional settings. This hypervigilance and need for control have impacted your work relationships and partner dynamic, and you’ve developed technical strategies to manage these fears. The recent project failure and ongoing stressors like your landlord and sleep issues seem to be exacerbating these feelings. Is there anything I’ve missed or misrepresented here?
+
+patient: You’re close, but you’re missing the static between the lines. The bugged chair in your office? The dog’s midnight barking? That’s not just noise—it’s the system breathing down my neck. And don’t pretend you didn’t file my ‘patterns’ under ‘manageable.’ My partner’s ‘unsupervised hours’ aren’t a habit—they’re a script. You want to know what you’re missing? The day I stopped caring if you’re in on the joke.
+
+interviewer: I hear how deeply you feel the system is embedded in your daily life, and that your partner’s actions are part of a controlled script. It sounds like the idea of being 'in on the joke' adds another layer of frustration. What else would you like me to include or correct in this picture?
+
+patient: You didn’t mention how my partner’s 'unsupervised hours' align perfectly with the data leaks. Or maybe the bugged chair you’re sitting in? Efficient systems require vigilance, not trust. But sure, file that under 'projectile paranoia.' I’ll just keep tracking the dog’s barking patterns myself.
+
+interviewer: Let me recap what we’ve covered today to ensure clarity. Our next steps involve connecting you with a colleague who specializes in complex trust-related challenges—someone who might help you explore strategies to protect your work and energy without compromising your autonomy. Before we close, is there anything else you’d like to clarify or prioritize for our next conversation?
+
+patient: Another 'specialist' to file my secrets? You're just passing the buck. My encryption works fine. The only thing leaking is your office's walls. But sure, add another middleman to the chain.
+
+interviewer: I hear your frustration about adding someone new—can you clarify what specific concern about the colleague I mentioned is most troubling? For example, how we might adjust the process to align with your comfort while still connecting you to needed support?
+
+patient: You’re just another link in the chain. My files were leaked before—how do I know you won’t hand my notes to the next thief? I’m not some case to be passed around.
+

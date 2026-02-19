@@ -1,0 +1,140 @@
+system: Session ff3b23d5-1cef-4348-bce8-35b58cf211af transcript
+
+system: Disorder: PPD
+
+interviewer: Welcome, Christine. Thank you for coming in today. How would you like to be addressed?
+
+patient: Call me Christine. Why do you need that? It's not like I'm hiding anything.
+
+interviewer: I appreciate your openness. Before we start, can you tell me what brings you in today?
+
+patient: I guess... work's been stressful lately. You know, they're always finding reasons to give warnings. I just want to... keep my head above water, I guess. Why? Are you taking notes already?
+
+interviewer: It sounds like work stress is really weighing on you right now. Can you confirm it's okay if I take notes to keep track of our conversation?
+
+patient: Sure, but I want to know who else gets to read them. They try to set me up for failure last time, remember?
+
+interviewer: I understand your concern about confidentiality—let me clarify that our conversation is private, except in cases where safety requires limited sharing with colleagues. Would you be comfortable continuing with our discussion today?
+
+patient: I guess I can stay, but you better not write anything they can twist against me later. Last time someone took notes, it ended with a warning for 'attitude'—June 15, 2023. I remember because it was the day the marigolds died. You’re not working for HR, are you?
+
+interviewer: I’m not affiliated with HR—my role is solely to support our clinical conversation today. Would you be comfortable confirming that you’re okay with me proceeding as your interviewer?
+
+patient: I guess. But last time someone claimed neutrality, my marigolds died. July 12th, if you care. You’ll get your answers, but don’t think I’m not watching for tricks.
+
+interviewer: I understand your caution, Christine. Would you like to confirm if there’s anything else you need clarified before we begin?
+
+patient: I’m fine, I guess. Just don’t expect me to forget the laundromat incident last month—coins vanished from the machine, and the manager ‘accidentally’ overcharged me. You’ll understand if I keep notes now. But since you asked… no, that’s all. I’m not looking for trouble.
+
+interviewer: That sounds like a frustrating experience. Is there anything else you'd like to clarify about how we'll be working together before we move forward?
+
+patient: Nope. Just remember, I keep notes now. July 12th’s not the only date I’ve got in my ledger. You’ll understand when you check my file.
+
+interviewer: It sounds like these work-related worries have been really intense for you. When did you first start noticing these feelings of being targeted at work?
+
+patient: I guess it started when I took this job five years back. The supervisor gave me a warning about my 'attitude'—said it was a setup for failure, if you want the truth. I kept notes after that. But you already know about July 12th.
+
+interviewer: It sounds like that warning was really upsetting and set something in motion for you... Can you tell me what happened on July 12th that feels so significant?
+
+patient: July 12th… that’s when my marigolds died. Overnight. No frost, no bugs. Just… wilted. Mrs. Lee said it was ‘neighborhood pests,’ but her plants were fine. I checked the soil, the pipes—nothing. You want the truth? I think she poisoned them. She’s always ‘accidentally’ left her cat in my trash. But here’s the kicker: my notes show I watered them at 6 a.m. that day. You’ll find that in my file. Don’t think this is a story I’m making up.
+
+interviewer: I appreciate your clarity in sharing those details—thank you for trusting me with that. How has the stress around July 12th and these suspicions about others been affecting your ability to focus on work tasks or interact with coworkers lately?
+
+patient: I guess I just double-check everything now, you know? Can’t trust someone to not mess with your work. The mop bucket incident... well, I make sure my supplies are accounted for every shift. If you want the truth, I avoid working with others—safest that way. My supervisor’s ‘attitude warning’? I figure that’s part of their game. It’s not like I can let them catch me off guard again.
+
+interviewer: It seems like avoiding teamwork helps you stay cautious, even though it can be lonely. What made you decide to come in for help now?
+
+patient: I guess when the second job started eating into my sleep, I realized I was chasing shadows instead of just mopping them up. If you want the truth, HR’s been asking about my 'notes' again—sounded like a warning. Doesn’t mean I’m looking for help, just… adjusting. My marigolds are doing better now, anyway. Why do you think I’d waste time with this?
+
+interviewer: It sounds like the recent HR interaction added to the stress you've been carrying. What specifically made this the right time for you to seek help, beyond the warning from HR?
+
+patient: I guess when the marigolds started blooming again, it hit me—maybe I’ve been letting the weeds grow in my head too long. If you want the truth, I still don’t trust HR, but I’m not about to let them twist this into another 'attitude problem.' It’s just… easier to focus on the mopping than the mess they’re trying to make. Why do you keep circling back to July 12th, anyway?
+
+interviewer: It’s interesting how the marigolds blooming again seems to symbolize a turning point for you. How did the events of July 12th specifically affect your ability to focus on work or interact with others in the days or weeks after that?
+
+patient: I guess July 12th was the day I stopped letting people get close to my work. The marigold incident? That was just the start. I noticed Mrs. Lee’s plants stayed healthy while mine withered—convenient, huh? If you want the truth, I started writing down every detail, like how supplies go missing. You’re asking all this, but why? Are you filing this somewhere I should know about?
+
+interviewer: It sounds like the workplace stress and feelings of being targeted have been building for some time. Have you experienced similar patterns of distrust or hypervigilance in past jobs or other areas of your life?
+
+patient: I guess you could say I’ve always had to watch my back. At my last job, night shifts, tools kept ‘disappearing’—same song, different verse. My sister? Let’s just say she’s got her own ways of ‘helping’ that I don’t need. Why the interest in past jobs? Got a file I should be worried about?
+
+interviewer: It sounds like your sister's involvement can feel intrusive or overwhelming. How has her way of 'helping' affected your ability to manage things on your own?
+
+patient: My sister thinks she's helping, but it's like she's keeping score. Last month she 'lent' me money but wanted a receipt. Now I have to prove I paid her back. It's not charity, it's bookkeeping. Why do you care how I handle my own business?
+
+interviewer: It sounds like your sister's approach can feel very controlling. How has this dynamic affected your ability to make decisions about your own affairs?
+
+patient: If you want the truth, it’s like she’s got her hand in my business. Last month with the money was bad enough—I had to prove I wasn’t a deadbeat. Now I jump through hoops for every little thing. Why does it matter? You think I’m here asking for your help?
+
+interviewer: It sounds like your sister’s expectations add a layer of pressure that’s hard to navigate. Have you experienced similar situations in the past where others’ demands made it difficult for you to manage your own affairs?
+
+patient: I guess you could say HR’s always finding ways to trip me up. July 12th wasn’t the first time they setup workers to look bad. Why does it matter? You think I’m here asking for your help?
+
+interviewer: It sounds like the marigold incident was a real turning point for you. How did that event change the way you approach your work or interactions with coworkers now?
+
+patient: If you want the truth, that day taught me to watch my back closer. Now I double-check every task twice—no room for someone to twist it later. July 12th and the mop bucket? Same game. But why bring up plants? You think I’m here for your charity or something?
+
+interviewer: I want to ask about your current habits regarding alcohol or cannabis use—have there been any changes recently, or any other substances you’d like to mention?
+
+patient: I don’t do cannabis. Wine? Maybe a bottle now and then. Not like it’s your business. You think I’m confessing to something? HR’s been nosy enough already.
+
+interviewer: I understand this can feel intrusive—thank you for sharing what you have. Have you been using any other substances besides wine and cannabis, such as stimulants, opioids, or prescription medications?
+
+patient: Why the sudden interest in my habits? HR been asking the same? I keep to myself, don’t cause trouble. A little weed, but I’m not handing out joints. You think that’s why I’m here?
+
+interviewer: I hear your concern about this feeling like an intrusion—can you tell me if you're currently taking any medications or supplements, prescribed or otherwise?
+
+patient: No meds. Just common sense. You folks always fishing for something, ain’t you? I handle my business. Why’s that your concern?
+
+interviewer: I appreciate your honesty about managing on your own—it can be really challenging to navigate these concerns alone. Have you been having any thoughts about ending your life or harming yourself recently?
+
+patient: Nope. Never been one for that. You trying to trip me up? I handle my stress my way—cheap wine, not your问卷. Why’s that your business?
+
+interviewer: I can understand how these concerns feel deeply personal. Have you noticed any recent changes in your energy levels or sleep patterns, such as feeling more restless or needing less sleep than usual?
+
+patient: Restless? Maybe. You think that’s new? Try sleeping when you’re always fixing the mop bucket someone ‘accidentally’ empties. Less sleep? Well, wine helps, but I’m not handing you a sob story. Why? You think fatigue’s another HR trick to label me?
+
+interviewer: I hear your frustration about feeling monitored—it can be hard to trust when you're already on edge. Have you been using any other substances besides wine and cannabis to manage stress or sleep lately?
+
+patient: Nope. Just the wine and what I told you. You folks always prying. My sister’s been asking about my meds, but I don’t take nothing from her. Why? You think I’m hiding something from HR again?
+
+interviewer: I hear how frustrating it must be to feel constantly questioned about these things. Have you noticed any changes in your energy levels recently, such as feeling more restless or having a lot of energy even with little sleep?
+
+patient: I guess I’ve been a bit restless lately. You know how it is—always on your feet, can’t relax. Maybe that’s why I’ve been drinking a bit more. Not that I’m telling you anything important.
+
+interviewer: It sounds like the restlessness is really impacting your ability to unwind. Have you noticed any changes in your energy levels recently—have you been feeling more energetic or like you don’t need as much sleep as usual?
+
+patient: Energy? I guess working two jobs keeps me 'energetic'—you know how it is. They don’t pay me enough to sit around. And sleep? Let’s just say the marigolds on my fire escape don’t water themselves. But why the sudden interest in my schedule? You folks ever think maybe someone’s trying to make me look like I’m overextending for a reason?
+
+interviewer: It sounds like work and stress are really taking a toll on your energy and sleep. Have you noticed any times lately where you feel like you don’t need as much sleep as usual or have more energy than normal?
+
+patient: Energy? I guess working two jobs keeps me 'energetic'—you know how it is. They don’t pay me enough to sit around. And sleep? Let’s just say the marigolds on my fire escape don’t water themselves. But why the sudden interest in my schedule? You folks ever think maybe someone’s trying to make me look like I’m overextending for a reason?
+
+interviewer: It sounds like work and stress are really taking a toll on your energy and sleep. Have you noticed any times when you feel so energized that you don’t need much sleep, even when you’re normally tired?
+
+patient: Energized? I guess when the mop bucket’s empty and the laundromat’s full, you learn to run on fumes. But why’s everyone so obsessed with my sleep? You think HR’s gonna use this to fire me for ‘overexertion’? July 12th better not end up in some report I didn’t sign.
+
+interviewer: From what you've shared, it sounds like work-related stress and distrust of coworkers/supervisors have been central to your struggles, especially after the marigold incident and HR interactions, and that hypervigilance and isolation have worsened your sleep and focus. How does that align with your experience—did I miss anything important?
+
+patient: You got the work stress and the marigolds right—though you missed how my sister’s been keeping tabs on me for HR. And July 12th? That ‘mop bucket’ incident? They still file it under ‘employee issues,’ but I know better. What’s left out is how I’ve been tracking everything now—notes, receipts, even the wine bottles. You think this is about sleep? It’s about staying one step ahead. But why ask *me* what’s missing? You already got your report, didn’t you?
+
+interviewer: You're right—I did overlook the role your sister has been playing in connecting with HR. What else might be important to include here that I haven't captured?
+
+patient: If you want the truth, it's the same thing I've been saying—HR's been watching me since July 12. I take the laundromat job at night not for the money, but to stay off the books where those debt collectors can't track me. And don't think I haven't noticed how you keep circling back to my sister—what's in her notes that's so important to you? I've got my own records now, including who's been in my garden.
+
+interviewer: I hear how important it is for you to feel heard about HR's role and your sister's involvement, and how staying off the books helps you maintain control. What did I miss about your experience or concerns that's important to include?
+
+patient: What you’re missing is that HR’s been shadowing me since last summer. The laundromat gig at night? That’s so they can’t track my hours. And my sister—she’s been ‘helping’ with my bills, but I know she’s logging everything for someone. You think I don’t notice how she asks about my meds? It’s not just the garden I’m tending. I’ve got records of everything now—dates, times, who said what. You want my file? I’ve got one for them too.
+
+interviewer: I hear how staying ahead with your records is a way to maintain control in situations where you feel monitored or manipulated. Let me recap: Your main concerns involve workplace sabotage suspicions (like the marigold incident), HR’s perceived surveillance, your sister’s controlling financial role, and sleep/focus struggles from hypervigilance. You’ve also emphasized your own documentation as a coping strategy. What did I miss or get wrong here?
+
+patient: You got the HR part right, but you’re still missing why the marigolds matter. They’re not just plants—they’re proof someone’s been tampering. And my sister’s ‘help’? She’s been logging my hours, maybe for HR or those collectors. You want my file? I’ve got dates, photos of the dead plants, even the laundromat receipts. But don’t think I’m done watching you. What’s *really* in your notes about me?
+
+interviewer: I hear how central the marigolds are to your sense of being watched and manipulated. Can you help me understand why they’re a key example of what you’re trying to prove?
+
+patient: If you want the truth, the marigolds were a test. They were blooming fine until July 12—same day the mop bucket got emptied. Mrs. Lee’s plants? Never missed a leaf. I take photos now, date-stamped. Proof someone’s tinkering. You think I don’t notice your notes? I’ve got my own file on this place.
+
+interviewer: It sounds like you've been carrying a lot of stress and suspicion about what's happening at work. How does it feel to be able to talk through some of these concerns today? Before we wrap up, is there anything else you'd like to address or clarify?
+
+patient: If you want the truth, it’s not exactly a comfort talking to someone who’s got their own file on me. But at least I’m not letting them catch me off-guard again—got dates, photos, even the wine receipts. You ask about the marigolds? That’s proof someone’s tampering. But don’t think I’ve stopped watching *your* notes. What’s in there about July 12th?
+

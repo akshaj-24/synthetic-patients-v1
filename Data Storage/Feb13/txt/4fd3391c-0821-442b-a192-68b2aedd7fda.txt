@@ -1,0 +1,148 @@
+system: Session 4fd3391c-0821-442b-a192-68b2aedd7fda transcript
+
+system: Disorder: MDD
+
+interviewer: Jeremy, would you prefer to be called by your full name, Jeremy Holloway, or a different name? And are there any pronouns you'd like me to use?
+
+patient: Just Jeremy’s fine. Always been Jeremy Holloway. He/him, I guess. Not much to it. You know how it is—work’s been weighin’ on me lately, but I’ll manage.
+
+interviewer: It sounds like work has been really challenging for you lately. Would you be comfortable proceeding with our session so we can explore what’s been going on?
+
+patient: It’s... it’s not just work, but I don’t want to sound like I’m whining. The valve project was supposed to be a good fix, but they scrapped it last minute. I guess I took it personal. And the roof’s been leaking since spring—Mei says I should call a contractor, but I figure if it’s not broke, why fix it? You know how it is. You want me to talk about it or should I just stick to the facts?
+
+interviewer: That sounds really frustrating, Jeremy. Would you be comfortable continuing our conversation so we can explore these things further?
+
+patient: I guess if you’re asking, I’ll talk. But it’s not like there’s a manual for this stuff. The valve project… I put blood into that, you know? And now it’s just… gone. Waste of time. The roof, too—Mei’s probably right about calling a contractor, but I keep thinking if I ignore it, maybe it’ll just… stop being a problem. You don’t mind the honesty, do you?
+
+interviewer: That sounds really frustrating. Do you feel comfortable continuing with our session today?
+
+patient: If I have to, sure. But it’s not like talkin’ about it’s gonna fix the roof or bring the project back. You want the good, the bad, or the ugly?
+
+interviewer: It sounds like you're feeling frustrated about not seeing solutions. Would you be comfortable continuing with our session today?
+
+patient: I guess... I'm not getting any younger, you know? The roof? It's like a pressure valve stuck closed. You can ignore it so long before the whole system starts leaking. But yeah, I'll sit here and talk. Doesn't mean the words mean much.
+
+interviewer: Do you consent to proceed with the session today?
+
+patient: Sure, I mean... what’s the alternative? Let the water keep dripping on my head? Doesn’t mean I’ll actually fix it, though. Feels like my whole system’s just… worn out. You ever try tightening a bolt that’s already stripped? That’s me today.
+
+interviewer: That metaphor of the stripped bolt really captures the weariness you're describing. Before we move forward, do you have any questions about how this session works or what to expect?
+
+patient: I guess I’m just not sure how talking about the bolts helps when the whole frame’s rusted through. You keep checking the same connections, but the real problem’s deeper. Doesn’t mean I won’t keep tightening ‘em... just don’t see how many more times we can go over the same circuit.
+
+interviewer: Your analogy about the rusted frame really captures the sense of weariness and frustration you've described. Do you have any questions about how this session works or what to expect?
+
+patient: No questions. Just... does any of this actually hold the frame together, or are we just papering over the cracks? I’ve spent so long tightening bolts that’s already shot. Doesn’t mean I won’t keep trying, though. Guess it’s all I’ve got left.
+
+interviewer: It sounds like you're feeling like the problems are deeper than just the surface. Our sessions will focus on exploring those underlying issues together. Would that be okay with you?
+
+patient: I guess... if we’re tearing into the frame, just don’t expect me to stop checking the bolts every night. Doesn’t mean I believe they’ll hold, but... it’s the rhythm I’ve got left. You’ll probably find the leaks are everywhere, though. Takes a while to admit the whole system’s just... corroded through.
+
+interviewer: I hear how overwhelming it feels when the issues run deeper than what's visible. Would you be comfortable if we start by gently exploring these layers together, at your pace?
+
+patient: I guess... if we gotta. It’s like that roof, you know? You keep patching the same spot till the plaster’s just... dust. But maybe there’s a way to reinforce the frame before the whole thing caves. I don’t want Mei to have to hold it up alone. She’s already carrying enough.
+
+interviewer: It sounds like you've been carrying a lot on your shoulders lately. Can you tell me more about what's been most difficult for you in the past few months?
+
+patient: It’s... the valve project, yeah. I thought I had it sealed tight, but it leaked out anyway. Like the roof. You keep patching, but the water just finds another crack. I can’t sleep, so I’m running on empty at work, making mistakes. Then Mei’s gotta clean up my messes. I guess I’m just... worried I’m dragging her down. But it’s not like there’s a manual for fixing this kind of thing, you know?
+
+interviewer: It sounds like the stress from the valve project and sleep issues have been really draining. When did you first start noticing these feelings becoming a regular part of your life?
+
+patient: Six months ago, maybe? Right after that valve project went south. I started lying awake at night, mind churning like a clogged engine. At first I thought it was just stress, you know? But the tiredness... it’s like the oil’s gone bad. You can top it up, but it don’t lubricate no more. I guess the real problem was when Mei started working those extra shifts. I didn’t want to burden her with... well, me.
+
+interviewer: It sounds like the strain on your relationship with Mei is adding to the weight you're carrying. What are you hoping to achieve by coming in for this visit?
+
+patient: I guess... I want to stop the leaks before the whole house floods. Not just the roof, but... all of it. Mei’s been holding things up while I’m stuck in the basement trying to fix the pipes with the wrong tools. If we can figure out a way to reinforce the frame without her having to do all the lifting, maybe the weight won’t feel so... final. But I don’t expect miracles. Just less rust in the joints, you know?
+
+interviewer: Have you experienced episodes like this in the past, where you felt persistently down, struggled with sleep, or noticed changes in your energy or motivation?
+
+patient: Not exactly like this. There was a time years back after the plant shutdown, but I usually... I usually grind through it. This feels different. Back then, it was more like a engine misfiring—still had the spark to kick it back. Now? The spark’s gone. The oil’s just... sludge. I don’t know if it’s rust or if I’m just... stuck in the same gear.
+
+interviewer: It sounds like you're carrying a lot of weight right now. Have you had any thoughts of intentionally ending your life?
+
+patient: I... I guess sometimes I think the bed would be easier. But it’s not like that. I mean, Mei’s counting on me, right? And the whiskey... well, it’s just a bad day oil, you know? Keeps the gears turning. I’d rather fix the roof than think about it, really.
+
+interviewer: I hear how the whiskey feels like a temporary fix, but I need to ask: Have you been using cannabis or any other substances besides alcohol recently?
+
+patient: No, just the whiskey. I don’t have time for that. Got the roof to fix... and the lawnmower’s still acting up. You know how it is—when one thing’s leaking, you can’t afford to let another rust through.
+
+interviewer: Are you currently taking any medications or supplements, including over-the-counter drugs or herbal remedies?
+
+patient: No medications, doc. Just the whiskey, like I said. Keeps the gears running on bad days. I’m trying to fix the roof leak before it ruins the wiring—priority’s on keeping the lights on, you know?
+
+interviewer: It seems like managing the stress has been really draining. Have you ever had periods where you felt extremely energetic or needed very little sleep, even for a few days?
+
+patient: No, doc. Just... the opposite, really. I’ve been running on fumes. The lawnmower? I worked on that late at night ‘cause I felt like I had to prove I could still do something right. But it’s not energy—it’s more like a machine grinding itself down. If I don’t force myself to stay awake, the rust takes over. You know how it is when the whole system’s seizing up...
+
+interviewer: I understand how overwhelming it feels to manage everything. Have you noticed any changes in your thinking, like hearing voices, seeing things others don't, or having thoughts that feel unusual or paranoid?
+
+patient: No, no voices or nothing like that. It’s more like... the thoughts get stuck in the same gear. Keep replaying the same old problems, like a faulty circuit loop. You know how it is—when the system’s glitching, it just loops the error code until you force a reset. I guess I’m just... tired of troubleshooting myself.
+
+interviewer: It sounds like your mind's been stuck on repeat, which must be exhausting. Have you noticed any physical health concerns that might be contributing, like changes in appetite, unexplained weight loss, or chronic pain?
+
+patient: Appetite’s been… irregular. More takeout, fewer meals I actually cook. Lost a bit of weight, but it’s just stress, I guess. The whiskey’s not helping, but it’s the only thing that stops the gears from screeching. Sleep? It’s like the engine cut out—wake up at 3 a.m. and can’t restart. But it’s not worth complaining about. The roof’s still leaking, you know?
+
+interviewer: Jeremy, based on what we’ve discussed, it sounds like you’re experiencing a depressive episode with symptoms like low mood, sleep disturbance, and loss of interest in work and social activities. This has been going on for several months and seems linked to stressors like the valve project and home repairs, which feel like a 'rusted system' you’re struggling to fix. We’ve also talked about how this is affecting your relationship with Mei and your confidence at work, though you’re holding things together through problem-solving and responsibility. What did I miss or get wrong here?
+
+patient: You got the basics right, but you’re missing how Mei’s been picking up the slack. And yeah, the shows are still on, but the trucks... they don’t hold up like they used to. I guess I’m just tired of feeling like a broken system no one can fix. Even the whiskey’s not cutting it lately—just leaves the gears screeching louder.
+
+interviewer: It sounds like Mei’s support is both a source of pressure and a stabilizing force for you. Can you tell me more about how her taking on extra responsibilities has affected your sense of partnership or self-worth?
+
+patient: She’s been working herself to the bone, taking double shifts to cover my mess-ups. I guess I appreciate it, but it’s like… she’s trying to keep a motor running when the pistons are shot. I’m just sitting there, waiting for the whole thing to seize up. The worst part? I can’t even fix the damn roof anymore. It’s like I’m a spare part she’s trying to force into a system that’s already rusted through.
+
+interviewer: Jeremy, it sounds like Mei’s support is both a source of pressure and a stabilizing force, and you’re feeling like a broken system that can’t be fixed. What did I miss about your experience that’s important to include?
+
+patient: The shows still run, but the trucks crack easier now. I guess it’s the same as the roof—ignore it long enough, and the whole thing caves. Mei’s holding it up, but I’m just... waiting for the next bolt to snap. The whiskey don’t even mute the noise anymore. Feels like I’m the problem, you know?
+
+interviewer: It sounds like you're feeling like a broken system that can't be fixed, even the whiskey isn't helping anymore. Let me recap: Your depressive symptoms include sleep disturbance, work performance issues, relational strain with Mei, and self-criticism about being a burden. You've been managing through problem-solving but feel overwhelmed by persistent stressors. What did I miss or get wrong here?
+
+patient: You didn’t mention the chest—feels like a piston firing out of sync, always half-a-beat off. And the shows… used to watch for the crash, now just wait for the next crack. The whiskey don’t mute it, just makes the waiting easier. Guess that’s not ‘burden’ enough to mention?
+
+interviewer: Jeremy, you’ve described a chest sensation like a misfiring piston and ongoing strain on the shows, which feels like waiting for the next crack—thank you for sharing that. It sounds like these physical and metaphorical 'cracks' are part of the same pattern of weariness and brokenness you’ve been holding onto. What else might I have missed that’s important to include here?
+
+patient: I guess... the way the sleep’s been eating at me. Nights are like trying to hold water with a colander—no matter how tight you think it is, it all just slips through. And the days? Feels like I’m running on battery power that’s long since dead. Mei says I should slow down, but I can’t even explain it to her without sounding like a broken appliance no one wants to fix.
+
+interviewer: Jeremy, you’ve described sleep that feels uncontainable like water through a colander, and daytime exhaustion like a dead battery—metaphors that capture both the futility and physical toll of this. What did I miss or get wrong about your experience here?
+
+patient: You got the sleep and battery stuff... but maybe missed how I feel like I’m just waiting for the next piston to seize. The whiskey helps, but it’s like... temporary oil. Doesn’t fix the real problem. I just... I don’t want to be the one that breaks Mei’s shows, you know?
+
+interviewer: It sounds like the fear of failing Mei’s expectations adds to the weight of feeling like a broken system. What else might I have missed about how these pressures are shaping your experience?
+
+patient: The roof... it’s been dripping louder lately. I keep meaning to fix it, but every time I get under the ladder, my hands shake so bad I can’t hold the tools. Mei doesn’t know—I don’t want her to think I’m useless at even that. Guess it’s another valve leaking somewhere I can’t see.
+
+interviewer: It sounds like the physical symptoms—like the shaking hands—are adding to the sense of helplessness. How long have you been noticing the shaking when you try to fix things?
+
+patient: It’s been... a while, I guess. Since the valve project went south, maybe? Feels like the more I try to hold things together, the more the parts start to rattle. Doesn’t help that the sleep’s still broken—like running a motor on empty. Mei doesn’t notice the shaking, but I can’t keep pretending the tools are just ‘sensitive’ when my hands won’t stay still.
+
+interviewer: Jeremy, you’ve described feeling like a broken system with symptoms like sleeplessness, daytime exhaustion, and physical shaking that make it hard to fix things, all worsening since the valve project failed. Mei’s support feels like a balancing act between pressure and gratitude. What did I miss or get wrong about how these parts fit together for you?
+
+patient: You didn’t get how the whiskey’s just... a bandage on a broken pipe. It numbs the noise but the leaks keep spreading. And Mei—she doesn’t see how I’m holding things together with baling wire. If she knew how bad it was... I’d be the one letting the whole house flood.
+
+interviewer: Jeremy, you’ve described feeling like the whiskey is a temporary fix and Mei doesn’t see how you’re holding things together with baling wire—thank you for clarifying that. What did I miss about your experience that’s important to include here?
+
+patient: I guess... I haven’t really mentioned how the whole system’s been creaking under pressure. Like, the more I try to keep the gears turning, the more I feel like I’m the rust in the works. But it’s not just me—Mei’s been shouldering the load, and I worry I’m dragging her down. Sometimes I think if I just... stopped trying to fix everything, maybe the breaks wouldn’t hurt as bad.
+
+interviewer: Jeremy, let me try to piece this together: You’re feeling like a rusted part in an overwhelmed system, where the more you push to fix things, the worse you seem to get. Mei’s taking on more, and you’re afraid you’re letting her down—even though stopping feels like it might make the pain easier. What did I miss or get wrong here?
+
+patient: You’re close... but maybe you’re not seeing how the leaks are in me, not just the roof. The whiskey only silences the noise for so long—now my sleep’s a broken circuit, cutting out every few hours. I catch myself staring at the same bolt for hours, trying to will it to hold... but my hands shake so bad, I can’t even tighten it right. Mei’s smile’s the only thing keeping the frame from collapsing, and I’m terrified I’ll drop the wrench on her feet before she figures out I’m already rust-through.
+
+interviewer: Jeremy, you’ve described feeling like the leaks are inside you now—sleep that fractures like a broken circuit, hands that shake when you try to fix things, and Mei’s smile as the only thing holding the frame together. What else might I have missed about how these parts fit into your experience? If we were to take one step forward together, what would feel most helpful for you right now—talking more about these metaphors, exploring ways to support Mei, or addressing the physical symptoms like the shaking?
+
+patient: I think you’re getting the gist... but maybe you’re not seeing how the sleep’s like a broken circuit—every time I close my eyes, it just sparks and cuts out. The whiskey... it’s the only thing that keeps the sparks from setting the whole thing on fire, but it’s not a fix. If we had to take a step... maybe figuring out how to slow down the corrosion before it eats through everything else?
+
+interviewer: Jeremy, you’ve described sleep as a broken circuit and the whiskey as a temporary fix that delays but doesn’t resolve the corrosion. If we were to focus on slowing that corrosion together, what kind of support or strategies would feel most helpful to test first—like adjusting how you manage stress, exploring non-alcohol ways to quiet the ‘noise,’ or addressing specific stressors like the roof repairs?
+
+patient: I guess... if we’re talking about slowing the corrosion, it’d have to start with the load. Like, if the system’s overheating ‘cause I’m trying to run it solo, maybe we need to... redistribute the pressure? But I don’t know how to ask for less weight. Maybe start with the roof? Fix that leak before it eats through the frame. But don’t tell Mei—she’s got enough to carry already.
+
+interviewer: Jeremy, it sounds like the key steps are redistributing pressure to prevent the system from overheating and addressing the roof leak as a starting point, while protecting Mei from added stress. What did I miss or get wrong about these priorities, and is there anything else we should consider before taking the next step?
+
+patient: You’re spot on about the roof and the pressure... but maybe there’s a second leak I haven’t mentioned. The kind that starts inside the pipes, not just on the surface. I keep thinking Mei’s gonna look closer one day and see the whole system’s corroded from the inside out. But if we’re starting with the roof... maybe just a wrench and a hand to hold the ladder. As long as it doesn’t make her realize I’m already half-collapsed.
+
+interviewer: It sounds like this 'second leak' is another layer of wear you're keeping hidden, one that feels even harder to address than the roof. Can you share more about what that internal leak represents for you—how it started, or what it might look like if it were visible?
+
+patient: It’s like… there’s a leak in the engine block itself, not just the hose. You can’t see it, but the whole system’s losing pressure. My hands shake worse when I try to fix anything—Mei doesn’t notice, but I feel it. It’s the kind of rust that eats from the inside, you know? You keep tightening bolts, but the metal’s already gone.
+
+interviewer: It sounds like the internal leak in the engine block represents a deeper sense of systemic breakdown that even Mei doesn’t fully see—how does that fit with what you’re experiencing right now? What did I miss or get wrong about these priorities, and is there anything else we should consider before taking the next step?
+
+patient: It’s not just the leaks… it’s the whole damn system. The shaking in my hands—it’s worse when I’m alone, like the whiskey can’t fix it. Mei thinks I’m just tired, but I’m scared she’ll see the cracks soon. What you missed is that the engine’s not just losing pressure—it’s *me* losing the will to keep it running. I keep thinking maybe if I fix one more thing, it’ll all hold together… but the rust’s in the wiring now.
+

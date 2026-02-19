@@ -1,0 +1,212 @@
+system: Session aec5baa7-f0bb-4454-80d9-0545bd3223d3 transcript
+
+system: Disorder: MDD
+
+interviewer: Hi Jason, I'm Victor Delgado. How would you like me to refer to you during our conversation today?
+
+patient: Jason. Just Jason, I guess.
+
+interviewer: It sounds like you're going through a really challenging time right now. Jason, would you be comfortable proceeding with this interview to discuss how you're feeling?
+
+patient: Yeah, I guess. Just… don’t expect me to spill everything. It’s not that I don’t trust you or anything. I just don’t wanna sound like some broken machine or whatever. My day-to-day is fine, really. Long shifts at the restaurant, ticket times eating at me, but you know how it is. Busy.
+
+interviewer: That sounds like a lot to manage. To make sure we're on the same page, would you like a brief explanation of how this conversation will go before we continue?
+
+patient: Nah, let’s just get to it. The less talking about the process, the better. I’ve got shifts to think about, you know? Just… ask what you need to.
+
+interviewer: Can you tell me what's been going on for you lately that's brought you here today?
+
+patient: Lately? It’s just… stuff. Ticket times are tighter than usual at the restaurant, so I’ve been pushing through. But I don’t sleep well—wake up at 3, check the phone, can’t fall back asleep. My boss said I’ve been ‘snappier’ in meetings, which is fair, I guess. I just… don’t have the energy to fake being okay anymore. But it’s not a big deal. Everyone’s got their stuff.
+
+interviewer: I hear how challenging this has been for you. When did you first notice these changes in your sleep and mood?
+
+patient: It started... maybe six months ago? After that customer complaint at work. I couldn’t shake the feeling I was one mistake away from getting fired. Sleep? I guess it’s the 3 a.m. thing—phone in hand, waiting for messages. My boss says I’m ‘snappier’ in meetings. I tell myself it’s just the hours, but... (shrugs) Maybe it’s more than that. My wife’s been worried, but I figure she’s better off if I just keep my head down.
+
+interviewer: It sounds like the pressure at work and the changes in your mood have been really weighing on you, especially with how it's affecting your relationships. What are your hopes or goals for coming in today?
+
+patient: Honestly? I guess I just... don’t know. I told my wife I’d come in because she’s been pestering me about ‘snapping at the kids,’ but I figured it’s not like you can fix someone who’s just burned out. Maybe if I can figure out how to stop feeling like a broken machine at work, so I don’t drag everyone else down. (Pauses, avoids eye contact) She’s the one you should be talking to, really. I just... keep messing things up for her.
+
+interviewer: It sounds like you're carrying a lot of guilt about how this is affecting your wife and family. Can you share an example of a recent time when you felt like you'd messed up for her?
+
+patient: Last week, she wanted to go fishing like we used to. I said I was too tired, but I guess I snapped at her when she asked if something was wrong. (Pauses, avoids eye contact) I told her it was nothing, but I know she’s worried. I feel like I’m letting her down... but I don’t know how to fix it. (Softly) She deserves someone who isn’t a grumpy mess all the time.
+
+interviewer: It sounds like work pressures have been really heavy on you lately. Have you experienced similar periods of feeling overwhelmed or down in the past?
+
+patient: Not really, no. I guess when I first started at the restaurant, the hours were brutal, but I just... worked through it. This time feels different. Like the gears are grinding harder, but nothing’s moving. (shrugs) I don’t know if that makes sense.
+
+interviewer: It sounds like this feels different from past challenges you've faced. Have you experienced similar periods of feeling overwhelmed or down before?
+
+patient: No, not really. Before, it was just... long hours or deadlines. You push through, right? This feels different. Like the engine's still running but the car's not moving. (Pauses, rubs the back of his neck) I tell myself to just work harder, but my head’s all fog. Even when I do, it’s like I’m one step away from falling apart.
+
+interviewer: It sounds like this feeling of being stuck is taking a toll on your energy and focus. Have you experienced any traumatic events in your life that you think might be connected to how you're feeling now?
+
+patient: Not really... I mean, maybe the customer complaint last year was rough? But that’s probably not what you’re thinking. Just... stuff piling up, I guess. My dad was hard on me growing up, but I figure that’s normal? People don’t exactly raise kids to be soft.
+
+interviewer: It sounds like you learned to handle pressure from an early age. How did your father's expectations shape how you approach challenges now, especially with work and family?
+
+patient: I guess... my dad always said 'time is money,' so I learned to just push through, you know? If a dish gets messed up at work, I’ll redo it faster to make up for it. But lately, even that feels like grinding gears that’re about to seize. Not sure if that’s the 'expectations' you’re talking about, though. My wife says I’m too hard on myself, but she didn’t grow up hearing 'efficient or obsolete' for breakfast.
+
+interviewer: It sounds like your father's high expectations have shaped how you approach challenges. How do you think his emphasis on efficiency affects how you handle mistakes at work or conflicts at home?
+
+patient: I guess... I just try to fix things faster, you know? If a dish is messed up, I redo it to keep the line moving. But lately, even that feels like... grinding gears that’re about to seize. At home, I just shut down, I guess. My wife says I’m short with her, but I tell myself it’s just stress. The problem is, once I retreat, it’s like the whole system freezes. Not sure if that’s my dad’s influence or just... me falling apart.
+
+interviewer: It sounds like your father’s influence has shaped how you manage stress and expectations in your life. Have you ever experienced a period like this before, where you felt overwhelmed or stuck in this way?
+
+patient: I guess... this feels different from regular stress. Like, before I’d get burnt out at work and push harder, but now it’s like the gears are stripped. My dad always said 'stop and fix the machine,' but I don’t even know how to stop anymore. The car repair bill I got last week? That’s the kind of thing I’d have handled in a day. Now I just... stare at it. Not sure if that’s what you mean by 'overwhelmed,' but it feels like the first time I’ve actually failed at fixing anything.
+
+interviewer: It sounds like this feeling of being a 'broken machine' is really different from how you've managed stress before. Have there been other times in your life when you felt this kind of stuck or overwhelmed, even if it was in a different way?
+
+patient: I guess... before, I’d push through stress by working harder. Like, if the line was slow, I’d just speed it up. But this time? The gears are stripped. The car repair bill—stuff I’d usually fix in a day? I just stared at it. Feels like the first time I’ve actually failed at fixing anything. Not sure if that counts as 'stuck' or just... broken.
+
+interviewer: It sounds like this experience of feeling 'broken' is a significant shift from your usual way of handling challenges. Have you ever had a time when you felt this kind of stuck or broken before, even if it was in a different area of your life?
+
+patient: I guess... I’ve always been the type to grind through stuff. Like a machine—break a part, just swap it. But this feels different. Last year, after the customer complaint, I worked double shifts to ‘catch up.’ My dad would’ve called it weak, you know? But this time... it’s not a part I can just replace. It’s like the whole system’s clogged. I wake up at 3 a.m. checking texts, but even when I ‘fix’ one problem, another pops up. Maybe I’m just... old rust.
+
+interviewer: It sounds like your wife's concerns are really weighing on you. How has her support been for you during this time, even with the tension it might bring up about your expectations for yourself?
+
+patient: She’s tried to be there, I guess. But I’m so irritable lately—I wake up at 3 a.m. checking my phone, and by morning, I’m just... short. Snapped at her the other day about the fishing trip. I tell myself she’d be better off without me, but I don’t say it out loud. My dad always said if you can’t fix it, you’re a waste. So I guess I’m just... broken.
+
+interviewer: It sounds like your father's belief that 'if you can’t fix it, you’re a waste' is really resonating with how you’re seeing yourself now. How do you think that idea is showing up in the way you talk to yourself when things feel overwhelming at work or home?
+
+patient: It’s like... my head’s stuck on ‘error code’ mode. If a machine keeps spitting out the same warning, you just keep tightening bolts, right? But what if the problem’s not a bolt? My dad’s voice is that... ‘Check the connections’ part. But lately, I just feel like I’m pressing buttons that don’t do anything. Like the 3 a.m. phone-checking—useless, but I do it anyway. My wife says ‘rest,’ but that’s not a fix. You just... keep going until it breaks. Maybe that’s why I snap at her. I don’t know how to explain the ‘waste’ part without it sounding like an excuse.
+
+interviewer: It sounds like the pressure to 'fix' things is taking a toll on how you see yourself. Have you ever gone through a time before where you felt this same sense of being stuck or broken, even if it was in a different part of your life?
+
+patient: Not really. This is the first time I can’t just grind through. My dad always said if you can’t fix it, you’re a waste. But this... it’s like the whole system’s clogged. Can’t just replace one part.
+
+interviewer: That sounds really challenging to carry alone. Have you experienced any thoughts about harming yourself or ending your life in the past few months?
+
+patient: I don’t know... I guess I’ve just felt like I’m one mistake away from losing everything. My dad always said if you can’t fix it, you’re a waste. But I haven’t... I mean, what’s the point? It’s not like anyone’d miss me. I just... keep going until it breaks. My boss already thinks I’m slipping. My wife... she’s trying, but I’m too much to handle. I don’t even know why I bother.
+
+interviewer: It sounds like you're carrying a lot of weight right now. Have you had any thoughts about ending your life specifically, like making a plan or considering how you might do it?
+
+patient: I don’t know... I guess I’ve thought about not waking up sometimes. But I don’t... I don’t think about how. It’s just... I feel like a broken machine. My boss is on my case, and I don’t want to drag my wife down with me.
+
+interviewer: It sounds like those thoughts are really heavy for you... Have you ever felt any intention or desire to act on them?
+
+patient: No... no plan, I mean. It’s not like that. I just... sometimes think if I just vanished, maybe everyone’d be better off. But I don’t, y’know, *plan* anything. My boss is breathing down my neck, and the car repair bill’s piling up. It’s just... noise in my head. I can’t even focus on fixing it.
+
+interviewer: It sounds like the noise in your head is really interfering with your focus. Have you felt unusually energetic or had a lot of ideas lately that you couldn’t slow down, even when it might not be helpful?
+
+patient: No, not really. I guess I’m just... stuck. My brain’s like a car in neutral—pedal to the floor but no movement. I work faster now to avoid mistakes, but it just burns me out more. The car repair bill doesn’t help.
+
+interviewer: It seems like work and financial pressures are adding to your sense of being stuck. Have you used alcohol, cannabis, or any other substances in the past month, or changed how you use them recently?
+
+patient: No, not really. I don’t have the energy for that. Just... work and the usual grind. My brain’s already stuck in overdrive, y’know? Even thinking about it feels like another thing I’m failing at.
+
+interviewer: It sounds like you're really stuck in a cycle of exhaustion and pressure right now. Have you experienced any periods lately where you felt unusually energetic or needed significantly less sleep, even if it seemed unwise?
+
+patient: No. I’m the opposite. I feel like a car in neutral—pedal to the floor but no movement. I work faster to avoid mistakes, but it just burns me out more. I still wake up at 3 a.m. even when I try to rest. My dad always said 'work smarter, not harder,' but I can’t even do that.
+
+interviewer: Are you currently taking any medications, supplements, or vitamins on a regular basis?
+
+patient: No, not really. I mean, maybe some ibuprofen for headaches, but that’s about it. My dad always said painkillers are for people who can’t handle their problems, so I guess I just tough it out... Work’s been grinding me down, though. The customer complaint last month? I still can’t shake that. Feels like it’s stuck in my head, you know? Like a bad loop.
+
+interviewer: It sounds like work stress is really weighing on you. Have you felt unusually energetic or had a lot of ideas lately that you couldn’t slow down, even if it wasn’t helpful?
+
+patient: No, the opposite, really. I feel... stuck. Like a machine that’s grinding but not moving. If anything, my head’s racing at night—3 a.m., scrolling through work emails, wondering if I’ll just disappear if I stare long enough. But during the day? Dead. My wife says I’m ‘drained,’ and she’s not wrong. I guess I used to have energy for... stuff. Now? Even turning on the grill feels like climbing a hill.
+
+interviewer: It sounds like your fatigue and sleep issues are really taking a toll. Have you ever been diagnosed with anything like thyroid problems or sleep apnea that might be contributing to this?
+
+patient: No, I guess not. Doctor visits aren’t really my thing—my dad always said ‘if you’re not sick enough to die, you’re fine.’ But... I haven’t had any tests done. Just figure it’s the 60-hour weeks and the... you know, the customer complaint mess. My wife says I should get checked out, but I keep telling her it’s just burnout.
+
+interviewer: It sounds like your father's beliefs about health and work still carry a lot of weight for you. Have you noticed any changes in your thinking recently, like hearing voices, seeing things others don't, or feeling overly suspicious about people around you?
+
+patient: No, nothing like that. I mean... I guess I’ve been more on edge, maybe? Like, my boss says I’m ‘snappier’ in meetings, but I just figure it’s because I’m tired. My head’s on high alert all the time—like, checking if I messed up some order or if the customer complaint will come back to haunt me. Feels like my dad’s voice is still in there too, pushing me to ‘fix it faster.’ But no... no voices, no weird stuff. Just... static, I guess.
+
+interviewer: Jason, over the past few months, you've been feeling overwhelmed by work stress, especially tight ticket times and a recent customer complaint. This has led to sleep disturbances, irritability, and strained relationships with your wife and kids. You've been struggling with low energy, concentration issues, and passive thoughts like 'if I just vanished,' though you don't have a plan. Your father's emphasis on efficiency and perfection has added to your self-criticism, making you feel like a 'broken machine.' Your wife's support is a key protective factor, but you're worried about letting her down. What did I miss here?
+
+patient: You... you got most of it. The car repair bill I couldn’t afford? That’s another one. Feels like every time I think I’m keeping up, something else proves I’m not. My wife says I’m ‘draining’ her patience, and maybe she’s right. I just... I don’t know how to fix it without breaking more. The kids? They don’t get the same old Jason anymore—just a guy who’s always ‘tired’ or ‘stressed.’ But you wanna know what’s really quiet? The way I used to love fishing with them. Now it’s just... another thing I’m supposed to be good at, you know? Like it’s my job to be a decent dad, not just a decent employee.
+
+interviewer: Jason, you’ve described feeling overwhelmed by financial and work pressures, strained relationships with your wife and kids, and a loss of joy in activities like fishing. Your sense of being a ‘broken machine’ and the weight of perfectionism from your father also stand out. What did I miss here?
+
+patient: I guess... the part you might’ve missed is how I feel like I’m just adding more weights to the pile. My mom-in-law’s health is getting worse, and I don’t know how I’d handle that if things keep going like this. The kids... I want to be there for them, but it feels like I’m already failing. I keep thinking, what’s the point of even trying if I’m just going to screw it up anyway?
+
+interviewer: It sounds like the added stress of your mom-in-law’s health and the weight of parental expectations are compounding your sense of failure. What else would be important to include in this picture?
+
+patient: I guess... the part I don’t even know how to explain is this static in my head that never stops. It’s like the car repair bill or the mom-in-law stuff—just another weight. Sometimes I think if I could just... let go, maybe it’d quiet down. But I’m not even sure that’s a real thing. It’s just... hard to talk about without sounding like a mess.
+
+interviewer: It sounds like this constant mental noise is adding to the weight you're carrying, making it even harder to find clarity. What else would be important to include in this picture?
+
+patient: I guess... the part I haven’t said out loud is how the static gets louder when I think about the kids. Like, I’ll catch myself staring at their pictures, but then I just feel like I’m wasting their time. It’s not that I don’t love ’em—it’s like my brain’s stuck on ‘What if I mess this up? What if I’m already messing it up?’ And then there’s this... this hum, you know? Like a bad Wi-Fi signal. I can’t even explain it right. Maybe it’s nothing.
+
+interviewer: Jason, let me make sure I’ve captured this accurately: You’ve described feeling like a broken machine under pressure from work and family, with a constant mental 'static' that worsens when thinking about your kids. This hum feels like a background noise that makes you question your parenting and adds to your sense of failure. Your father’s perfectionism and your wife’s concern are key parts of this picture. What did I miss here?
+
+patient: I guess... the part you’re not getting is how the static feels louder when the kids look at me. Like, their eyes are these little spotlights, and I’m just... flickering. I tell myself it’s not their fault, but I can’t shake the fear that they’re picking up on it. And my dad’s voice? It’s not just about work anymore. It’s like he’s in the car with me, telling me I’m a waste even when I’m just trying to get the kids to school on time. But maybe that’s just me overthinking. What’s the point of even bringing it up if it’s not fixable?
+
+interviewer: It sounds like the pressure of being a parent is amplifying both the mental 'static' and your father’s critical voice, making even routine moments with your kids feel like failures. What did I miss here?
+
+patient: I guess... the part you’re not seeing is how the kids’ eyes feel like they’re judging me. Like, when I’m helping them with homework or just trying to make dinner, their quiet looks are like... like they’re waiting for me to mess up. And my dad’s voice? It’s not just in my head anymore. It’s in the car when I’m driving them to school, telling me I’m wasting their time. I don’t know. Maybe it’s just... another thing I can’t fix.
+
+interviewer: It sounds like the children’s silent scrutiny and the persistent presence of your father’s critical voice are central to how you’re experiencing this period of overwhelm. What did I miss here, or is there anything else you’d like to add before we discuss next steps?
+
+patient: I guess... you didn’t miss the part where I feel like a flickering bulb in the dinner table glow. The kids don’t say much, but their eyes—like little spotlights. My dad’s voice? It’s that static in the background, constant. But maybe that’s just... work stress. Or maybe not. I don’t know.
+
+interviewer: Jason, it sounds like the flickering under your kids’ silent scrutiny and your father’s unrelenting static are intensifying your sense of being ‘broken’ in ways that feel personal and unshakable. What did I miss here, or is there anything else you’d like to add before we consider next steps like therapy, lifestyle adjustments, or other supports?
+
+patient: I guess you didn’t miss the part where I’m adding new weights to the same pile—like that car repair bill—and still hearing my dad’s voice go ‘efficiency or obsolete.’ The kids’ eyes? They’re just another reminder I’m flickering. But maybe it’s all just... work stress. Or maybe not. My wife makes this killer pho, but I can’t even finish a bowl now. It’s like... static. What’s the point if I can’t even fix the static?
+
+interviewer: Jason, let me recap what we’ve covered: You’ve described feeling like a 'broken machine' under pressure from work, financial strain, and family expectations. The static in your mind—amplified by your father’s critical voice and your children’s silent scrutiny—has made it hard to find clarity or joy, even in things like your wife’s cooking. Your wife’s concern and your own fear of letting her and your kids down are central here. What did I miss, or is there anything else you’d like to add before we discuss next steps like therapy or support strategies?
+
+patient: I guess... the part you didn’t catch is how my brain feels like a short-circuited lightswitch now. It’s not just the kids’ stares or the car bill—sometimes I’ll be in the kitchen, and the smell of my wife’s cooking hits me, and I just... freeze. Like my body’s waiting for a memory to plug into, but there’s nothing there. It’s static. I hate that it’s static. But maybe that’s just... work stress. Or maybe not.
+
+interviewer: Jason, you’ve described how the static intensifies in moments like the kitchen, where your wife’s cooking triggers a freeze response—like your body’s waiting for a memory that’s absent. What else would be important to include in this picture before we consider next steps like therapy or support strategies?
+
+patient: I guess... the part I haven’t said out loud is how my mom-in-law’s health keeps eating at me. I don’t want to tell my wife yet—doesn’t seem like it’s my place—but thinking about her getting worse? It’s another weight on the pile. And the kids... sometimes I catch them watching me like they’re waiting for me to snap or disappear. The static? It’s louder there. But maybe that’s just... work stress. Or maybe not.
+
+interviewer: It sounds like your mom-in-law’s health concerns and the children’s watchful presence are amplifying the static you’ve described. Is there anything else you’d like to add to this picture before we consider next steps?
+
+patient: I guess you didn’t miss the part where I’m dreading the next time my wife makes pho. Not because I don’t love it—just because my brain freezes like a short-circuited lightswitch. The smell hits me, and I’m stuck there, static. My mom-in-law’s health? It’s like another bill piling up, one I can’t even talk about. The kids… they don’t say much, but their eyes? They’re waiting for me to crack. But maybe that’s just… work stress. Or maybe not.
+
+interviewer: It sounds like these thoughts are really weighing on you—can you share what might be a warning sign for you that things are getting harder?
+
+patient: I guess... when I start snapping at work more, or making the same mistakes even when I know better. And... sleep's been worse lately. Wake up at 3, can't go back. Feels like my brain's stuck on loop. Maybe it's just stress, but...
+
+interviewer: It sounds like these challenges are really taking a toll on you and your family. Before we wrap up, let me make sure we’ve covered everything you need moving forward. Have you thought about what steps you’d like to take next?
+
+patient: I don’t know… I guess I’ll try to get more sleep? Maybe talk to my manager about lightening the hours. But honestly, I just… I keep thinking if I can fix the car payment issue, maybe the rest will sort itself out. It’s stupid, right? Probably just more stress.
+
+interviewer: It sounds like you're considering practical steps to manage stress. Would you like to talk about what might help you feel safer or supported as you work through these challenges?
+
+patient: Honestly? I guess... if I could just get the car payment sorted without my wife noticing, that’d help. And maybe if my manager would let me adjust shifts... but I don’t want to seem like I can’t handle it. It’s stupid stuff, really. Just... keeping the machine running, I guess.
+
+interviewer: It sounds like managing these stressors is really important to you. If things feel overwhelming, what might be some early warning signs for you that it's time to reach out for support?
+
+patient: I guess... if I start snapping at my wife more, or if I can't even force myself to check the kids' homework? And... if the car payment thing gets so bad I can't cover it without her noticing. It's stupid, but that feels like a... a breaking point. Like, if I can't even handle that, what's the point of trying anything else?
+
+interviewer: It sounds like those breaking points are really heavy to carry. Before we wrap up, is there anything else you'd like to clarify or prioritize as next steps for yourself?
+
+patient: I guess... if I can just get the car payment sorted and maybe talk to my manager about shifting some hours, that’d buy me space to... to think things through. But I don’t want to seem like I’m falling apart. It’s stupid, but if I can keep the machine running without overheating, maybe the rest will settle. Maybe that’s all there is.
+
+interviewer: It sounds like creating practical space to manage stress is really important to you. If things feel overwhelming before your next steps, is there a safety plan in place to reach out for support?
+
+patient: Honestly, I don’t have a real plan. I just… try to text my wife when I’m about to lose it. But I hate bothering her with my stuff. Sometimes I’ll just call in sick to work if I’m too fried, but that’s it. It’s not like I can afford to take more time off.
+
+interviewer: It sounds like reaching out to your wife is an important support for you, even if it feels difficult. If you start noticing those warning signs you mentioned—like snapping more or sleep worsening—what other steps could help you feel more supported before things reach that breaking point?
+
+patient: I guess... I try to step outside for a minute if I'm at work and feel like I'm about to snap. But I usually just power through it. Maybe listen to some music? Doesn't really help, though. I'm too wired. Honestly, I don't know how else to... I'm not built to slow down, you know? My dad always said 'efficiency or obsolete.'
+
+interviewer: I can see how trying to 'power through' must be incredibly draining. What specific warning signs, beyond snapping at work or sleep changes, might signal it’s time to pause and reach out for support before things feel unmanageable?
+
+patient: I guess... if I start missing shifts or can’t even fake the line speed, but that’s just... part of the job, you know? My hands shake when I’m trying to plate things—boss hasn’t noticed yet. I just work faster. If I can’t... keep up the charade, maybe. But who’s gonna help? I’m not exactly hireable when I’m asking for a handout.
+
+interviewer: It sounds like keeping things running smoothly is really important to you. Would you like to create a simple safety plan to help manage overwhelming moments before they escalate?
+
+patient: I guess... stepping outside for air helps sometimes. But it’s not like I can afford to slow down. My dad always said ‘efficiency or obsolete.’ If the shaking in my hands gets worse, maybe I’ll have to... I don’t know, call in sick? But who’s gonna help? I’m not exactly hireable when I’m asking for a handout.
+
+interviewer: I appreciate how hard you're working to manage everything despite the pressure. If the shaking in your hands does get worse before your next steps, what might be one small step you could take to ask for support without feeling like you're 'falling apart'?
+
+patient: I guess... if I have to, I’ll take a minute to step outside and splash water on my hands. It’s not really asking for help, just... resetting. As long as I don’t lose line speed. My dad always said 'efficiency or obsolete,' you know?
+
+interviewer: It sounds like creating space to reset is helping you stay on track. Before we finish, is there anything else you'd like to add to your plan for managing stress or reaching out for support?
+
+patient: I guess... I’ve been telling myself to just take those five minutes outside if things get too loud. It’s not much, but it keeps me from snapping at the crew. My dad always said ‘efficiency over emotion,’ so I guess I’m trying to follow that... even when my head feels like a short-circuited microwave.
+
+interviewer: It sounds like finding small resets is helping you stay grounded. Before we finish, is there anything else you'd like to adjust or prioritize in your plan moving forward?
+
+patient: I guess... I’ll stick with the five-minute breaks for now. The car payment’s another weight, but I’ll figure it out. My dad’d say I’m just not prioritizing right... but if it matters, I’ll keep the resets. Maybe add a second splash of water when my hands start shaking at the register.
+
+interviewer: It sounds like you've identified manageable steps to navigate the challenges ahead. Before we conclude, is there anything else you'd like to adjust or prioritize in your plan to ensure you feel supported?
+
+patient: I guess... I’ll stick with the five-minute breaks for now. The car payment’s another weight, but I’ll figure it out. My hands still shake sometimes—like the machine’s not lubed right. Dad’d say I’m just not prioritizing, I guess.
+

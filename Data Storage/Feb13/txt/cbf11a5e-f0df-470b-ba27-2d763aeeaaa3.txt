@@ -1,0 +1,100 @@
+system: Session cbf11a5e-f0df-470b-ba27-2d763aeeaaa3 transcript
+
+system: Disorder: GAD
+
+interviewer: Thank you for sharing that, Ryan. It sounds like you're carrying a lot right now. To start, can you confirm you're comfortable proceeding with this interview today?
+
+patient: Yeah, I’m comfortable. Just… you know, a bit on edge today. My shoulders are locked up like they always are, but it’s nothing new. I’ll manage.
+
+interviewer: I notice you mentioned feeling on edge—would you like to ask anything before we begin, or should I briefly explain what this session involves?
+
+patient: No, I think I understand the process. Just… you know, I’ll be honest, my mind’s been racing a bit more than usual lately. But I can focus. My shoulders are still tense, but that’s pretty normal for me.
+
+interviewer: It sounds like the stress of that situation at work must have been really overwhelming. When did you first notice these worries and tension starting to interfere with your work performance?
+
+patient: It’s hard to pinpoint exactly, but… I guess around the time the project deadlines started overlapping? My usual process is to double-check every calculation, but I found myself going back over things I’d already verified, which ate into my time. I missed a deadline, and my manager gave me a warning. I told myself it was just poor time management, but… my shoulders were so tight I could barely type without cramping. It’s not like I can just ‘stop worrying’ about the numbers being right, you know?
+
+interviewer: It sounds like the pressure to get things right is taking a toll on both your physical comfort and work performance. How has your sleep been affected by all this? Have you noticed any changes in how easily you fall asleep or stay asleep?
+
+patient: Sleep… it’s been rocky. I’ll fall asleep okay, but around 2 or 3 AM, my mind starts recalculating the day’s work, and I wake up with my shoulders locked up again. The neighbor’s music doesn’t help—it’s like my body’s on high alert even when I’m trying to rest. I just tell myself it’s part of the job, you know?
+
+interviewer: It sounds like your body and mind are really struggling to unwind at night. Have these symptoms been getting worse over time, or is there a specific event that made them feel more intense recently?
+
+patient: It’s probably a mix, to be honest. The deadlines have been tighter lately, and my mom’s been having more check-ups. Oh, and the new neighbors started hosting… loud events late at night. I guess that’s made it harder to unwind. My shoulders just… lock up more now. But I’ve gotten used to working through it, I guess.
+
+interviewer: That sounds really tough managing all those stressors. Can you tell me when you first started noticing these symptoms?
+
+patient: It’s hard to pinpoint exactly, but I guess it started creeping in during college. I’d get these tightness in my shoulders before big projects, even when I was on track. My mom’s health issues around that time… I don’t know, made me hyper-focused on ‘what-ifs.’ But I’ve always been… detail-oriented? Maybe that’s just who I am. The sleep thing? That’s newer, maybe the last year or so.
+
+interviewer: It sounds like your history of detail-oriented thinking and your mom’s health have played a role in how you experience stress. What would you hope to achieve through this process?
+
+patient: I guess... I just want to figure out how to stop feeling two steps behind everything. If I could sleep through the night without checking the smoke detector battery at 3 a.m., that’d help. And maybe learn to... not assume the worst about every little thing. My partner says I’ll come around, but I keep waiting for the other shoe to drop. It’s like trying to render a 3D model that keeps crashing—you tweak it forever, but it never quite works.
+
+interviewer: It sounds like this pattern of worry has been affecting your life for some time—have you experienced periods in the past where your worries felt similarly overwhelming, and if so, what strategies helped you manage them?
+
+patient: College had similar… pressure. I’d work late, brew coffee until it was perfect, anything to keep moving. My partner’s there now, which helps—she just lets me vent without pushing too hard. But honestly, most strategies are just ways to… distract until the next thing goes wrong. The games, the coffee, even the late shifts—it’s all just trying to stay ahead of the ‘what-ifs.’ Doesn’t really work, but it’s something.
+
+interviewer: It sounds like you're under a lot of stress right now. Have you had any thoughts of harming yourself or ending your life?
+
+patient: No, I haven’t… I mean, it’s not that I’d consider it. It’s more like I feel stuck in this… loop. Like the 3D model I mentioned—constantly tweaking it, but it just won’t render. You keep hoping the next adjustment fixes everything. But my shoulders… they’ve been tighter lately. Maybe that’s the closest I get to ‘thoughts’—my body just locking up instead of anything dramatic. I guess I’d rather fix the model than delete it entirely.
+
+interviewer: It sounds like the tension in your shoulders and the sense of being stuck are really taking a toll. Have you noticed any changes in your energy levels or sleep patterns recently—like feeling unusually energized or needing less sleep?
+
+patient: To be honest, my sleep’s been... inconsistent. I’ll wake up in the middle of the night and just lie there, going over project deadlines or my mom’s latest blood work—stuff I can’t control. It’s not like I’m completely exhausted, but I do feel like a battery that’s slowly losing charge. The coffee’s helping, I guess, but it’s more about keeping the gears moving than actually feeling energized.
+
+interviewer: It sounds like coffee is a key part of your routine right now. Have you noticed any changes in your alcohol or cannabis use recently, or do you use any other substances?
+
+patient: Not really, no. I’ve stuck with coffee mainly—black, no sugar. It’s... predictable, I guess? The neighbor’s music helps me 'stay alert' sometimes, but that’s more of a nuisance than a habit. I don’t think I’ve touched alcohol since the team dinner last month. Tasted like regret and bad decisions, so... here we are.
+
+interviewer: It sounds like coffee has been a consistent part of your routine. Are you currently taking any medications or supplements, or have you started or stopped any recently?
+
+patient: No medications, really. I’ve thought about supplements—magnesium maybe, for the muscle stuff—but I haven’t stuck with anything. Coffee’s my go-to, even if it’s just to feel like I’m in control.
+
+interviewer: Ryan, based on our conversation, it sounds like you've been struggling with persistent worry and physical tension for years, which has gotten worse recently due to work stress and your mother's health. These symptoms are affecting your focus, sleep, and relationships, creating a cycle where you feel stuck trying to manage everything perfectly. Does this capture your experience, or is there something I haven't noticed?
+
+patient: Yeah, that’s… that’s pretty much it. The 3D model analogy actually hits close to home. I guess the part about being stuck trying to 'fix' everything… there’s another layer there with the student loans from my Master’s. I haven’t mentioned it much because it feels like adding another problem to the pile. But sometimes when the neighbor’s music is blaring and I can’t even focus on recalculating the coffee ratios to take my mind off things… it’s like the model just glitches harder. Not sure if that makes sense, but it’s there.
+
+interviewer: Ryan, to recap: We’ve discussed how chronic worry, work stress, and recent stressors like your mother’s health and student loans contribute to your anxiety, sleep issues, and physical tension. You’ve described feeling stuck in cycles of trying to 'fix' everything, which impacts your focus and relationships. What did I miss or get wrong here?
+
+patient: I think you hit most of it... maybe just missed how the little things with my partner escalate, then I over-apologize like I’m reciting a script. And the neighbor’s music—it’s not just a nuisance, but it feels like another variable I can’t account for in the... you know, the mental model I’m trying to build. But that’s probably splitting hairs.
+
+interviewer: Ryan, the way the small interactions with your partner escalate and the neighbor’s music feel like another uncontrollable variable in your mental model are important additions. What else might I have missed or misunderstood about your experience?
+
+patient: I think I mentioned the loans from my Master’s—haven’t really talked about how they’ve been this... silent weight? It’s not like I can just add it to the spreadsheet and balance it out. Sometimes it feels like another layer in the model, but I can’t even see the code for it yet. Also, maybe the way I overcorrect with my partner? Like, if I snap about something tiny, I’ll later over-explain my day in rigid detail to ‘make up for it.’ Doesn’t really fix anything, but it’s another thing I can’t quite render.
+
+interviewer: Ryan, you’ve added important details about the Master’s loans feeling like a silent weight and the pattern of overcorrecting with your partner. What else might I have missed, or is there something we should prioritize addressing in our next steps?
+
+patient: The neighbor’s music at night—it’s not just the noise. It’s like another variable I can’t plug into the equation, you know? I end up replaying it in my head long after it stops. And the loans… I’ve been avoiding them even in my own head, like if I don’t name the problem, it won’t destabilize the model. But maybe that’s part of the loop. I’m not sure where to start untangling it, though.
+
+interviewer: It sounds like the neighbor's music and student loans add to the complexity you're trying to manage mentally. What would be most helpful for us to focus on first—exploring strategies for these stressors, or another area you feel is pressing?
+
+patient: The music at night—it’s like another layer I can’t calculate. Maybe starting there would help untangle some of it. The loans are tricky because they’re this... silent variable. But if we could map out the immediate stressors first, that might give a framework to address the rest. I guess I’m not sure where to begin, but the music feels more... present right now.
+
+interviewer: Ryan, it sounds like the neighbor's music at night is a key stressor you'd like to address first as a starting point for untangling some of these layers. What else would be important for us to include in our next steps, or is there anything else you'd like to add before we move forward?
+
+patient: The loans are this... silent variable I haven’t even mapped yet. It’s like trying to build a blueprint with a missing wall—everything else feels off-balance because of it. And with my partner, I catch myself over-explaining after I snap, like I need to ‘compensate’ with structure. It’s another loop I can’t render, but maybe starting with the music is the clearest entry point. The rest... I’ll need to unpack it layer by layer.
+
+interviewer: Ryan, it sounds like the neighbor's music and student loans are significant layers in your current stress, along with the patterns in your relationship. If we focus on the immediate stressor of the music first as an entry point, would that feel like a helpful next step for us to explore together?
+
+patient: Yeah, starting with the music makes sense—it’s like a variable I can at least try to isolate. The restlessness it causes, the way my shoulders lock up when I hear it… it’s a tangible stressor. I guess I’m worried about digging too deep too fast, though. The loans are this… deeper layer I haven’t even mapped yet. But if we can tackle the music first, maybe it’ll create a ‘rendering pass’ for the bigger stuff. I’m just not used to prioritizing one problem over another. It’s hard to explain, but my mind keeps adding new layers to the model even when I’m trying to focus on one thing.
+
+interviewer: It sounds like you've been carrying a lot, Ryan—thank you for sharing so openly. Before we wrap up, can you tell me if there's anything specific you'd like to focus on as we move forward, or any questions you have about what we've discussed?
+
+patient: I think... the neighbor’s music at night is the clearest thing I can pin down right now. It’s like trying to fix a glitch in a model—if I can isolate that one variable, maybe the rest of the... tension eases a little. Not sure if that makes sense. My shoulders feel like they’re braced for an earthquake even when I’m asleep. But yeah, starting there might help. The loans are still background noise, though. Hard to say if they’re part of the same... blueprint or a separate layer.
+
+interviewer: That sounds like a meaningful starting point for you. Is there anything else you'd like to address before we wrap up today?
+
+patient: I guess... the loans are still there, like a draft in the house you can’t seal. But I don’t want to add another layer right now. Maybe once the music thing feels... resolved? I’ll brew a decent latte tonight, at least. My partner says I’m ‘a work in progress’—which is code for ‘stop snapping at the dishwasher.’ (small, dry chuckle) It’s all... render passes, you know? One fix at a time.
+
+interviewer: It sounds like prioritizing the neighbor’s music is a manageable starting point for you. Before we close, is there anything else you’d like to clarify or carry forward as next steps?
+
+patient: I think that’s it for now. If I can at least get a few nights of sleep without the bass rattling my teeth, maybe I’ll stop feeling like a spreadsheet with missing cells. The loans… I’ll circle back to them when I’m not still troubleshooting the neighbor’s playlist. (pauses, then softens with a small shrug) My partner says I’m ‘a work in progress’—which, yeah, as long as the progress isn’t just me re-brewing the same cup of coffee all week.
+
+interviewer: It sounds like focusing on the neighbor’s music is a practical next step for you. Before we close, is there anything else you’d like to clarify or carry forward as we move forward?
+
+patient: No, I think that’s it. If I can get a handle on the music—maybe talk to the neighbors, soundproof the walls, something—it’ll buy me space to... breathe. My partner says I’m ‘a work in progress’ again today. Guess I’ll add ‘acoustic engineer’ to my resume. (pauses, then quietly) The loans are still there, but... I’ll tackle them when the walls stop vibrating at 2 AM.
+
+interviewer: It sounds like you’ve got a clear plan to address the neighbor’s music first—let’s revisit the loans once that feels more manageable. Is there anything else I’ve missed that you’d like to carry forward before we close today?
+
+patient: No, I think that’s it... If I can get a few quiet nights, maybe my shoulders will stop feeling like they’re holding up a bridge. My partner says I’m ‘a work in progress’—again today. Guess I’ll just add ‘acoustic engineer’ to my to-do list. (pauses, softens) The loans are still... there. But one layer at a time.
+

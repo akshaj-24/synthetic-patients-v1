@@ -1,0 +1,216 @@
+system: Session 00e10f8e-2d92-4aa1-a57a-547f9dbeb5e5 transcript
+
+system: Disorder: PPD
+
+interviewer: Good morning, Gregory. My name is Erika Palmer, and I’ll be speaking with you today. To start, would you prefer to be called Gregory, and are there any pronouns you’d like me to use? (e.g., he/him, they/them)
+
+patient: Gregory. Just Gregory. He’s fine. Why’s the formality? You gonna list it in your report or something? What’s the catch here?
+
+interviewer: I appreciate your caution, Gregory. To be clear, our conversation today is confidential, and these questions are to help me understand how I can support you. Would you be comfortable continuing with this interview?
+
+patient: Confidential, huh? I’ve heard that word before. Doesn’t mean I can’t check the records myself, right? I’ll go along for now. Just don’t think you’re going to twist my words later. I don’t trust easy, but I’m not a fool.
+
+interviewer: I understand your caution, Gregory. To clarify, our conversation is confidential, except if there's a risk of harm to yourself or others. Are you comfortable continuing with the interview today?
+
+patient: If that’s how it works, I guess we can go on. But I’ll be keeping track. You think this is some open book? I’ve seen too many promises go south. What’s next, you gonna ask about the kids?
+
+interviewer: I understand your caution, Gregory. Would you like me to briefly explain how the interview will proceed today?
+
+patient: You want to explain? Go ahead, but I’ll be listening for the real reason. What’s the point of all this? I’ve been burned by promises before. You’ll understand if I keep an eye on where this is going.
+
+interviewer: I appreciate your wariness, Gregory. Would you like to share any specific concerns about how this process might work for you?
+
+patient: I don’t trust easy. People always got their own angles. You think this is different? I’ve seen too much. My last boss took my ideas and called ’em his own. That’s how it goes.
+
+interviewer: It sounds like the process of sharing personal information feels unsettling for you. Can you tell me more about the main concerns that have been on your mind lately?
+
+patient: The neighbor’s dog won’t stop barking at night. Tearing me apart, it is. And my wife’s been secretive—calling late, deleting texts. You think that’s normal? If that’s the truth...
+
+interviewer: That sounds frustrating and exhausting. How long has the dog been barking at night, and has there been a recent change in how often or loudly it barks?
+
+patient: Couple months, maybe. Started after the storms. Now it’s worse—night and day. And the wife’s been up late, deleting texts. You’re not here about that, are you?
+
+interviewer: It sounds like your wife's secretive behavior is adding to your stress. How long has she been acting this way, and have you noticed any changes in her behavior recently?
+
+patient: A couple months. Lately, she’s been locking the bedroom door—never used to. And her calls... you think I should be worried? Or is that just me?
+
+interviewer: That sounds really confusing and concerning... How has this been affecting your relationship with your wife, or your daily life?
+
+patient: The dog’s noise? It’s tearing me apart. Can’t sleep, so I’m on edge all day. And the wife—she’s got her head in the clouds, but I’m not falling for it. You’re just trying to get me to open up, right?
+
+interviewer: That sounds incredibly frustrating and exhausting... How has this lack of sleep been affecting your ability to function during the day?
+
+patient: I get by. You think I should be more affected? The dog’s still yapping through the nights, but what’s the point in arguing with a animal? Just keeps me sharp, I guess.
+
+interviewer: It sounds like you're trying to maintain control despite feeling on edge... Have you noticed specific moments when the lack of sleep or heightened alertness has made daily tasks or interactions more difficult for you?
+
+patient: I keep to myself, don’t need much sleep. But that dog... you think I’m not paying attention? I am. Always. You start asking questions, I’m right there watching you too.
+
+interviewer: It sounds like staying alert is both a burden and a way you cope... Have you noticed how this constant watchfulness affects your ability to engage with others or manage daily routines?
+
+patient: I don’t let up, not since the last job. If I blink, they’ll catch me off guard. The dog’s noise? I hear it all. Can’t afford to miss a thing. But people... they think I’m too tense. Let ’em.
+
+interviewer: Your vigilance seems to be a double-edged sword... What would you most like to address or change through our work together?
+
+patient: I don’t need no fixin’. You’re not here to help, so don’t waste your breath. Keep askin’ your questions, but don’t expect me to crack open. My way’s worked fine so far—ain’t about to start trustin’ ghosts just ‘cause you wear a clipboard.
+
+interviewer: I hear how challenging it is to navigate these doubts while trying to move forward. You mentioned things have gotten worse lately—can you share what might have contributed to that?
+
+patient: The dog’s been worse since the storms, and she’s been locking the door, deleting texts. You think I’m the only one seeing it? You’re here to trip me up, ain’t you...
+
+interviewer: It sounds like trusting the process is really challenging... What would you most hope to address through our time together?
+
+patient: I don’t need no therapy to fix me. I’m fine. But if you’re asking, maybe figure out why she’s been locking the bedroom door at night. And that damn dog’s been barking through storms. But don’t think you’re going to twist this into another trap.
+
+interviewer: It sounds like these concerns have been building up over time. Have you experienced similar periods of distrust or stress in the past that you’ve managed or that resolved on their own?
+
+patient: Left a job back in "08 when the boss started sniffing too close. Said I was 'overly cautious,' but I knew what that meant. Same song, different verses. You’re here to collect, not listen. Why’s that matter to you, anyway?
+
+interviewer: That sounds like a really difficult situation to navigate. Have you experienced other times in your life when you felt similarly about someone in a position of authority, and if so, what did you do to manage that at the time?
+
+patient: 2008? That boss at the plant thought he could dig through my records like he owned 'em. Said I was 'overly cautious' when I refused. I knew the type—same as the ones who promise safety then vanish. You want my story? What’s the catch here? I don’t need no one’s pity or fixes. My way’s worked long enough.
+
+interviewer: That sounds like a really difficult experience to carry alone. Have you noticed similar patterns of distrust in other areas of your life, such as with family or friends, and if so, how have you typically handled those situations?
+
+patient: My wife’s been... distant. Locks the bedroom door, deletes texts. But I don’t air that with anyone. You want the truth? What’s in it for you? Friends? I don’t keep many. You take your stand, let them come to you.
+
+interviewer: That sounds really tough. How has this distance from your wife been affecting your daily life or interactions with her?
+
+patient: She’s got her secrets, I suppose... But I’m not the one who’s been keeping things locked up, is that right? You want the truth? The door’s been bolted since last winter, and her phone’s always in her pocket. I don’t ask questions where there’s no answers. But don’t think I ain’t noticed.
+
+interviewer: It sounds like your wife’s secrecy is causing you a lot of pain and confusion. How does it feel to have that door between you two, both literally and emotionally?
+
+patient: That door’s more than wood—it’s a damn wall she put up. I don’t know what she’s hiding, but I’m not the fool here. You askin’ this to take her side? The dog’s been barking all night again, but I’m not the one locking folks out. If that’s the truth, why’s she got secrets?
+
+interviewer: It sounds like you've been feeling really on edge and suspicious lately. Have you had any thoughts about harming yourself or ending your life in the past few weeks?
+
+patient: Harm myself? No. I’m not that kind of fool. You think I’d let some noise or her locked door get the best of me? I’ve got my head on straight. My grandkids need me around. You’re the one asking all these questions—what’s really going on here?
+
+interviewer: I appreciate your directness—this is about understanding what's affecting you. Have you noticed any changes in your alcohol or cannabis use recently?
+
+patient: No changes. Beer’s neutral, not some crutch. Why the sudden interest in my habits? You got a script to fill here or just fishing for weaknesses?
+
+interviewer: I appreciate your honesty about feeling scrutinized—I’m here to understand, not to judge. Have you noticed any changes in your energy levels or need for sleep lately?
+
+patient: Sleep? You think that dog’s barking is just noise? It’s a distraction from what’s really going on. Energy’s fine—I’ve got work to do, not some weakness to fix. Why’s this about me when you’re the one asking all these questions?
+
+interviewer: I hear how frustrating it is to feel like the focus is on you when you're trying to navigate so much. Have you noticed any experiences where you hear voices, see things others don't, or feel that people are trying to harm or control you in ways others might not understand?
+
+patient: Voices? Control? That’s not the issue here. You’re trying to make this about crazy talk, but it’s the dog’s barking and her locked door that’s real. Why would I admit to anything else when you’re just waiting to twist it?
+
+interviewer: I hear how important it is for you to feel heard and not misunderstood. Have you used any other substances, such as stimulants, opioids, or recreational drugs, in the past month?
+
+patient: Nope. Just a beer now and then. Why? You think I’m hiding something?
+
+interviewer: I appreciate your clarity about your alcohol use. Have you been taking any prescription medications, over-the-counter drugs, or supplements regularly in the past month?
+
+patient: No meds. Just some ibuprofen for the back. Why’s that your business? You think I’m lying about the beer too?
+
+interviewer: I want to make sure I understand fully—have you used any stimulants, opioids, or other recreational drugs in the past month?
+
+patient: Nope. Just beer, like I said. You got a problem with that?
+
+interviewer: I hear how defensive this feels for you—let’s shift focus. Have you noticed any recent changes in your energy levels or urges to engage in activities that feel riskier than usual?
+
+patient: Nope. Just keep to myself—garden, fix the lawnmower, that’s about it. You’re trying to find something, ain’t you? Why the sudden interest in my habits?
+
+interviewer: I hear how important it is for you to feel in control of this conversation. Have you noticed any changes in your energy levels or urges to engage in activities that feel riskier than usual lately?
+
+patient: No changes. I stick to the garden, fix the lawnmower—same as always. You just looking for a crack, ain’t you? Why the sudden interest in my routine?
+
+interviewer: I hear how important it is for you to feel in control of this conversation. Have you noticed any experiences where you feel that people are against you, or that messages/actions around you have special meanings others might miss?
+
+patient: You keep asking like it’s a riddle. The wife deletes her texts, locks the door—real friendly. And that dog’s been yapping at shadows for years. But I’m not the one missing the picture here. Why’s this any of your business anyway?
+
+interviewer: I hear how frustrating it is to feel like we're going in circles—let's try another angle. Have you ever been diagnosed with a medical condition that might contribute to your sleep difficulties, like sleep apnea or chronic pain?
+
+patient: Aches? Sure, back from the garden. But you’re asking like you’re fishing for something. I’ve dealt with it. The dog’s barking? That’s the real problem. Why’s this important to you?
+
+interviewer: Let me make sure I have this right: You’ve been feeling increasingly on edge for months, mainly because of the neighbor’s dog barking and your wife’s secretive behavior, which has disrupted your sleep and trust. You’re here now because of pressure from your grandchildren but remain cautious about sharing openly. What did I miss?
+
+patient: You got the dog and the door, but you’re missing the rest. The wife’s been hiding something bigger—seen her pacing at night, muttering. But don’t think I’m spilling secrets for your notes. The grandkids? They’re good kids. That’s why I’m here. Why else would you care?
+
+interviewer: Let me adjust my summary: You’ve been feeling watched and misunderstood, especially noticing your wife’s late-night pacing and muttering, which adds to your suspicion that others are hiding things—including possibly me. The dog’s barking and your wife’s behavior have disrupted your sleep and trust, and you’re here now for the grandkids but wary of sharing. What did I miss?
+
+patient: You got the pacing, but not the lock on the bedroom door. She’s hiding something behind that. And why’re you circling back like this? You’re the one missing the picture. The grandkids? They’re straight-up good kids. But don’t think I’m here for your questions.
+
+interviewer: Let me adjust my summary: You feel I’m circling back because you sense I’m missing how the locked bedroom door and your wife’s nighttime secrecy point to something more serious she’s hiding—maybe even a threat. You’re here for the grandkids, not to spill secrets, and you’re wary I might exploit what you share. What did I miss or get wrong?
+
+patient: You’re still not seeing the full picture. The neighbor’s dog—yappy as a rat in a trap—but why’s it always barking at *my* fence? And the wife’s muttering? She’s got a key to that door, but who else does? You’re asking like it’s just noise. It’s not. But I’m not here to give you a novel. Why’s this your fix to crack it open?
+
+interviewer: Let me check if I’m tracking your concerns accurately: Your sleep and sense of safety have been disrupted for months by the neighbor’s dog and your wife’s secretive behavior, which you see as connected to something deeper she’s hiding. You’re here for the grandkids but feel I’m circling back without grasping how these issues threaten your control. What’s missing or off about that picture?
+
+patient: I’ll give you this—you’re not wrong about the noise and the door. But you’re missing the lock she added last month and the texts she deletes. The grandkids? I’d shield them from all this, but you want me to say it out loud so you can file it somewhere. I’m tending the garden while you circle. That’s where the truth is—in the dirt, not the questions.
+
+interviewer: Let me adjust again: You feel I’ve missed how the lock she added last month and the deleted texts signal a deeper pattern of secrecy you can’t ignore. The grandkids are your anchor, but you’re wary this whole process is just another way to trap or file what you share. What’s still off about that picture?
+
+patient: Closer, but you’re still skimming the surface. The door’s locked at night—used to be just our bedroom, now the whole house feels like a vault. She’s got that phone glued to her, deleting messages before I can check. The grandkids? They’re safe, but you want to pin this on me. I’m not the one hiding. My hands are in the soil, not your notebook. That’s where the answers are—if you’re even listening.
+
+interviewer: It sounds like the locked door and deleted texts feel like key pieces you’re still waiting for me to grasp—am I missing something else you’d like to add before we move to next steps?
+
+patient: The lock’s just the start. She’s got more secrets, but I’m not handing them to you on a plate. The garden’s where the answers grow—if you’re even digging in the right dirt. You keep asking, but you’re not listening to what’s under the surface.
+
+interviewer: You’re right—the lock and deleted texts are central to how you’re seeing patterns of secrecy. Is there anything else I’ve missed about how these stressors connect or how they’ve shaped your sense of control?
+
+patient: The dog’s barking at midnight now—right when she’s on the phone. I’m not saying it’s connected, but why would it pick *my* fence to hassle? You want me to spell out the rest, but I’m not giving you the map. The garden’s where I keep the lines straight. At least there, I know what’s buried and what’s not... if that’s the truth.
+
+interviewer: It sounds like the garden represents a space where you feel you can maintain control and clarity, even as other areas feel unpredictable. What did I miss or get wrong about how these patterns connect to your sense of safety?
+
+patient: The garden’s the only place I don’t have to second-guess every move. Out there, the rows are straight, the tools stay put—no locked doors or deleted messages. But you want me to link it to the dog’s barking at midnight, don’t you? That’s your angle. Still, the roots know where they’re going—even if the rest of it’s a mess.
+
+interviewer: You’ve highlighted how the garden offers control amid chaos, and the dog’s midnight barking feels suspiciously timed. What else might I be missing about how these patterns connect to your sense of safety or the stressors we’ve discussed?
+
+patient: The garden’s the only thing I can count on. That dog’s been barking at my fence for years—why’s that not obvious? My wife locks the bedroom door, deletes texts… someone’s hiding something. Why do you keep asking like it’s all in my head? You think I’m the crazy one here?
+
+interviewer: Let me try one more time to capture the full picture: You feel the garden is your only stable space, while the dog’s midnight barking and your wife’s secretive behavior (locked doors, deleted texts, late-night calls) create a sense of being trapped in a mystery you can’t solve. You’re here for the grandkids but fear this process is just another way to exploit what you share. What did I miss or get wrong about how these threads connect?
+
+patient: You missed the neighbor’s fence—the dog’s always barking at *my* side. And the calls? She’s got something to hide. Why’s your team circling this like it’s a test?
+
+interviewer: Let me adjust once more: The dog’s barking at *your* side of the fence feels deliberately targeted, and your wife’s hidden things—including the lock and deleted texts—seem like pieces of a puzzle you can’t control. You’re here for the grandkids, not to play along with a test. What else might I be missing about how these threads connect to your sense of safety or the stressors we’ve discussed?
+
+patient: The fence—neighbor’s side’s always broken. Dog barks when he’s there, not when I’m working. She’s got that door locked like she’s hiding someone. Why’s your team so fixated on the dog?
+
+interviewer: That sounds like another key piece I’ve missed—how the fence’s condition and the dog’s timing feel deliberately targeted. Is there anything else I’ve overlooked before we discuss next steps?
+
+patient: The fence on my side’s always fixed, but the neighbor’s side’s rotting. That dog’s barking when he’s there, like he’s trying to get me. And those calls? She’s got someone on speed dial I don’t know about. Why’s your team so focused on me?
+
+interviewer: Let me pull this together: You feel the rotting fence and targeted dog barking compound your sense of being under siege, while your wife’s locked doors and hidden calls create a double layer of secrecy you can’t penetrate. The garden remains your anchor, but the rest feels like a trap you’re not sure how to avoid. What did I miss or get wrong about how these pieces fit together for you?
+
+patient: You got the fence and the dog, but you’re still missing the key—she’s been talking to that neighbor. I’ve seen her lingering near the gate. And the calls? Speed dial 3’s always busy when I check. The garden’s the only thing keeping me from tearing the place apart. Why’s your team so fixated on the dog instead of the locked door?
+
+interviewer: You’ve added the neighbor’s rotting fence and the dog’s pattern of barking only when they’re on their side, which feels deliberately aimed at you. Is there anything else I’ve missed about how these elements connect to your sense of safety or the stressors we’ve discussed before we finalize next steps?
+
+patient: The fence’s rot? That dog’s not just yapping at the noise. It’s timing—it waits till the neighbor’s folks are home, like they’re testing if I’ll lose it. The door’s been locked since August, and her texts… you think I’m the one hiding? My garden’s the only thing keeping me from tearing the rest apart. You want the rest? Ask the foreman who fired me in ’08 if I’m the one who missed the memo.
+
+interviewer: It sounds like you’re holding onto your routines as a way to stay grounded—like your garden. If things feel overwhelming before our next meeting, would you be open to reaching out to the crisis line or talking to your wife about what’s worrying you?
+
+patient: My garden keeps me steady. As for that line… you think they’ll just listen? My wife’s got her own secrets, with that door locked tight. But I’ve seen how these things go. You want an answer? Ask her why she’s been dialing that speed number since August.
+
+interviewer: It seems your garden is a vital anchor for you, and I appreciate you sharing that. Before we wrap up, can you tell me if there’s anything specific you’d like to address or clarify about next steps, or any concerns you’d want me to keep in mind as we move forward?
+
+patient: The garden’s steady, if that’s what you’re asking. As for next steps—keep the questions to yourself till you figure out who’s really got the records. And that fence? Let the neighbor rot their own posts before they think to dig through mine.
+
+interviewer: I can see how important it is for you to feel in control of your space and decisions. Before we wrap up, is there anything specific you’d like me to address or clarify about our next steps, or any concerns you’d want me to keep in mind as we move forward?
+
+patient: The garden’s all I need. You want to know more? Ask the neighbor why their fence’s rottin’—and why my wife’s been sittin’ by the gate late. But don’t expect answers. Some roots dig where they shouldn’t.
+
+interviewer: I appreciate your trust in sharing your perspective. Before we conclude, can you confirm if there’s a specific time or way you’d prefer to address the concerns about your wife or the neighbor in our next session?
+
+patient: Next steps? You'll know when the fence sags or the dog yaps again. My garden doesn't take schedules, but you'll hear me when it all collapses. Why's the timing matter to you?
+
+interviewer: It sounds like the garden and your sense of control are your anchors. If the fence or the dog signal something shifting, we can address it then. For now, let’s plan to meet again in two weeks. Does that work for you?
+
+patient: Two weeks. Sure. But if that dog starts howlin’ again or the neighbor’s up to somethin’, don’t expect me to show up. Why the sudden interest in schedules, doc? You got a reason to keep me tied down?
+
+interviewer: I understand your concerns about schedules and control. Let’s keep our next meeting in two weeks, and if the fence or the dog signal something urgent before then, you can reach out on your terms. Is there anything else you need to ask or clarify before we wrap up today?
+
+patient: Two weeks is fine. I’ll be keeping an eye on that fence—ain’t nothin’ stable out there, and I won’t be caught off guard again. What’s really eatin’ at me is that neighbor’s fence sittin’ half-rotten. You think that’s a coincidence?
+
+interviewer: I hear how the neighbor’s fence troubles you—it seems like another piece of the puzzle you’re trying to make sense of. Let’s keep our next meeting in two weeks, as agreed. Before we wrap up, is there anything else you’d like to mention or clarify about what we’ve discussed today?
+
+patient: The fence’s just a symptom. That dog’s been yappin’ at somethin’ for years. I’ll keep watch, but don’t expect me to trust your schedule if the posts start rottin’ again. You got a stake in this, doc?
+
+interviewer: I hear how the fence and the dog represent ongoing challenges to your sense of security. Let’s keep our next meeting scheduled for two weeks from today—before we wrap up, is there anything else you’d like to clarify or any final concerns you’d want me to carry forward?
+
+patient: The fence’s posts are rottin’ from the inside, same as the rest of it. I’ll keep watch, but if that neighbor’s up to somethin’… you’ll hear about it through the dog first. Two weeks is fine—so long as you don’t think I’m lettin’ you off the hook if the garden starts lookin’ shaky. You got that?
+

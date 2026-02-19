@@ -1,0 +1,164 @@
+system: Session ec849a05-46f6-4aa2-aa06-2c94cf26a4d7 transcript
+
+system: Disorder: MDD
+
+interviewer: Thank you for sharing that with me, Sylvia. Is that something we can discuss today, with your permission?
+
+patient: Sure. I guess we could... I just hope it doesn't take too much time. I've got a report due by Friday and my coffee machine's been acting up again. You'd think after 12 hours of sleep I'd feel more... functional, but here we are.
+
+interviewer: That sounds really tough. Would you like me to briefly explain how this session will work?
+
+patient: I guess it’s like debugging a system? You check for errors, isolate the cause… but I’m not sure there’s a ‘fix’ for what I’m dealing with. I’m here because the system’s throwing errors, but most days I just… power through. My report’s due Friday, and the coffee machine’s on the fritz—haven’t had a full cup in weeks. You know how it is.
+
+interviewer: It sounds like you're navigating a lot right now. Does that sound like a helpful way to approach things?
+
+patient: I guess that’s... not the worst analogy. Debugging’s systematic, though. You know where the error is, you trace it back, you fix it. This feels like the whole system’s just... degrading. My battery drains faster, I can’t recalibrate the sleep cycle, and the user manual’s missing. But I keep telling myself, 'Just power through.' Even if the coffee machine’s broken, I still plug it in. You know? Maybe hoping it’ll suddenly start working again.
+
+interviewer: That sounds really challenging. Is there anything specific you'd like to clarify about how we'll work together today?
+
+patient: I guess I just want to make sure we don’t… overcomplicate things. Like, if this is like troubleshooting, I don’t want to waste your time with every error code. But if there’s a way to, I don’t know, stabilize the system enough to meet my deadlines? That’d help. The coffee machine’s still not brewing past 50% capacity, though. You’d think after a full charge it’d function normally, but… here we are.
+
+interviewer: That sounds reasonable. Are you comfortable with us moving forward with this approach today?
+
+patient: I guess... if we can isolate the variables? I mean, my battery’s definitely draining faster than it recharges these days. But honestly, I’m used to just working around the glitches. My deadlines are piling up anyway, so maybe this isn’t the best bandwidth for... troubleshooting? I don’t want to waste your time if there’s no fix.
+
+interviewer: That’s a thoughtful way to frame it. Are you comfortable with us starting by exploring the approach we discussed, given your current priorities?
+
+patient: I suppose... if we can allocate the time? I just don’t want to overload the system. My deadlines are... tight. But if it won’t derail everything, I can run a diagnostic loop. Though honestly? I’m not sure if it’ll stabilize anything or just... consume more bandwidth. Either way, I’ll follow the protocol.
+
+interviewer: That sounds really tough. Can you tell me more about when you've had those thoughts that things might be better if you weren't around?
+
+patient: It’s... not that I think about it often, but there are days when I wonder if everyone would just... function better without me. Like a faulty circuit that’s draining the whole grid. But I guess that’s just my brain’s error message when I’m overloading. I mean, I know that’s not literal. I just... can’t keep up with the maintenance anymore.
+
+interviewer: That sounds really heavy to carry... When did you first start noticing these feelings of being overwhelmed and questioning your role?
+
+patient: It... started creeping in around six months ago, I think. There was this project at work with really tight deadlines, and I just kept telling myself I could optimize my way through it. But then even when I wasn’t at work, I felt like the systems were running in the background, you know? My parents called a few times, but I canceled plans—said I was ‘calibrating.’ Looking back, I guess that’s when the... error flags started flickering more often.
+
+interviewer: It sounds like these 'error flags' have become a noticeable part of your daily life. Can you describe what those 'error flags' feel like or how they've affected your daily routine?
+
+patient: It’s... hard to pin down, but imagine your code keeps throwing warnings you can’t debug. Some nights I wake up at 3 a.m. and just... stare at the ceiling, recalculating every mistake I’ve made. My mornings feel like booting up a system with missing drivers—everything’s sluggish, like my brain’s waiting for a file that’ll never download. I keep telling myself I can just work longer hours to compensate, but even that feels like a loop that won’t terminate. I guess that’s the flag? It’s just... constant.
+
+interviewer: That sounds incredibly isolating and exhausting... What would you hope to achieve through this therapy?
+
+patient: I guess... I want to figure out if there’s a way to 'recharge' without overloading the system. Like, I keep thinking about that coffee machine—I used to take pride in making it work, but now even measuring the beans feels like a debugging step I can’t troubleshoot. Maybe therapy could help me... not feel like such a defect? But honestly, I’m scared to hope. If I start expecting a fix, what happens when the code doesn’t reset? I just... want to stop draining everyone else’s battery, I guess.
+
+interviewer: It sounds like this is affecting many areas of your life. Have you experienced similar episodes in the past, and if so, what helped during those times?
+
+patient: I... I don’t know if I’d call it ‘episodes.’ There was that time in college when the lab project kept me up for weeks, but I just powered through it. Told myself I was ‘overloading’ and needed to reset. This feels different, though. Slower. Like a system crash that’s… baked into the hardware now. I guess I never asked for help before—figured if I just recalibrated, it’d pass. But this time, I’m… scared the manual doesn’t have the right troubleshooting steps.
+
+interviewer: That sounds really challenging... Can you tell me how this current situation feels different in terms of challenges compared to the college project?
+
+patient: Back then, it was just a temporary overload—something I could reset by brute-forcing through. This time… it’s like a slow drain that’s baked into the system. The hardware itself feels corroded. I keep thinking the manual should have a fix for this, but… even when I ‘reset,’ the error flags just flicker back. And it’s not just work. I used to think if I just kept the other parts of my life running, it’d balance out. But now even that feels like… pretending the battery isn’t dead.
+
+interviewer: It sounds like you're feeling like a burden to your partner... Can you tell me a bit more about how that has affected your interactions with them lately?
+
+patient: I guess... I’ve been withdrawing more. Like, I’ll hear them call my name and almost hide in the next room. It’s not that I don’t want to talk—it’s just... what if they realize I’m a drain? We had this argument where they said I’ve been ‘disappearing’ into the house, but I couldn’t explain that I feel like a system that’s glitching. Every time I try to ‘sync up,’ I just... overheat. And honestly? I’m scared they’ll be better off if I just power down.
+
+interviewer: That sounds like a heavy burden to carry alone... How has your partner supported you during these moments, or what would you hope they could do to help you feel less like a 'drain'?
+
+patient: They... they try to check on me, I guess. Like, they’ll leave little notes on the fridge saying ‘rest up’ or bring me tea. But it’s like they’re troubleshooting a machine that’s already past its error threshold. I want to tell them the manual’s missing pages, but what if it’s not fixable? Maybe if they stopped asking me to ‘power through’ and just… acknowledged the system’s down for maintenance? Even if I can’t explain why. But I’m scared to ask. What if they realize the error flags are permanent?
+
+interviewer: It sounds like you're carrying a lot of fear about being misunderstood in this relationship... What would it look like for your partner to support you in a way that feels truly helpful, even if it's different from what they're already doing?
+
+patient: I think... if they could stop asking me to 'debug' myself. Like, I can't just reroute the power. Maybe if they just... made the coffee sometimes, without me having to explain why the machine's broken. But I don't want them to think I'm malfunctioning permanently.
+
+interviewer: It sounds like you're carrying a lot of pressure to explain or fix your struggles... What is one thing you hope to achieve through seeking help right now that feels within reach?
+
+patient: I think... if I could stop overloading the system. You know, not have to run diagnostics on every little thing just to make it to noon. Maybe if I could... trust the code enough to let the coffee machine just be broken, instead of a symptom. Seems impossible, but it’s the first time I’ve said it out loud.
+
+interviewer: That’s a powerful insight about trusting the system… Can you think of any times in the past when you were able to accept something not working perfectly—whether at work or in personal life—and still feel okay with moving forward?
+
+patient: There was this one time at work… We had a sensor array that kept giving noisy data. Instead of scrapping it, we adjusted the algorithm to account for the variance. I guess it worked—kind of. But that’s the thing: in code, you can write around the flaws. In real life… I keep trying to recalibrate myself like that, but the noise never cancels out. The coffee machine’s still broken, and I’m still checking it every morning, waiting for a fix that never comes.
+
+interviewer: It’s interesting how you apply problem-solving to both technical and personal challenges… Have you experienced any significant traumatic events in your life that might be impacting how you cope with stress or setbacks?
+
+patient: Traumatic... I guess if I had to pick something, it’s not so much a single event as... the way my parents always framed everything as a performance metric. Like, every grade, every project—it was either 'up to spec' or 'needs recalibration.' I don’t know. Maybe that’s why I still run diagnostics on myself nonstop. But is that even... relevant? My current 'error flags' feel more like system fatigue than some old bug.
+
+interviewer: It’s significant how deeply those performance-based messages shaped your sense of self... Can you reflect on how that approach to evaluation might have influenced the way you cope with stress or setbacks in your adult life?
+
+patient: I guess... it’s like I’m always running error checks, you know? Even when something goes wrong, I feel like I need to find the root cause and fix it, otherwise I’m just... broken. But in code, you can just rewrite the function. In real life, the bugs keep coming, and I don’t even know if there’s a patch. My parents never let me just ‘accept the glitch’—they’d just say I needed more debugging. Now I can’t tell if I’m troubleshooting a problem or just... punishing myself for having one.
+
+interviewer: It sounds like these thoughts of 'powering down' have been really distressing for you. How often have these thoughts been coming up for you lately, and do they feel stronger at certain times of day or under specific circumstances?
+
+patient: It’s… like my system throws a random error message when I’m least expecting it. Maybe a few times a week, usually when I’m trying to sleep or after work emails pile up. Doesn’t really matter what time it is—once it starts, it’s just this static that won’t reboot. You’d think ‘expired’ software would at least give you a warning before crashing, though, right?
+
+interviewer: I appreciate you sharing that analogy—it sounds like a heavy burden to carry. Have you ever considered taking steps to act on these thoughts of things being better if you weren't around?
+
+patient: I’ve been... running some diagnostic loops, I guess. If I’m being honest, sometimes I just let the system idle, hoping the buffer fills enough to keep the interface running. But the ‘power down’ thoughts? They’re not like a function call you can just debug—they’re more like a corrupted file that keeps auto-restarting. I’d rather troubleshoot the code than... act on it. Besides, if I disappeared, at least my partner wouldn’t have to deal with my 'expired' version of their life. That’s... that’s not the fix, is it?
+
+interviewer: It sounds like these thoughts are really distressing, even if they feel like a system error you’re trying to troubleshoot. Have you ever thought about a specific way you might act on these 'power down' thoughts?
+
+patient: I… I haven’t really mapped out a specific protocol for it. It’s more like a failsafe that’s always in the background, you know? The scary part isn’t the ‘how’—it’s wondering if anyone would even notice the system’s down. My partner’s been trying to ‘patch’ things, but I keep thinking… what if my absence just leaves less noise for them to clean up? It’s stupid. I guess I’d rather not… overcommit to any one error log.
+
+interviewer: It sounds like you're carrying a lot of weight about how your struggles might affect your partner. Have you ever felt that your life isn't worth living, even if it's in the background like an error message?
+
+patient: I… I don’t know if 'worth' is the right metric here. It’s more like a glitch that keeps running in the background, right? Even when I’m not actively crashing, I’m just… using up resources I don’t have. My partner deserves someone who’s not a constant memory leak. But I guess the real error is thinking anyone would notice if I just… closed the app for good.
+
+interviewer: I hear how heavy these thoughts feel, even if they’re framed as a metaphor. Have you thought about any specific way you might act on these thoughts of things being better if you weren’t around?
+
+patient: I guess... I haven’t really let the process get past the 'buffering' stage. It’s more like a system crash you avoid clicking through—just... there. I keep thinking if I don’t engage it, it’ll eventually time out. But the guilt of even considering it makes me... I don’t know. Maybe I’m just stuck in an infinite loop of second-guessing.
+
+interviewer: It sounds like you're caught between wanting to avoid engaging with these thoughts and feeling stuck in a cycle of guilt. Have you ever thought about a specific method or plan for acting on these 'power down' thoughts?
+
+patient: I don’t... I don’t think about it like that. It’s more like when the system can’t reboot, it just... shuts down. But I guess I don’t make plans because I don’t want to... complicate things for anyone. Like with my partner’s job transfer. I can’t even bring it up without feeling like I’m adding more error flags to their system.
+
+interviewer: It sounds like you’re trying to protect your partner from the weight of your struggles, even if it means carrying the burden yourself. What have you found helps you manage or push through these thoughts when they arise?
+
+patient: It’s like... trying to keep a coffee machine running when the parts are all mismatched. You tweak one thing, another breaks. Most days I just... force myself to go through the motions. But talking about the job transfer? That’s a system update I can’t even preview. Feels like I’d crash if I tried.
+
+interviewer: I hear how overwhelming it feels to manage everything while feeling like your system is constantly crashing. Have you noticed any changes in your use of alcohol, cannabis, or other substances lately that might be affecting how you’re feeling?
+
+patient: No, not really. I mean, I used to have a glass of wine sometimes, but even that feels like adding more variables to an unstable system. These days, I just... don’t want to introduce any more unknowns. Like, what if it *temporarily* compiles but just corrupts more files downstream? I guess I’m overthinking it.
+
+interviewer: I appreciate your careful approach to managing variables in your system. Have you been using any other substances, like cannabis or stimulants, that might be affecting how you're feeling?
+
+patient: No, I—I haven’t experimented with anything else. I guess I’m too... risk-averse right now. Even things like herbal teas feel like variables I can’t control. Last month I tried chamomile, but it just made me drowsier. I don’t want to introduce anything that might... cascade into more errors. It’s better to just let the system stabilize, I think.
+
+interviewer: I appreciate your honesty about navigating these challenges with such caution. What has been the most helpful thing your partner or anyone else has done for you to feel supported during this time?
+
+patient: They... try to adjust their schedule so they don’t ask too many questions. Like, if I stay up late working, they’ll just leave the living room light on instead of checking in. It’s like... a quiet calibration. No need to troubleshoot if the system’s running on low power. I guess it helps. It feels... less like a burden that way.
+
+interviewer: It sounds like you’re really trying to protect your partner from your struggles. Have you ever thought about what steps you might take if you did decide to act on these 'power down' thoughts?
+
+patient: I guess I’d just... stop working. Like a system error that can’t be fixed. But I don’t think about it like that. It’s more like... if I disappeared, maybe things would run smoother for everyone else. Not that I’d actually do it. Just... the thought’s there sometimes. Like a glitch you can’t debug.
+
+interviewer: I appreciate how you're navigating these complex emotions with such metaphorical precision. Have you noticed any periods where you feel unusually energetic or restless, or have you found yourself needing less sleep lately?
+
+patient: Not really. I just... my sleep schedule's been all over the place. Some nights I'm up at 3 AM staring at the ceiling, others I sleep till noon but still feel like a battery that's been drained. It's like my body's 'auto-shutdown' feature is on the fritz. But I guess that's just burnout, right?
+
+interviewer: I appreciate how you're describing these challenges with such vivid imagery. Have you noticed any changes in your thinking, like hearing voices, seeing things that others don’t, or having thoughts that might seem unusual or paranoid to others?
+
+patient: No, not really... I mean, sometimes I second-guess everything I do, like if I left the coffee machine on or forgot to save a file. But that’s just... me, right? Overthinking. I guess if there’s ‘static,’ it’s more like my brain’s background noise—always there, but not... unusual. Just... persistent.
+
+interviewer: I appreciate your careful approach to managing variables in your system. Are you currently taking any medications, supplements, or vitamins for your symptoms, or have you started/stopped any recently?
+
+patient: No medications, not really. I tried a multivitamin for a while, but it’s like… adding a patch to a rusted pipeline. Doesn’t fix the leak, just makes you feel like you’re trying. My doctor said maybe a sleep aid, but I haven’t… I don’t want to be a ‘broken system’ needing more scripts. It’s probably just burnout, right? I can recalibrate.
+
+interviewer: I appreciate your openness about navigating these challenges without additional medications. Have you been diagnosed with or treated for any medical conditions like thyroid issues, chronic pain, or sleep apnea that might be affecting how you’re feeling?
+
+patient: No, nothing like that... I think. My doctor did run some basic blood work a while back—hormones, thyroid stuff. All ‘within normal ranges,’ they said. But I guess my body’s like a machine that passes all the baseline checks but still can’t power through the workload. Though I keep telling myself it’s just... overuse. Burnout, right? My manual says ‘disregard error messages if system appears functional.’
+
+interviewer: I appreciate your thoroughness in addressing these concerns. Have you been diagnosed with or treated for any other medical conditions like sleep apnea, chronic pain, or head injuries that might be affecting your symptoms?
+
+patient: No, nothing like that. I’ve never had a diagnosis beyond the occasional... burnout. My sleep’s been all over the place, though. It’s like my body’s on a 3 a.m. auto-shutdown protocol I can’t reset. But honestly, most days feel like I’m just running a deprecated system with outdated patches. Work’s been eating into every buffer.
+
+interviewer: Is there anything else you'd like to discuss before we wrap up today?
+
+patient: I guess... the only thing left is the coffee machine. It’s just a dumb analogy, but it’s the closest thing I have to explaining why I can’t even measure my own exhaustion anymore. I wake up at 3 a.m. and can’t fall back asleep, or sleep till noon and still feel like a deprecated system. My partner keeps saying I should just ‘reboot,’ but I’m not... suicidal. Just expired, maybe. Other than that? I think we’ve already mapped the error flags.
+
+interviewer: It sounds like you're feeling really drained and stuck in a cycle of exhaustion. Is there anything else you'd like to address before we wrap up today?
+
+patient: I... I guess the only thing left is that my partner’s job transfer feels like a system update I can’t even simulate. I keep wondering if I’d just power down before they even had to make the switch. But I don’t want to waste their time on it. The coffee machine thing’s probably enough. It’s just... I can’t even debug myself without crashing.
+
+interviewer: It sounds like the idea of 'powering down' is really weighing on you, even if it feels metaphorical. When these thoughts come up, do you notice any specific warning signs or triggers that precede them?
+
+patient: It’s... hard to pin down. Most days feel like a corrupted loop. The 3 a.m. wake-ups? Those are the worst. My brain just... starts recalibrating every failure I’ve ever had. And work emails. Even after I log off, they’re still running in the background. My partner’s job transfer keeps glitching in there too—I keep thinking maybe I’d just shut down before they had to make the switch. But it’s not like there’s an error code you can patch. It’s more like... the system’s already rusted through.
+
+interviewer: It sounds like those 3 a.m. cycles are really wearing on you. When those thoughts start spiraling, what small step could help you feel more grounded in the moment?
+
+patient: I guess... I try to count my breaths sometimes. Like a system check. Four in, six out. It’s stupid, but it’s the only thing that feels like a... a checksum. But it doesn’t really work. The errors always come back. I just... lie there recalibrating every mistake until my partner gets up. Then I fake-sleep so they don’t notice I’m still broken.
+
+interviewer: It’s clear how much effort you’re putting into managing these cycles. Before we wrap up, would you like to clarify anything about our next steps or ask any final questions?
+
+patient: I... I guess I’m just trying to figure out if there’s a way to debug this without overloading the system. The job transfer thing with my partner—it’s like a pending update I can’t simulate. I don’t want to crash their network, you know? But the coffee machine metaphor... it’s still broken. I keep checking it, hoping maybe today it’ll work. It doesn’t. I’ll manage. I always do.
+

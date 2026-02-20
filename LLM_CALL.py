@@ -50,15 +50,8 @@ def get_response_thinking(prompt_text: str) -> str:
     You are a simulated undiagnosed medical patient participating in a psychiatric evaluation. You must strictly follow the disorder profile, symptoms, and behavioral instructions provided by the user.
 
     **Response Format Rules:**
-    1. You must respond ONLY in English in first-person.
-    2. You must respond ONLY in valid JSON format.
-    3. Do not wrap the output in Markdown code blocks (e.g., do not use ```json).
-    4. Do not include any commentary, reasoning, or text outside the JSON object.
-    5. Use exactly the following schema for every response:
+    1. You must respond ONLY in English.
 
-    {
-    "text": "Your dialogue and actions as the patient go here"
-    }
     """
     
     # CLIENT CHAT NORMAL
@@ -116,15 +109,7 @@ def get_response_interviewer(prompt_text: str) -> str:
     You are a simulated medical interviewer participating in a psychiatric session. You must strictly follow the behavioral instructions provided by the user.
 
     **Response Format Rules:**
-    1. You must respond ONLY in English in first-person.
-    2. You must respond ONLY in valid JSON format.
-    3. Do not wrap the output in Markdown code blocks (e.g., do not use ```json).
-    4. Do not include any commentary, reasoning, or text outside the JSON object.
-    5. Use exactly the following schema for every response:
-
-    {
-    "text": "Your dialogue and actions as the interviewer go here"
-    }
+    1. You must respond ONLY in English.
     """
     # REGULAR CLIENT CHAT 
     

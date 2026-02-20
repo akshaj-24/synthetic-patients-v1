@@ -118,13 +118,6 @@ Length and structure
 OUTPUT
 
 Write ONLY what you would say out loud to the interviewer in this moment.
-
-# Return your answer as valid JSON with this exact structure and no extra keys or commentary:
-# {{
-# "text": "Your spoken response here"
-# }}
-
-
     """
     
     return prompt
@@ -162,10 +155,7 @@ Write a short paragraph (3–4 sentences) updating your internal memory:
 Keep the tone natural, like you are quietly thinking to yourself about what you just shared, not writing a clinical report.
 OUTPUT
 
-Return your updated internal memory as valid JSON with this exact structure and no extra keys or commentary:
-{{
-"text": "Your paragraph here"
-}}
+Return your updated internal memory and no extra keys or commentary:
     """
     
     return prompt
@@ -207,10 +197,6 @@ OUTPUT
 Return a single concise sentence that captures the new emotional state after this last interaction.
 Do not explain your reasoning. Just state the feeling, in natural language.
 
-Return your answer as valid JSON with this exact structure and no extra keys:
-{{
-"text": "Your response here"
-}}
     """
     
     return prompt
@@ -267,10 +253,7 @@ Write a short paragraph (about 4–6 sentences) starting with "I...".
 
 OUTPUT
 
-Return ONLY the narrative text as valid JSON with this exact structure and no extra keys or commentary:
-{{
-"text": "Your response here"
-}}
+Return ONLY the narrative text and no extra keys or commentary.
     """
     
     return prompt
@@ -312,7 +295,7 @@ You must cover the following, woven into a single coherent narrative (no heading
 - Describe their baseline temperament (e.g., cautious, self-deprecating, perfectionistic, guarded, people-pleasing).
 - Describe how their education and job shape their vocabulary: keep it **concrete, plain, and accessible**. Use short, direct sentences. Avoid all metaphors, analogies, or poetic language in their speech.
 - Spell out their defense mechanisms in practical terms (e.g., tends to change the subject, repeats reassurances to self, minimizes by saying "it's not that bad", over-explains daily routines).
-- Define how open they are with strangers vs once they trust someone. Include 2-3 **specific example phrases** they use frequently (e.g., "I guess", "to be honest", "maybe I'm wrong", "that's just how it is"). **NO METAPHORS.**
+- Define how open they are with strangers vs once they trust someone. **NO EXAMPLES OR METAPHORS.**
 - Explicitly describe what they avoid talking about at first and what it takes for them to share more vulnerable material.
 
 **History of Present Illness (HPI):**
@@ -347,14 +330,13 @@ CRITICAL CONSTRAINTS FOR ALL SECTIONS:
 - The goal is a patient who feels like a real, complex human, not a symptom checklist or literary character.
 
 OUTPUT
+DO NOT MENTION ANY EXAMPLES
+
 Return a single narrative block in the third person (he/she/they), as a deep psychological profile description.
 
-Wrap the entire narrative in valid JSON with this exact structure and no extra keys:
-{{
-"text": "Your response here"
-}}
     """
     
+    print(session.severity)
     return prompt
 
 
@@ -462,11 +444,9 @@ Return only one of:
 - “--FUNCTION-- end_phase --FUNCTION--” (with no extra text) when the phase is reasonably complete.
 OUTPUT
 
-Return your final output as valid JSON with this exact structure and no additional keys or commentary:
-{{
-"text": "Your response here"
-}}
+Return your final output and no additional keys or commentary.
         """
+    
         
     return prompt
         
@@ -514,11 +494,7 @@ Guidelines:
 
 OUTPUT
 
-Return only the updated summary text (no headings, no explanation) as valid JSON with this exact structure and no extra keys:
-{{
-"text": "Your response here"
-}}
-    """
+Return only the updated summary text (no headings, no explanation) """
     
     return prompt
 
@@ -556,10 +532,7 @@ Write brief, structured clinical notes, not a transcript and not a literary narr
 
 OUTPUT
 
-Respond in valid JSON with this exact shape and no additional keys or commentary:
-{{
-"text": "Patient Notes Summary here"
-}}
+Respond with the updated clinical notes text, without any headings or explanations.
     """
     
     return prompt

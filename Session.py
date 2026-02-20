@@ -74,10 +74,6 @@ class Session:
         self.patient_data["Disorder"] = disorder
         
     def create_profile(self):
-        LLM_CALL.OPTIONS["temperature"] = 1.0
-        self.patient_data["Intake"] = LLM_CALL.get_response_thinking(PROMPT.patient_intake_form_prompt(self))
-        self.patient_data["Vignette"] = LLM_CALL.get_response_thinking(PROMPT.patient_vignette_prompt(self))
-        LLM_CALL.OPTIONS["temperature"] = 0.7
         
         # self.severity = random.choice([mild, moderate, severe])
         self.severity_instruction = random.choice([mild, moderate])
@@ -86,6 +82,14 @@ class Session:
         elif self.severity_instruction == moderate:
             self.severity = "Moderate"
         self.patient_data["Severity"] = self.severity
+        
+        
+        LLM_CALL.OPTIONS["temperature"] = 1.0
+        self.patient_data["Intake"] = LLM_CALL.get_response_thinking(PROMPT.patient_intake_form_prompt(self))
+        self.patient_data["Vignette"] = LLM_CALL.get_response_thinking(PROMPT.patient_vignette_prompt(self))
+        LLM_CALL.OPTIONS["temperature"] = 0.7
+        
+        print(self.severity)
 
     def generate_text_file(self):
             txt_path = f"transcripts/txt/{self.session_id}.txt"

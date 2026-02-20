@@ -1,8 +1,15 @@
 import ollama
 import re
 import json
+from langfuse.openai import OpenAI
+import os
+
+os.environ["LANGFUSE_PUBLIC_KEY"] = "pk-lf-e0c6f210-0223-42b4-a70c-b6e2cd0691cc"
+os.environ["LANGFUSE_SECRET_KEY"] = "sk-lf-88cd8bde-15ca-4176-a3f4-bcc6464554ef"
+os.environ["LANGFUSE_BASE_URL"] = "http://localhost:3000"
 
 BASE_URL = "http://localhost:11434"
+LANGFUSE = "http://localhost:11434/v1"
 MODEL = "qwen3:32b"
 OPTIONS = {
     "temperature": 0.7,
@@ -12,10 +19,13 @@ OPTIONS = {
 INT_OPTIONS = {
     "temperature": 0.3,
     "stop": ["}"],
-    "num_ctx": 13388,
+    "num_ctx": 13288,
 }
 # top_p = 0.9
 # top_k = 40
+
+langfuse_client = OpenAI(base_url=LANGFUSE, api_key='ollama')
+langfuse_interviewer_client = OpenAI(base_url=LANGFUSE, api_key='ollama')
 
 model = ollama.Client(host='http://localhost:11434')
 
@@ -51,32 +61,54 @@ def get_response_thinking(prompt_text: str) -> str:
     }
     """
     
-    resp = model.chat(
-        model=MODEL,
-        messages=[
+    # CLIENT CHAT NORMAL
+    
+    # resp = model.chat(
+    #     model=MODEL,
+    #     messages=[
+    #         {"role": "system", "content": system},
+    #         {"role": "user", "content": prompt_text}
+    #     ],
+    #     #format=schema,
+    #     stream=False,
+    #     options=OPTIONS,
+    # )
+    
+    # get_tokens(resp)
+    # raw = resp["message"]["content"] + "}"
+    
+    # try:
+    #     data = extract_first_json(raw)
+    #     content = data["text"]
+    # except Exception as e:
+    #     print("Recursive call\n\n")
+    #     print(f"Raw {raw} \n\n")
+    #     print(f"Error {e} \n\n")
+    #     print("---------------------------------------------------------------------------------------------------------------------------\n\n")
+    #     return get_response_thinking(prompt_text)    
+    
+    # print(f"PATIENT: {content}\n")
+    # return content
+    
+    # LANGFUSE TRACING CALL
+    
+    resp = langfuse_client.chat.completions.create(
+        model = MODEL,
+        messages = [
             {"role": "system", "content": system},
             {"role": "user", "content": prompt_text}
         ],
-        #format=schema,
-        stream=False,
-        options=OPTIONS,
+        temperature= OPTIONS["temperature"],
+        max_tokens = OPTIONS["num_ctx"],
     )
     
-    get_tokens(resp)
-    raw = resp["message"]["content"] + "}"
+    all = resp.choices[0].message.content
+    match = re.search(r'</think>(.*)', all, re.DOTALL)
+    result = match.group(1).strip() if match else all
     
-    try:
-        data = extract_first_json(raw)
-        content = data["text"]
-    except Exception as e:
-        print("Recursive call\n\n")
-        print(f"Raw {raw} \n\n")
-        print(f"Error {e} \n\n")
-        print("---------------------------------------------------------------------------------------------------------------------------\n\n")
-        return get_response_thinking(prompt_text)    
+    print(f"PATIENT MODEL: {result}\n")
     
-    print(f"PATIENT: {content}\n")
-    return content
+    return result
 
 def get_response_interviewer(prompt_text: str) -> str:
     
@@ -94,30 +126,52 @@ def get_response_interviewer(prompt_text: str) -> str:
     "text": "Your dialogue and actions as the interviewer go here"
     }
     """
+    # REGULAR CLIENT CHAT 
     
-    resp = model.chat(
-        model=MODEL,
-        messages=[
+    # resp = model.chat(
+    #     model=MODEL,
+    #     messages=[
+    #         {"role": "system", "content": system},
+    #         {"role": "user", "content": prompt_text}
+    #     ],
+    #     #format=schema,
+    #     stream=False,
+    #     options=OPTIONS,
+    # )
+    
+    # get_tokens(resp)
+    # raw = resp["message"]["content"] + "}"
+    
+    # try:
+    #     data = extract_first_json(raw)
+    #     content = data["text"]
+    # except Exception as e:
+    #     print("Recursive call\n\n")
+    #     print(f"Raw {raw} \n\n")
+    #     print(f"Error {e} \n\n")
+    #     print("---------------------------------------------------------------------------------------------------------------------------\n\n")
+    #     return get_response_thinking(prompt_text)    
+    
+    # print(f"INTERVIEWER: {content}\n")
+    # return content
+    
+    
+    # LANGFUSE TRACING CALL
+    
+    resp = langfuse_interviewer_client.chat.completions.create(
+        model = MODEL,
+        messages = [
             {"role": "system", "content": system},
             {"role": "user", "content": prompt_text}
         ],
-        #format=schema,
-        stream=False,
-        options=OPTIONS,
+        temperature= OPTIONS["temperature"],
+        max_tokens= OPTIONS["num_ctx"],
     )
     
-    get_tokens(resp)
-    raw = resp["message"]["content"] + "}"
+    all = resp.choices[0].message.content
+    match = re.search(r'</think>(.*)', all, re.DOTALL)
+    result = match.group(1).strip() if match else all
     
-    try:
-        data = extract_first_json(raw)
-        content = data["text"]
-    except Exception as e:
-        print("Recursive call\n\n")
-        print(f"Raw {raw} \n\n")
-        print(f"Error {e} \n\n")
-        print("---------------------------------------------------------------------------------------------------------------------------\n\n")
-        return get_response_thinking(prompt_text)    
+    print(f"PATIENT MODEL: {result}\n")
     
-    print(f"INTERVIEWER: {content}\n")
-    return content
+    return result

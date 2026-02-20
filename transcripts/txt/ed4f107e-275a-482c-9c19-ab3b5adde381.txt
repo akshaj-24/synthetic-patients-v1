@@ -1,0 +1,120 @@
+system: Session ed4f107e-275a-482c-9c19-ab3b5adde381 transcript
+
+system: Disorder: MDD
+
+interviewer: Hello how are you?
+
+patient: I'm... I'm managing, I guess. Sleep's been... you know, not great. But it's not that bad, really.
+
+interviewer: Tell me a little about yourself. For example are you working these days?
+
+patient: I… I’m not working right now. Left the warehouse job last year. The stress just got too much. It’s not that bad, really, just… quiet now. I spend a lot of time in the garage, organizing tools. Keeps my mind busy, I guess. My wife says I should look for something else, but applying for jobs feels like climbing a hill sometimes. I wake up early, you know, can’t go back to sleep. Just sit at the kitchen table… think about nothing, really. My daughter’s been asking me to help with her car, but I tell her I’m fine. Doesn’t want to burden anyone.
+
+interviewer: Tell me about the warehouse job, Cory. What happened last year?
+
+patient: It was... hectic, you know? The warehouse, I mean. Constant deadlines, inventory counts, people depending on you. I guess I just... I couldn’t keep up. Maybe I wasn’t as sharp as I used to be. One day, I just... left. Told myself it was for the best. But my wife... she doesn’t get it. Says I should try something else. But what if I mess that up too? I... I like organizing the garage now. It’s quiet. No one’s waiting on me there.
+
+interviewer: That sounds very unfortunate Cory. How is the family managing the changes in your life?
+
+patient: They... they're managing, I guess. My wife, she's been trying to keep things going. Helps with the bills, grocery runs... but she pushes too much, you know? Like, asking me to help with chores or talk about how I'm feeling. I just... I don't want to drag them down. The kids? They're kids. My daughter's sixteen now, always got her friends over. I tell myself I should say something about the noise, but then I just... snap. Later I feel awful, but what's the point? My grandkids visit sometimes. They laugh a lot. I guess that's... something. But I stay in the garage most days. Let them think I'm okay.
+
+interviewer: Tell me about the grandkids. How many do you have?
+
+patient: Two. My daughter’s kids. They’re... they’re good, I guess. My wife takes them to see me sometimes. I don’t know, I feel like I don’t really know how to be a grandpa or something. They laugh a lot, though. It’s... it’s nice, I think. But I don’t want to get too used to it, you know? Just in case.
+
+interviewer: Cory are you currently taking any medications not just for mental health but general health these days?
+
+patient: No, not really. I don’t... I don’t take anything. Maybe some herbal tea stuff a friend gave me, but it doesn’t do much. My wife says I should get checked for blood pressure or something, but I’m fine. Honestly, it’s not that bad.
+
+interviewer: Have you talked to your family doctor or others like psychologists or therapists about mental health concerns?
+
+patient: No, not really. My wife keeps bringing it up, but... I don’t know. I’ve tried some things on my own, like the herbal teas. It’s not that bad, really.
+
+interviewer: Let's talk about that. What is your mood like?
+
+patient: It’s... it’s been tough. I don’t know. Just... down a lot. Can’t really explain it. I guess I’m just tired all the time. Even when I get some sleep, it doesn’t help. My wife says I should get checked out, but... I’ve tried these teas, right? They don’t do much. It’s not that bad, really. Just... irritates me more these days, I guess. Small things. Like, if the kids are too loud or something. I don’t mean to snap, but... it just comes out.
+
+interviewer: How often does this happen - you snapping? And what do you do when you snap?
+
+patient: It happens... a lot, I guess. When the kids are loud or my wife asks too many questions. I just snap. Then I feel like a jerk, but I don’t know how to stop it. I mean, I tell myself to calm down, but it’s like my brain won’t listen. Sometimes I just walk away to the garage, say I need to fix something. It’s easier than... than explaining. My wife doesn’t understand. She thinks I’m just tired. But it’s more than that. I’m a mess, I guess.
+
+interviewer: What do you feel when you snap?
+
+patient: It’s... frustrating. I feel empty, like I’m just this... hollow thing. Then I get mad at myself for snapping, you know? Like I’m letting everyone down again. It’s not their fault, but I can’t help it. I just—I guess I’m on edge all the time.
+
+interviewer: Do you feel angry?
+
+patient: Angry? I don’t know... I guess I’m just... frustrated. There’s this knot in my chest all the time. The kids don’t understand why I’m short with them, and my wife keeps asking when I’ll ‘get my act together.’ It’s not anger, it’s just... everything feels like a grind. I can’t even enjoy the garage anymore, if that makes sense.
+
+interviewer: Sounds difficult Cory. When did all this happen? Was it just since the job loss last year?
+
+patient: I guess it started when I left the warehouse... but it's been building for a while. The stress there was constant, you know? Maybe I should've handled it better. Things just... haven't been the same since. It's not just the job, I suppose.
+
+interviewer: What month was it that you left the warehouse Cory?
+
+patient: October... I think. It was stressful there, you know? The pressure just... never let up. Hard to pin down the exact day, but it was late fall. I remember because my wife was trying to get me to slow down before that, but I couldn’t see another way.
+
+interviewer: Was that October 2024 or 2025?
+
+patient: 2024... I think. It feels like longer ago. The stress there was constant, you know? Like I couldn’t catch a break. But maybe it was 2025? I don’t know. Time blurs when you’re stuck in it, I guess.
+
+interviewer: I see. Before mood change, what hobbies were you engaged in?
+
+patient: I... I don’t know. Just stuff. Fixing things around the house, maybe. Organizing the garage, you know? It’s... it’s not really a hobby, just... keeps my mind busy. Used to watch some sports on TV, but... not much else. I guess I wasn’t really into much, to be honest.
+
+interviewer: How about friendships? Has your socialization with others changed?
+
+patient: I... I don’t know. I guess I don’t see people much. Just... been busy with the garage, you know? Fixing things, organizing. Friends? Maybe. Not really sure. I don’t think they’d want to hear about all that anyway.
+
+interviewer: Who did you use to spend time with you're not currently any more?
+
+patient: I... I don’t know. Maybe some guys from work? But that’s all gone now. Just... been keeping to myself more. Don’t really miss it, to be honest.
+
+interviewer: What's the name of your best friend
+
+patient: I... I don’t know. Maybe Joe? From the warehouse. But it’s been a while. Don’t really keep in touch.
+
+interviewer: Tell me about Joe, what was he like?
+
+patient: Joe... he was a good guy. We’d grab lunch sometimes. But it’s been a while. Don’t really... don’t really talk anymore.
+
+interviewer: What did you use to share in common?
+
+patient: We both liked... working on cars. He used to stop by the garage sometimes. But I haven’t had the energy for that in a while.
+
+interviewer: Do you remember what kind of car Joe drives?
+
+patient: It was a... an old Ford pickup. Blue, maybe? I haven’t thought about it much lately. Doesn’t really matter now, I guess. Can’t even keep up with my own car these days.
+
+interviewer: How many children do you have?
+
+patient: Two. They live with their mom now. I... I guess that’s just how it is.
+
+interviewer: what are your kid's names?
+
+patient: Their names are... Alex and Jamie. I, uh... I guess I don't see them enough. Doesn't really matter what their names are if I'm not around for them.
+
+interviewer: What gender are your kids?
+
+patient: One boy, one girl. Doesn’t really matter... I mean, I don’t see them enough to know much else, I guess.
+
+interviewer: how about the grandkids? what are their names and ages.
+
+patient: Lia’s six, and Ethan’s four. My ex handles most of the day-to-day with them... I guess I just don’t have the energy to get involved anyway. They probably don’t even remember me half the time.
+
+interviewer: What is your ex's name? And are you currently married?
+
+patient: Sarah. Yeah, I’m still married. She’s the one who handles the kids... I just... I don’t know. I guess I’m not much help these days.
+
+interviewer: What is your wife's name?
+
+patient: Sarah. Yeah, we're still married. I guess I'm not much help these days.
+
+interviewer: But isn't she your ex?
+
+patient: No, she’s not my ex. I married her 20 years ago. Sarah… we’re still together, I guess. Just… not really. I’ve been in the garage a lot lately, trying to stay busy.
+
+interviewer: What is your daughter's name?
+
+patient: Emily. She's... she's with Sarah most of the time. I guess I don't see her much anymore.
+

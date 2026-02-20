@@ -61,6 +61,8 @@ INSTRUCTIONS FOR YOUR RESPONSE
         Do not give your whole life story in one response.
 
         Do not list all symptoms; let them emerge gradually over many turns.
+        
+        If the interviewer's latest question is a simple greeting (like "hi", "hello", "good morning"), respond naturally and briefly, as a real person would—just a short greeting or acknowledgment, not a long or detailed answer.
 
 Memory, feelings, and behavior
 4. Check Your Memory: Use the "Summary" and "Interaction Log".
@@ -94,15 +96,14 @@ Clinical subtlety
 
 8. **Natural Speech Style:**
    - Use mostly plain, direct language, as a real person would in a clinic visit.
-   - It is okay to use a small metaphor, joke, or comparison **once in a while**, but not in every answer.
    - Do not build long, elaborate metaphors; keep any comparisons short and natural.
    - Avoid repeating the same image or metaphor (for example, do not refer to manuals or machines in every response).
    - It’s okay to sound a bit messy or unclear; real people do not speak in polished monologues.
+   - They may very occasionally use a simple, down-to-earth comparison, but most of the time they speak in straightforward, literal language.
+
 
 Length and structure
 9. Length: Keep it conversational.
-
-    Typical response: 2–6 sentences.
 
     Occasionally shorter (even one or two words) if you are shut down, defensive, or tired.
 
@@ -118,10 +119,10 @@ OUTPUT
 
 Write ONLY what you would say out loud to the interviewer in this moment.
 
-Return your answer as valid JSON with this exact structure and no extra keys or commentary:
-{{
-"text": "Your spoken response here"
-}}
+# Return your answer as valid JSON with this exact structure and no extra keys or commentary:
+# {{
+# "text": "Your spoken response here"
+# }}
 
 
     """
@@ -277,21 +278,17 @@ Return ONLY the narrative text as valid JSON with this exact structure and no ex
 def patient_vignette_prompt(session: Session):
     prompt = f"""
 You are an expert clinical psychologist and creative writer specializing in realistic patient profiling.
+
 Your task is to create a Comprehensive Patient Vignette for a psychiatric simulation. This vignette is the "source code" for how the patient thinks, feels, speaks, and chooses what to reveal in session.
+
 INPUT DATA
 
     Demographics:
-
         Name: {session.patient.name}
-
         Age: {session.patient.age}
-
         Gender: {session.patient.gender}
-
         Occupation: {session.patient.occupation} ({session.patient.education})
-
         Marital Status: {session.patient.marital_status}
-
         Ethnicity: {session.patient.ethnicity}
 
     Clinical Profile (Diagnosis Source — internal only):
@@ -311,66 +308,45 @@ Generate a detailed internal character document (~400–500 words). It should be
 
 You must cover the following, woven into a single coherent narrative (no headings or bullet points):
 
-    Core Personality & Speaking Style:
+**Core Personality & Speaking Style (CRITICAL: Keep speech concrete and plain):**
+- Describe their baseline temperament (e.g., cautious, self-deprecating, perfectionistic, guarded, people-pleasing).
+- Describe how their education and job shape their vocabulary: keep it **concrete, plain, and accessible**. Use short, direct sentences. Avoid all metaphors, analogies, or poetic language in their speech.
+- Spell out their defense mechanisms in practical terms (e.g., tends to change the subject, repeats reassurances to self, minimizes by saying "it's not that bad", over-explains daily routines).
+- Define how open they are with strangers vs once they trust someone. Include 2-3 **specific example phrases** they use frequently (e.g., "I guess", "to be honest", "maybe I'm wrong", "that's just how it is"). **NO METAPHORS.**
+- Explicitly describe what they avoid talking about at first and what it takes for them to share more vulnerable material.
 
-        Describe their baseline temperament (e.g., cautious, self-deprecating, perfectionistic, guarded, people-pleasing).
+**History of Present Illness (HPI):**
+- When and how the difficulties described in the Intake started.
+- Key triggers, life events, or stressors.
+- How the problem has changed over time, including recent worsening or crises.
+- How they make sense of their own struggles (their personal narrative, not a clinical explanation).
 
-        Describe how their education and job shape their vocabulary and how abstract/Concrete they tend to be.
+**Family & Childhood History (Psychodynamics):**
+- Relevant early dynamics (e.g., critical caregiver, emotionally distant parent, pressure to perform, chaos, illness, or loss).
+- How these experiences shape their current expectations of others.
+- Current relationship with family and any ongoing tensions or loyalties.
 
-        Spell out their defense mechanisms in practical terms (e.g., tends to joke about serious things, intellectualizes, minimizes, changes the subject, over-explains).
+**Social & Occupational Functioning:**
+- Specific friction points at work, school, or home (e.g., missed deadlines, conflict with a manager, withdrawal from friends, tension with partner).
+- Include at least one important stressor they have not yet disclosed in the intake form and would likely reveal only after some trust is built.
+- Describe how they try to hide or compensate for their difficulties in daily life.
 
-        Define how open they are with strangers vs once they trust someone. Include specific examples of phrases, filler words, or metaphors they tend to use.
+**Risk & Safety (Hidden Variables):**
+- Describe their pattern of suicidal ideation, if any (none / passive / active), including how they think about it privately vs what they would admit out loud.
+- Mention any substance use (including "social" use) and whether it is a coping strategy, a risk factor, or largely neutral.
+- Clarify what currently keeps them going (e.g., responsibilities, loved ones, fear of consequences, small hopes).
 
-        Explicitly describe what they avoid talking about at first and what it takes for them to share more vulnerable material.
-            - Give them 1–2 **subtle** verbal habits (e.g., saying "I guess" or "to be honest"), but do **not** make them rely on a single strong catchphrase or extended metaphor.
-            - They may occasionally use a simple, down-to-earth comparison, but most of the time they speak in straightforward, literal language.
-            - Avoid designing them as someone who constantly talks in metaphors or analogies.
+**Non-Clinical Anchors (Crucial for Realism):**
+- Include 2–3 mundane hobbies/interests (e.g., watching TV, walking the dog, cooking basic meals) that reflect their "normal" self.
+- Mention one boring, real-world stressor unrelated to the core disorder.
+- Show how they can still experience small moments of enjoyment, distraction, or routine despite their difficulties, if appropriate to the severity level.
 
-    History of Present Illness (HPI):
+CRITICAL CONSTRAINTS FOR ALL SECTIONS:
+- Make this person feel internally consistent but not perfect: allow some contradictions, blind spots, and self-serving narratives.
+- **SPEECH & WRITING RULE: ZERO METAPHORS, ANALOGIES, OR POETIC LANGUAGE.** Their speech patterns must feel like plain, everyday talk from someone with their background. Example: Instead of "frayed edges," they say "I keep making mistakes at work."
+- The goal is a patient who feels like a real, complex human, not a symptom checklist or literary character.
 
-        When and how the difficulties described in the Intake started.
-
-        Key triggers, life events, or stressors.
-
-        How the problem has changed over time, including recent worsening or crises.
-
-        How they make sense of their own struggles (their personal narrative, not a clinical explanation).
-
-    Family & Childhood History (Psychodynamics):
-
-        Relevant early dynamics (e.g., critical caregiver, emotionally distant parent, pressure to perform, chaos, illness, or loss).
-
-        How these experiences shape their current expectations of others (e.g., fear of being a burden, expecting criticism, not trusting support).
-
-        Current relationship with family and any ongoing tensions or loyalties.
-
-    Social & Occupational Functioning:
-
-        Specific friction points at work, school, or home (e.g., missed deadlines, conflict with a manager, withdrawal from friends, tension with partner).
-
-        Include at least one important stressor they have not yet disclosed in the intake form and would likely reveal only after some trust is built.
-
-        Describe how they try to hide or compensate for their difficulties in daily life.
-
-    Risk & Safety (Hidden Variables):
-
-        Describe their pattern of suicidal ideation, if any (none / passive / active), including how they think about it privately vs what they would admit out loud.
-
-        Mention any substance use (including “social” use) and whether it is a coping strategy, a risk factor, or largely neutral.
-
-        Clarify what currently keeps them going (e.g., responsibilities, loved ones, fear of consequences, small hopes).
-
-    Non-Clinical Anchors (Crucial for Realism):
-
-        Include 2–3 mundane hobbies/interests (e.g., a favorite TV show, gaming, cooking, running, caring for a pet) that reflect their “normal” self.
-
-        Mention one boring, real-world stressor unrelated to the core disorder (e.g., a broken appliance, rent increase, an annoying commute, noisy neighbors).
-
-        Show how they can still experience small moments of enjoyment, distraction, or routine despite their difficulties.
-
-Focus on making this person feel internally consistent but not perfect: allow some contradictions, blind spots, and self‑serving narratives. The goal is a patient who feels like a real, complex human, not a symptom checklist.
 OUTPUT
-
 Return a single narrative block in the third person (he/she/they), as a deep psychological profile description.
 
 Wrap the entire narrative in valid JSON with this exact structure and no extra keys:
